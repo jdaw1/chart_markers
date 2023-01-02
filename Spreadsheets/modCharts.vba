@@ -389,23 +389,3 @@ Sub Chart_SeriesFormatStandardised( _
 		End If  ' Len(ErrorTooFewSeries) = 0
 	End If  ' outputLog
 End Sub  ' Chart_SeriesFormatStandardised
-
-
-Sub quickTest()
-	Dim ch As Chart, sr As Series
-	Set ch = ThisWorkbook.Sheets("Test").ChartObjects("Chart_Test").Chart
-	Set sr = ch.SeriesCollection(3)
-	' sr.Fill.UserPicture PictureFile:="/Users/JDAW/Documents/programming/SVG/CurrencySymbols/ChartMarkers/DE.svg"
-	' sr.Fill.UserPicture PictureFile:="/Users/JDAW/Documents/programming/SVG/CurrencySymbols/_BCIE.png"
-	MsgBox "OK"
-End Sub  ' quickTest()
-
-
-Sub Macro2()
-	With Selection.Format.Fill
-		.Visible = msoTrue
-		.UserPicture _
-		"/Users/JDAW/Documents/programming/SVG/CurrencySymbols/ChartMarkers/CLP.svg"
-		.TextureTile = msoFalse
-	End With
-End Sub
