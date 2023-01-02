@@ -1,9 +1,5 @@
 # <a name="top"></a>Files #
 
-<style>
-	.markerID {font-family: Consolas, monospace;}
-</style>
-
 Documentation links: 
 &#9654;&#xFE0E;&nbsp;[Gallery](ChartMarkers_Gallery.md)
 &#9654;&#xFE0E;&nbsp;[Description](ChartMarkers_Description.md)

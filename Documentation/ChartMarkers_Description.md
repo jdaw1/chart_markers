@@ -1,15 +1,5 @@
 # <a name="top">Currency and Issuer Chart Markers</a> #
 
-<style>
-	body, p, h1, h2, h3, h1 a, h2 a, h3 a {color: black;}
-	table {float: right;  border-collapse: collapse;  color: #000000;  border: 1px solid #CCCCCC;  margin-left: 0.25em;}
-	table th {background-color: #EEEEEE;  color: #333333;}
-	table td:first-child {background-color: #EEEEEE;  font-weight: 700;  font-family: Consolas, monospace;}
-	table td:nth-child(n+2) {background-color: #FFFFFF;}
-	.markerID {font-family: Consolas, monospace;}
-</style>
-
-
 Documentation links: 
 &#9654;&#xFE0E;&nbsp;[Gallery](ChartMarkers_Gallery.md)
 &#9655;&#xFE0E;&nbsp;Description

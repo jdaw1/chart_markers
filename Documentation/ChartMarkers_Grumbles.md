@@ -1,9 +1,5 @@
 # <a name="top">Currency and Issuer Chart Markers</a> #
 
-<style>
-	body, p, h1, h2, h3, h1 a, h2 a, h3 a {color: black;}
-</style>
-
 Documentation links: 
 &#9654;&#xFE0E;&nbsp;[Gallery](ChartMarkers_Gallery.md)
 &#9654;&#xFE0E;&nbsp;[Description](ChartMarkers_Description.md)
