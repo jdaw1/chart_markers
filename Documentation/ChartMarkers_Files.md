@@ -30,16 +30,16 @@ Many files are available.
 ## <a name="The_SVGs"></a>The SVGs ##
 
 The SVGs are available individually, in  
-* [github.com/jdaw1/ChartMarkers/main/ChartMarkers/](github.com/jdaw1/ChartMarkers/main/ChartMarkers/)  
+* [github.com/jdaw1/ChartMarkers/main/ChartMarkers/](http://github.com/jdaw1/ChartMarkers/main/ChartMarkers/)  
 
 Alas GitHub&rsquo;s web interface doesn&rsquo;t allow downloading a single directory, so they are also in  
-* [github.com/jdaw1/ChartMarkers/main/CompressedDownloads/SVG_ChartMarkers.zip](github.com/jdaw1/ChartMarkers/main/CompressedDownloads/SVG_ChartMarkers.zip)
+* [github.com/jdaw1/ChartMarkers/main/CompressedDownloads/SVG_ChartMarkers.zip](http://github.com/jdaw1/ChartMarkers/main/CompressedDownloads/SVG_ChartMarkers.zip)
 
 Excel needs slightly different SVGs, because otherwise it mangles the sizes. These are in  
-* [github.com/jdaw1/ChartMarkers/main/ChartMarkers_Excel/](github.com/jdaw1/ChartMarkers/main/ChartMarkers_Excel/)  
+* [github.com/jdaw1/ChartMarkers/main/ChartMarkers_Excel/](http://github.com/jdaw1/ChartMarkers/main/ChartMarkers_Excel/)  
 
 and also in  
-* [github.com/jdaw1/ChartMarkers/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip](github.com/jdaw1/ChartMarkers/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip)
+* [github.com/jdaw1/ChartMarkers/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip](http://github.com/jdaw1/ChartMarkers/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip)
 
 
 
@@ -51,7 +51,7 @@ So please use the SVGs instead of PNGs.
 Please don&rsquo;t use PNGs.
 
 Oh hell, you&rsquo;re going to insist. 
-There are [PNGs](github.com/jdaw1/ChartMarkers/main/PNGs) at 1&times;, 2&times;, 4&times;, 8&times;, and 16&times; the natural 72d.p.i. resolution, and a single [.zip]((github.com/jdaw1/ChartMarkers/main/CompressedDownloads/PNGs.zip) containing them all. 
+There are [PNGs](http://github.com/jdaw1/ChartMarkers/main/PNGs) at 1&times;, 2&times;, 4&times;, 8&times;, and 16&times; the natural 72d.p.i. resolution, and a single [.zip](http://github.com/jdaw1/ChartMarkers/main/CompressedDownloads/PNGs.zip) containing them all. 
 (Made with GraphicConverter build 5711, using the SVG&nbsp;SDK library because the WebKit library fails to process `<defs>...</defs><use ...'/>`.)
 
 Please don&rsquo;t use the PNGs.
@@ -61,18 +61,18 @@ Please don&rsquo;t use the PNGs.
 ## <a name="excel"></a>Excel ##
 
 It might be that you want to use these efficiently in Excel, so a template file has been made:  
-* [github.com/jdaw1/ChartMarkers/main/Spreadsheets/ChartMarkers.xls**m**](github.com/jdaw1/ChartMarkers/main/Spreadsheets/ChartMarkers.xlsm)
+* [github.com/jdaw1/ChartMarkers/main/Spreadsheets/ChartMarkers.xls**m**](http://github.com/jdaw1/ChartMarkers/main/Spreadsheets/ChartMarkers.xlsm)
 
 That is an xls**m**, containing macros, and it might be that your (employer&rsquo;s) security policy prohibits downloading macro-laden Excel files. 
 (Such prohibition is actually a good thing, so this is not an objection.) 
 Hence also available without the macros, as an xls**x**,  
-* [github.com/jdaw1/ChartMarkers/main/Spreadsheets/ChartMarkers.xls**x**](github.com/jdaw1/ChartMarkers/main/Spreadsheets/ChartMarkers.xlsx)
+* [github.com/jdaw1/ChartMarkers/main/Spreadsheets/ChartMarkers.xls**x**](http://github.com/jdaw1/ChartMarkers/main/Spreadsheets/ChartMarkers.xlsx)
 
 The VBA to be added to the xlsx is available from  
-* [github.com/jdaw1/ChartMarkers/main/Spreadsheets/modCharts.vba](github.com/jdaw1/ChartMarkers/main/Spreadsheets/modCharts.vba)
+* [github.com/jdaw1/ChartMarkers/main/Spreadsheets/modCharts.vba](http://github.com/jdaw1/ChartMarkers/main/Spreadsheets/modCharts.vba)
 
 and while we&rsquo;re here, also useful in any organised spreadsheet can be  
-* [github.com/jdaw1/ChartMarkers/main/Spreadsheets/modRangeNames.vba](github.com/jdaw1/ChartMarkers/main/Spreadsheets/modRangeNames.vba)
+* [github.com/jdaw1/ChartMarkers/main/Spreadsheets/modRangeNames.vba](http://github.com/jdaw1/ChartMarkers/main/Spreadsheets/modRangeNames.vba)
 
 Obviously, you should read the VBA before pasting it into modules. 
 Obviously, you should not assume that others have done so.

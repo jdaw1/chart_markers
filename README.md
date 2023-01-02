@@ -10,9 +10,9 @@ If you and you alone use it, then you would be consistent for your readers: a go
 If others also use it, it would be even easier for your readers: even better. 
 And it&rsquo;s free, released under the very permissive [Boost Software Licence, Version&nbsp;1.0](http://opensource.org/licenses/bsl1.0.html).
 
-Start by marvelling at 
+Start by marvelling at the 
 [gallery](Documentation/ChartMarkers_Gallery.md), then read the 
 [description](Documentation/ChartMarkers_Description.md). There is technical comment about the SVG 
 [code](Documentation/ChartMarkers_Code.md). Unhappy: before gumbling, read about good and bad 
 [grumbles](Documentation/ChartMarkers_Grumbles.md). And finally, an explanation of the 
-[Files](Documentation/ChartMarkers_Files.md).
+[files](Documentation/ChartMarkers_Files.md).
