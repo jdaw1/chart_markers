@@ -29,8 +29,6 @@ When that work is complete, these draft-period notices will be removed, and subs
 
 ## <a name="concision"></a>Concision ##
 
-<div style="float: right;">
-
 | &nbsp;ID&nbsp; | Marker | &nbsp;Bytes |
 |:--:|:-:|-----:|
 | JPY | ![JPY](../ChartMarkers/JPY.svg) | 156 |
@@ -44,8 +42,6 @@ When that work is complete, these draft-period notices will be removed, and subs
 | IQD | ![IQD](../ChartMarkers/IQD.svg) | 596 |
 | GEL | ![GEL](../ChartMarkers/GEL.svg) | 610 |
 | \_IBRD | ![\_IBRD](../ChartMarkers/\_IBRD.svg) | 617 |
-
-</div>
 
 In coding these markers, priority has been given to compactness and execution efficiency, often at the expense of legiblity of the SVG code to humans. 
 
