@@ -1,0 +1,1 @@
+<svg width='15' height='15' viewBox='-1.5 -1.5 3 3' id='KZT' xmlns='http://www.w3.org/2000/svg'><circle fill='#00AEC7' r='1'/><path id='a' fill='#F6E500' d='M.70711 .70711L.50683 .22361A.21677 .21677 0 1 0 .22361 .50683Z'/><use href='#a' transform='scale(-1,1)'/><use href='#a' transform='scale(1,-1)'/><use href='#a' transform='scale(-1,-1)'/></svg>

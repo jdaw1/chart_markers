@@ -1,0 +1,15 @@
+<svg width='167.08423' height='164' viewBox='-9.9517 -9.768 19.9034 19.536'  id='%thisID%' xmlns='http://www.w3.org/2000/svg'>
+<rect fill='#CC9933' x='-9.9517' width='19.9034' y='-9.768' height='0.6067'/> <rect fill='#CC9933' y='-9.768' height='19.536' x='8.6281' width='1.3236'/> 
+<path fill='none' stroke='#0000FF' stroke-width='0.44' d='M-9.9517 9.768H9.9517M-9.9517 -9.768V9.768'/>
+<defs><path id='s' d='M7.4741 -6.6436 L.818 -3.731 L-4.0089 -9.1613 l.7133 7.2304 L-9.9517 .9817 l7.0969 1.5559 l.7132 7.2304 L1.5312 3.4993 l7.0969 1.556 L3.8012 -.375Z'/></defs>
+<use href='#s' fill='#01411C'/>
+<use href='#s' fill='white' transform='scale(0.7)'/>
+<circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='10'/>
+<circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='7'/>
+<circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='3.8197'/>
+<circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='2.6738'/>
+<path opacity='60%' stroke='#00FF00' stroke-width='0.22' d='M 7.4741 -6.6436 L -2.8548 2.5376 M 0.818 -3.731 L -2.1416 9.768 M -4.0089 -9.1613 L 1.5312 3.4993 M -3.2956 -1.9309 L 8.6281 5.0553 M -9.9517 0.9817 L 3.8012 -0.375'/>
+<path fill='none' stroke='#0000FF' stroke-width='0.22' d='M 9.9517 9.768 L -9.9517 -9.768 M 9.9517 -9.768 L -9.9517 9.768'/>
+<circle fill='white' r='0.11'/>
+<text x='0' y='8.38' fill='black' dominant-baseline='middle' font-family='Consolas, monospace' font-size='1.6576' font-weight='800'>PKR</text>
+</svg>

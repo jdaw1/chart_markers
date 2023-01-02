@@ -1,0 +1,5 @@
+<svg width='.57em' height='.988em' viewBox='0 0 60 104' id='ArrowNone' xmlns='http://www.w3.org/2000/svg'>
+<defs><path id='a' stroke-linecap='round' d='M3 3L57 101M57 3L3 101'></path></defs>
+<use href='#a' stroke='#CCCCCC' stroke-width='6'/>
+<use href='#a' stroke='#EEEEEE' stroke-width='2'/>
+</svg>
