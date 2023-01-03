@@ -103,7 +103,7 @@ But please don&rsquo;t, as there is a public good in consistency.
 ## <a name="corporate_grumbles"></a>Corporate grumbles ##
 
 Some of the markers are of entities that, though not sovereigns, have debt that in financial markets is often compared to that of sovereigns. 
-These entities are are generally companies, with corporate logos. 
+These entities are generally companies, with corporate logos. 
 In theory, perhaps, a silly employee could email a grumble along the lines of &ldquo;*Your marker does not precisely follow the design of our corporate logo, and we will sue if you don&rsquo;t&nbsp;&hellip;*&rsquo;. 
 Save yourself effort: there would be no need write any additional words, as those would be enough to cause the delete button to be pressed. 
 There is enough silliness in the world: please don&rsquo;t add to it. 
