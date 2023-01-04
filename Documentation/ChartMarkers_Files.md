@@ -60,7 +60,18 @@ Please don&rsquo;t use the PNGs.
 
 ## <a name="excel"></a>Excel ##
 
-It might be that you want to use these efficiently in Excel, so a template file has been made:  
+### Excel: easy series ###
+
+In Excel, use of these is easier if series refer to a constant issuer. That is, if the name of the series is a constant string such as `"DE"`, rather than a possibly changing `Tab01!A1` or `Plottables!SeriesName.01`. 
+
+If constant, to to the [gallery](ChartMarkers_Gallery.md), right click on the (actual size) chosen marker, Copy Image, select the Excel series, and paste. 
+For the lines the series needs to be twice: once for the outer colour with weight =&nbsp;3pt, and once for the inner colour with weight =&nbsp;1pt. 
+For the colours copy-paste the hexadecimal, again from the [gallery](ChartMarkers_Gallery.md).
+
+### Excel: series with inconstant name ###
+
+Things are more complicated if the series name, the desired formatting, is computed in Excel. 
+For this case a template file has been made:  
 * [github.com/jdaw1/chart_markers/tree/main/Spreadsheets/ChartMarkers.xls**m**](http://github.com/jdaw1/chart_markers/tree/main/Spreadsheets/ChartMarkers.xlsm)
 
 That is an xls**m**, containing macros, and it might be that your (employer&rsquo;s) security policy prohibits downloading macro-laden Excel files. 

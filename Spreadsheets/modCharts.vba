@@ -14,25 +14,29 @@ Function Axis_Scale( _
 	xAxis As Boolean, primaryAxis As Boolean, _
 	minScale As Double, maxScale As Double, majorStep As Double, minorStep As Double _
 ) As Double
-	With ThisWorkbook.Sheets(tabName).ChartObjects(chartName).Chart
-		With IIf(xAxis, _
-			.Axes(xlCategory, IIf(primaryAxis, xlPrimary, xlSecondary)), _
-			.Axes(xlValue, IIf(primaryAxis, xlPrimary, xlSecondary)) _
-		)
-			.MinimumScaleIsAuto = True
-			.MaximumScaleIsAuto = True  ' In case of awkwardnesses such as New Min > Old Max
-			.MajorUnitIsAuto = True
-			.MinorUnitIsAuto = True  ' In case of awkwardnesses such as New Major < Old Minor
-			If minScale < maxScale Then
-				.MinimumScaleIsAuto = False: .MinimumScale = minScale
-				.MaximumScaleIsAuto = False: .MaximumScale = maxScale
-			End If  ' minScale < maxScale
-			If minorStep <= majorStep Then
-				If majorStep > 0 Then .MajorUnitIsAuto = False: .MajorUnit = majorStep
-				If minorStep > 0 Then .MinorUnitIsAuto = False: .MinorUnit = minorStep
-			End If  ' minorStep <= majorStep
-		End With  ' Axis
-	End With  ' .Chart
+	Dim ch as Chart
+	If Len(tabName) > 0 Then
+		Set ch = ThisWorkbook.Sheets(tabName).ChartObjects(chartName).Chart
+	Else
+		Set ch = ThisWorkbook.Charts(chartName)
+	End If  ' Len(tabName) > 0
+	With IIf(xAxis, _
+		ch.Axes(xlCategory, IIf(primaryAxis, xlPrimary, xlSecondary)), _
+		ch.Axes(xlValue, IIf(primaryAxis, xlPrimary, xlSecondary)) _
+	)
+		.MinimumScaleIsAuto = True
+		.MaximumScaleIsAuto = True  ' In case of awkwardnesses such as New Min > Old Max
+		.MajorUnitIsAuto = True
+		.MinorUnitIsAuto = True  ' In case of awkwardnesses such as New Major < Old Minor
+		If minScale < maxScale Then
+			.MinimumScaleIsAuto = False: .MinimumScale = minScale
+			.MaximumScaleIsAuto = False: .MaximumScale = maxScale
+		End If  ' minScale < maxScale
+		If minorStep <= majorStep Then
+			If majorStep > 0 Then .MajorUnitIsAuto = False: .MajorUnit = majorStep
+			If minorStep > 0 Then .MinorUnitIsAuto = False: .MinorUnit = minorStep
+		End If  ' minorStep <= majorStep
+	End With  ' Axis
 
 	Axis_Scale = Now
 End Function  ' Axis_Scale
