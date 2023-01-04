@@ -62,11 +62,12 @@ Please don&rsquo;t use the PNGs.
 
 ### Excel: easy series ###
 
-In Excel, use of these is easier if series refer to a constant issuer. That is, if the name of the series is a constant string such as `"DE"`, rather than a possibly changing `Tab01!A1` or `Plottables!SeriesName.01`. 
+In Excel, use of these is easier if series refer to a constant ID. 
+That is, if the name of the series is a constant string such as `"DE"`, rather than a possibly changing `Tab01!A1` or `Plottables!SeriesName.01`.
 
-If constant, to to the [gallery](ChartMarkers_Gallery.md), right click on the (actual size) chosen marker, Copy Image, select the Excel series, and paste. 
-For the lines the series needs to be twice: once for the outer colour with weight =&nbsp;3pt, and once for the inner colour with weight =&nbsp;1pt. 
-For the colours copy-paste the hexadecimal, again from the [gallery](ChartMarkers_Gallery.md).
+If constant, in the [gallery](ChartMarkers_Gallery.md) &gt; right click on the (actual size) chosen marker &gt; Copy Image; in Excel select the chart series &gt; paste. 
+For the lines the series needs to be duplicated: once for the outer colour with weight =&nbsp;3pt, and once for the inner colour with weight =&nbsp;1pt (the latter being a higher-number series than the former, so painted after). 
+For the colours, from the [gallery](ChartMarkers_Gallery.md) copy-paste the hexadecimal into the colour-choice formatting box.
 
 ### Excel: series with inconstant name ###
 
