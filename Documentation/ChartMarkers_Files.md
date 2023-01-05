@@ -35,10 +35,10 @@ The SVGs are available individually, in
 Alas GitHub&rsquo;s web interface doesn&rsquo;t allow downloading a single directory, so they are also in  
 * [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers.zip)
 
-Excel needs slightly different SVGs, because otherwise it mangles the sizes. These are in  
-* [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip)  
+Excel needs slightly different SVGs, because otherwise it mangles the sizes. A deirectory of these is at 
+* [github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel/)  
 
-and also in  
+and an easy-download compressed set in  
 * [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip)
 
 
