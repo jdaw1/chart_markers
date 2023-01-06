@@ -35,7 +35,7 @@ The validator warns about the absence of a character encoding, but an encoding w
 
 ## <a name="concision"></a>Concision ##
 
-<div float="right">
+<div style="float: right;">
 
 | &nbsp;ID&nbsp; | Marker | &nbsp;Bytes |
 |:--:|:-:|-----:|

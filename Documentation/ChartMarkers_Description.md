@@ -212,7 +212,7 @@ It is anticipated that the following will be true, at least mostly.
 
 ## <a name="lines"></a>Lines ##
 
-<div float="right">
+<div style="float: right;">
 
 | &nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Line&nbsp;&nbsp; | Marker |
 |:--------------:|:----------------:|:----------------:|
