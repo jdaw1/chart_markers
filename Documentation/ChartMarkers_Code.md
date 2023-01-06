@@ -27,7 +27,15 @@ When that work is complete, these draft-period notices will be removed, and subs
 
 # The SVG code #
 
+## <a name="validation"></a>Validation ##
+
+All the SVGs pass the [W3C&nbsp;validator](http://validator.w3.org/). 
+The validator warns about the absence of a character encoding, but an encoding would be redundant as the files are pure ASCII, using only characters in the range decimal 10&nbsp;(=&nbsp;line&nbsp;feed) to 121&nbsp;(=&nbsp;&lsquo;y&rsquo;).
+
+
 ## <a name="concision"></a>Concision ##
+
+<div float="right">
 
 | &nbsp;ID&nbsp; | Marker | &nbsp;Bytes |
 |:--:|:-:|-----:|
@@ -43,6 +51,8 @@ When that work is complete, these draft-period notices will be removed, and subs
 | GEL | ![GEL](../ChartMarkers/GEL.svg) | 610 |
 | \_IBRD | ![\_IBRD](../ChartMarkers/\_IBRD.svg) | 617 |
 
+</div>
+
 In coding these markers, priority has been given to compactness and execution efficiency, often at the expense of legiblity of the SVG code to humans. 
 
 So the SVG files are concise, ranging from a minimum of 156 bytes (<span class="markerID">JPY</span>), to a median of 259 bytes, to a maximum of 617 bytes (<span class="markerID">\_IBRD</span>). 
@@ -54,11 +64,6 @@ Alas!, Excel (at least version 16.0 on Windows and 16.43 on macOS) fails to toke
 So the SVGs here have slightly more spaces than the standard requires. 
 This Excel failure will be around for ages: version&nbsp;16.43 is the highest version installable on [macOS&nbsp;10.13](http://en.wikipedia.org/wiki/MacOS_High_Sierra), which is the highest macOS installable on some 2009&ndash;&rsquo;12 Macs. 
 Hence even if Microsoft were to repair this bug today, many users would still not escape it.
-
-
-## <a name="validation"></a>Validation ##
-
-All the SVGs pass the [W3C&nbsp;validator](http://validator.w3.org/).
 
 
 ## <a name="overlap"></a>Overlapping ##

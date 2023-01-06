@@ -186,7 +186,9 @@ Internal links:
 &bull;&#8239;[Americas](#americas); 
 &bull;&#8239;[Euro&nbsp;Zone](#euro_zone); 
 &bull;&#8239;[Development&nbsp;Banks](#development_banks); 
-&bull;&#8239;[Precious&nbsp;Metals](#precious_metals).
+&bull;&#8239;[Precious&nbsp;Metals](#precious_metals). Also grouped 
+&loz;&#8239;[by outer shape](#by_shape); and 
+&loz;&#8239;[by colour](#by_colour).
 
 
 
@@ -194,7 +196,7 @@ Internal links:
 |:--------------:|:--------------------------:|:-------------------------------:|:------------------------------------------------------------------------|:----:|
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;![ArrowNone](ArrowNone.svg)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#asia)&nbsp;[![ArrowSingleU](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="main_developed_currencies">Main Developed Currencies</a></h2> | |
 | USD | ![USD](../ChartMarkers/USD.svg) | <a name="USD">![USD](../ChartMarkers_enlarged/USD_enlarged.svg)</a> | Star from [flag](http://en.wikipedia.org/wiki/Flag_of_the_United_States); thick black edge so that most important currency has maximum contrast. Slightly larger than other markers: it is the most important currency. | ![USD](../ChartLines/USD_line.svg)<br/>000000 |
-| EUR | ![EUR](../ChartMarkers/EUR.svg) | <a name="EUR">![EUR](../ChartMarkers_enlarged/EUR_enlarged.svg)</a> | [Currency symbol](http://en.wikipedia.org/wiki/File:Euro_Construction.svg), symmetrified; the two lines across simplified to one, placed between the original two. Pink not in any of member flags, so is a neutral choice, and is helpfully distinctive. Indeed, for these reasons pink has been my colour for the euro since before it started: the colour is sanctified by antiquity. Derived from this marker are those for the <span class="markerID">[EU](#EU)</span> and the <span class="markerID">[_ECB](#\_ECB)</span>. | ![EUR](../ChartLines/EUR_line.svg)<br/>FF33FF |
+| EUR | ![EUR](../ChartMarkers/EUR.svg) | ![EUR](../ChartMarkers_enlarged/EUR_enlarged.svg) | <p><a name="EUR"></a>[Currency symbol](http://en.wikipedia.org/wiki/File:Euro_Construction.svg) =&nbsp;&euro;, with the circle completed; the two lines across simplified to one, placed between the original two. Pink not in any of member flags, so is a neutral choice, and is helpfully distinctive. Indeed, for these reasons pink has been my colour for the euro since before it started: the colour is sanctified by antiquity.</p><p>Derived from this marker are those for the <span class="markerID">[EU](#EU)</span> and the <span class="markerID">[_ECB](#\_ECB)</span>. The markers for the [euro-zone issuers](#euro_zone) are below.</p> | ![EUR](../ChartLines/EUR_line.svg)<br/>FF33FF |
 | GBP | ![GBP](../ChartMarkers/GBP.svg) | <a name="GBP">![GBP](../ChartMarkers_enlarged/GBP_enlarged.svg)</a> | Only large currency with prominent diagonal cross in [flag](http://www.jdawiseman.com/papers/union-jack/union-jack.html), though the diagonal has been thickened. In [flag](http://en.wikipedia.org/wiki/Union_Jack) red and blue. | ![GBP](../ChartLines/GBP_line.svg)<br/>012169 |
 | JPY | ![JPY](../ChartMarkers/JPY.svg) | <a name="JPY">![JPY](../ChartMarkers_enlarged/JPY_enlarged.svg)</a> | From the [flag of Japan](http://en.wikipedia.org/wiki/Flag_of_Japan#Design). | ![JPY](../ChartLines/JPY_line.svg)<br/>EF3340 |
 | CHF | ![CHF](../ChartMarkers/CHF.svg) | <a name="CHF">![CHF](../ChartMarkers_enlarged/CHF_enlarged.svg)</a> | From the [flag of Switzerland](http://en.wikipedia.org/wiki/Flag_of_Switzerland#Design). | ![CHF](../ChartLines/CHF_line.svg)<br/>FF0000<br/>FFFFFF |
@@ -485,7 +487,7 @@ Other:
 [![IQD](../ChartMarkers/IQD.svg)](#IQD)
 
 
-## <a name="by_colours"></a>Grouped by colours ##
+## <a name="by_colour"></a>Grouped by colour ##
 
 Black: 
 [![USD](../ChartMarkers/USD.svg)](#USD) 

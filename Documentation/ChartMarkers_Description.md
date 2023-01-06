@@ -212,6 +212,8 @@ It is anticipated that the following will be true, at least mostly.
 
 ## <a name="lines"></a>Lines ##
 
+<div float="right">
+
 | &nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Line&nbsp;&nbsp; | Marker |
 |:--------------:|:----------------:|:----------------:|
 | CHF | ![CHF](../ChartLines/CHF_line.svg) | ![CHF](../ChartMarkers/CHF.svg) |
@@ -228,6 +230,7 @@ It is anticipated that the following will be true, at least mostly.
 | MT  | ![MT](../ChartLines/MT_line.svg)   | ![MT](../ChartMarkers/MT.svg)   |
 | PEN | ![PEN](../ChartLines/PEN_line.svg) | ![PEN](../ChartMarkers/PEN.svg) |
 
+</div>
 
 It has not been possible to make line patterns satisfying all the markers&rsquo; constraints. 
 Without the optical space afforded by shape, colour alone is insufficient to make 131 lines that are individually memorable and pairwise distinct (many flags are mostly red, white, and blue). 
