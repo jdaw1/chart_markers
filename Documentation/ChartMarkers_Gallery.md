@@ -192,7 +192,7 @@ Internal links:
 
 
 
-| &nbsp;ID&nbsp; | &nbsp;Actual&nbsp;<br/>size | &nbsp;Enlarged&nbsp;&le;&#8239;8&#8239;&times; | &nbsp;&nbsp;&nbsp;Explanation, &lsquo;story&rsquo;, comment, etc | <a name="gallery_top"></a>[Line](ChartMarkers_Description.md#lines)<br/>Outer<br/>Inner |
+| &nbsp;ID&nbsp; | &nbsp;Actual&nbsp;<br/>size | &nbsp;Enlarged&nbsp;up&nbsp;to&nbsp;8&#8239;&times; | &nbsp;&nbsp;&nbsp;Explanation, &lsquo;story&rsquo;, comment, etc | <a name="gallery_top"></a>[Line](ChartMarkers_Description.md#lines)<br/>Outer<br/>Inner |
 |:--------------:|:--------------------------:|:-------------------------------:|:------------------------------------------------------------------------|:----:|
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;![ArrowNone](ArrowNone.svg)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#asia)&nbsp;[![ArrowSingleU](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="main_developed_currencies">Main Developed Currencies</a></h2> | |
 | USD | ![USD](../ChartMarkers/USD.svg) | <a name="USD">![USD](../ChartMarkers_enlarged/USD_enlarged.svg)</a> | Star from [flag](http://en.wikipedia.org/wiki/Flag_of_the_United_States); thick black edge so that most important currency has maximum contrast. Slightly larger than other markers: it is the most important currency. | ![USD](../ChartLines/USD_line.svg)<br/>000000 |
