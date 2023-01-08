@@ -135,7 +135,9 @@ If rounded to one fewer decimal places, it might cease to be pixel-perfect if bi
 Hence: three decimal places (size&#8239;&#10885;&#8239;14mm&#8239;&asymp;&#8239;0.6&Prime;) might and might not be too few; four would be enough; so, wanting a standard of &lsquo;*too&nbsp;much*&rsquo;, five it is. 
 Some shapes are drawn on a canvas significantly larger than 2 across (e.g. 
 <nobr><span class="markerID">XAG</span> ![XAG](../ChartMarkers/XAG.svg)</nobr> 
-on 442&times;544), for which the number of decimal places has been commensurately lessened.
+on 442&times;544, 
+<nobr><span class="markerID">IE</span> ![IE](../ChartMarkers/IE.svg)</nobr> 
+on 218&times;218), for which the number of decimal places has been commensurately lessened.
 
 For those markers with many values &in;&#8239;&Qopf;&smallsetminus;&Zopf;, the `viewBox` has been enlarged by a factor of the [LCM](http://en.wikipedia.org/wiki/Least_common_multiple) of the denominators, making those values integer &DoubleLongRightArrow; fewer bytes yet more precision.
 
