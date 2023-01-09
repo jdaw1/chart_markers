@@ -92,7 +92,7 @@ So the economically smaller country uses the oval from the logo of its central
 But for most symbols there was no need to force a difference.
 
 4. <a name="centre"></a>Markers must have a well-defined centre.
-This is true of shapes with rotational symmetry of order &ge;2, and also of any shape with multiple lines of symmetry. 
+This is true of shapes with rotational symmetry of order &ge;&#8239;2, and also of any shape with multiple lines of symmetry. 
 It is also true of markers that comprise several shapes, each with rotational symmetry, all having the same centre. 
 Contrast with, for example, an &lsquo;L&rsquo; which lacks an obvious centre. 
 Canada&rsquo;s [maple&nbsp;leaf](http://commons.wikimedia.org/wiki/File:Flag_of_Canada_(construction_sheet_-_leaf_geometry).svg) has a definite horizontal centre, but not an unambiguous vertical centre, and hence was vigorously 
@@ -111,7 +111,7 @@ This constraint was relevant for
 
 7. <a name="contiguous"></a>Markers must be contiguous, both topologically and optically, and also not hollow. 
 The optically-contiguous constraint requires that markers not comprise large pieces joined by long thin connectors. 
-Pieces may not be hollow: the interior must be filled, which can mean filled white.
+Pieces may not be hollow: the interior must be filled, for some meaning filled white.
 
 8. <a name="num_colours"></a>Markers might appear many times in close proximity. 
 Many nearby copies of a marker that is a solid block of colour would collectively form a shapeless blob of that colour, indistinguishable from blobs caused by other markers of similar hue. 
