@@ -21,7 +21,7 @@ For [issues](https://github.com/jdaw1/chart_markers/issues/) raised after Friday
 That is, post draft, there will be a reluctance to make changes.
 
 It is intended that [issues](https://github.com/jdaw1/chart_markers/issues/) raised by Friday 31st March 2023 will be processed (rejected, or accepted and implemented) by the end of the Easter weekend, so by Monday 10th April 2023 (intended, not quite promised). 
-When that work is complete, these draft-period notices will be removed, and subsequent changes will be infrequent.
+When that work is complete: these draft-period notices will be removed; pointers from the documentation to closed issues will be removed; and (it is intended) subsequent changes will be infrequent.
 
 </div>
 
@@ -55,7 +55,7 @@ The validator warns about the absence of a character encoding, but an encoding w
 
 In coding these markers, priority has been given to compactness and execution efficiency, often at the expense of legiblity of the SVG code to humans. 
 
-So the SVG files are concise, ranging from a minimum of 156 bytes (<span class="markerID">JPY</span>), to a median of 259 bytes, to a maximum of 617 bytes (<span class="markerID">\_IBRD</span>). 
+So the markers&rsquo; SVG files are concise, ranging from 156 bytes (<span class="markerID">JPY</span>), to a median of 259 bytes, to a maximum of 617 bytes (<span class="markerID">\_IBRD</span>). 
 Of the 131 markers, only five &asymp;&#8239;4% exceed 500 bytes: these are included in the nearby table.
 
 From the [SVG standard](http://svgwg.org/svg2-draft/single-page.html): &ldquo;*Superfluous white space &hellip; may be eliminated &hellip; Thus, in the string "M&nbsp;100&#8209;200", the first coordinate for the "moveto" consumes the characters "100" and stops upon encountering the minus sign because the minus sign cannot follow a digit in the production of a "coordinate". The result is that the first coordinate will be "100" and the second coordinate will be "-200".*&rdquo;

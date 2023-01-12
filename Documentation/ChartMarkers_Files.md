@@ -21,7 +21,7 @@ For [issues](https://github.com/jdaw1/chart_markers/issues/) raised after Friday
 That is, post draft, there will be a reluctance to make changes.
 
 It is intended that [issues](https://github.com/jdaw1/chart_markers/issues/) raised by Friday 31st March 2023 will be processed (rejected, or accepted and implemented) by the end of the Easter weekend, so by Monday 10th April 2023 (intended, not quite promised). 
-When that work is complete, these draft-period notices will be removed, and subsequent changes will be infrequent.
+When that work is complete: these draft-period notices will be removed; pointers from the documentation to closed issues will be removed; and (it is intended) subsequent changes will be infrequent.
 
 </div>
 
