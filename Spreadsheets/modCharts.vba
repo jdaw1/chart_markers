@@ -393,3 +393,41 @@ Sub Chart_SeriesFormatStandardised( _
 		End If  ' Len(ErrorTooFewSeries) = 0
 	End If  ' outputLog
 End Sub  ' Chart_SeriesFormatStandardised
+
+
+
+Private Sub DataLabelsOneChart_Reset(ch As Chart)
+	Dim sr As Series
+	Application.StatusBar = "DataLabelsOneChart_Reset of " & ch.Name
+	For Each sr In ch.SeriesCollection
+		 If sr.HasDataLabels Then
+				With sr.DataLabels
+					If .ShowRange = True Then
+						 .AutoText = True
+						 .ShowSeriesName = True
+						 .ShowCategoryName = True
+							.ShowRange = False
+						 .AutoText = True
+
+						 .ShowRange = True
+						 .ShowSeriesName = False
+						 .ShowCategoryName = False
+						 .AutoText = True
+					End If  ' .ShowRange
+				End With  ' sr.DataLabels
+		 End If  ' HasDataLabels
+	Next sr
+	Application.StatusBar = False
+End Sub  ' DataLabelsOneChart_Reset()
+
+Sub DataLabels_Reset()
+	Dim wksht As Worksheet, ch As Chart, co As ChartObject
+	For Each ch In ThisWorkbook.Charts
+		 Call DataLabelsOneChart_Reset(ch)
+	Next ch
+	For Each wksht In ThisWorkbook.Worksheets
+		 For Each co In wksht.ChartObjects
+				Call DataLabelsOneChart_Reset(co.Chart)
+		 Next co
+	Next wksht
+End Sub  ' DataLabels_Reset()
