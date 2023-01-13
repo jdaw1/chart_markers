@@ -338,9 +338,9 @@ Internal links:
 
 
 
-<br/><br/> <a name="grouped_by"></a>The next two sections were originally intended to help find visual similarities. 
-In both sections, the categories are not hard-edged: some of the markers seem eligible for multiple places. 
-But it doesn&rsquo;t matter: this is merely a presentation of the markers, not part of their definition.
+<br/><br/> <a name="grouped_by"></a>The next two sections were originally intended to help find visual similarities; and the line section was added later for a similar purpose. 
+The categories and orderings are not well-defined: some rearrangements would have been equally performant. 
+But it doesn&rsquo;t matter: this is merely a presentation of the data, not part of the definition.
 
 ## <a name="by_shape"></a>Grouped by outer shape ##
 
@@ -636,5 +636,160 @@ Green:
 [![PKR](../ChartMarkers/PKR.svg)](#PKR) 
 [![\_BCIE](../ChartMarkers/\_BCIE.svg)](#\_BCIE) 
 [![\_AfDB](../ChartMarkers/\_AfDB.svg)](#\_AfDB)&nbsp;&nbsp; 
+
+
+## <a name="lines_by_shape"></a>Lines, by section, then by colour ##
+
+Main Developed Currencies: 
+[![USD](../ChartLines/USD_line.svg)](#USD) 
+[![NOK](../ChartLines/NOK_line.svg)](#NOK) 
+[![GBP](../ChartLines/GBP_line.svg)](#GBP) 
+[![EUR](../ChartLines/EUR_line.svg)](#EUR) 
+[![JPY](../ChartLines/JPY_line.svg)](#JPY) 
+[![CHF](../ChartLines/CHF_line.svg)](#CHF) 
+[![CAD](../ChartLines/CAD_line.svg)](#CAD) 
+[![NZD](../ChartLines/NZD_line.svg)](#NZD) 
+[![AUD](../ChartLines/AUD_line.svg)](#AUD) 
+[![SEK](../ChartLines/SEK_line.svg)](#SEK) 
+
+Asia: 
+[![HKD](../ChartLines/HKD_line.svg)](#HKD) 
+[![IDR](../ChartLines/IDR_line.svg)](#IDR) 
+[![CNY](../ChartLines/CNY_line.svg)](#CNY) 
+[![VND](../ChartLines/VND_line.svg)](#VND) 
+[![THB](../ChartLines/THB_line.svg)](#THB) 
+[![BDT](../ChartLines/BDT_line.svg)](#BDT) 
+[![KRW](../ChartLines/KRW_line.svg)](#KRW) 
+[![MNT](../ChartLines/MNT_line.svg)](#MNT) 
+[![LKR](../ChartLines/LKR_line.svg)](#LKR) 
+[![SGD](../ChartLines/SGD_line.svg)](#SGD) 
+[![INR](../ChartLines/INR_line.svg)](#INR) 
+[![TWD](../ChartLines/TWD_line.svg)](#TWD) 
+[![PKR](../ChartLines/PKR_line.svg)](#PKR) 
+[![MYR](../ChartLines/MYR_line.svg)](#MYR) 
+[![PHP](../ChartLines/PHP_line.svg)](#PHP) 
+[![KZT](../ChartLines/KZT_line.svg)](#KZT)
+
+Western and Central Europe, non&#x2011;&euro;: 
+[![DKK](../ChartLines/DKK_line.svg)](#DKK) 
+[![PLN](../ChartLines/PLN_line.svg)](#PLN) 
+[![RON](../ChartLines/RON_line.svg)](#RON) 
+[![ISK](../ChartLines/ISK_line.svg)](#ISK) 
+[![CZK](../ChartLines/CZK_line.svg)](#CZK) 
+[![HUF](../ChartLines/HUF_line.svg)](#HUF) 
+[![BGN](../ChartLines/BGN_line.svg)](#BGN)
+
+Balkans, Caucasus, Eastern Europe: 
+[![GEL](../ChartLines/GEL_line.svg)](#GEL) 
+[![BYN](../ChartLines/BYN_line.svg)](#BYN) 
+[![MKD](../ChartLines/MKD_line.svg)](#MKD) 
+[![RSD](../ChartLines/RSD_line.svg)](#RSD) 
+[![ALL](../ChartLines/ALL_line.svg)](#ALL) 
+[![RUB](../ChartLines/RUB_line.svg)](#RUB) 
+[![UAH](../ChartLines/UAH_line.svg)](#UAH) 
+[![MDL](../ChartLines/MDL_line.svg)](#MDL)
+
+Middle East + North Africa: 
+[![IRR](../ChartLines/IRR_line.svg)](#IRR) 
+[![SAR](../ChartLines/SAR_line.svg)](#SAR) 
+[![ILS](../ChartLines/ILS_line.svg)](#ILS) 
+[![EGP](../ChartLines/EGP_line.svg)](#EGP) 
+[![QAR](../ChartLines/QAR_line.svg)](#QAR) 
+[![KWD](../ChartLines/KWD_line.svg)](#KWD) 
+[![JOD](../ChartLines/JOD_line.svg)](#JOD) 
+[![TRY](../ChartLines/TRY_line.svg)](#TRY) 
+[![TND](../ChartLines/TND_line.svg)](#TND) 
+[![OMR](../ChartLines/OMR_line.svg)](#OMR) 
+[![MAD](../ChartLines/MAD_line.svg)](#MAD) 
+[![AED](../ChartLines/AED_line.svg)](#AED) 
+[![LBP](../ChartLines/LBP_line.svg)](#LBP) 
+[![IQD](../ChartLines/IQD_line.svg)](#IQD) 
+[![YER](../ChartLines/YER_line.svg)](#YER)
+
+Africa: 
+[![ZAR](../ChartLines/ZAR_line.svg)](#ZAR) 
+[![CI](../ChartLines/CI_line.svg)](#CI) 
+[![AOA](../ChartLines/AOA_line.svg)](#AOA) 
+[![UGX](../ChartLines/UGX_line.svg)](#UGX) 
+[![KYS](../ChartLines/KYS_line.svg)](#KYS) 
+[![GA](../ChartLines/GA_line.svg)](#GA) 
+[![SDG](../ChartLines/SDG_line.svg)](#SDG) 
+[![ETB](../ChartLines/ETB_line.svg)](#ETB) 
+[![DZD](../ChartLines/DZD_line.svg)](#DZD) 
+[![SN](../ChartLines/SN_line.svg)](#SN) 
+[![CDF](../ChartLines/CDF_line.svg)](#CDF) 
+[![NGN](../ChartLines/NGN_line.svg)](#NGN) 
+[![GHS](../ChartLines/GHS_line.svg)](#GHS) 
+[![TZS](../ChartLines/TZS_line.svg)](#TZS)
+
+Americas: 
+[![ARS](../ChartLines/ARS_line.svg)](#ARS) 
+[![SV](../ChartLines/SV_line.svg)](#SV) 
+[![BOB](../ChartLines/BOB_line.svg)](#BOB) 
+[![UYU](../ChartLines/UYU_line.svg)](#UYU) 
+[![JMD](../ChartLines/JMD_line.svg)](#JMD) 
+[![BZD](../ChartLines/BZD_line.svg)](#BZD) 
+[![MXN](../ChartLines/MXN_line.svg)](#MXN) 
+[![DOP](../ChartLines/DOP_line.svg)](#DOP) 
+[![PAB](../ChartLines/PAB_line.svg)](#PAB) 
+[![CLP](../ChartLines/CLP_line.svg)](#CLP) 
+[![TTD](../ChartLines/TTD_line.svg)](#TTD) 
+[![COP](../ChartLines/COP_line.svg)](#COP) 
+[![EC](../ChartLines/EC_line.svg)](#EC) 
+[![BRL](../ChartLines/BRL_line.svg)](#BRL) 
+[![VE](../ChartLines/VE_line.svg)](#VE) 
+[![BSD](../ChartLines/BSD_line.svg)](#BSD)
+[![PEN](../ChartLines/PEN_line.svg)](#PEN)
+
+&euro;: 
+[![EU](../ChartLines/EU_line.svg)](#EU) 
+[![\_ECB](../ChartLines/\_ECB_line.svg)](#\_ECB) 
+[![FI](../ChartLines/FI_line.svg)](#FI) 
+[![EE](../ChartLines/EE_line.svg)](#EE) 
+[![SI](../ChartLines/SI_line.svg)](#SI) 
+[![DE](../ChartLines/DE_line.svg)](#DE) 
+[![GR](../ChartLines/GR_line.svg)](#GR) 
+[![\_EFSF](../ChartLines/\_EFSF_line.svg)](#\_EFSF) 
+[![IT](../ChartLines/IT_line.svg)](#IT) 
+[![FR](../ChartLines/FR_line.svg)](#FR) 
+[![SK](../ChartLines/SK_line.svg)](#SK) 
+[![HR](../ChartLines/HR_line.svg)](#HR) 
+[![PT](../ChartLines/PT_line.svg)](#PT) 
+[![LU](../ChartLines/LU_line.svg)](#LU) 
+[![MT](../ChartLines/MT_line.svg)](#MT) 
+[![AT](../ChartLines/AT_line.svg)](#AT) 
+[![LV](../ChartLines/LV_line.svg)](#LV) 
+[![ES](../ChartLines/ES_line.svg)](#ES) 
+[![NL](../ChartLines/NL_line.svg)](#NL) 
+[![BE](../ChartLines/BE_line.svg)](#BE) 
+[![CY](../ChartLines/CY_line.svg)](#CY) 
+[![IE](../ChartLines/IE_line.svg)](#IE) 
+[![LT](../ChartLines/LT_line.svg)](#LT) 
+[![XK](../ChartLines/XK_line.svg)](#XK) 
+[![ME](../ChartLines/ME_line.svg)](#ME) 
+[![\_ESM](../ChartLines/\_ESM_line.svg)](#\_ESM)
+
+Development Banks: 
+[![\_ADB](../ChartLines/\_ADB_line.svg)](#\_ADB) 
+[![\_KfW](../ChartLines/\_KfW_line.svg)](#\_KfW) 
+[![XDR](../ChartLines/XDR_line.svg)](#XDR) 
+[![\_AfDB](../ChartLines/\_AfDB_line.svg)](#\_AfDB) 
+[![\_NIB](../ChartLines/\_NIB_line.svg)](#\_NIB) 
+[![\_EIB](../ChartLines/\_EIB_line.svg)](#\_EIB) 
+[![\_IBRD](../ChartLines/\_IBRD_line.svg)](#\_IBRD) 
+[![\_IADB](../ChartLines/\_IADB_line.svg)](#\_IADB) 
+[![\_EBRD](../ChartLines/\_EBRD_line.svg)](#\_EBRD) 
+[![\_AIIB](../ChartLines/\_AIIB_line.svg)](#\_AIIB) 
+[![\_IsDB](../ChartLines/_IsDB_line.svg)](#_IsDB) 
+[![\_BCIE](../ChartLines/\_BCIE_line.svg)](#\_BCIE) 
+[![\_NDB](../ChartLines/\_NDB_line.svg)](#\_NDB) 
+[![\_AfExIm](../ChartLines/\_AfExIm_line.svg)](#\_AfExIm) 
+[![\_CDB](../ChartLines/\_CDB_line.svg)](#\_CDB)
+
+Precious Metals: 
+[![XPT](../ChartLines/XPT_line.svg)](#XPT) 
+[![XAU](../ChartLines/XAU_line.svg)](#XAU) 
+[![XAG](../ChartLines/XAG_line.svg)](#XAG)
+
 
 <a name="end"></a>
