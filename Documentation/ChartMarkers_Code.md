@@ -119,7 +119,7 @@ seems to sit above the line by the height of its brown rectangle &asymp;&nbsp;0.
 ## <a name="precision"></a>Precision ##
 
 For many points, full precision must be algabraic (but none are transcendental). 
-E.g., for one point in a vertical unit 5/2 star, <nobr>*x*&nbsp;=&nbsp;&frac14;&#8239;&radic;(50&#8239;&minus;&#8239;22&radic;5)</nobr> <nobr>&asymp;&nbsp;0.22451398828979268622.</nobr> 
+E.g., for one point in a [vertical unit 5/2 star](http://www.jdawiseman.com/papers/easymath/surds_star_inner_radius.html#star_5_2_image), <nobr>*x*&nbsp;=&nbsp;&frac14;&#8239;&radic;(50&#8239;&minus;&#8239;22&radic;5)</nobr> <nobr>&asymp;&nbsp;0.22451398828979268622.</nobr> 
 Unlike PostScript, SVG cannot accept formulae: it needs numbers written in base&nbsp;10. 
 For these numbers, how much numerical precision is needed? 
 The wanted standard is &lsquo;*too&nbsp;much, but not excessively too&nbsp;much*&rsquo;.
@@ -148,6 +148,6 @@ The error at &plusmn;&#8239;18&deg; could cause a slight misfit, no worse than r
 <nobr><span class="markerID">NZD</span> ![NZD](../ChartMarkers/NZD.svg),</nobr> 
 <nobr><span class="markerID">SGD</span> ![SGD](../ChartMarkers/SGD.svg),</nobr> 
 <nobr><span class="markerID">ETB</span> ![ETB](../ChartMarkers/ETB.svg).</nobr> 
-So Adobe&rsquo;s B&eacute;zier&rsquo;s circle is materially worse than precision truncation, by a factor fairly describable as 42&times;. 
+So Adobe&rsquo;s B&eacute;zier circle is materially worse than precision truncation, by a factor fairly describable as 42&times;. 
 Note that a B&eacute;zier cubic itself is rendered only to within an accuracy no worse than the `setflat` value, which defaults to 1.0 output device pixels, and which is bounded in the range 0.2&ndash;100 ([PLRM3](http://www.adobe.com/jp/print/postscript/pdfs/PLRM.pdf), p669). 
 Further, printers are physical machines with physical inaccuracies, likely to be significantly larger than these digital errors.
