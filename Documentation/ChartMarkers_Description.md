@@ -134,8 +134,16 @@ A unique ID has been assigned to each marker, these IDs generally being of three
 * A two-alpha [ISO&nbsp;3166&#8209;1](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) country code (not necessarily permanently assigned, e.g. <nobr><span class="markerID">XK</span>&nbsp;![XK](../ChartMarkers/XK.svg))</nobr>, typically for countries using a multinational currency. 
 
 * An invented ID, beginning with an underscore (&ldquo;<span class="markerID">\_</span>&rdquo;), followed by a few characters which are typically an acronym of the name of the development bank. 
-Of these underscore IDs the seven shortest are of length 1&#8239;+&#8239;3&#8239;=&#8239;4 characters; the longest, 
-<nobr><span class="markerID">\_AfExIm</span>&nbsp;![_AfExIm](../ChartMarkers/_AfExIm.svg),</nobr> 
+Of these underscore IDs the seven shortest 
+<nobr>(<span class="markerID">\_ADB.svg</span>&nbsp;![_ADB.svg](../ChartMarkers/_ADB.svg),</nobr> 
+<nobr><span class="markerID">\_CDB.svg</span>&nbsp;![_CDB.svg](../ChartMarkers/_CDB.svg),</nobr> 
+<nobr><span class="markerID">\_EIB.svg</span>&nbsp;![_EIB.svg](../ChartMarkers/_EIB.svg),</nobr> 
+<nobr><span class="markerID">\_ESM.svg</span>&nbsp;![_ESM.svg](../ChartMarkers/_ESM.svg),</nobr> 
+<nobr><span class="markerID">\_KfW.svg</span>&nbsp;![_KfW.svg](../ChartMarkers/_KfW.svg),</nobr> 
+<nobr><span class="markerID">\_NDB.svg</span>&nbsp;![_NDB.svg](../ChartMarkers/_NDB.svg),</nobr> 
+<nobr><span class="markerID">\_NIB.svg</span>&nbsp;![_NIB.svg](../ChartMarkers/_NIB.svg))</nobr> 
+are of length 1&#8239;+&#8239;3&#8239;=&#8239;4 characters; the longest 
+<nobr>(<span class="markerID">\_AfExIm</span>&nbsp;![_AfExIm](../ChartMarkers/_AfExIm.svg))</nobr> 
 is of length 1&#8239;+&#8239;6&#8239;=&#8239;7 characters.
 
 
