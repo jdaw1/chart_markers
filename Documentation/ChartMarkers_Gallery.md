@@ -156,8 +156,10 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![\_EFSF](../ChartMarkers/\_EFSF.svg)](#\_EFSF)&nbsp;&nbsp;&nbsp; 
 [![\_EIB](../ChartMarkers/\_EIB.svg)](#\_EIB) 
 [![\_EBRD](../ChartMarkers/\_EBRD.svg)](#\_EBRD) 
+[![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB) 
 [![\_NIB](../ChartMarkers/\_NIB.svg)](#\_NIB) 
 [![\_KfW](../ChartMarkers/\_KfW.svg)](#\_KfW) 
+[![\_CADES](../ChartMarkers/\_CADES.svg)](#\_CADES) 
 [![\_ADB](../ChartMarkers/\_ADB.svg)](#\_ADB) 
 [![\_AIIB](../ChartMarkers/\_AIIB.svg)](#\_AIIB) 
 [![\_IsDB](../ChartMarkers/_IsDB.svg)](#_IsDB) 
@@ -318,8 +320,10 @@ Internal links:
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#euro_zone)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#precious_metals)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="development_banks">Development Banks</a></h2> | |
 | \_EIB | ![\_EIB](../ChartMarkers/_EIB.svg) | <a name="_EIB">![_EIB](../ChartMarkers_enlarged/_EIB_enlarged.svg)</a> | Rearanged and simplified [logo](http://www.eib.org/en/press/all/1999-013-new-logo-on-the-threshold-of-the-third-millennium) of the [European Investment Bank](http://www.eib.org/en/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>EIB&nbsp;Corp</kbd> | ![\_EIB](../ChartLines/_EIB_line.svg)<br/>08528C<br/>949494 |
 | \_EBRD | ![\_EBRD](../ChartMarkers/_EBRD.svg) | <a name="_EBRD">![_EBRD](../ChartMarkers_enlarged/_EBRD_enlarged.svg)</a> | Simplified [logo](http://www.ebrd.com/images/ebrd-sprite.png) of [European Bank for Reconstruction and Development](http://www.ebrd.com/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>EBRD&nbsp;Corp</kbd> | ![\_EBRD](../ChartLines/_EBRD_line.svg)<br/>0A6AAA<br/>FFFFFF |
-| \_NIB | ![\_NIB](../ChartMarkers/_NIB.svg) | <a name="_NIB">![_NIB](../ChartMarkers_enlarged/_NIB_enlarged.svg)</a> | &lsquo;N&rsquo; from [logo](http://www.nib.int/icons/nib-logo.svg) of [Nordic Investment Bank](http://www.nib.int/), slightly simplified; dark blue from logo, pale blue from website. Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>NIB&nbsp;Corp</kbd> | ![\_NIB](../ChartLines/_NIB_line.svg)<br/>165788<br/>C3DCF4 |
+| \_CoEDB | ![\_CoEDB](../ChartMarkers/_CoEDB.svg) | <a name="_CoEDB">![_CoEDB](../ChartMarkers_enlarged/_CoEDB_enlarged.svg)</a> | From logo of the [Council of Europe Development Bank](http://coebank.org/en/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>COE&nbsp;Corp</kbd> | ![\_COE](../ChartLines/_COE_line.svg)<br/>092251<br/>FFFFFF |
+| \_NIB | ![\_NIB](../ChartMarkers/_NIB.svg) | <a name="_NIB">![_NIB](../ChartMarkers_enlarged/_NIB_enlarged.svg)</a> | &lsquo;N&rsquo; from the [logo](http://www.nib.int/icons/nib-logo.svg) of the [Nordic Investment Bank](http://www.nib.int/), slightly simplified; dark blue from logo, pale blue from website. Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>NIB&nbsp;Corp</kbd> | ![\_NIB](../ChartLines/_NIB_line.svg)<br/>165788<br/>C3DCF4 |
 | \_KfW | ![\_KfW](../ChartMarkers/_KfW.svg) | <a name="_KfW">![_KfW](../ChartMarkers_enlarged/_KfW_enlarged.svg)</a> | Based on the &lsquo;K&rsquo; of the [logo](http://www.kfw.de/Technische-Medien/Logos/kfw_logo_320-2x.svg) of the [Kreditanstalt f&uuml;r Wiederaufbau](http://www.kfw.de/kfw.de-2.html) (&lsquo;Credit Institute for Reconstruction&rsquo;). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>KFW&nbsp;Corp</kbd> | ![\_KfW](../ChartLines/_KfW_line.svg)<br/>1B618C |
+| \_CADES | ![\_CADES](../ChartMarkers/_CADES.svg) | <a name="_CADES">![_CADES](../ChartMarkers_enlarged/_CADES_enlarged.svg)</a> | Based on the &lsquo;C&rsquo; of the [logo](http://www.cades.fr/templates/shaper_helixultimate-2021/images/presets/preset2/logo-en.svg) of the [Caisse d&rsquo;Amortissement de la Dette Sociale](http://www.cades.fr/en/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>CADES&nbsp;Corp</kbd> | ![\_CADES](../ChartLines/_CADES_line.svg)<br/>273375<br/>E20613 |
 | \_ADB | ![\_ADB](../ChartMarkers/_ADB.svg) | <a name="_ADB">![_ADB](../ChartMarkers_enlarged/_ADB_enlarged.svg)</a> | [Unity logo of annual meetings](http://lnadbg6.adb.org/sec0084p.nsf/Content/2016/topics/chapter_3._branding,_logo,_and_visual_identity_guidelines?openDocument) of the [Asian Development Bank](http://www.adb.org/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>ASIA&nbsp;Corp</kbd> | ![\_ADB](../ChartLines/_ADB_line.svg)<br/>1C3060 |
 | \_AIIB | ![\_AIIB](../ChartMarkers/_AIIB.svg) | <a name="_AIIB">![_AIIB](../ChartMarkers_enlarged/_AIIB_enlarged.svg)</a> | From [logo](http://www.aiib.org/_common/base/img/logo-aiib.svg) of [Asian Infrastructure Investment Bank](http://www.aiib.org/en/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>AIIB&nbsp;Corp</kbd> | ![\_AIIB](../ChartLines/_AIIB_line.svg)<br/>860C14<br/>FFFFFF |
 | \_IsDB | ![\_IsDB](../ChartMarkers/_IsDB.svg) | <a name="_IsDB">![_IsDB](../ChartMarkers_enlarged/_IsDB_enlarged.svg)</a> | From [logo](http://en.wikipedia.org/wiki/Islamic_Development_Bank#/media/File:Islamic_Development_Bank_logo.svg) of the [Islamic Development Bank](http://www.isdb.org/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>ISDB&nbsp;Corp</kbd> | ![\_IsDB](../ChartLines/_IsDB_line.svg)<br/>039355<br/>FFFFFF |
@@ -402,6 +406,7 @@ Rhombus, &asymp;:
 
 Circle, &asymp;: 
 [![\_IBRD](../ChartMarkers/\_IBRD.svg)](#\_IBRD) 
+[![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB) 
 [![\_ADB](../ChartMarkers/\_ADB.svg)](#\_ADB) 
 [![EUR](../ChartMarkers/EUR.svg)](#EUR) 
 [![EU](../ChartMarkers/EU.svg)](#EU) 
@@ -418,6 +423,7 @@ Circle, &asymp;:
 [![SGD](../ChartMarkers/SGD.svg)](#SGD) 
 [![NZD](../ChartMarkers/NZD.svg)](#NZD) 
 [![KRW](../ChartMarkers/KRW.svg)](#KRW) 
+[![\_CADES](../ChartMarkers/\_CADES.svg)](#\_CADES) 
 [![UGX](../ChartMarkers/UGX.svg)](#UGX) 
 [![COP](../ChartMarkers/COP.svg)](#COP) 
 [![MDL](../ChartMarkers/MDL.svg)](#MDL) 
@@ -495,7 +501,8 @@ Black:
 [![SDG](../ChartMarkers/SDG.svg)](#SDG) 
 [![BOB](../ChartMarkers/BOB.svg)](#BOB) 
 [![DE](../ChartMarkers/DE.svg)](#DE) 
-[![\_IBRD](../ChartMarkers/\_IBRD.svg)](#\_IBRD)&nbsp;&nbsp; 
+[![\_IBRD](../ChartMarkers/\_IBRD.svg)](#\_IBRD) 
+[![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB)&nbsp;&nbsp; 
 Metal: 
 [![SGD](../ChartMarkers/SGD.svg)](#SGD) 
 [![XAU](../ChartMarkers/XAU.svg)](#XAU) 
@@ -570,6 +577,7 @@ Yellow or orange &nbsp;+&nbsp; blue or black &nbsp;+&nbsp; red:
 [![AOA](../ChartMarkers/AOA.svg)](#AOA) 
 [![MDL](../ChartMarkers/MDL.svg)](#MDL) 
 [![UGX](../ChartMarkers/UGX.svg)](#UGX) 
+[![\_CADES](../ChartMarkers/\_CADES.svg)](#\_CADES) 
 [![COP](../ChartMarkers/COP.svg)](#COP) 
 [![EC](../ChartMarkers/EC.svg)](#EC) 
 [![VE](../ChartMarkers/VE.svg)](#VE)&nbsp;&nbsp; 
@@ -777,6 +785,7 @@ Development Banks:
 [![\_NIB](../ChartLines/\_NIB_line.svg)](#\_NIB) 
 [![\_EIB](../ChartLines/\_EIB_line.svg)](#\_EIB) 
 [![\_IBRD](../ChartLines/\_IBRD_line.svg)](#\_IBRD) 
+[![\_CoEDB](../ChartLines/\_CoEDB_line.svg)](#\_CoEDB) 
 [![\_IADB](../ChartLines/\_IADB_line.svg)](#\_IADB) 
 [![\_EBRD](../ChartLines/\_EBRD_line.svg)](#\_EBRD) 
 [![\_AIIB](../ChartLines/\_AIIB_line.svg)](#\_AIIB) 
@@ -784,7 +793,8 @@ Development Banks:
 [![\_BCIE](../ChartLines/\_BCIE_line.svg)](#\_BCIE) 
 [![\_NDB](../ChartLines/\_NDB_line.svg)](#\_NDB) 
 [![\_AfExIm](../ChartLines/\_AfExIm_line.svg)](#\_AfExIm) 
-[![\_CDB](../ChartLines/\_CDB_line.svg)](#\_CDB)
+[![\_CDB](../ChartLines/\_CDB_line.svg)](#\_CDB) 
+[![\_CADES](../ChartLines/\_CADES_line.svg)](#\_CADES)
 
 Precious Metals: 
 [![XPT](../ChartLines/XPT_line.svg)](#XPT) 

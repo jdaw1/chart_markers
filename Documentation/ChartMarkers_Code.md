@@ -118,7 +118,7 @@ seems to sit above the line by the height of its brown rectangle &asymp;&nbsp;0.
 
 ## <a name="precision"></a>Precision ##
 
-For many points, full precision must be algabraic (but none are transcendental). 
+For many points, full precision must be algabraic. 
 E.g., for one point in a [vertical unit 5/2 star](http://www.jdawiseman.com/papers/easymath/surds_star_inner_radius.html#star_5_2_image), <nobr>*x*&nbsp;=&nbsp;&frac14;&#8239;&radic;(50&#8239;&minus;&#8239;22&radic;5)</nobr> <nobr>&asymp;&nbsp;0.22451398828979268622.</nobr> 
 Unlike PostScript, SVG cannot accept formulae: it needs numbers written in base&nbsp;10. 
 For these numbers, how much numerical precision is needed? 
