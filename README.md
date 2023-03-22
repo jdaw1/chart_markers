@@ -17,7 +17,8 @@ Charts in financial markets are a mess: $ or &euro; or &pound; or &yen; might be
 Indeed, sometimes different symbols in charts created by the same author and appearing on the same page.
 
 A consistent set of markers would allow readers to focus more on the meaning of the data, and less on the distraction of attempting to decode the markers. 
-Such a set of markers has been made, showcased in the [gallery](Documentation/ChartMarkers_Gallery.md).
+Alas, many flags have details that are too small (e.g., USA, China), or are not sufficiently different (compare Ireland, Italy, France; red-white-black Arabic flags), or are asymmetrical so don&rsquo;t clearly identify the centre = the datapoint (Nordics, Chile, Uruguay), or have white at the edge (Poland, Russia, Bulgaria). 
+So a set of markers has been made, showcased in the [gallery](Documentation/ChartMarkers_Gallery.md).
 
 If you and you alone use it, then you would be consistent for your readers: a good thing. 
 If others also use it, it would be even easier for your readers: even better. 
