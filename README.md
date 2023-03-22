@@ -18,7 +18,7 @@ Indeed, sometimes different symbols in charts created by the same author and app
 
 A consistent set of markers would allow readers to focus more on the meaning of the data, and less on the distraction of attempting to decode the markers. 
 Alas, many flags have details that are too small (e.g., [US](http://en.wikipedia.org/wiki/Flag_of_the_United_States), [CN](http://en.wikipedia.org/wiki/Flag_of_China)), or are not sufficiently different (compare [IE](http://en.wikipedia.org/wiki/Flag_of_Ireland), [IT](http://en.wikipedia.org/wiki/Flag_of_Italy), [FR](http://en.wikipedia.org/wiki/Flag_of_France); flags in [pan-Arab colours](http://en.wikipedia.org/wiki/Pan-Arab_colors) including [YE](http://en.wikipedia.org/wiki/Flag_of_Yemen) &asymp; [EG](http://en.wikipedia.org/wiki/Flag_of_Egypt) &asymp; [IQ](http://en.wikipedia.org/wiki/Flag_of_Iraq) &asymp; [SY](http://en.wikipedia.org/wiki/Flag_of_Syria) &asymp; [SD](http://en.wikipedia.org/wiki/Flag_of_Sudan)), or are asymmetrical so don&rsquo;t clearly identify the centre = the datapoint ([Nordics](http://en.wikipedia.org/wiki/Nordic_cross_flag), [CL](http://en.wikipedia.org/wiki/Flag_of_Chile), [UY](http://en.wikipedia.org/wiki/Flag_of_Uruguay)), or have white at the edge ([PL](http://en.wikipedia.org/wiki/Flag_of_Poland), [RU](http://en.wikipedia.org/wiki/Flag_of_Russia), [BG](http://en.wikipedia.org/wiki/Flag_of_Bulgaria)). 
-So a set of markers has been made, showcased in the [gallery](Documentation/ChartMarkers_Gallery.md).
+So a set of markers has been made, showcased in **the [gallery](Documentation/ChartMarkers_Gallery.md)**.
 
 If you and you alone use it, then you would be consistent for your readers: a good thing. 
 If others also use it, it would be even easier for your readers: even better. 
