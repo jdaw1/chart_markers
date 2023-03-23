@@ -19,10 +19,10 @@ Indeed, sometimes different symbols in charts created by the same author and app
 A consistent set of markers would allow readers to focus more on the meaning of the data, and less on the distraction of attempting to decode the markers. 
 Alas, many flags have details that are too small (e.g., 
 [US](http://en.wikipedia.org/wiki/Flag_of_the_United_States), 
-[MX](http://en.wikipedia.org/wiki/Flag_of_Mexico), 
-[BR](http://en.wikipedia.org/wiki/Flag_of_Brazil), 
 [CN](http://en.wikipedia.org/wiki/Flag_of_China), 
 [HK](http://en.wikipedia.org/wiki/Flag_of_Hong_Kong), 
+[MX](http://en.wikipedia.org/wiki/Flag_of_Mexico), 
+[BR](http://en.wikipedia.org/wiki/Flag_of_Brazil), 
 [EU](http://en.wikipedia.org/wiki/Flag_of_Europe)), or are not sufficiently different 
 ([IE](http://en.wikipedia.org/wiki/Flag_of_Ireland) &asymp; 
 [IT](http://en.wikipedia.org/wiki/Flag_of_Italy) &asymp; 
