@@ -28,7 +28,8 @@ Alas, many flags have details that are too small (e.g.,
 [IT](http://en.wikipedia.org/wiki/Flag_of_Italy) &asymp; 
 [FR](http://en.wikipedia.org/wiki/Flag_of_France) &asymp; 
 [RO](http://en.wikipedia.org/wiki/Flag_of_Romania) &asymp; 
-[BE](http://en.wikipedia.org/wiki/Flag_of_Belgium)), 
+[BE](http://en.wikipedia.org/wiki/Flag_of_Belgium) &asymp; 
+[MD](http://en.wikipedia.org/wiki/Flag_of_Moldova)), 
 or are asymmetrical so the centre = the datapoint isn&rsquo;t both obvious and unique 
 ([Nordics](http://en.wikipedia.org/wiki/Nordic_cross_flag), 
 [TW](http://en.wikipedia.org/wiki/Flag_of_Taiwan), 
