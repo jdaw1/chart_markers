@@ -26,6 +26,7 @@ Alas, many flags have details that are too small (e.g.,
 [EU](http://en.wikipedia.org/wiki/Flag_of_Europe)), or are not sufficiently different 
 ([IE](http://en.wikipedia.org/wiki/Flag_of_Ireland) &asymp; 
 [IT](http://en.wikipedia.org/wiki/Flag_of_Italy) &asymp; 
+[MX](http://en.wikipedia.org/wiki/Flag_of_Mexico) &asymp; 
 [FR](http://en.wikipedia.org/wiki/Flag_of_France) &asymp; 
 [RO](http://en.wikipedia.org/wiki/Flag_of_Romania) &asymp; 
 [BE](http://en.wikipedia.org/wiki/Flag_of_Belgium) &asymp; 
