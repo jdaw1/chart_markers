@@ -9,22 +9,6 @@ Documentation links:
 
 --- 
 
-<div style="background-color: #CCFFCC;  border: 2px solid #009900;  padding-left: 1em;  padding-right: 1em;">
-
-## <a name="draft"></a>Draft until April 2023 ##
-
-Until Friday 31st March 2023 this set of markers is deemed to be in draft form. 
-Until then, for a change to happen, the standard is only that &ldquo;*the proposed new be better than the old*&rdquo;. 
-Please do suggest possible improvements in an [issue](https://github.com/jdaw1/chart_markers/issues/), and do so before this deadline.
-
-For [issues](https://github.com/jdaw1/chart_markers/issues/) raised after Friday 31st March 2023 the standard toughens: &ldquo;*the proposed new must be better than the old, and better by a margin large enough to justify that there be any change at all*&rdquo;. 
-That is, post draft, there will be a reluctance to make changes.
-
-It is intended that [issues](https://github.com/jdaw1/chart_markers/issues/) raised by Friday 31st March 2023 will be processed (rejected, or accepted and implemented) by the end of the Easter weekend, so by Monday 10th April 2023 (intended, not quite promised). 
-When that work is complete: these draft-period notices will be removed; pointers from the documentation to closed issues will be removed; and (it is intended) subsequent changes will be infrequent.
-
-</div>
-
 Many files are available. 
 
 ## <a name="The_SVGs"></a>The SVGs ##
