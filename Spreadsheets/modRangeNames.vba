@@ -1,6 +1,7 @@
 Option Explicit
 
 ' To go in module 'modRangeNames'
+' Source: https://github.com/jdaw1/chart_markers
 
 
 

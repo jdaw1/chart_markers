@@ -1,7 +1,7 @@
 Option Explicit
 
 ' To go in Module 'modCharts'
-
+' Source: https://github.com/jdaw1/chart_markers
 
 
 ' Excel's built-in chart scaling is terrible, it being far too keen top include 0.
@@ -40,6 +40,13 @@ Function Axis_Scale( _
 
 	Axis_Scale = Now
 End Function  ' Axis_Scale
+
+
+
+
+
+
+
 
 
 ' http://stackoverflow.com/questions/137845/determining-whether-an-object-is-a-member-of-a-collection-in-vba
