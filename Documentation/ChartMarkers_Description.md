@@ -150,13 +150,20 @@ Hence: no animations; no blinking; no movement.
 
 ## IDs ##
 
-A unique ID has been assigned to each marker, these IDs generally being of three types.
+A unique ID has been assigned to each marker, these IDs generally being of one of four types.
 
 * A three-alpha [ISO&nbsp;4217](http://en.wikipedia.org/wiki/ISO_4217) currency code, most of these markers also being usable for the issuing territory. 
 
 * A two-alpha [ISO&nbsp;3166&#8209;1](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) country code (not necessarily permanently assigned, e.g. <nobr><span class="markerID">XK</span>&nbsp;![XK](../ChartMarkers/XK.svg))</nobr>, typically for countries using a multinational currency. 
 
-* An invented ID, beginning with an underscore (&ldquo;<span class="markerID">\_</span>&rdquo;), followed by a few characters which are typically an acronym of the name of the development bank. 
+* A code based on the [ISO&nbsp;3166&#8209;2](https://en.wikipedia.org/wiki/ISO_3166-2) sub-divisions of [GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB), except that an underscore (&ldquo;<span class="markerID">\_</span>&rdquo;) replaces the dash (&ldquo;<span class="markerID">&#8209;</span>&rdquo;): 
+<nobr><span class="markerID">GB\_ENG</span>&nbsp;![GB\_ENG](../ChartMarkers/GB_ENG.svg),</nobr> 
+<nobr><span class="markerID">GB\_SCT</span>&nbsp;![GB\_SCT](../ChartMarkers/GB_SCT.svg),</nobr> 
+<nobr><span class="markerID">GB\_WLS</span>&nbsp;![GB\_WLS](../ChartMarkers/GB_WLS.svg),</nobr> 
+<nobr><span class="markerID">GB\_NIR</span>&nbsp;![GB\_NIR](../ChartMarkers/GB_NIR.svg),</nobr> 
+<nobr><span class="markerID">GB\_EAW</span>&nbsp;![GB\_EAW](../ChartMarkers/GB_EAW.svg).</nobr> 
+
+* An invented ID, beginning with an underscore, followed by a few characters which are typically an acronym of the name of the development bank. 
 Of these underscore IDs the eight shortest 
 <nobr>(<span class="markerID">\_ECB</span>&nbsp;![_ECB](../ChartMarkers/_ECB.svg),</nobr> 
 <nobr><span class="markerID">\_ADB</span>&nbsp;![_ADB](../ChartMarkers/_ADB.svg),</nobr> 
@@ -228,7 +235,7 @@ If so, excellent: do a good job; do a fair job; do a job that well applies the p
 
 ## <a name="changes"></a>Changes ##
 
-As yet, there is not a fixed set of rules about changes (post draft phase). 
+As yet, there is not a fixed set of rules about changes. 
 It is anticipated that the following will be true, at least mostly.
 
 * If a territory&rsquo;s currency should be replaced (e.g., <nobr>[ARL](http://en.wikipedia.org/wiki/Argentine_peso#Peso_ley,_1970%E2%80%931983)&#10141;ARP&#10141;ARA&#10141;<span class="markerID">ARS</span>),</nobr> then the same marker will apply to the new currency. The marker would be updated to reflect its new ID: updated ID in documentation; updated filename; within the file updated <nobr>`id='...'`.</nobr> 
