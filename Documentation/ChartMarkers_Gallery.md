@@ -1,5 +1,11 @@
 # <a name="top"></a>Currency and Issuer Chart Markers #
 
+**This page of the documentation contains almost a thousand images. 
+Sometimes GitHub seems to be reluctant to serve so many images. 
+When that happens, readers might prefer an [HTML translation of this page](https://www.jdawiseman.com/papers/Chart_Markers/ChartMarkers_Gallery.html). 
+Of course, the HTML version might lag the markdown version.**
+
+
 Documentation links: 
 &#9655;&#xFE0E;&nbsp;Gallery
 &#9654;&#xFE0E;&nbsp;[Description](ChartMarkers_Description.md)
