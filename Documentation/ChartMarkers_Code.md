@@ -28,7 +28,7 @@ The validator warns about the absence of a character encoding, but an encoding w
 | \_EFSF | ![\_EFSF](../ChartMarkers/\_EFSF.svg) | 260 |
 | RON | ![RON](../ChartMarkers/RON.svg) | 260 |
 | HUF | ![HUF](../ChartMarkers/HUF.svg) | 260 |
-| UYU | ![UYU](../ChartMarkers/UYU.svg) | 260 |
+| UYU | ![UYU](../ChartMarkers/UYU.svg) | 262 |
 | |  |  &numsp;&vellip;&numsp; |
 | INR | ![INR](../ChartMarkers/INR.svg) | 563 |
 | \_NDB | ![\_NDB](../ChartMarkers/\_NDB.svg) | 564 |
