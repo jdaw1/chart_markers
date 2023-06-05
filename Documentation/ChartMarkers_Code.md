@@ -111,7 +111,7 @@ The wanted standard is &lsquo;*too&nbsp;much, but not excessively too&nbsp;much*
 
 Of course, if these are used only as tiny chart markers, then little precision is needed. 
 But for some purpose they might be shown large. 
-Let&rsquo;s test five decimal places for an SVG drawn on a `viewBox` that is of size 2, which is typical. 
+Let&rsquo;s test five decimal places for an SVG drawn on a `viewBox` of size 2, which is typical. 
 At 1&times; scaling each point would be correct to within <nobr>&plusmn;&#8239;&frac12;&#8239;&middot;&#8239;10&#8315;&#8309;pt.</nobr> 
 At 2000&times; scaling the worst error would become &plusmn;&#8239;0.01pt which is &plusmn;&#8239;half a pixel on a 3600d.p.i. printer; and the size would be 4000pt &asymp;&nbsp;4&prime;8&Prime; &asymp;&nbsp;1.4&nbsp;metres. 
 So if such an SVG were enlarged to fill any plausible paper type, it would still be pixel-perfect on a quality printer.
