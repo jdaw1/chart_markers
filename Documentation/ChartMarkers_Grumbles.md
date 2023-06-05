@@ -101,8 +101,8 @@ If you have a genuinely better suggestion meeting all the criteria, please sugge
 
 The other direction is more noteworthy. 
 It might be that you believe that my design would make a better corporate logo (in at least some cases, it would), and want to use it as such. 
-Because of the licence under which released, I cannot stop you using it. 
-Also, because of the licence under which released, you cannot stop others using it. 
+Because of the [licence](https://github.com/jdaw1/chart_markers/blob/main/LICENSE) under which released, I cannot stop you using it. 
+Also, because of the [licence](https://github.com/jdaw1/chart_markers/blob/main/LICENSE) under which released, you cannot stop others using it. 
 But perhaps you can prevent others using it misleadingly or fraudulently&mdash;seek legal advice elsewhere.
 
 Nonetheless, if you do use one of these designs or something based on it, note that they have taken much skill, skill which would not otherwise be financially rewarded. 
