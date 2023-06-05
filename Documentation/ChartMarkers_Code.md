@@ -103,7 +103,7 @@ seems to sit above the line by the height of its brown rectangle &asymp;&nbsp;0.
 ## <a name="precision"></a>Precision ##
 
 For many points, full precision must be algabraic. 
-E.g., for one point in a [vertical unit 5/2 star](http://www.jdawiseman.com/papers/easymath/surds_star_inner_radius.html#star_5_2_image), <nobr>*x*&nbsp;=&nbsp;&frac14;&#8239;&radic;(50&#8239;&minus;&#8239;22&radic;5)</nobr> <nobr>&asymp;&nbsp;0.22451398828979268622.</nobr> 
+E.g., for one point in a [vertical unit 5&frasl;2 star](http://www.jdawiseman.com/papers/easymath/surds_star_inner_radius.html#star_5_2_image), <nobr>*x*&nbsp;=&nbsp;&frac14;&#8239;&radic;(50&#8239;&minus;&#8239;22&radic;5)</nobr> <nobr>&asymp;&nbsp;0.22451398828979268622.</nobr> 
 Unlike PostScript, SVG cannot accept formulae: it needs numbers written in base&nbsp;10. 
 For these numbers, how much numerical precision is needed? 
 The wanted standard is &lsquo;*too&nbsp;much, but not excessively too&nbsp;much*&rsquo;.
@@ -128,7 +128,7 @@ For those markers with many values &in;&#8239;&Qopf;&smallsetminus;&Zopf;, the `
 So the dominant numerical errors will come from elsewhere. 
 E.g., in [PostScript](http://en.wikipedia.org/wiki/PostScript), and in [PDF which inherited the PostScript graphics model](http://en.wikipedia.org/wiki/PDF#PostScript_language), a [90&deg; arc of a circle is rendered as a single B&eacute;zier cubic](http://groups.google.com/g/comp.lang.postscript/c/B23RW2QpIjU). 
 If distilled with [Adobe Distiller](http://en.wikipedia.org/wiki/Adobe_Distiller) then the absolute error of the radius averages &asymp;&#8239;116 parts per million; at 90&deg;&times;<i>n</i>&nbsp;&plusmn;&nbsp;18&deg; the error being near-maximal at just over 211ppm (if with [GhostScript](http://en.wikipedia.org/wiki/Ghostscript), &plusmn;&#8239;18&deg;&nbsp;&DoubleLongRightArrow;&nbsp;&asymp;&#8239;270ppm). 
-The error at &plusmn;&#8239;18&deg; could cause a slight misfit, no worse than radius&#8239;&divide;&#8239;3704, between a vertical 5/2 star and its bounding circle, perhaps relevant for 
+The error at &plusmn;&#8239;18&deg; could cause a slight misfit, no worse than radius&#8239;&divide;&#8239;3704, between a vertical 5&frasl;2 star and its bounding circle, perhaps relevant for 
 <nobr><span class="markerID">NZD</span> ![NZD](../ChartMarkers/NZD.svg),</nobr> 
 <nobr><span class="markerID">SGD</span> ![SGD](../ChartMarkers/SGD.svg),</nobr> 
 <nobr><span class="markerID">ETB</span> ![ETB](../ChartMarkers/ETB.svg).</nobr> 

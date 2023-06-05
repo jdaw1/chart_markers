@@ -29,7 +29,7 @@ Some possible grumbles would be good and useful, but there are some hypothetical
 ## <a name="perhaps_good"></a>Perhaps-good grumbles ##
 
 * <a name="better_design"></a>Some possible grumbles might be about a better design. 
-Does the candidate new design actually satisfy all the desiderata / constraints? 
+Does the candidate new design actually satisfy all the desiderata and constraints? 
 Does it fit into the collection as a whole? 
 Is it genuinely better? 
 There is an advantage in consistency over time: is the improvement really enough to justify any change? 
@@ -80,7 +80,7 @@ So the answer to all such requests and demands is and must be &ldquo;*No: not fo
 But this is not a beach, nor a landing ground, nor a field, nor a street, nor a hill. 
 This is not the place for the fight of your country versus its enemy.
 
-<a name="awful_inconsistent"></a>Of course, because of the licence under which the markers are released, you could make and use your own version of these markers: your country extravagantly big and splendid; its enemies absent; neutrals punished for their neutrality. 
+<a name="awful_inconsistent"></a>Of course, because of the [licence](https://github.com/jdaw1/chart_markers/blob/main/LICENSE) under which the markers are released, you could make and use your own version of these markers: your country extravagantly big and splendid; its enemies absent; neutrals punished for their neutrality. 
 But please don&rsquo;t, as there is a public good in consistency.
 
 
@@ -106,7 +106,7 @@ Also, because of the licence under which released, you cannot stop others using 
 But perhaps you can prevent others using it misleadingly or fraudulently&mdash;seek legal advice elsewhere.
 
 Nonetheless, if you do use one of these designs or something based on it, note that they have taken much skill, skill which would not otherwise be financially rewarded. 
-Hence you are hereby encouraged to gift to me a chunky fraction of what a new logo would otherwise have cost you.
+Hence you are hereby encouraged to gift to [me](http://www.jdawiseman.com/author.html) a chunky fraction of what a new logo would otherwise have cost you.
 
 
 

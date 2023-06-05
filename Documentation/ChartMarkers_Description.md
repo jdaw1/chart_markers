@@ -130,7 +130,7 @@ One exception has been allowed:
 
 6. <a name="aspect"></a>Aspect ratios must be in the range &frac12; to 2. 
 This constraint was relevant for 
-<nobr><span class="markerID">LU</span>&nbsp;![LU](../ChartMarkers/LU.svg),</nobr> which would otherwise have had an aspect ratio of 4&#8239;/&#8239;9&nbsp;=&nbsp;1&#8239;/&#8239;2&frac14;.
+<nobr><span class="markerID">LU</span>&nbsp;![LU](../ChartMarkers/LU.svg),</nobr> which would otherwise have had an aspect ratio of 4&frasl;9&nbsp;=&nbsp;1&frasl;2&frac14;.
 
 7. <a name="contiguous"></a>Markers must be contiguous, both topologically and optically, and also not hollow. 
 The optically-contiguous constraint requires that markers not comprise large pieces joined by long thin connectors. 

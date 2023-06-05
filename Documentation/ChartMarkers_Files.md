@@ -19,7 +19,7 @@ The SVGs are available individually, in
 Alas GitHub&rsquo;s web interface doesn&rsquo;t allow downloading a single directory, so they are also in  
 * [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers.zip)
 
-Excel needs slightly different SVGs, because otherwise it mangles the sizes. A deirectory of these is at 
+Excel needs slightly different SVGs, because otherwise it mangles the sizes. A directory of these is at 
 * [github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel/)  
 
 and an easy-download compressed set in  
@@ -36,7 +36,7 @@ Please don&rsquo;t use PNGs.
 
 Oh hell, you&rsquo;re going to insist. 
 There are [PNGs](http://github.com/jdaw1/chart_markers/tree/main/PNGs) at 1&times;, 2&times;, 4&times;, 8&times;, and 16&times; the natural 72d.p.i. resolution, and a single [.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/PNGs.zip) containing them all. 
-(Made with GraphicConverter build 5711, using the SVG&nbsp;SDK library because the WebKit library fails to process `<defs>...</defs><use ...'/>`.)
+(Made with GraphicConverter builds 5711&ndash;6136, using the SVG&nbsp;SDK library because the WebKit library fails to process `<defs>...</defs><use ...'/>`.)
 
 Please don&rsquo;t use the PNGs.
 
