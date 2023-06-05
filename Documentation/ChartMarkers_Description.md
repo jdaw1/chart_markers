@@ -15,7 +15,7 @@ Financial market charts often show a similar type of thing for many currencies o
 E.g., swap curves, or bond yields, or an implied volatility for the dominant equity index. Marking these consistently would allow more immediate and lower-effort recognition of which series means what. 
 
 The &lsquo;obvious choice&rsquo; might be flags. 
-Alas flags don&rsquo; work. 
+Alas flags don&rsquo;t work. 
 Many have details that are too small (e.g., 
 [US](http://en.wikipedia.org/wiki/Flag_of_the_United_States), 
 [CN](http://en.wikipedia.org/wiki/Flag_of_China), 
