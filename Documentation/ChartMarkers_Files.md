@@ -35,7 +35,13 @@ So please use the SVGs instead of PNGs.
 Please don&rsquo;t use PNGs.
 
 Oh hell, you&rsquo;re going to insist. 
-There are [PNGs](http://github.com/jdaw1/chart_markers/tree/main/PNGs) at 1&times;, 2&times;, 4&times;, 8&times;, and 16&times; the natural 72d.p.i. resolution, and a single [.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/PNGs.zip) containing them all. 
+There are 
+[PNGs](http://github.com/jdaw1/chart_markers/tree/main/PNGs/) at 
+[1&times;](http://github.com/jdaw1/chart_markers/tree/main/PNGs/PNGs_01/), 
+[2&times;](http://github.com/jdaw1/chart_markers/tree/main/PNGs/PNGs_02/), 
+[4&times;](http://github.com/jdaw1/chart_markers/tree/main/PNGs/PNGs_04/), 
+[8&times;](http://github.com/jdaw1/chart_markers/tree/main/PNGs/PNGs_08/), and 
+[16&times;](http://github.com/jdaw1/chart_markers/tree/main/PNGs/PNGs_16/) the natural 72d.p.i. resolution, and a single [.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/PNGs.zip) containing them all. 
 (Made with GraphicConverter builds 5711&ndash;6136, using the SVG&nbsp;SDK library because the WebKit library fails to process `<defs>...</defs><use ...'/>`.)
 
 Please don&rsquo;t use the PNGs.
