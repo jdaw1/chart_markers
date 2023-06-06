@@ -1,7 +1,8 @@
 # Chart Markers #
  
 Start by marvelling at the 
-[gallery](Documentation/ChartMarkers_Gallery.md), then read the 
+[gallery](Documentation/ChartMarkers_Gallery.md) 
+(the [off-GitHub HTML version being more reliable](https://www.jdawiseman.com/papers/Chart_Markers/ChartMarkers_Gallery.html)), then read the 
 [description](Documentation/ChartMarkers_Description.md). 
 There is technical comment about the SVG 
 [code](Documentation/ChartMarkers_Code.md), 
