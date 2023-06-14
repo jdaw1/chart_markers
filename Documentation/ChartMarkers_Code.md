@@ -30,18 +30,19 @@ The validator warns about the absence of a character encoding, but an encoding w
 | HUF | ![HUF](../ChartMarkers/HUF.svg) | 260 |
 | UYU | ![UYU](../ChartMarkers/UYU.svg) | 262 |
 | |  |  &numsp;&vellip;&numsp; |
+| RUB | ![RUB](../ChartMarkers/RUB.svg) | 507 |
 | INR | ![INR](../ChartMarkers/INR.svg) | 563 |
 | \_NDB | ![\_NDB](../ChartMarkers/\_NDB.svg) | 564 |
-| IQD | ![IQD](../ChartMarkers/IQD.svg) | 596 |
-| GEL | ![GEL](../ChartMarkers/GEL.svg) | 610 |
+| IQD | ![IQD](../ChartMarkers/IQD.svg) | 604 |
 | \_IBRD | ![\_IBRD](../ChartMarkers/\_IBRD.svg) | 617 |
+| GEL | ![GEL](../ChartMarkers/GEL.svg) | 638 |
 
 </div>
 
 In coding these markers, priority has been given to compactness and execution efficiency, often at the expense of legiblity of the SVG code to humans. 
 
 So the markers&rsquo; SVG files are concise, ranging from 156 bytes (<span class="markerID">JPY</span>), to a median of just over 260 bytes, to a maximum of 617 bytes (<span class="markerID">\_IBRD</span>). 
-Of the 138 markers, only five &asymp;&#8239;3.6% exceed 500 bytes: these are included in the nearby table.
+Of the 138 markers, only six &asymp;&#8239;4.3% exceed 500 bytes: these are included in the nearby table.
 
 From the [SVG standard](http://svgwg.org/svg2-draft/single-page.html): &ldquo;*Superfluous white space &hellip; may be eliminated &hellip; Thus, in the string "M&nbsp;100&#8209;200", the first coordinate for the "moveto" consumes the characters "100" and stops upon encountering the minus sign because the minus sign cannot follow a digit in the production of a "coordinate". The result is that the first coordinate will be "100" and the second coordinate will be "-200".*&rdquo;
 
