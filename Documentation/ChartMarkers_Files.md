@@ -25,6 +25,7 @@ Excel needs slightly different SVGs, because otherwise it mangles the sizes. A d
 and an easy-download compressed set in  
 * [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip)
 
+* It might be useful to have the [entire&nbsp;set in a single&nbsp;.svg&nbsp;file](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers_every.svg), perhaps for use by the likes of [D3.js = Data-Driven Documents](https://d3js.org/). As I&rsquo;m only starting to explore the requirements of such software, the format of this .svg might yet be improved.
 
 
 ## PNGs ##
