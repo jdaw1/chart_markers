@@ -56,7 +56,7 @@ But if there is a genuine purpose, explain it.
 Please don&rsquo;t be silly. 
 It is omitted for a reason related to the constraints, most likely the one about there being little space in small markers.
 
-* <a name="present_detail"></a>Some possible grumbles might be about present details: &ldquo;that symbol was used by a party or people of whom I disapprove&rdquo;. 
+* <a name="present_detail"></a>Some possible grumbles might be about present details: *That symbol was used by a party or people of whom I disapprove.* 
 There have been lots of bad people, with lots of iconography: almost everything resembles something that is or was used by somebody bad ([e.g.](https://www.chicagotribune.com/news/ct-xpm-2007-08-19-0708180225-story.html)). 
 Further, we shouldn&rsquo;t allow baddies a *de facto* monopoly of any particular geometry. 
 So such an argument is unlikely to be persuasive. 
