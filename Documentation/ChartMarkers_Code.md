@@ -58,7 +58,7 @@ The SVG is robust to (at least some) imperfections in rasterisation.
 * Adjacents blocks of colour overlap, so that colour beneath cannot leak through a zero-width gap.  
 * Similarly, stacked blocks of colour do not share an edge, so that a lower colour cannot leak around a shared edge.
 
-In multiple Apple Mac applications I have seen problems with lower stacked colours leaking around a shared clip boundary (e.g.&nbsp;[pdf](http://www.jdawiseman.com/2018/20180508_Sixties.pdf#Circle_00_00_04)&#10141;[png](http://www.jdawiseman.com/2018/20180508_Sixties_F63_3.png)), so these concerns are not entirely idle.
+These concerns are not idle: in multiple applications, both Mac and PC, there can be problems with lower stacked colours leaking around a shared clip boundary (e.g.&nbsp;[pdf](http://www.jdawiseman.com/2018/20180508_Sixties.pdf#Circle_00_00_04)&#10141;[png](http://www.jdawiseman.com/2018/20180508_Sixties_F63_3.png)).
 
 ## <a name="speed"></a>Execution speed ##
 
