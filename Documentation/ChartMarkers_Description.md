@@ -64,7 +64,7 @@ E.g.,
 This is a set of standard markers for this purpose, all of which are shown in the [Gallery](ChartMarkers_Gallery.md).
 
 This set of markers is &copy;&nbsp;[J.&#8239;D.&#8239;A.&#8239;Wiseman](http://www.jdawiseman.com/author.html) 1998&ndash;2023, he having created and re-worked and improved and added to them since 1998. 
-It is available from [GitHub](http://github.com/jdaw1/), under the [Boost Software Licence, Version&nbsp;1.0](http://opensource.org/licenses/bsl1.0.html). 
+It is available from [GitHub](http://github.com/jdaw1/), under the [Boost Software Licence, Version&nbsp;1.0](https://opensource.org/license/bsl-1-0/). 
 (If your lawyers have a genuine need for a different [licence](https://github.com/jdaw1/chart_markers/blob/main/LICENSE)&mdash;not lawyers not bothering to read, actual genuine need&mdash;explain and it might be done.)
 
 There is a public good in consistency. 
