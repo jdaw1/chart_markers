@@ -56,5 +56,5 @@ or have much white at the edge
 
 If you and you alone use it, then you would be consistent for your readers: a good thing. 
 If others also use it, it would be even easier for your readers: even better. 
-And it&rsquo;s free, released under the very permissive [Boost Software Licence, Version&nbsp;1.0](http://opensource.org/licenses/bsl1.0.html).
+And it&rsquo;s free, released under the very permissive [Boost Software Licence, Version&nbsp;1.0](https://opensource.org/license/bsl-1-0/).
 
