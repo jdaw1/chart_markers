@@ -52,9 +52,16 @@ or have much white at the edge
 [SI](http://en.wikipedia.org/wiki/Flag_of_Slovenia), 
 [CY](http://en.wikipedia.org/wiki/Flag_of_Cyprus)).
 
-**So a set of markers has been made, showcased in the [gallery](Documentation/ChartMarkers_Gallery.md)**.
+**So a set of markers has been made, showcased in the [gallery](Documentation/ChartMarkers_Gallery.md)** ([HTML translation](https://www.jdawiseman.com/papers/Chart_Markers/ChartMarkers_Gallery.html)). E.g.: 
+<nobr><span class="markerID">USD</span>&nbsp;=&nbsp;![USD](ChartMarkers/USD.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">EUR</span>&nbsp;=&nbsp;![EUR](ChartMarkers/EUR.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">GBP</span>&nbsp;=&nbsp;![GBP](ChartMarkers/GBP.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">JPY</span>&nbsp;=&nbsp;![JPY](ChartMarkers/JPY.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">CNY</span>&nbsp;=&nbsp;![CNY](ChartMarkers/CNY.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">DE</span>&nbsp;=&nbsp;![DE](ChartMarkers/DE.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">FR</span>&nbsp;=&nbsp;![FR](ChartMarkers/FR.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">IT</span>&nbsp;=&nbsp;![IT](ChartMarkers/IT.svg)</nobr>&nbsp;&nbsp;
 
 If you and you alone use it, then you would be consistent for your readers: a good thing. 
 If others also use it, it would be even easier for your readers: even better. 
 And it&rsquo;s free, released under the very permissive [Boost Software Licence, Version&nbsp;1.0](https://opensource.org/license/bsl-1-0/).
-
