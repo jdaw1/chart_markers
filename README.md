@@ -57,10 +57,15 @@ or have much white at the edge
 <nobr><span class="markerID">EUR</span>&nbsp;=&nbsp;![EUR](ChartMarkers/EUR.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">GBP</span>&nbsp;=&nbsp;![GBP](ChartMarkers/GBP.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">JPY</span>&nbsp;=&nbsp;![JPY](ChartMarkers/JPY.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">CAD</span>&nbsp;=&nbsp;![CAD](ChartMarkers/CAD.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">AUD</span>&nbsp;=&nbsp;![AUD](ChartMarkers/AUD.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">CNY</span>&nbsp;=&nbsp;![CNY](ChartMarkers/CNY.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">INR</span>&nbsp;=&nbsp;![INR](ChartMarkers/INR.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">BRL</span>&nbsp;=&nbsp;![BRL](ChartMarkers/BRL.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">DE</span>&nbsp;=&nbsp;![DE](ChartMarkers/DE.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">FR</span>&nbsp;=&nbsp;![FR](ChartMarkers/FR.svg)</nobr>&nbsp;&nbsp; 
-<nobr><span class="markerID">IT</span>&nbsp;=&nbsp;![IT](ChartMarkers/IT.svg)</nobr>&nbsp;&nbsp;
+<nobr><span class="markerID">IT</span>&nbsp;=&nbsp;![IT](ChartMarkers/IT.svg)</nobr>&nbsp;&nbsp; 
+<nobr><span class="markerID">ES</span>&nbsp;=&nbsp;![ES](ChartMarkers/ES.svg)</nobr>&nbsp;&nbsp;
 
 If you and you alone use it, then you would be consistent for your readers: a good thing. 
 If others also use it, it would be even easier for your readers: even better. 
