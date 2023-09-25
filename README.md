@@ -65,7 +65,7 @@ or have much white at the edge
 <nobr><span class="markerID">DE</span>&nbsp;=&nbsp;![DE](ChartMarkers/DE.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">FR</span>&nbsp;=&nbsp;![FR](ChartMarkers/FR.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">IT</span>&nbsp;=&nbsp;![IT](ChartMarkers/IT.svg)</nobr>&nbsp;&nbsp; 
-<nobr><span class="markerID">ES</span>&nbsp;=&nbsp;![ES](ChartMarkers/ES.svg)</nobr>&nbsp;&nbsp;
+<nobr><span class="markerID">ES</span>&nbsp;=&nbsp;![ES](ChartMarkers/ES.svg)</nobr>
 
 If you and you alone use it, then you would be consistent for your readers: a good thing. 
 If others also use it, it would be even easier for your readers: even better. 
