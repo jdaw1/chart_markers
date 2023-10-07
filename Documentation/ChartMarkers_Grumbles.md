@@ -91,10 +91,11 @@ These entities are generally companies, with corporate logos.
 In theory, perhaps, a silly employee could email a grumble along the lines of &ldquo;*Your marker does not precisely follow the design of our corporate logo, and we will sue if you don&rsquo;t&nbsp;&hellip;*&rsquo;. 
 Save yourself effort: there would be no need write any additional words, as those would be enough to cause the delete button to be pressed. 
 There is enough silliness in the world: please don&rsquo;t add to it. 
-(And please file your grumble as an [issue](https://github.com/jdaw1/chart_markers/issues), so a broader audience can enjoy it.)
+(And please file your grumble as an [issue](https://github.com/jdaw1/chart_markers/issues), so that a broader audience can enjoy it. 
+Indeed, before pressing &#9249;, I might non-deferentially file it as an issue.)
 
 Instead, consider the need for simplicity, for memorability, for being distinctive (yours not necessarily being the most important marker using a particular colour scheme), for symmetry, etc. 
-If you have a genuinely better suggestion meeting all the criteria, please suggest it non-threateningly and politely, in an [issue](https://github.com/jdaw1/chart_markers/issues).
+If you have a genuinely better suggestion meeting all the criteria, please suggest it politely and non-threateningly, in an [issue](https://github.com/jdaw1/chart_markers/issues).
 
 
 ## <a name="corporate_praise"></a>Corporate praise ##
