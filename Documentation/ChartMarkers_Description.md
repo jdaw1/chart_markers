@@ -90,7 +90,7 @@ The design of the markers was guided by multiple desiderata &asymp;&nbsp;constra
 Many flags have features that are small relative to the whole flag. 
 Yes, those features may well inspire passion in patriotic citizens of such countries, but nonetheless, there isn&rsquo;t space. 
 E.g.,&nbsp;the US Stars &amp; Stripes has fifty stars, here simplified to just 
-<nobr>one&nbsp;![USD](../ChartMarkers/USD.svg).</nobr> 
+<nobr>one&nbsp;![USD](USD_baseline.svg).</nobr> 
 E.g.,&nbsp;Germany&rsquo;s Brandeburg Gate actually has six columns, here simplified to 
 <nobr>four&nbsp;![DE](../ChartMarkers/DE.svg).</nobr> 
 E.g.,&nbsp;the stars in the flag of China are small relative to the flag, and would be imperceptible at the required 
@@ -150,7 +150,7 @@ Hence: no animations; no blinking; no movement.
 
 ## IDs ##
 
-A unique ID has been assigned to each marker, these IDs generally being of one of four types.
+A unique ID has been assigned to each marker, these IDs generally being of one of five types.
 
 * A three-alpha [ISO&nbsp;4217](http://en.wikipedia.org/wiki/ISO_4217) currency code, most of these markers also being usable for the issuing territory. 
 
@@ -162,6 +162,13 @@ A unique ID has been assigned to each marker, these IDs generally being of one o
 <nobr><span class="markerID">GB\_WLS</span>&nbsp;![GB\_WLS](../ChartMarkers/GB_WLS.svg),</nobr> 
 <nobr><span class="markerID">GB\_NIR</span>&nbsp;![GB\_NIR](../ChartMarkers/GB_NIR.svg),</nobr> 
 <nobr><span class="markerID">GB\_EAW</span>&nbsp;![GB\_EAW](../ChartMarkers/GB_EAW.svg).</nobr> 
+
+* Three countries have an alternate ID ending &ldquo;<span class="markerID">\_2</span>&rdquo;. 
+In all three cases the alternate is merely a recoloured version of the main ID: 
+<nobr><span class="markerID">DE</span>&nbsp;![DE](../ChartMarkers/DE.svg),</nobr> <nobr> <span class="markerID">DE_2</span>&nbsp;![DE_2](../ChartMarkers/DE_2.svg);</nobr> 
+<nobr><span class="markerID">FR</span>&nbsp;![FR](../ChartMarkers/FR.svg),</nobr> <nobr> <span class="markerID">FR_2</span>&nbsp;![FR_2](../ChartMarkers/FR_2.svg);</nobr> and 
+<nobr><span class="markerID">IT</span>&nbsp;![IT](../ChartMarkers/IT.svg),</nobr> <nobr> <span class="markerID">IT_2</span>&nbsp;![IT_2](../ChartMarkers/IT_2.svg).</nobr> 
+Their purposes are described in the [Gallery](ChartMarkers_Gallery.md).
 
 * An invented ID, beginning with an underscore, followed by a few characters which are typically an acronym of the name of the development bank. 
 Of these underscore IDs the eight shortest 
