@@ -249,7 +249,10 @@ If so, excellent: do a good job; do a fair job; do a job that well applies the f
 ## <a name="changes"></a>Changes ##
 
 As yet, there is not a fixed set of rules about changes. 
-It is anticipated that the following will be true, at least mostly.
+It is anticipated that the following will be true, at least mostly. 
+While this project has few users, its creator feels at liberty to make changes great or small, frequently or rarely. 
+
+* After the userbase becomes substantial, changes would need to be preceded by explanation in an issue, and weight given to arguments posted therein.
 
 * If a territory&rsquo;s currency should be replaced (e.g., <nobr>[ARL](http://en.wikipedia.org/wiki/Argentine_peso#Peso_ley,_1970%E2%80%931983)&#10141;ARP&#10141;ARA&#10141;<span class="markerID">ARS</span>),</nobr> then the same marker will apply to the new currency. The marker would be updated to reflect its new ID: updated ID in documentation; updated filename; within the SVG updated <nobr>`id='...'`.</nobr> 
 
@@ -258,7 +261,6 @@ It is anticipated that the following will be true, at least mostly.
 * If there should be a change in the source of the design of a marker (flag, coat of arms, development bank logo, etc), then the marker might and might not be updated. If the new source admits of a better marker (especially if the new marker would be more distinctive), that would increase the likelihood of an update.
 
 * If a country&rsquo;s 3166 code should change because of a merger or a split, then the marker might and might not be updated, with the better-distinctive preference in the previous bullet.
-
 
 
 
