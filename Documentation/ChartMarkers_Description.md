@@ -145,7 +145,7 @@ Hence markers use at least two colours (and not more than four, as used by
 <nobr><span class="markerID">PS</span>&nbsp;![PS](../ChartMarkers/PS.svg)).</nobr>
 
 9. <a name="dark_edge"></a>For most of the markers the outermost colour is dark, or at least darker than some of the inner colours. 
-So markers are best against a pale background such as white, or a light pastel such as [FT](http://www.ft.com/)&nbsp;pink.
+So markers are best against a pale background such as white, or a light pastel such as [FT&nbsp;pink](https://aboutus.ft.com/company/ft-pink-130).
 
 10. <a name="no_movement"></a>These markers must work on a screen in Excel and Mathematica and Cairo and other software capable of plotting data, in a PDF, and on physical dead-tree paper. 
 Hence: no animations; no blinking; no movement.
