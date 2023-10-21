@@ -162,7 +162,7 @@ A unique ID has been assigned to each marker, these IDs generally being of one o
 * Some markers have an alternate ID ending &ldquo;<span class="markerID">\_2</span>&rdquo;. 
 Each of these alternates is merely a recoloured version of the main ID. 
 Mostly these are for &lsquo;alternate bond product&rsquo;: green bonds, bonds linked to a different inflation index, etc. 
-But the alternates can be used for other purposes, such as for a geographic sub-region of the main.
+But the alternates can be used for other purposes, such as for a large geographic sub-region of the main.
 
 * There are codes based on the [ISO&nbsp;3166&#8209;2](https://en.wikipedia.org/wiki/ISO_3166-2) sub-divisions of [GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB), except that an underscore (&ldquo;<span class="markerID">\_</span>&rdquo;) replaces the dash (&ldquo;<span class="markerID">&#8209;</span>&rdquo;): 
 <nobr><span class="markerID">GB\_ENG</span>&nbsp;![GB\_ENG](../ChartMarkers/GB_ENG.svg),</nobr> 
@@ -242,7 +242,7 @@ Further, the commercial nature of many cryptocurrencies could lead to accusation
 (Indeed, if they were to pay me lots to do the work then I would &mdash; but as yet nobody has offered.) 
 Hence as of writing this project does not include cryptocurrencies. 
 But it might be that somebody who thinks that this is a good project decides to do likewise for the relevant cryptocurrencies. 
-If so, excellent: do a good job; do a fair job; do a job that well applies the principles and desiderata and constraints and style of what has already been done here.
+If so, excellent: do a good job; do a fair job; do a job that well applies the fairness, principles, desiderata, constraints, and style of what has already been done here.
 
 
 
@@ -251,7 +251,7 @@ If so, excellent: do a good job; do a fair job; do a job that well applies the p
 As yet, there is not a fixed set of rules about changes. 
 It is anticipated that the following will be true, at least mostly.
 
-* If a territory&rsquo;s currency should be replaced (e.g., <nobr>[ARL](http://en.wikipedia.org/wiki/Argentine_peso#Peso_ley,_1970%E2%80%931983)&#10141;ARP&#10141;ARA&#10141;<span class="markerID">ARS</span>),</nobr> then the same marker will apply to the new currency. The marker would be updated to reflect its new ID: updated ID in documentation; updated filename; within the file updated <nobr>`id='...'`.</nobr> 
+* If a territory&rsquo;s currency should be replaced (e.g., <nobr>[ARL](http://en.wikipedia.org/wiki/Argentine_peso#Peso_ley,_1970%E2%80%931983)&#10141;ARP&#10141;ARA&#10141;<span class="markerID">ARS</span>),</nobr> then the same marker will apply to the new currency. The marker would be updated to reflect its new ID: updated ID in documentation; updated filename; within the SVG updated <nobr>`id='...'`.</nobr> 
 
 * If a country&rsquo;s 3166 code should change because of a country rename (e.g., [ZR](http://en.wikipedia.org/wiki/Zaire)&#10141;[CD](http://en.wikipedia.org/wiki/ISO_3166-2:CD)), then the same marker will apply, with the small updates in the previous bullet.
 
