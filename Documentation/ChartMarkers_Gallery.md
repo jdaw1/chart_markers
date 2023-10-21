@@ -82,6 +82,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![YER](../ChartMarkers/YER.svg)](#YER) 
 [![JOD](../ChartMarkers/JOD.svg)](#JOD) 
 [![LBP](../ChartMarkers/LBP.svg)](#LBP) 
+[![PS](../ChartMarkers/PS.svg)](#PS) 
 [![EGP](../ChartMarkers/EGP.svg)](#EGP) 
 [![TND](../ChartMarkers/TND.svg)](#TND) 
 [![MAD](../ChartMarkers/MAD.svg)](#MAD) 
@@ -243,6 +244,7 @@ Internal links:
 | YER | ![YER](../ChartMarkers/YER.svg) | <a name="YER">![YER](../ChartMarkers_enlarged/YER_enlarged.svg)</a> | Outer shape inspired by a motif from the Marib Dam in the [emblem of Yemen](http://en.wikipedia.org/wiki/Emblem_of_Yemen), plus extra &lsquo;stones&rsquo; echoing their placement in the [actual Marib Dam](http://en.wikipedia.org/wiki/Marib_Dam). | ![YER](../ChartLines/YER_line.svg)<br/>C49C5B<br/>000000 |
 | JOD | ![JOD](../ChartMarkers/JOD.svg) | <a name="JOD">![JOD](../ChartMarkers_enlarged/JOD_enlarged.svg)</a> | From the [flag of Jordan](http://en.wikipedia.org/wiki/Flag_of_Jordan). | ![JOD](../ChartLines/JOD_line.svg)<br/>CE1126<br/>000000 |
 | LBP | ![LBP](../ChartMarkers/LBP.svg) | <a name="LBP">![LBP](../ChartMarkers_enlarged/LBP_enlarged.svg)</a> | [Flag of Lebanon](http://en.wikipedia.org/wiki/Flag_of_Lebanon), symmetrified. | ![LBP](../ChartLines/LBP_line.svg)<br/>EF3340<br/>009639 |
+| PS | ![PS](../ChartMarkers/PS.svg) | <a name="PS">![PS](../ChartMarkers_enlarged/PS_enlarged.svg)</a> | Triangle from the hoist of the [flag of Palestine](http://en.wikipedia.org/wiki/Flag_of_Palestine), duplicated for symmetry, back to back, in flag colours. | ![PS](../ChartLines/PS_line.svg)<br/>009736<br/>000000 |
 | EGP | ![EGP](../ChartMarkers/EGP.svg) | <a name="EGP">![EGP](../ChartMarkers_enlarged/EGP_enlarged.svg)</a> | Square-based pyramid in [Egyptian-flag](http://en.wikipedia.org/wiki/Flag_of_Egypt) black and white. | ![EGP](../ChartLines/EGP_line.svg)<br/>000000<br/>FFFFFF |
 | TND | ![TND](../ChartMarkers/TND.svg) | <a name="TND">![TND](../ChartMarkers_enlarged/TND_enlarged.svg)</a> | Star from the [flag of Tunisia](http://en.wikipedia.org/wiki/Flag_of_Tunisia). | ![TND](../ChartLines/TND_line.svg)<br/>E70013<br/>FFFFFF |
 | MAD | ![MAD](../ChartMarkers/MAD.svg) | <a name="MAD">![MAD](../ChartMarkers_enlarged/MAD_enlarged.svg)</a> | Star from the [flag of Morocco](http://en.wikipedia.org/wiki/Flag_of_Morocco), the bright red being taken from the [coat of arms](http://en.wikipedia.org/wiki/Coat_of_arms_of_Morocco). | ![MAD](../ChartLines/MAD_line.svg)<br/>006233<br/>FB0F0C |
@@ -392,6 +394,7 @@ Rhombus, &asymp;:
 [![BRL](../ChartMarkers/BRL.svg)](#BRL) 
 [![LU](../ChartMarkers/LU.svg)](#LU) 
 [![BSD](../ChartMarkers/BSD.svg)](#BSD) 
+[![PS](../ChartMarkers/PS.svg)](#PS) 
 [![BYN](../ChartMarkers/BYN.svg)](#BYN) 
 [![\_KfW](../ChartMarkers/\_KfW.svg)](#\_KfW)
 [![YER](../ChartMarkers/YER.svg)](#YER)  
@@ -634,6 +637,7 @@ Green:
 [![SAR](../ChartMarkers/SAR.svg)](#SAR) 
 [![NGN](../ChartMarkers/NGN.svg)](#NGN) 
 [![JMD](../ChartMarkers/JMD.svg)](#JMD) 
+[![PS](../ChartMarkers/PS.svg)](#PS) 
 [![\_NDB](../ChartMarkers/\_NDB.svg)](#\_NDB)
 [![PKR](../ChartMarkers/PKR.svg)](#PKR) 
 [![\_BCIE](../ChartMarkers/\_BCIE.svg)](#\_BCIE) 

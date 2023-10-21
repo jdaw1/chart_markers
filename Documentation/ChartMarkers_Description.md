@@ -134,15 +134,18 @@ This constraint was relevant for
 
 7. <a name="contiguous"></a>Markers must be contiguous, both topologically and optically, and also not hollow. 
 The optically-contiguous constraint requires that markers not comprise large pieces joined by long thin connectors. 
-Pieces may not be hollow: the interior must be filled, for some meaning filled white.
+Pieces may not be hollow: the interior must be filled, for some meaning filled white. 
+E.g.:
+<nobr><span class="markerID">UYU</span>&nbsp;![UYU](../ChartMarkers/UYU.svg).</nobr>
 
 8. <a name="num_colours"></a>Markers might appear many times in close proximity. 
 Many nearby copies of a marker that is a solid block of colour would collectively form a shapeless blob of that colour, indistinguishable from blobs caused by other markers of similar hue. 
-Hence markers use at least two colours (and not more than four, as used by only 
-<nobr><span class="markerID">KWD</span>&nbsp;![KWD](../ChartMarkers/KWD.svg)).</nobr> 
+Hence markers use at least two colours (and not more than four, as used by 
+<nobr><span class="markerID">KWD</span>&nbsp;![KWD](../ChartMarkers/KWD.svg)</nobr> and 
+<nobr><span class="markerID">PS</span>&nbsp;![PS](../ChartMarkers/PS.svg)).</nobr>
 
 9. <a name="dark_edge"></a>For most of the markers the outermost colour is dark, or at least darker than some of the inner colours. 
-So markers are best against a pale background such as white, or a light pastel such as [FT](http://www.ft.com/) pink.
+So markers are best against a pale background such as white, or a light pastel such as [FT](http://www.ft.com/)&nbsp;pink.
 
 10. <a name="no_movement"></a>These markers must work on a screen in Excel and Mathematica and Cairo and other software capable of plotting data, in a PDF, and on physical dead-tree paper. 
 Hence: no animations; no blinking; no movement.
@@ -156,22 +159,21 @@ A unique ID has been assigned to each marker, these IDs generally being of one o
 
 * A two-alpha [ISO&nbsp;3166&#8209;1](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) country code (not necessarily permanently assigned, e.g. <nobr><span class="markerID">XK</span>&nbsp;![XK](../ChartMarkers/XK.svg))</nobr>, typically for countries using a multinational currency. 
 
-* A code based on the [ISO&nbsp;3166&#8209;2](https://en.wikipedia.org/wiki/ISO_3166-2) sub-divisions of [GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB), except that an underscore (&ldquo;<span class="markerID">\_</span>&rdquo;) replaces the dash (&ldquo;<span class="markerID">&#8209;</span>&rdquo;): 
+* Some markers have an alternate ID ending &ldquo;<span class="markerID">\_2</span>&rdquo;. 
+Each of these alternates is merely a recoloured version of the main ID. 
+Mostly these are for &lsquo;alternate bond product&rsquo;: green bonds, bonds linked to a different inflation index, etc. 
+But the alternates can be used for other purposes, such as for a geographic sub-region of the main.
+
+* There are codes based on the [ISO&nbsp;3166&#8209;2](https://en.wikipedia.org/wiki/ISO_3166-2) sub-divisions of [GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB), except that an underscore (&ldquo;<span class="markerID">\_</span>&rdquo;) replaces the dash (&ldquo;<span class="markerID">&#8209;</span>&rdquo;): 
 <nobr><span class="markerID">GB\_ENG</span>&nbsp;![GB\_ENG](../ChartMarkers/GB_ENG.svg),</nobr> 
 <nobr><span class="markerID">GB\_SCT</span>&nbsp;![GB\_SCT](../ChartMarkers/GB_SCT.svg),</nobr> 
 <nobr><span class="markerID">GB\_WLS</span>&nbsp;![GB\_WLS](../ChartMarkers/GB_WLS.svg),</nobr> 
 <nobr><span class="markerID">GB\_NIR</span>&nbsp;![GB\_NIR](../ChartMarkers/GB_NIR.svg),</nobr> 
 <nobr><span class="markerID">GB\_EAW</span>&nbsp;![GB\_EAW](../ChartMarkers/GB_EAW.svg).</nobr> 
+Why just the UK? Sometimes data is reported for England and/or Scotland, rather than for the UK as a whole ([e.g.](http://twitter.com/jdaw1/status/1665068365403115520)), and some sports are organised at the same level. Of these the <nobr><span class="markerID">GB\_EAW</span>&nbsp;![GB\_EAW](../ChartMarkers/GB_EAW.svg)</nobr> marker should be used for green gilts, and perhaps also for the old-style 8-month index-linked gilts first issued &le;&#8239;2002.
 
-* Three countries have an alternate ID ending &ldquo;<span class="markerID">\_2</span>&rdquo;. 
-In all three cases the alternate is merely a recoloured version of the main ID: 
-<nobr><span class="markerID">DE</span>&nbsp;![DE](../ChartMarkers/DE.svg),</nobr> <nobr> <span class="markerID">DE_2</span>&nbsp;![DE_2](../ChartMarkers/DE_2.svg);</nobr> 
-<nobr><span class="markerID">FR</span>&nbsp;![FR](../ChartMarkers/FR.svg),</nobr> <nobr> <span class="markerID">FR_2</span>&nbsp;![FR_2](../ChartMarkers/FR_2.svg);</nobr> and 
-<nobr><span class="markerID">IT</span>&nbsp;![IT](../ChartMarkers/IT.svg),</nobr> <nobr> <span class="markerID">IT_2</span>&nbsp;![IT_2](../ChartMarkers/IT_2.svg).</nobr> 
-Their purposes are described in the [Gallery](ChartMarkers_Gallery.md).
-
-* An invented ID, beginning with an underscore, followed by a few characters which are typically an acronym of the name of the development bank. 
-Of these underscore IDs the eight shortest 
+* For development banks and similar institutions, an invented ID, beginning with an underscore, followed by a few alpha characters, typically being an acronym of the institution&rsquo;s name. 
+Of these IDs the eight shortest 
 <nobr>(<span class="markerID">\_ECB</span>&nbsp;![_ECB](../ChartMarkers/_ECB.svg),</nobr> 
 <nobr><span class="markerID">\_ADB</span>&nbsp;![_ADB](../ChartMarkers/_ADB.svg),</nobr> 
 <nobr><span class="markerID">\_CDB</span>&nbsp;![_CDB](../ChartMarkers/_CDB.svg),</nobr> 
@@ -210,6 +212,10 @@ Symbols have been made for several overlapping sets.
 <nobr><span class="markerID">CDF</span>&nbsp;![CDF](../ChartMarkers/CDF.svg),</nobr> 
 <nobr><span class="markerID">SDG</span>&nbsp;![SDG](../ChartMarkers/SDG.svg),</nobr> and 
 <nobr><span class="markerID">YER</span>&nbsp;![YER](../ChartMarkers/YER.svg).</nobr>
+
+* Those with a substantial presence in global news: 
+<nobr><span class="markerID">KPW</span>&nbsp;![KPW](../ChartMarkers/KPW.svg),</nobr> and 
+<nobr><span class="markerID">PS</span>&nbsp;![PS](../ChartMarkers/PS.svg).</nobr>
 
 * Some highly rated supranational bond issuers, including 
 <nobr><span class="markerID">\_ESM</span>&nbsp;![\_ESM](../ChartMarkers/\_ESM.svg),</nobr> 
@@ -279,7 +285,7 @@ It is anticipated that the following will be true, at least mostly.
 </div>
 
 It has not been possible to make line patterns satisfying all the markers&rsquo; constraints. 
-Without the optical space afforded by shape, colour alone is insufficient to make 153 lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
+Without the optical space afforded by shape, colour alone is insufficient to make 154 lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
 So the distinctness standard has been weakened: lines within a &lsquo;group&rsquo; are different.
 
 But lines from different groups might be similar or identical. 

@@ -23,9 +23,8 @@ The validator warns about the absence of a character encoding, but an encoding w
 
 | &nbsp;ID&nbsp; | Marker | &nbsp;Bytes |
 |:--:|:-:|-----:|
+| PT_2 | ![PT](../ChartMarkers/PT.svg) | 145 |
 | JPY | ![JPY](../ChartMarkers/JPY.svg) | 156 |
-| |  |  &numsp;&vellip;&numsp; |
-| SK_2 | ![SK_2](../ChartMarkers/SK_2.svg) | 261 |
 | |  |  &numsp;&vellip;&numsp; |
 | RUB | ![RUB](../ChartMarkers/RUB.svg) | 507 |
 | INR | ![INR](../ChartMarkers/INR.svg) | 563 |
@@ -38,8 +37,8 @@ The validator warns about the absence of a character encoding, but an encoding w
 
 In coding these markers, priority has been given to compactness and execution efficiency, often at the expense of legiblity of the SVG code to humans. 
 
-So the markers&rsquo; SVG files are concise, ranging from 156 bytes (<span class="markerID">JPY</span>), to a median of 261 bytes, to a maximum of 638 bytes (<span class="markerID">GEL</span>). 
-Of the 153 markers, only six &asymp;&#8239;4.3% exceed 500 bytes: these are included in the nearby table.
+So the markers&rsquo; SVG files are concise, ranging from 145 bytes (<span class="markerID">PT_2</span>), to a median of 261&frac12; bytes, to a mean &asymp;&#8239;289.4 bytes, to a maximum of 638 bytes (<span class="markerID">GEL</span>). 
+Of the 154 markers, for only six &asymp;&#8239;4.3% does the SVG exceed 500 bytes: these are included in the nearby table.
 
 From the [SVG standard](http://svgwg.org/svg2-draft/single-page.html): &ldquo;*Superfluous white space &hellip; may be eliminated &hellip; Thus, in the string "M&nbsp;100&#8209;200", the first coordinate for the "moveto" consumes the characters "100" and stops upon encountering the minus sign because the minus sign cannot follow a digit in the production of a "coordinate". The result is that the first coordinate will be "100" and the second coordinate will be "-200".*&rdquo;
 
@@ -114,7 +113,7 @@ At 1&times; scaling each point would be correct to within <nobr>&plusmn;&#8239;&
 At 2000&times; scaling the worst error would become &plusmn;&#8239;0.01pt which is &plusmn;&#8239;half a pixel on a 3600d.p.i. printer; and the size would be 4000pt &asymp;&nbsp;4&prime;8&Prime; &asymp;&nbsp;1.4&nbsp;metres. 
 So if such an SVG were enlarged to fill any plausible paper type, it would still be pixel-perfect on a quality printer.
 
-If rounded to one fewer decimal places, it might cease to be pixel-perfect if bigger than 400pt &asymp;&nbsp;141mm &asymp;&nbsp;5.6&Prime;. 
+If rounded to one fewer decimal places, it might cease to be pixel-perfect if &#10886;&#8239;400pt &asymp;&nbsp;141mm &asymp;&nbsp;5.6&Prime;. 
 Hence: three decimal places (size&#8239;&#10885;&#8239;14mm&#8239;&asymp;&#8239;0.6&Prime;) might and might not be too few; four would be enough; so, wanting a standard of &lsquo;*too&nbsp;much*&rsquo;, five it is. 
 Some shapes are drawn on a canvas significantly larger than 2 across (e.g. 
 <nobr><span class="markerID">XAG</span> ![XAG](../ChartMarkers/XAG.svg)</nobr> 

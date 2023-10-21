@@ -48,7 +48,7 @@
 
 <svg width='10' height='10' viewBox='-3 -3 6 6' id='PT' xmlns='http://www.w3.org/2000/svg'><circle fill='#DA291C' r='3'/><circle fill='#046A38' r='2'/></svg>
 
-<svg width='10' height='10' viewBox='-3 -3 6 6' id='PT_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#046A38' r='3'/><circle fill='#DA291C' r='2'/></svg>
+<svg width='10' height='10' viewBox='-3 -3 6 6' id='PT_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#DA291C' r='3'/><circle r='2'/></svg>
 
 <svg width='10' height='10' viewBox='-27 -27 54 54' id='EE' xmlns='http://www.w3.org/2000/svg'><circle fill='#0072CE' r='27'/><circle r='19'/><circle fill='#FFF' r='10'/></svg>
 
@@ -209,6 +209,8 @@
 <svg width='9.2' height='9.2' viewBox='-3 -3 6 6' id='HR' xmlns='http://www.w3.org/2000/svg'><path fill='#FFF' d='M1 3H-1L-3 1V-1L-1 -3H1L3 -1V1Z'/><path fill='red' d='M3 1V3H1V-3H3v2H-3V-3h2V3H-3V1Z'/></svg>
 
 <svg width='14.4' height='9.6' viewBox='-81 -54 162 108' id='CZK' xmlns='http://www.w3.org/2000/svg'><path fill='#11457E' d='M81 0L0 54 -81 0 0 -54Z'/><path fill='#D7141A' d='M57 0L0 38 -57 0 0 -38Z'/><path fill='#FFF' d='M30 0L0 20 -30 0 0 -20Z'/></svg>
+
+<svg width='13.6' height='10.2' viewBox='-360 -270 720 540' id='PS' xmlns='http://www.w3.org/2000/svg'><path fill='#009736' d='M360 0L0 270 -360 0 0 -270Z'/><path fill='#FFF' d='M276 0L0 207 -276 0 0 -207Z'/><path d='M188 0L0 141 -188 0 0 -141Z'/><path fill='#EE2A35' d='M96 0L0 72 -96 0 0 -72Z'/></svg>
 
 <svg width='9.2' height='9.2' viewBox='-5 -5 10 10' id='_ESM' xmlns='http://www.w3.org/2000/svg'><rect fill='#004494' x='-5' y='-5' width='10' height='10' rx='2'/><path fill='#FFF' d='M3 1V3H-3V1L3 -1V-3H-3v2Z'/><path fill='#FFD500' d='M3 1V-1H-3V1Z'/></svg>
 
