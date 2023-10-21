@@ -48,7 +48,7 @@
 
 <svg width='10' height='10' viewBox='-3 -3 6 6' id='PT' xmlns='http://www.w3.org/2000/svg'><circle fill='#DA291C' r='3'/><circle fill='#046A38' r='2'/></svg>
 
-<svg width='10' height='10' viewBox='-3 -3 6 6' id='PT_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#DA291C' r='3'/><circle r='2'/></svg>
+<svg width='10' height='10' viewBox='-3 -3 6 6' id='PT_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#DA291C' r='3'/><circle fill='#0F0' r='2'/></svg>
 
 <svg width='10' height='10' viewBox='-27 -27 54 54' id='EE' xmlns='http://www.w3.org/2000/svg'><circle fill='#0072CE' r='27'/><circle r='19'/><circle fill='#FFF' r='10'/></svg>
 
