@@ -111,6 +111,15 @@ Hence you are hereby encouraged to gift to [me](http://www.jdawiseman.com/author
 
 
 
+## <a name="be_nice"></a>Not enforceably in confidence ##
+
+Unless I have clearly and explicitly agreed that a message will be treated in confidence, grumbles received will not be treated in confidence. 
+Requests for confidentiality will generally be accepted, but with a clause resembling &ldquo;unless I think the request is silly or inappropriate&rdquo;. 
+This is an open-source project: people, friends and others, can see my work and reasoning. 
+Requests concerning this project should also be fully open.
+
+
+
 ## <a name="be_nice"></a>Be nice, be fair, accept decisions ##
 
 Please, whatever the request, do ask nicely and politely. 
