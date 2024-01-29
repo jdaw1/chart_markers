@@ -49,6 +49,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![MYR](../ChartMarkers/MYR.svg)](#MYR) 
 [![IDR](../ChartMarkers/IDR.svg)](#IDR) 
 [![THB](../ChartMarkers/THB.svg)](#THB) 
+[![MMK](../ChartMarkers/MMK.svg)](#MMK) 
 [![PHP](../ChartMarkers/PHP.svg)](#PHP) 
 [![VND](../ChartMarkers/VND.svg)](#VND) 
 [![INR](../ChartMarkers/INR.svg)](#INR) 
@@ -56,6 +57,8 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![BDT](../ChartMarkers/BDT.svg)](#BDT) 
 [![LKR](../ChartMarkers/LKR.svg)](#LKR) 
 [![KZT](../ChartMarkers/KZT.svg)](#KZT) 
+[![UZS](../ChartMarkers/UZS.svg)](#UZS)
+[![TMT](../ChartMarkers/TMT.svg)](#TMT)
 [![MNT](../ChartMarkers/MNT.svg)](#MNT)
 [![KPW](../ChartMarkers/KPW.svg)](#KPW)&nbsp;&nbsp;&nbsp; 
 [![DKK](../ChartMarkers/DKK.svg)](#DKK) 
@@ -71,6 +74,8 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![MDL](../ChartMarkers/MDL.svg)](#MDL) 
 [![UAH](../ChartMarkers/UAH.svg)](#UAH) 
 [![GEL](../ChartMarkers/GEL.svg)](#GEL) 
+[![AZN](../ChartMarkers/AZN.svg)](#AZN) 
+[![AMD](../ChartMarkers/AMD.svg)](#AMD) 
 [![BYN](../ChartMarkers/BYN.svg)](#BYN) 
 [![RUB](../ChartMarkers/RUB.svg)](#RUB)&nbsp;&nbsp;&nbsp; 
 [![TRY](../ChartMarkers/TRY.svg)](#TRY) 
@@ -78,10 +83,12 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![AED](../ChartMarkers/AED.svg)](#AED) 
 [![OMR](../ChartMarkers/OMR.svg)](#OMR) 
 [![QAR](../ChartMarkers/QAR.svg)](#QAR) 
+[![BHD](../ChartMarkers/BHD.svg)](#BHD) 
 [![KWD](../ChartMarkers/KWD.svg)](#KWD) 
 [![YER](../ChartMarkers/YER.svg)](#YER) 
 [![JOD](../ChartMarkers/JOD.svg)](#JOD) 
 [![LBP](../ChartMarkers/LBP.svg)](#LBP) 
+[![SYP](../ChartMarkers/SYP.svg)](#SYP) 
 [![PS](../ChartMarkers/PS.svg)](#PS) 
 [![EGP](../ChartMarkers/EGP.svg)](#EGP) 
 [![TND](../ChartMarkers/TND.svg)](#TND) 
@@ -113,8 +120,11 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![BOB](../ChartMarkers/BOB.svg)](#BOB) 
 [![BZD](../ChartMarkers/BZD.svg)](#BZD) 
 [![EC](../ChartMarkers/EC.svg)](#EC) 
-[![VE](../ChartMarkers/VE.svg)](#VE) 
+[![GYD](../ChartMarkers/GYD.svg)](#GYD) 
+[![VED](../ChartMarkers/VED.svg)](#VED) 
 [![SV](../ChartMarkers/SV.svg)](#SV) 
+[![CRC](../ChartMarkers/CRC.svg)](#CRC) 
+[![GTQ](../ChartMarkers/GTQ.svg)](#GTQ) 
 [![PAB](../ChartMarkers/PAB.svg)](#PAB) 
 [![DOP](../ChartMarkers/DOP.svg)](#DOP) 
 [![TTD](../ChartMarkers/TTD.svg)](#TTD) 
@@ -208,6 +218,7 @@ Internal links:
 | MYR | ![MYR](../ChartMarkers/MYR.svg) | <a name="MYR">![MYR](../ChartMarkers_enlarged/MYR_enlarged.svg)</a> | Star from the [flag of Malaysia](http://web.archive.org/web/20120318034534/http://pmr.penerangan.gov.my/index.php/maklumat-kenegaraan/194-bendera-malaysia.html), simplified from 14 outer points to 14 vertices (i.e., 7 outer points). The rectangle has rotational symmetry of order 2, the star of order 7, with the same centres, but the whole does not have rotational symmetry. | ![MYR](../ChartLines/MYR_line.svg)<br/>00326A<br/>DECE05 |
 | IDR | ![IDR](../ChartMarkers/IDR.svg) | <a name="IDR">![IDR](../ChartMarkers_enlarged/IDR_enlarged.svg)</a> | From the [flag of Indonesia](http://en.wikipedia.org/wiki/Flag_of_Indonesia). | ![IDR](../ChartLines/IDR_line.svg)<br/>FF0000<br/>FFFFFF |
 | THB | ![THB](../ChartMarkers/THB.svg) | <a name="THB">![THB](../ChartMarkers_enlarged/THB_enlarged.svg)</a> | From the [flag of Thailand](http://en.wikipedia.org/wiki/Flag_of_Thailand). | ![THB](../ChartLines/THB_line.svg)<br/>FE0000<br/>010080 |
+| MMK | ![MMK](../ChartMarkers/MMK.svg) | <a name="MMK">![MMK](../ChartMarkers_enlarged/MMK_enlarged.svg)</a> | From the [flag of Thailand](http://en.wikipedia.org/wiki/Flag_of_Thailand). | ![MMK](../ChartLines/MMK_line.svg)<br/>34B233<br/>FECB00 |
 | PHP | ![PHP](../ChartMarkers/PHP.svg) | <a name="PHP">![PHP](../ChartMarkers_enlarged/PHP_enlarged.svg)</a> | Big star from the [flag of the Philippines](http://en.wikipedia.org/wiki/Flag_of_the_Philippines#Construction), simplified, in flag gold and blue. | ![PHP](../ChartLines/PHP_line.svg)<br/>0038A8<br/>FCD116 |
 | VND | ![VND](../ChartMarkers/VND.svg) | <a name="VND">![VND](../ChartMarkers_enlarged/VND_enlarged.svg)</a> | Banded oval from logo of [State Bank of Vietnam](http://www.sbv.gov.vn/webcenter/portal/en/); colours from [flag](http://en.wikipedia.org/wiki/Flag_of_Vietnam). | ![VND](../ChartLines/VND_line.svg)<br/>FFFF00<br/>DA251D |
 | INR | ![INR](../ChartMarkers/INR.svg) | <a name="INR">![INR](../ChartMarkers_enlarged/INR_enlarged.svg)</a> | [Ashoka Chakra](http://en.wikipedia.org/wiki/Ashoka_Chakra) from the [flag of India](http://en.wikipedia.org/wiki/Flag_of_India), simplified, in original navy blue. | ![INR](../ChartLines/INR_line.svg)<br/>250E62<br/>FFFFFF |
@@ -215,6 +226,8 @@ Internal links:
 | BDT | ![BDT](../ChartMarkers/BDT.svg) | <a name="BDT">![BDT](../ChartMarkers_enlarged/BDT_enlarged.svg)</a> | From the [flag of Bangladesh](http://en.wikipedia.org/wiki/Flag_of_Bangladesh). | ![BDT](../ChartLines/BDT_line.svg)<br/>006A4E<br/>F42A41 |
 | LKR | ![LKR](../ChartMarkers/LKR.svg) | <a name="LKR">![LKR](../ChartMarkers_enlarged/LKR_enlarged.svg)</a> | [Flag of Sri Lanka](http://en.wikipedia.org/wiki/Flag_of_Sri_Lanka), much simplified. | ![LKR](../ChartLines/LKR_line.svg)<br/>79052C<br/>FDB221 |
 | KZT | ![KZT](../ChartMarkers/KZT.svg) | <a name="KZT">![KZT](../ChartMarkers_enlarged/KZT_enlarged.svg)</a> | [Flag of Kazakhstan](http://en.wikipedia.org/wiki/Flag_of_Kazakhstan), simplified and rearranged. | ![KZT](../ChartLines/KZT_line.svg)<br/>00AEC7<br/>F6E500 |
+| UZS | ![UZS](../ChartMarkers/UZS.svg) | <a name="UZS">![UZS](../ChartMarkers_enlarged/UZS_enlarged.svg)</a> | Colours and pieces from the [flag of Uzbekistan](http://en.wikipedia.org/wiki/Flag_of_Uzbekistan): crescent moon duplicated for symmetry, and a star. | ![UZS](../ChartLines/UZS_line.svg)<br/>1EB53A<br/>0099B5 |
+| TMT | ![TMT](../ChartMarkers/TMT.svg) | <a name="TMT">![TMT](../ChartMarkers_enlarged/TMT_enlarged.svg)</a> | From the [emblem of Turkmenistan](http://en.wikipedia.org/wiki/Emblem_of_Turkmenistan). | ![TMT](../ChartLines/TMT_line.svg)<br/>FFC72C<br/>00853A |
 | MNT | ![MNT](../ChartMarkers/MNT.svg) | <a name="MNT">![MNT](../ChartMarkers_enlarged/MNT_enlarged.svg)</a> | A symmetrified part of the [Soyombo symbol](http://en.wikipedia.org/wiki/Soyombo_symbol) in the [flag of Mongolia](http://en.wikipedia.org/wiki/Flag_of_Mongolia). The line uses blue from the flag, as red-yellow combinations taken by <span class="markerID">[CNY](#CNY)</span> and <span class="markerID">[VND](#VND)</span>. | ![MNT](../ChartLines/MNT_line.svg)<br/>0066B3<br/>DA2032 |
 | KPW | ![KPW](../ChartMarkers/KPW.svg) | <a name="KPW">![KPW](../ChartMarkers_enlarged/KPW_enlarged.svg)</a> | From the [flag of North Korea](http://en.wikipedia.org/wiki/Flag_of_North_Korea). The line uses black instead of white, as allowed {white, red, blue} combinations taken by countries with higher GDP. | ![KPW](../ChartLines/KPW_line.svg)<br/>000000<br/>ED1C27 |
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#asia)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#balkans_caucasus_eastern_europe)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="western_central_europe">Western and Central Europe, non&#x2011;&euro;</a></h2> | |
@@ -232,6 +245,8 @@ Internal links:
 | MDL | ![MDL](../ChartMarkers/MDL.svg) | <a name="MDL">![MDL](../ChartMarkers_enlarged/MDL_enlarged.svg)</a> | Inspired by the top and side views of the [Romanita Collective Housing Tower](http://socialistmodernism.com/the-romanita-collective-housing-tower-building-chisinau/), [Chi&#537;in&abreve;u](http://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u), in the colours of the [flag of Moldova](http://en.wikipedia.org/wiki/Flag_of_Moldova). | ![MDL](../ChartLines/MDL_line.svg)<br/>FFD200<br/>CC092F |
 | UAH | ![UAH](../ChartMarkers/UAH.svg) | <a name="UAH">![UAH](../ChartMarkers_enlarged/UAH_enlarged.svg)</a> | From the [flag of Ukraine](http://en.wikipedia.org/wiki/Flag_of_Ukraine). | ![UAH](../ChartLines/UAH_line.svg)<br/>0057B7<br/>FFD700 |
 | GEL | ![GEL](../ChartMarkers/GEL.svg) | <a name="GEL">![GEL](../ChartMarkers_enlarged/GEL_enlarged.svg)</a> | Crosses from the [flag of Georgia](http://en.wikipedia.org/wiki/Flag_of_Georgia_(country)). At the likely size of a marker, the curve in the short sides would cause an indentation of less than a pixel, so those sides have been made straight. | ![GEL](../ChartLines/GEL_line.svg)<br/>FF0000<br/>FFFFFF |
+| AZN | ![AZN](../ChartMarkers/AZN.svg) | <a name="AZN">![AZN](../ChartMarkers_enlarged/AZN_enlarged.svg)</a> | From the [National emblem of Azerbaijan](http://en.wikipedia.org/wiki/National_emblem_of_Azerbaijan). | ![AZN](../ChartLines/AZN_line.svg)<br/>0098C3<br/>FFFFFF |
+| AMD | ![AMD](../ChartMarkers/AMD.svg) | <a name="AMD">![AMD](../ChartMarkers_enlarged/AMD_enlarged.svg)</a> | Eight-pointed rosette taken from the [flag of the President of Armenia](http://en.wikipedia.org/wiki/Flag_of_Armenia#/media/File:Flag_of_the_President_of_Armenia.svg). | ![AMD](../ChartLines/AMD_line.svg)<br/>0033A0<br/>F2A800 |
 | BYN | ![BYN](../ChartMarkers/BYN.svg) | <a name="BYN">![BYN](../ChartMarkers_enlarged/BYN_enlarged.svg)</a> | From pattern in the [flag of Belarus](http://en.wikipedia.org/wiki/Flag_of_Belarus). | ![BYN](../ChartLines/BYN_line.svg)<br/>CF101A<br/>FFFFFF |
 | RUB | ![RUB](../ChartMarkers/RUB.svg) | <a name="RUB">![RUB](../ChartMarkers_enlarged/RUB_enlarged.svg)</a> | <p>Based on the medal [Hero of the Russian Federation](http://en.wikipedia.org/wiki/Hero_of_the_Russian_Federation), measurements from the [wikipedia image](http://upload.wikimedia.org/wikipedia/commons/c/cb/RIAN_archive_470774_Gold_Star_medal_%28cropped%29.jpg) being consistent with an inner radius of 0.527.</p><p>For a full-symmetry five-pointed star, area&nbsp;=&nbsp;outer&#8239;&middot;&#8239;inner&#8239;&middot;&#8239;&radic;(10&#8239;&minus;&#8239;2&radic;5)&#8239;&middot;&#8239;5/4, the constant being &asymp;&#8239;2.939. For a regular 5&frasl;2 star the inner radius is &frac12;&#8239;(3&#8239;&minus;&#8239;&radic;5) &asymp;&nbsp;0.382 &DoubleLongRightArrow;&nbsp;with same outer radius this RUB star would have an area &asymp;&nbsp;0.527&#8239;/&#8239;0.382 &asymp;&nbsp;1.38&nbsp;times bigger. Hence it is slighty smaller than the other five-pointed stars.</p> | ![RUB](../ChartLines/RUB_line.svg)<br/>6A571B<br/>D4AF37 |
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#balkans_caucasus_eastern_europe)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#africa)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="middle_east_north_africa">Middle East and North Africa</a></h2> | |
@@ -240,10 +255,12 @@ Internal links:
 | AED | ![AED](../ChartMarkers/AED.svg) | <a name="AED">![AED](../ChartMarkers_enlarged/AED_enlarged.svg)</a> | *Burj Khalifa*, tier 0 [floor plan](http://en.wikipedia.org/wiki/Burj_Khalifa#Architecture_and_design); colours from the [flag of the United Arab Emirates](http://en.wikipedia.org/wiki/Flag_of_United_Arab_Emirates). | ![AED](../ChartLines/AED_line.svg)<br/>009639<br/>EF3340 |
 | OMR | ![OMR](../ChartMarkers/OMR.svg) | <a name="OMR">![OMR](../ChartMarkers_enlarged/OMR_enlarged.svg)</a> | From the badge of the Albusaidi Dynasty in the hoist of the [flag of Oman](http://en.wikipedia.org/wiki/Flag_of_Oman), with the crossed swords, but without the ornate horsebit, and without the asymmetry of the curved dagger. | ![OMR](../ChartLines/OMR_line.svg)<br/>C8102E<br/>FFD700 |
 | QAR | ![QAR](../ChartMarkers/QAR.svg) | <a name="QAR">![QAR](../ChartMarkers_enlarged/QAR_enlarged.svg)</a> | From the [flag of Qatar](http://www.vexilla-mundi.com/qatar_flag.html). | ![QAR](../ChartLines/QAR_line.svg)<br/>6C1D45<br/>FFFFFF |
+| BHD | ![BHD](../ChartMarkers/BHD.svg) | <a name="BHD">![BHD](../ChartMarkers_enlarged/BHD_enlarged.svg)</a> | From the [flag of Bahrain](http://en.wikipedia.org/wiki/Flag_of_Bahrain). | ![QAR](../ChartLines/BHD_line.svg)<br/>DA291C |
 | KWD | ![KWD](../ChartMarkers/KWD.svg) | <a name="KWD">![KWD](../ChartMarkers_enlarged/KWD_enlarged.svg)</a> | Black isosceles trapezium in hoist of [flag of Kuwait](http://en.wikipedia.org/wiki/Flag_of_Kuwait), for symmetry duplicated back-to-back, in flag colours. | ![KWD](../ChartLines/KWD_line.svg)<br/>000000<br/>CE1126 |
 | YER | ![YER](../ChartMarkers/YER.svg) | <a name="YER">![YER](../ChartMarkers_enlarged/YER_enlarged.svg)</a> | Outer shape inspired by a motif from the Marib Dam in the [emblem of Yemen](http://en.wikipedia.org/wiki/Emblem_of_Yemen), plus extra &lsquo;stones&rsquo; echoing their placement in the [actual Marib Dam](http://en.wikipedia.org/wiki/Marib_Dam). | ![YER](../ChartLines/YER_line.svg)<br/>C49C5B<br/>000000 |
 | JOD | ![JOD](../ChartMarkers/JOD.svg) | <a name="JOD">![JOD](../ChartMarkers_enlarged/JOD_enlarged.svg)</a> | From the [flag of Jordan](http://en.wikipedia.org/wiki/Flag_of_Jordan). | ![JOD](../ChartLines/JOD_line.svg)<br/>CE1126<br/>000000 |
 | LBP | ![LBP](../ChartMarkers/LBP.svg) | <a name="LBP">![LBP](../ChartMarkers_enlarged/LBP_enlarged.svg)</a> | [Flag of Lebanon](http://en.wikipedia.org/wiki/Flag_of_Lebanon), symmetrified. | ![LBP](../ChartLines/LBP_line.svg)<br/>EF3340<br/>009639 |
+| SYP | ![SYP](../ChartMarkers/SYP.svg) | <a name="SYP">![SYP](../ChartMarkers_enlarged/SYP_enlarged.svg)</a> | Two stars from the [flag of Syria](http://en.wikipedia.org/wiki/Flag_of_Syria), in flag colours. | ![SYP](../ChartLines/SYP_line.svg)<br/>007A3D<br/>000000 |
 | PS | ![PS](../ChartMarkers/PS.svg) | <a name="PS">![PS](../ChartMarkers_enlarged/PS_enlarged.svg)</a> | Triangle from the hoist of the [flag of Palestine](http://en.wikipedia.org/wiki/Flag_of_Palestine), for symmetry duplicated back-to-back, in flag colours. | ![PS](../ChartLines/PS_line.svg)<br/>009736<br/>000000 |
 | EGP | ![EGP](../ChartMarkers/EGP.svg) | <a name="EGP">![EGP](../ChartMarkers_enlarged/EGP_enlarged.svg)</a> | Square-based pyramid in [Egyptian-flag](http://en.wikipedia.org/wiki/Flag_of_Egypt) black and white. | ![EGP](../ChartLines/EGP_line.svg)<br/>000000<br/>FFFFFF |
 | TND | ![TND](../ChartMarkers/TND.svg) | <a name="TND">![TND](../ChartMarkers_enlarged/TND_enlarged.svg)</a> | Star from the [flag of Tunisia](http://en.wikipedia.org/wiki/Flag_of_Tunisia). | ![TND](../ChartLines/TND_line.svg)<br/>E70013<br/>FFFFFF |
@@ -277,8 +294,11 @@ Internal links:
 | BOB | ![BOB](../ChartMarkers/BOB.svg) | <a name="BOB">![BOB](../ChartMarkers_enlarged/BOB_enlarged.svg)</a> | [Wiphala](http://en.wikipedia.org/wiki/Flag_of_Bolivia#/media/File:Banner_of_the_Qulla_Suyu.svg), dual flag of Bolivia, simplified from 7&times;7 to 5&times;5. | ![BOB](../ChartLines/BOB_line.svg)<br/>000000<br/>FFFFFF |
 | BZD | ![BZD](../ChartMarkers/BZD.svg) | <a name="BZD">![BZD](../ChartMarkers_enlarged/BZD_enlarged.svg)</a> | From the [flag of Belize](http://en.wikipedia.org/wiki/Flag_of_Belize). | ![BZD](../ChartLines/BZD_line.svg)<br/>1D428A<br/>C8102E |
 | EC | ![EC](../ChartMarkers/EC.svg) | <a name="EC">![EC](../ChartMarkers_enlarged/EC_enlarged.svg)</a> | Oval from the [coat of arms of Ecuador](http://en.wikipedia.org/wiki/Flag_of_Ecuador#/media/File:Coat_of_arms_of_Ecuador.svg); in [flag](http://en.wikipedia.org/wiki/Flag_of_Ecuador) yellow-blue-red. | ![EC](../ChartLines/EC_line.svg)<br/>0072CE<br/>FFD100 |
-| VE | ![VE](../ChartMarkers/VE.svg) | <a name="VE">![VE](../ChartMarkers_enlarged/VE_enlarged.svg)</a> | Star and colours from the [flag of Venezuela](http://en.wikipedia.org/wiki/Flag_of_Venezuela). | ![VE](../ChartLines/VE_line.svg)<br/>FCE300<br/>003DA5 |
+| GYD | ![GYD](../ChartMarkers/GYD.svg) | <a name="GYD">![GYD](../ChartMarkers_enlarged/GYD_enlarged.svg)</a> | Arrowhead and colours from the [flag of Guyana](http://en.wikipedia.org/wiki/Flag_of_Guyana). | ![GYD](../ChartLines/GYD_line.svg)<br/>2A936A<br/>BE1E2D |
+| VED | ![VED](../ChartMarkers/VED.svg) | <a name="VED">![VED](../ChartMarkers_enlarged/VED_enlarged.svg)</a> | Star and colours from the [flag of Venezuela](http://en.wikipedia.org/wiki/Flag_of_Venezuela). | ![VED](../ChartLines/VED_line.svg)<br/>FCE300<br/>003DA5 |
 | SV | ![SV](../ChartMarkers/SV.svg) | <a name="SV">![SV](../ChartMarkers_enlarged/SV_enlarged.svg)</a> | From the [flag of El Salvador](http://en.wikipedia.org/wiki/Flag_of_El_Salvador). | ![SV](../ChartLines/SV_line.svg)<br/>005EB8<br/>FFFFFF |
+| CRC | ![CRC](../ChartMarkers/CRC.svg) | <a name="CRC">![CRC](../ChartMarkers_enlarged/CRC_enlarged.svg)</a> | From the [flag of Costa Rica](http://en.wikipedia.org/wiki/Flag_of_Costa_Rica). | ![CRC](../ChartLines/CRC_line.svg)<br/>000000<br/>DA291C |
+| GTQ | ![GTQ](../ChartMarkers/GTQ.svg) | <a name="GTQ">![GTQ](../ChartMarkers_enlarged/GTQ_enlarged.svg)</a> | From the [flag of Guatemala](http://en.wikipedia.org/wiki/Flag_of_Guatemala). | ![GTQ](../ChartLines/GTQ_line.svg)<br/>4997D0<br/>FFFFFF |
 | PAB | ![PAB](../ChartMarkers/PAB.svg) | <a name="PAB">![PAB](../ChartMarkers_enlarged/PAB_enlarged.svg)</a> | From the [flag of Panama](http://en.wikipedia.org/wiki/Flag_of_Panama). The square has rotational symmetry of order 4, the star of order 5, with the same centres, but the whole does not have rotational symmetry. | ![PAB](../ChartLines/PAB_line.svg)<br/>072357<br/>DA121A |
 | DOP | ![DOP](../ChartMarkers/DOP.svg) | <a name="DOP">![DOP](../ChartMarkers_enlarged/DOP_enlarged.svg)</a> | From the [flag of the Dominican Republic](http://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic). | ![DOP](../ChartLines/DOP_line.svg)<br/>002D62<br/>CE1126 |
 | TTD | ![TTD](../ChartMarkers/TTD.svg) | <a name="TTD">![TTD](../ChartMarkers_enlarged/TTD_enlarged.svg)</a> | From the [flag of Trinidad and Tobago](http://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago). | ![TTD](../ChartLines/TTD_line.svg)<br/>C8102E<br/>000000 |
@@ -348,11 +368,13 @@ Rectangle, &asymp;:
 [![BOB](../ChartMarkers/BOB.svg)](#BOB) 
 [![DE](../ChartMarkers/DE.svg)](#DE) 
 [![SV](../ChartMarkers/SV.svg)](#SV) 
+[![GTQ](../ChartMarkers/GTQ.svg)](#GTQ) 
 [![GR](../ChartMarkers/GR.svg)](#GR) 
 [![TWD](../ChartMarkers/TWD.svg)](#TWD) 
 [![\_NIB](../ChartMarkers/\_NIB.svg)](#\_NIB) 
 [![IDR](../ChartMarkers/IDR.svg)](#IDR) 
 [![THB](../ChartMarkers/THB.svg)](#THB) 
+[![CRC](../ChartMarkers/CRC.svg)](#CRC) 
 [![CLP](../ChartMarkers/CLP.svg)](#CLP) 
 [![BZD](../ChartMarkers/BZD.svg)](#BZD) 
 [![PAB](../ChartMarkers/PAB.svg)](#PAB) 
@@ -377,9 +399,11 @@ Rectangle, &asymp;:
 [![AT](../ChartMarkers/AT.svg)](#AT) 
 [![CY](../ChartMarkers/CY.svg)](#CY) 
 [![QAR](../ChartMarkers/QAR.svg)](#QAR) 
+[![BHD](../ChartMarkers/BHD.svg)](#BHD) 
 [![DZD](../ChartMarkers/DZD.svg)](#DZD) 
 [![LBP](../ChartMarkers/LBP.svg)](#LBP) 
 [![SAR](../ChartMarkers/SAR.svg)](#SAR) 
+[![MMK](../ChartMarkers/MMK.svg)](#MMK) 
 [![NGN](../ChartMarkers/NGN.svg)](#NGN) 
 [![JMD](../ChartMarkers/JMD.svg)](#JMD) 
 [![\_BCIE](../ChartMarkers/\_BCIE.svg)](#\_BCIE) 
@@ -422,10 +446,12 @@ Circle, &asymp;:
 [![\_CADES](../ChartMarkers/\_CADES.svg)](#\_CADES) 
 [![UGX](../ChartMarkers/UGX.svg)](#UGX) 
 [![COP](../ChartMarkers/COP.svg)](#COP) 
+[![AZN](../ChartMarkers/AZN.svg)](#AZN) 
 [![MDL](../ChartMarkers/MDL.svg)](#MDL) 
 [![\_IADB](../ChartMarkers/\_IADB.svg)](#\_IADB) 
 [![ETB](../ChartMarkers/ETB.svg)](#ETB) 
 [![KZT](../ChartMarkers/KZT.svg)](#KZT) 
+[![UZS](../ChartMarkers/UZS.svg)](#UZS)
 [![\_CDB](../ChartMarkers/\_CDB.svg)](#\_CDB) 
 [![ALL](../ChartMarkers/ALL.svg)](#ALL) 
 [![AOA](../ChartMarkers/AOA.svg)](#AOA) 
@@ -439,8 +465,10 @@ Circle, &asymp;:
 [![\_EBRD](../ChartMarkers/\_EBRD.svg)](#\_EBRD) 
 [![IT](../ChartMarkers/IT.svg)](#IT) 
 [![VND](../ChartMarkers/VND.svg)](#VND) 
+[![GYD](../ChartMarkers/GYD.svg)](#GYD) 
 [![MNT](../ChartMarkers/MNT.svg)](#MNT) 
 [![EC](../ChartMarkers/EC.svg)](#EC) 
+[![AMD](../ChartMarkers/AMD.svg)](#AMD) 
 [![FR](../ChartMarkers/FR.svg)](#FR) 
 [![\_IsDB](../ChartMarkers/_IsDB.svg)](#_IsDB) 
 [![HKD](../ChartMarkers/HKD.svg)](#HKD) 
@@ -455,16 +483,18 @@ Star:
 [![PKR](../ChartMarkers/PKR.svg)](#PKR) 
 [![TRY](../ChartMarkers/TRY.svg)](#TRY) 
 [![MAD](../ChartMarkers/MAD.svg)](#MAD) 
+[![SYP](../ChartMarkers/SYP.svg)](#SYP) 
 [![GHS](../ChartMarkers/GHS.svg)](#GHS) 
 [![SN](../ChartMarkers/SN.svg)](#SN) 
-[![VE](../ChartMarkers/VE.svg)](#VE) 
+[![VED](../ChartMarkers/VED.svg)](#VED) 
 [![RUB](../ChartMarkers/RUB.svg)](#RUB) 
 [![AUD](../ChartMarkers/AUD.svg)](#AUD) 
 [![JOD](../ChartMarkers/JOD.svg)](#JOD) 
 [![MXN](../ChartMarkers/MXN.svg)](#MXN) 
 [![ILS](../ChartMarkers/ILS.svg)](#ILS) 
 [![SI](../ChartMarkers/SI.svg)](#SI) 
-[![PHP](../ChartMarkers/PHP.svg)](#PHP)&nbsp;&nbsp; 
+[![PHP](../ChartMarkers/PHP.svg)](#PHP) 
+[![TMT](../ChartLines/TMT_line.svg)](#TMT)&nbsp;&nbsp; 
 Cross: 
 [![CHF](../ChartMarkers/CHF.svg)](#CHF) 
 [![SEK](../ChartMarkers/SEK.svg)](#SEK) 
@@ -514,6 +544,7 @@ Blue:
 [![\_KfW](../ChartMarkers/\_KfW.svg)](#\_KfW) 
 [![ILS](../ChartMarkers/ILS.svg)](#ILS) 
 [![SV](../ChartMarkers/SV.svg)](#SV) 
+[![GTQ](../ChartMarkers/GTQ.svg)](#GTQ) 
 [![GR](../ChartMarkers/GR.svg)](#GR) 
 [![UYU](../ChartMarkers/UYU.svg)](#UYU) 
 [![FI](../ChartMarkers/FI.svg)](#FI) 
@@ -531,10 +562,13 @@ Blue + red:
 [![NOK](../ChartMarkers/NOK.svg)](#NOK) 
 [![KRW](../ChartMarkers/KRW.svg)](#KRW) 
 [![THB](../ChartMarkers/THB.svg)](#THB) 
+[![CRC](../ChartMarkers/CRC.svg)](#CRC) 
 [![ISK](../ChartMarkers/ISK.svg)](#ISK) 
 [![CZK](../ChartMarkers/CZK.svg)](#CZK) 
 [![RSD](../ChartMarkers/RSD.svg)](#RSD) 
 [![ALL](../ChartMarkers/ALL.svg)](#ALL) 
+[![AZN](../ChartMarkers/AZN.svg)](#AZN) 
+[![AMD](../ChartMarkers/AMD.svg)](#AMD) 
 [![KPW](../ChartMarkers/KPW.svg)](#KPW) 
 [![CLP](../ChartMarkers/CLP.svg)](#CLP) 
 [![BZD](../ChartMarkers/BZD.svg)](#BZD) 
@@ -546,7 +580,7 @@ Blue + red:
 [![LU](../ChartMarkers/LU.svg)](#LU) 
 [![\_EFSF](../ChartMarkers/\_EFSF.svg)](#\_EFSF)
 
-Yellow or orange &nbsp;+&nbsp; blue or black or brown: 
+Yellow or orange&nbsp; +&nbsp; blue or black or brown: 
 [![BE](../ChartMarkers/BE.svg)](#BE) 
 [![LKR](../ChartMarkers/LKR.svg)](#LKR) 
 [![RUB](../ChartMarkers/RUB.svg)](#RUB) 
@@ -569,7 +603,7 @@ Yellow or orange &nbsp;+&nbsp; blue or black or brown:
 [![SI](../ChartMarkers/SI.svg)](#SI) 
 [![LT](../ChartMarkers/LT.svg)](#LT) 
 [![\_CDB](../ChartMarkers/\_CDB.svg)](#\_CDB)&nbsp;&nbsp;  
-Yellow or orange &nbsp;+&nbsp; blue or black &nbsp;+&nbsp; red: 
+Yellow or orange&nbsp; +&nbsp; blue or black&nbsp; +&nbsp; red: 
 [![RON](../ChartMarkers/RON.svg)](#RON) 
 [![AOA](../ChartMarkers/AOA.svg)](#AOA) 
 [![MDL](../ChartMarkers/MDL.svg)](#MDL) 
@@ -577,15 +611,15 @@ Yellow or orange &nbsp;+&nbsp; blue or black &nbsp;+&nbsp; red:
 [![\_CADES](../ChartMarkers/\_CADES.svg)](#\_CADES) 
 [![COP](../ChartMarkers/COP.svg)](#COP) 
 [![EC](../ChartMarkers/EC.svg)](#EC) 
-[![VE](../ChartMarkers/VE.svg)](#VE)&nbsp;&nbsp; 
-Yellow &nbsp;+&nbsp; red or brown or orange: 
+[![VED](../ChartMarkers/VED.svg)](#VED)&nbsp;&nbsp; 
+Yellow&nbsp; +&nbsp; red or brown or orange: 
 [![CNY](../ChartMarkers/CNY.svg)](#CNY) 
 [![VND](../ChartMarkers/VND.svg)](#VND) 
 [![ES](../ChartMarkers/ES.svg)](#ES) 
 [![MKD](../ChartMarkers/MKD.svg)](#MKD) 
 [![OMR](../ChartMarkers/OMR.svg)](#OMR) 
 [![MNT](../ChartMarkers/MNT.svg)](#MNT)&nbsp;&nbsp;  
-Red or brown &nbsp;+&nbsp; white: 
+Red or brown&nbsp; +&nbsp; white: 
 [![CHF](../ChartMarkers/CHF.svg)](#CHF) 
 [![CAD](../ChartMarkers/CAD.svg)](#CAD) 
 [![HKD](../ChartMarkers/HKD.svg)](#HKD) 
@@ -599,6 +633,7 @@ Red or brown &nbsp;+&nbsp; white:
 [![PLN](../ChartMarkers/PLN.svg)](#PLN) 
 [![DKK](../ChartMarkers/DKK.svg)](#DKK) 
 [![BYN](../ChartMarkers/BYN.svg)](#BYN) 
+[![BHD](../ChartMarkers/BHD.svg)](#BHD) 
 [![JOD](../ChartMarkers/JOD.svg)](#JOD) 
 [![MT](../ChartMarkers/MT.svg)](#MT) 
 [![PEN](../ChartMarkers/PEN.svg)](#PEN) 
@@ -609,12 +644,13 @@ Red + black:
 [![KYS](../ChartMarkers/KYS.svg)](#KYS) 
 [![KWD](../ChartMarkers/KWD.svg)](#KWD)
 
-Green &nbsp;+&nbsp; red or brown or orange: 
+Green&nbsp; +&nbsp; red or brown or orange: 
 [![BDT](../ChartMarkers/BDT.svg)](#BDT) 
 [![HUF](../ChartMarkers/HUF.svg)](#HUF) 
 [![IRR](../ChartMarkers/IRR.svg)](#IRR) 
 [![AED](../ChartMarkers/AED.svg)](#AED) 
 [![LBP](../ChartMarkers/LBP.svg)](#LBP) 
+[![MMK](../ChartMarkers/MMK.svg)](#MMK) 
 [![MAD](../ChartMarkers/MAD.svg)](#MAD) 
 [![ZAR](../ChartMarkers/ZAR.svg)](#ZAR) 
 [![DZD](../ChartMarkers/DZD.svg)](#DZD) 
@@ -622,10 +658,12 @@ Green &nbsp;+&nbsp; red or brown or orange:
 [![CI](../ChartMarkers/CI.svg)](#CI) 
 [![IT](../ChartMarkers/IT.svg)](#IT) 
 [![PT](../ChartMarkers/PT.svg)](#PT)  
-Green &nbsp;+&nbsp; yellow or orange: 
+[![GYD](../ChartMarkers/GYD.svg)](#GYD) 
+Green&nbsp; +&nbsp; yellow or orange: 
 [![SN](../ChartMarkers/SN.svg)](#SN) 
 [![BRL](../ChartMarkers/BRL.svg)](#BRL) 
 [![AUD](../ChartMarkers/AUD.svg)](#AUD) 
+[![TMT](../ChartLines/TMT_line.svg)](#TMT) 
 [![\_AfExIm](../ChartMarkers/\_AfExIm.svg)](#\_AfExIm) 
 [![IE](../ChartMarkers/IE.svg)](#IE) 
 [![CY](../ChartMarkers/CY.svg)](#CY) 
@@ -637,6 +675,8 @@ Green:
 [![SAR](../ChartMarkers/SAR.svg)](#SAR) 
 [![NGN](../ChartMarkers/NGN.svg)](#NGN) 
 [![JMD](../ChartMarkers/JMD.svg)](#JMD) 
+[![UZS](../ChartMarkers/UZS.svg)](#UZS)
+[![SYP](../ChartMarkers/SYP.svg)](#SYP)
 [![PS](../ChartMarkers/PS.svg)](#PS) 
 [![\_NDB](../ChartMarkers/\_NDB.svg)](#\_NDB)
 [![PKR](../ChartMarkers/PKR.svg)](#PKR) 
@@ -676,6 +716,9 @@ Asia:
 [![MYR](../ChartLines/MYR_line.svg)](#MYR) 
 [![PHP](../ChartLines/PHP_line.svg)](#PHP) 
 [![KZT](../ChartLines/KZT_line.svg)](#KZT)
+[![MMK](../ChartLines/MMK_line.svg)](#MMK)
+[![UZS](../ChartLines/UZS_line.svg)](#UZS)
+[![TMT](../ChartLines/TMT_line.svg)](#TMT)
 
 Western and Central Europe, non&#x2011;&euro;: 
 [![DKK](../ChartLines/DKK_line.svg)](#DKK) 
@@ -688,6 +731,8 @@ Western and Central Europe, non&#x2011;&euro;:
 
 Balkans, Caucasus, Eastern Europe: 
 [![GEL](../ChartLines/GEL_line.svg)](#GEL) 
+[![AZN](../ChartMarkers/AZN.svg)](#AZN) 
+[![AMD](../ChartMarkers/AMD.svg)](#AMD) 
 [![BYN](../ChartLines/BYN_line.svg)](#BYN) 
 [![MKD](../ChartLines/MKD_line.svg)](#MKD) 
 [![RSD](../ChartLines/RSD_line.svg)](#RSD) 
@@ -702,6 +747,7 @@ Middle East + North Africa:
 [![ILS](../ChartLines/ILS_line.svg)](#ILS) 
 [![EGP](../ChartLines/EGP_line.svg)](#EGP) 
 [![QAR](../ChartLines/QAR_line.svg)](#QAR) 
+[![BHD](../ChartLines/BHD_line.svg)](#BHD) 
 [![KWD](../ChartLines/KWD_line.svg)](#KWD) 
 [![JOD](../ChartLines/JOD_line.svg)](#JOD) 
 [![TRY](../ChartLines/TRY_line.svg)](#TRY) 
@@ -710,6 +756,7 @@ Middle East + North Africa:
 [![MAD](../ChartLines/MAD_line.svg)](#MAD) 
 [![AED](../ChartLines/AED_line.svg)](#AED) 
 [![LBP](../ChartLines/LBP_line.svg)](#LBP) 
+[![SYP](../ChartLines/SYP_line.svg)](#SYP) 
 [![IQD](../ChartLines/IQD_line.svg)](#IQD) 
 [![YER](../ChartLines/YER_line.svg)](#YER)
 
@@ -732,6 +779,8 @@ Africa:
 Americas: 
 [![ARS](../ChartLines/ARS_line.svg)](#ARS) 
 [![SV](../ChartLines/SV_line.svg)](#SV) 
+[![CRC](../ChartLines/CRC_line.svg)](#CRC) 
+[![GTQ](../ChartLines/GTQ_line.svg)](#GTQ) 
 [![BOB](../ChartLines/BOB_line.svg)](#BOB) 
 [![UYU](../ChartLines/UYU_line.svg)](#UYU) 
 [![JMD](../ChartLines/JMD_line.svg)](#JMD) 
@@ -739,12 +788,13 @@ Americas:
 [![MXN](../ChartLines/MXN_line.svg)](#MXN) 
 [![DOP](../ChartLines/DOP_line.svg)](#DOP) 
 [![PAB](../ChartLines/PAB_line.svg)](#PAB) 
+[![GYD](../ChartLines/GYD_line.svg)](#GYD) 
 [![CLP](../ChartLines/CLP_line.svg)](#CLP) 
 [![TTD](../ChartLines/TTD_line.svg)](#TTD) 
 [![COP](../ChartLines/COP_line.svg)](#COP) 
 [![EC](../ChartLines/EC_line.svg)](#EC) 
 [![BRL](../ChartLines/BRL_line.svg)](#BRL) 
-[![VE](../ChartLines/VE_line.svg)](#VE) 
+[![VED](../ChartLines/VED_line.svg)](#VED) 
 [![BSD](../ChartLines/BSD_line.svg)](#BSD)
 [![PEN](../ChartLines/PEN_line.svg)](#PEN)
 
