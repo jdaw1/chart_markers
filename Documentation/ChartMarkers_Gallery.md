@@ -1,6 +1,6 @@
 # <a name="top"></a>Currency and Issuer Chart Markers #
 
-**This page of the documentation contains almost a thousand images. 
+**This page of the documentation contains over a thousand images. 
 Sometimes GitHub seems to be reluctant to serve so many images. 
 When that happens, readers might prefer an [HTML translation of this page](http://www.jdawiseman.com/papers/Chart_Markers/ChartMarkers_Gallery.html). 
 Of course, the HTML version might lag the markdown version.**
@@ -218,7 +218,7 @@ Internal links:
 | MYR | ![MYR](../ChartMarkers/MYR.svg) | <a name="MYR">![MYR](../ChartMarkers_enlarged/MYR_enlarged.svg)</a> | Star from the [flag of Malaysia](http://web.archive.org/web/20120318034534/http://pmr.penerangan.gov.my/index.php/maklumat-kenegaraan/194-bendera-malaysia.html), simplified from 14 outer points to 14 vertices (i.e., 7 outer points). The rectangle has rotational symmetry of order 2, the star of order 7, with the same centres, but the whole does not have rotational symmetry. | ![MYR](../ChartLines/MYR_line.svg)<br/>00326A<br/>DECE05 |
 | IDR | ![IDR](../ChartMarkers/IDR.svg) | <a name="IDR">![IDR](../ChartMarkers_enlarged/IDR_enlarged.svg)</a> | From the [flag of Indonesia](http://en.wikipedia.org/wiki/Flag_of_Indonesia). | ![IDR](../ChartLines/IDR_line.svg)<br/>FF0000<br/>FFFFFF |
 | THB | ![THB](../ChartMarkers/THB.svg) | <a name="THB">![THB](../ChartMarkers_enlarged/THB_enlarged.svg)</a> | From the [flag of Thailand](http://en.wikipedia.org/wiki/Flag_of_Thailand). | ![THB](../ChartLines/THB_line.svg)<br/>FE0000<br/>010080 |
-| MMK | ![MMK](../ChartMarkers/MMK.svg) | <a name="MMK">![MMK](../ChartMarkers_enlarged/MMK_enlarged.svg)</a> | From the [flag of Thailand](http://en.wikipedia.org/wiki/Flag_of_Thailand). | ![MMK](../ChartLines/MMK_line.svg)<br/>34B233<br/>FECB00 |
+| MMK | ![MMK](../ChartMarkers/MMK.svg) | <a name="MMK">![MMK](../ChartMarkers_enlarged/MMK_enlarged.svg)</a> | From the [flag of Myanmar](http://en.wikipedia.org/wiki/Flag_of_Myanmar). | ![MMK](../ChartLines/MMK_line.svg)<br/>34B233<br/>FECB00 |
 | PHP | ![PHP](../ChartMarkers/PHP.svg) | <a name="PHP">![PHP](../ChartMarkers_enlarged/PHP_enlarged.svg)</a> | Big star from the [flag of the Philippines](http://en.wikipedia.org/wiki/Flag_of_the_Philippines#Construction), simplified, in flag gold and blue. | ![PHP](../ChartLines/PHP_line.svg)<br/>0038A8<br/>FCD116 |
 | VND | ![VND](../ChartMarkers/VND.svg) | <a name="VND">![VND](../ChartMarkers_enlarged/VND_enlarged.svg)</a> | Banded oval from logo of [State Bank of Vietnam](http://www.sbv.gov.vn/webcenter/portal/en/); colours from [flag](http://en.wikipedia.org/wiki/Flag_of_Vietnam). | ![VND](../ChartLines/VND_line.svg)<br/>FFFF00<br/>DA251D |
 | INR | ![INR](../ChartMarkers/INR.svg) | <a name="INR">![INR](../ChartMarkers_enlarged/INR_enlarged.svg)</a> | [Ashoka Chakra](http://en.wikipedia.org/wiki/Ashoka_Chakra) from the [flag of India](http://en.wikipedia.org/wiki/Flag_of_India), simplified, in original navy blue. | ![INR](../ChartLines/INR_line.svg)<br/>250E62<br/>FFFFFF |
@@ -352,7 +352,7 @@ Internal links:
 |  |  |  | <h2>[![ArrowSingleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#development_banks)&nbsp;![ArrowNone](ArrowNone.svg)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="precious_metals">Precious Metals</a></h2> |
 | XAU | ![XAU](../ChartMarkers/XAU.svg) | <a name="XAU">![XAU](../ChartMarkers_enlarged/XAU_enlarged.svg)</a> | Two gold bars, width&ratio;height at 2&ratio;1, undercut &asymp;&#8239;15&deg;, these from the centres of allowed ranges in the [Good Delivery rules](http://www.lbma.org.uk/publications/good-delivery-rules/technical-specifications). Stacked as pictured by the BBC in [Bank of England gold: Rare look inside the vaults](http://www.bbc.co.uk/news/av/uk-51416500), 10&nbsp;Feb&nbsp;2020. Also, this stacking hints at the shape of an &lsquo;X&rsquo;, as in XAU. | ![XAU](../ChartLines/XAU_line.svg)<br/>996515<br/>D4AF37 |
 | XAG | ![XAG](../ChartMarkers/XAG.svg) | <a name="XAG">![XAG](../ChartMarkers_enlarged/XAG_enlarged.svg)</a> | Two silver bars, width&ratio;height at 13&ratio;8, undercut &asymp;&#8239;10&deg;, these from the centres of allowed ranges in the [Good Delivery rules](http://www.lbma.org.uk/publications/good-delivery-rules/technical-specifications); stacked as for <span class="markerID">[XAU](#XAU)</span>. | ![XAG](../ChartLines/XAG_line.svg)<br/>5C5C5C<br/>C0C0C0 |
-| XPT | ![XPT](../ChartMarkers/XPT.svg) | <a name="XPT">![XPT](../ChartMarkers_enlarged/XPT_enlarged.svg)</a> | In the proportions of a [Royal Mint Refinery 1kg platinum bar](http://www.royalmint.com/invest/bullion/bullion-bars/platinum-bars/1-kg-platinum-bar-minted/), edged with the [colour](http://goldrefiningforum.com/threads/colours-of-pt-and-pd-compounds.31666/) of H&#8322;PtCl&#8326; = [hexachloroplatinic acid](http://en.wikipedia.org/wiki/Chloroplatinic_acid). | ![XPT](../ChartLines/XPT_line.svg)<br/>D95B14<br/>C7C7C7 |
+| XPT | ![XPT](../ChartMarkers/XPT.svg) | <a name="XPT">![XPT](../ChartMarkers_enlarged/XPT_enlarged.svg)</a> | In the proportions of a [Royal Mint Refinery 1kg platinum bar](https://web.archive.org/web/20210515224532/https://www.royalmint.com/invest/bullion/bullion-bars/platinum-bars/1-kg-platinum-bar-minted/), edged with the [colour](http://goldrefiningforum.com/threads/colours-of-pt-and-pd-compounds.31666/) of H&#8322;PtCl&#8326; = [hexachloroplatinic acid](http://en.wikipedia.org/wiki/Chloroplatinic_acid). | ![XPT](../ChartLines/XPT_line.svg)<br/>D95B14<br/>C7C7C7 |
 
 
 
@@ -494,7 +494,7 @@ Star:
 [![ILS](../ChartMarkers/ILS.svg)](#ILS) 
 [![SI](../ChartMarkers/SI.svg)](#SI) 
 [![PHP](../ChartMarkers/PHP.svg)](#PHP) 
-[![TMT](../ChartLines/TMT_line.svg)](#TMT)&nbsp;&nbsp; 
+[![TMT](../ChartMarkers/TMT.svg)](#TMT)&nbsp;&nbsp; 
 Cross: 
 [![CHF](../ChartMarkers/CHF.svg)](#CHF) 
 [![SEK](../ChartMarkers/SEK.svg)](#SEK) 
@@ -652,18 +652,19 @@ Green&nbsp; +&nbsp; red or brown or orange:
 [![LBP](../ChartMarkers/LBP.svg)](#LBP) 
 [![MMK](../ChartMarkers/MMK.svg)](#MMK) 
 [![MAD](../ChartMarkers/MAD.svg)](#MAD) 
+[![SYP](../ChartMarkers/SYP.svg)](#SYP)
 [![ZAR](../ChartMarkers/ZAR.svg)](#ZAR) 
 [![DZD](../ChartMarkers/DZD.svg)](#DZD) 
 [![MXN](../ChartMarkers/MXN.svg)](#MXN) 
 [![CI](../ChartMarkers/CI.svg)](#CI) 
 [![IT](../ChartMarkers/IT.svg)](#IT) 
-[![PT](../ChartMarkers/PT.svg)](#PT)  
+[![PT](../ChartMarkers/PT.svg)](#PT) 
 [![GYD](../ChartMarkers/GYD.svg)](#GYD) 
 Green&nbsp; +&nbsp; yellow or orange: 
 [![SN](../ChartMarkers/SN.svg)](#SN) 
 [![BRL](../ChartMarkers/BRL.svg)](#BRL) 
 [![AUD](../ChartMarkers/AUD.svg)](#AUD) 
-[![TMT](../ChartLines/TMT_line.svg)](#TMT) 
+[![TMT](../ChartMarkers/TMT.svg)](#TMT) 
 [![\_AfExIm](../ChartMarkers/\_AfExIm.svg)](#\_AfExIm) 
 [![IE](../ChartMarkers/IE.svg)](#IE) 
 [![CY](../ChartMarkers/CY.svg)](#CY) 
@@ -676,7 +677,6 @@ Green:
 [![NGN](../ChartMarkers/NGN.svg)](#NGN) 
 [![JMD](../ChartMarkers/JMD.svg)](#JMD) 
 [![UZS](../ChartMarkers/UZS.svg)](#UZS)
-[![SYP](../ChartMarkers/SYP.svg)](#SYP)
 [![PS](../ChartMarkers/PS.svg)](#PS) 
 [![\_NDB](../ChartMarkers/\_NDB.svg)](#\_NDB)
 [![PKR](../ChartMarkers/PKR.svg)](#PKR) 
@@ -731,8 +731,8 @@ Western and Central Europe, non&#x2011;&euro;:
 
 Balkans, Caucasus, Eastern Europe: 
 [![GEL](../ChartLines/GEL_line.svg)](#GEL) 
-[![AZN](../ChartMarkers/AZN.svg)](#AZN) 
-[![AMD](../ChartMarkers/AMD.svg)](#AMD) 
+[![AZN](../ChartLines/AZN_line.svg)](#AZN) 
+[![AMD](../ChartLines/AMD_line.svg)](#AMD) 
 [![BYN](../ChartLines/BYN_line.svg)](#BYN) 
 [![MKD](../ChartLines/MKD_line.svg)](#MKD) 
 [![RSD](../ChartLines/RSD_line.svg)](#RSD) 
