@@ -117,7 +117,7 @@ Unless I have clearly and explicitly agreed that a message will be treated in co
 Requests for confidentiality will generally be accepted, but with a clause resembling &ldquo;unless I think the request is silly or inappropriate&rdquo;. 
 This is an open-source project: people, friends and others, can see my work and reasoning. 
 Requests concerning this project should also be fully open.
-
+I.e., ask in an [issue](https://github.com/jdaw1/chart_markers/issues).
 
 
 ## <a name="be_nice"></a>Be nice, be fair, accept decisions ##
