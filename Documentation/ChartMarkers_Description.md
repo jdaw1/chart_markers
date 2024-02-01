@@ -63,7 +63,7 @@ E.g.,
 
 This is a set of standard markers for this purpose, all of which are shown in the [Gallery](ChartMarkers_Gallery.md).
 
-This set of markers is &copy;&nbsp;[J.&#8239;D.&#8239;A.&#8239;Wiseman](http://www.jdawiseman.com/author.html) 1998&ndash;2023, he having created and re-worked and improved and added to them since 1998. 
+This set of markers is &copy;&nbsp;[J.&#8239;D.&#8239;A.&#8239;Wiseman](http://www.jdawiseman.com/author.html) 1998&ndash;2024, he having created and re-worked and improved and added to them since 1998. 
 It is available from [GitHub](http://github.com/jdaw1/), under the [Boost Software Licence, Version&nbsp;1.0](https://opensource.org/license/bsl-1-0/). 
 (If your lawyers have a genuine need for a different [licence](https://github.com/jdaw1/chart_markers/blob/main/LICENSE)&mdash;not lawyers not bothering to read, actual genuine need&mdash;explain and it might be done.)
 
@@ -130,7 +130,7 @@ One exception has been allowed:
 
 6. <a name="aspect"></a>Aspect ratios must be in the range &frac12; to 2. 
 This constraint was relevant for 
-<nobr><span class="markerID">LU</span>&nbsp;![LU](../ChartMarkers/LU.svg),</nobr> which would otherwise have had an aspect ratio of 4&ratio;9&nbsp;=&nbsp;1&ratio;2&frac14;.
+<nobr><span class="markerID">LU</span>&nbsp;![LU](../ChartMarkers/LU.svg),</nobr> which would otherwise have had an aspect ratio of 4&ratio;9&nbsp;=&nbsp;1&ratio;2&frac14;, and <nobr><span class="markerID">GYD</span>&nbsp;![GYD](../ChartMarkers/GYD.svg).
 
 7. <a name="contiguous"></a>Markers must be contiguous, both topologically and optically, and also not hollow. 
 The optically-contiguous constraint requires that markers not comprise large pieces joined by long thin connectors. 
@@ -205,8 +205,8 @@ Symbols have been made for several overlapping sets.
 * Some others with non-small economies such as 
 <nobr><span class="markerID">IRR</span>&nbsp;![IRR](../ChartMarkers/IRR.svg)</nobr> and 
 <nobr><span class="markerID">IQD</span>&nbsp;![IQD](../ChartMarkers/IQD.svg).</nobr> 
-(There are markers for the top 68 countries in [wikipedia&rsquo;s list of countries by GDP](http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)), so all 
-<nobr>&ge;&nbsp;Oman&nbsp;![OMR](../ChartMarkers/OMR.svg).)</nobr>
+(There are markers for the top 93 countries in [wikipedia&rsquo;s list of countries by GDP](http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)), so all 
+<nobr>&ge;&nbsp;Jordan&nbsp;![JOD](../ChartMarkers/JOD.svg).)</nobr>
 
 * Some others with large populations such as 
 <nobr><span class="markerID">CDF</span>&nbsp;![CDF](../ChartMarkers/CDF.svg),</nobr> 
