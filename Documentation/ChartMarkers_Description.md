@@ -205,8 +205,8 @@ Symbols have been made for several overlapping sets.
 * Some others with non-small economies such as 
 <nobr><span class="markerID">IRR</span>&nbsp;![IRR](../ChartMarkers/IRR.svg)</nobr> and 
 <nobr><span class="markerID">IQD</span>&nbsp;![IQD](../ChartMarkers/IQD.svg).</nobr> 
-(There are markers for the top 93 countries in [wikipedia&rsquo;s list of countries by GDP](http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)), so all 
-<nobr>&ge;&nbsp;Jordan&nbsp;![JOD](../ChartMarkers/JOD.svg).)</nobr>
+(There are markers for the top 100 countries in [wikipedia&rsquo;s list of countries by GDP](http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)), so all 
+<nobr>&ge;&nbsp;Nepal&nbsp;![NPR](../ChartMarkers/NPR.svg).)</nobr>
 
 * Some others with large populations such as 
 <nobr><span class="markerID">CDF</span>&nbsp;![CDF](../ChartMarkers/CDF.svg),</nobr> 
@@ -287,7 +287,7 @@ While this project has few users, its creator feels at liberty to make changes g
 </div>
 
 It has not been possible to make line patterns satisfying all the markers&rsquo; constraints. 
-Without the optical space afforded by shape, colour alone is insufficient to make 165 lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
+Without the optical space afforded by shape, colour alone is insufficient to make 167 lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
 So the distinctness standard has been weakened: lines within a &lsquo;group&rsquo; are different.
 
 But lines from different groups might be similar or identical. 

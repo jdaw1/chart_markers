@@ -150,6 +150,8 @@
 
 <svg width='11.14286' height='7.8' viewBox='-10 -7 20 14' id='NL' xmlns='http://www.w3.org/2000/svg'><path fill='#003DA5' d='M4.6098 0L10 1.1978V7H2.382L0 2.2361 -2.382 7H-10V1.1978L-4.6098 0 -10 -1.1978V-7h7.618L0 -2.2361 2.382 -7H10v5.8022Z'/><path fill='#FA9B1E' d='M9 2v4H3L-3 -6h-6v4Z M-9 2v4H-3L3 -6h6v4Z'/></svg>
 
+<svg width='16.125' height='8.6' viewBox='-750 -400 1500 800' id='NPR' xmlns='http://www.w3.org/2000/svg'><path fill='#DC143C' d='M0 400L750 0 0 -400 -750 0Z'/><path fill='#FFF' d='M495 0L60 -232V232Z M-495 0L-60 232V-232Z'/></svg>
+
 <svg width='9.2' height='9.2' viewBox='-6 -6 12 12' id='OMR' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M6 6V-6H-6V6Z'/><path fill='gold' d='M0 1L-4 5 -5 4 -1 0 -5 -4l1 -1 4 4L4 -5l1 1L1 0 5 4 4 5Z'/></svg>
 
 <svg width='11.2' height='11.2' viewBox='-1.41421 -1.41421 2.82842 2.82842' id='PHP' xmlns='http://www.w3.org/2000/svg'><path fill='#0038A8' d='M0 0L1.17958 -.23463 1.41421 0 1.17958 .23463 0 0 -1.17958 .23463 -1.41421 0l.23463 -.23463L0 0 -.23463 1.17958 0 1.41421 .23463 1.17958 0 0 .23463 -1.17958 0 -1.41421l-.23463 .23463L0 0 .66818 1H1V.66818L0 0 -.66818 -1H-1v.33182L0 0 .66818 -1H1v.33182L0 0 -.66818 1H-1V.66818Z'/><circle fill='#FCD116' r='0.66989'/></svg>
@@ -271,6 +273,8 @@
 <svg width='9.2' height='9.2' viewBox='-50 -50 100 100' id='BZD' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M50 50V-50H-50V50Z'/><path fill='#1D428A' d='M36 36V-36H-36V36Z'/><circle fill='#FFF' r='21'/></svg>
 
 <svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='MMK' xmlns='http://www.w3.org/2000/svg'><path fill='#EA2839' d='M27 27V-27H-27V27Z'/><path fill='#34B233' d='M19 19V-19H-19V19Z'/><path fill='#FECB00' d='M10 10V-10H-10V10Z'/></svg>
+
+<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='CM' xmlns='http://www.w3.org/2000/svg'><path fill='#007A5E' d='M27 27V-27H-27V27Z'/><path fill='#CE1126' d='M19 19V-19H-19V19Z'/><path fill='#FCD116' d='M10 10V-10H-10V10Z'/></svg>
 
 <svg width='14.64632' height='15.4' viewBox='-9.5106 -10 19.0212 20' id='USD' xmlns='http://www.w3.org/2000/svg'><defs><path id='USD-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/></defs><use href='#USD-s' /><use href='#USD-s' fill='#FFF' transform='scale(.6)'/></svg>
 

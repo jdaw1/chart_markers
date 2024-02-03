@@ -56,6 +56,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![PKR](../ChartMarkers/PKR.svg)](#PKR) 
 [![BDT](../ChartMarkers/BDT.svg)](#BDT) 
 [![LKR](../ChartMarkers/LKR.svg)](#LKR) 
+[![NPR](../ChartMarkers/NPR.svg)](#NPR) 
 [![KZT](../ChartMarkers/KZT.svg)](#KZT) 
 [![UZS](../ChartMarkers/UZS.svg)](#UZS)
 [![TMT](../ChartMarkers/TMT.svg)](#TMT)
@@ -109,6 +110,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![SN](../ChartMarkers/SN.svg)](#SN) 
 [![GA](../ChartMarkers/GA.svg)](#GA) 
 [![CI](../ChartMarkers/CI.svg)](#CI)
+[![CM](../ChartMarkers/CM.svg)](#CM)
 [![AOA](../ChartMarkers/AOA.svg)](#AOA)&nbsp;&nbsp;&nbsp; 
 [![MXN](../ChartMarkers/MXN.svg)](#MXN) 
 [![BRL](../ChartMarkers/BRL.svg)](#BRL) 
@@ -225,6 +227,7 @@ Internal links:
 | PKR | ![PKR](../ChartMarkers/PKR.svg) | <a name="PKR">![PKR](../ChartMarkers_enlarged/PKR_enlarged.svg)</a> | <p>From the [flag of Pakistan](http://en.wikipedia.org/wiki/Flag_of_Pakistan), five-pointed star rotated by ArcTan[9/8] &asymp;&nbsp;48.366&deg;.</p><p>To confirm that the rotation is correct just before final closing tag insert &ldquo;`<g stroke-width='0.2' stroke='black' opacity='25%' fill='none'><path d='M 11.25 -10 L -11.25 10'/><circle r='0.4'/></g>`&rdquo;. &exist;&nbsp;[comment re centre](ChartMarkers_Code.md#centres).</p> | ![PKR](../ChartLines/PKR_line.svg)<br/>01411C<br/>FFFFFF |
 | BDT | ![BDT](../ChartMarkers/BDT.svg) | <a name="BDT">![BDT](../ChartMarkers_enlarged/BDT_enlarged.svg)</a> | From the [flag of Bangladesh](http://en.wikipedia.org/wiki/Flag_of_Bangladesh). | ![BDT](../ChartLines/BDT_line.svg)<br/>006A4E<br/>F42A41 |
 | LKR | ![LKR](../ChartMarkers/LKR.svg) | <a name="LKR">![LKR](../ChartMarkers_enlarged/LKR_enlarged.svg)</a> | [Flag of Sri Lanka](http://en.wikipedia.org/wiki/Flag_of_Sri_Lanka), much simplified. | ![LKR](../ChartLines/LKR_line.svg)<br/>79052C<br/>FDB221 |
+| NPR | ![NPR](../ChartMarkers/NPR.svg) | <a name="NPR">![NPR](../ChartMarkers_enlarged/NPR_enlarged.svg)</a> | Two triangles, back to back, from the shape of the  [flag of Nepal](http://en.wikipedia.org/wiki/Flag_of_Nepal), and inside two white triangles, from the rays of the sun and moon. | ![NPR](../ChartLines/NPR_line.svg)<br/>DC143C<br/>000000 |
 | KZT | ![KZT](../ChartMarkers/KZT.svg) | <a name="KZT">![KZT](../ChartMarkers_enlarged/KZT_enlarged.svg)</a> | [Flag of Kazakhstan](http://en.wikipedia.org/wiki/Flag_of_Kazakhstan), simplified and rearranged. | ![KZT](../ChartLines/KZT_line.svg)<br/>00AEC7<br/>F6E500 |
 | UZS | ![UZS](../ChartMarkers/UZS.svg) | <a name="UZS">![UZS](../ChartMarkers_enlarged/UZS_enlarged.svg)</a> | Colours and pieces from the [flag of Uzbekistan](http://en.wikipedia.org/wiki/Flag_of_Uzbekistan): crescent moon duplicated for symmetry, and a star. | ![UZS](../ChartLines/UZS_line.svg)<br/>1EB53A<br/>0099B5 |
 | TMT | ![TMT](../ChartMarkers/TMT.svg) | <a name="TMT">![TMT](../ChartMarkers_enlarged/TMT_enlarged.svg)</a> | From the [emblem of Turkmenistan](http://en.wikipedia.org/wiki/Emblem_of_Turkmenistan). | ![TMT](../ChartLines/TMT_line.svg)<br/>FFC72C<br/>00853A |
@@ -282,6 +285,7 @@ Internal links:
 | SN | ![SN](../ChartMarkers/SN.svg) | <a name="SN">![SN](../ChartMarkers_enlarged/SN_enlarged.svg)</a> | From the [flag of Senegal](http://en.wikipedia.org/wiki/Flag_of_Senegal). | ![SN](../ChartLines/SN_line.svg)<br/>FDEF42<br/>1D6233 |
 | GA | ![GA](../ChartMarkers/GA.svg) | <a name="GA">![GA](../ChartMarkers_enlarged/GA_enlarged.svg)</a> | Three circles from the [coat of arms of Gabon](http://en.wikipedia.org/wiki/Gabon#/media/File:Coat_of_arms_of_Gabon.svg), in [flag](http://en.wikipedia.org/wiki/Flag_of_Gabon) green-yellow-blue. | ![GA](../ChartLines/GA_line.svg)<br/>003DA5<br/>009639 |
 | CI | ![CI](../ChartMarkers/CI.svg) | <a name="CI">![CI](../ChartMarkers_enlarged/CI_enlarged.svg)</a> | Circle for sun in [coat of arms of C&ocirc;te d&rsquo;Ivoire (Ivory Coast)](http://en.wikipedia.org/wiki/Coat_of_arms_of_Ivory_Coast), in [flag](http://en.wikipedia.org/wiki/Flag_of_Ivory_Coast) orange-white-green. | ![CI](../ChartLines/CI_line.svg)<br/>EA7600<br/>009A44 |
+| CM | ![CM](../ChartMarkers/CM.svg) | <a name="CM">![CM](../ChartMarkers_enlarged/CM_enlarged.svg)</a> | From the [flag of Cameroon](http://en.wikipedia.org/wiki/Flag_of_Cameroon). | ![CM](../ChartLines/CM_line.svg)<br/>FCD116<br/>CE1126 |
 | AOA | ![AOA](../ChartMarkers/AOA.svg) | <a name="AOA">![AOA](../ChartMarkers_enlarged/AOA_enlarged.svg)</a> | [Flag of Angola](http://en.wikipedia.org/wiki/Flag_of_Angola): circle for the gear wheel; 36&deg; diagonal for the machete. | ![AOA](../ChartLines/AOA_line.svg)<br/>C8102E<br/>FFCD00 |
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#africa)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#euro_zone)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="americas">Americas</a></h2> | |
 | MXN | ![MXN](../ChartMarkers/MXN.svg) | <a name="MXN">![MXN](../ChartMarkers_enlarged/MXN_enlarged.svg)</a> | Eight-pointed star from [Mexican naval jack](http://en.wikipedia.org/wiki/Mexican_Navy); [flag](http://en.wikipedia.org/wiki/Flag_of_Mexico) colours. | ![MXN](../ChartLines/MXN_line.svg)<br/>006341<br/>C8102E |
@@ -403,6 +407,7 @@ Rectangle, &asymp;:
 [![DZD](../ChartMarkers/DZD.svg)](#DZD) 
 [![LBP](../ChartMarkers/LBP.svg)](#LBP) 
 [![SAR](../ChartMarkers/SAR.svg)](#SAR) 
+[![CM](../ChartMarkers/CM.svg)](#CM) 
 [![MMK](../ChartMarkers/MMK.svg)](#MMK) 
 [![NGN](../ChartMarkers/NGN.svg)](#NGN) 
 [![JMD](../ChartMarkers/JMD.svg)](#JMD) 
@@ -414,6 +419,7 @@ Rectangle, &asymp;:
 
 Rhombus, &asymp;: 
 [![IRR](../ChartMarkers/IRR.svg)](#IRR) 
+[![NPR](../ChartMarkers/NPR.svg)](#NPR) 
 [![CZK](../ChartMarkers/CZK.svg)](#CZK) 
 [![BRL](../ChartMarkers/BRL.svg)](#BRL) 
 [![LU](../ChartMarkers/LU.svg)](#LU) 
@@ -624,6 +630,7 @@ Red or brown&nbsp; +&nbsp; white:
 [![CAD](../ChartMarkers/CAD.svg)](#CAD) 
 [![HKD](../ChartMarkers/HKD.svg)](#HKD) 
 [![IDR](../ChartMarkers/IDR.svg)](#IDR) 
+[![NPR](../ChartMarkers/NPR.svg)](#NPR) 
 [![GEL](../ChartMarkers/GEL.svg)](#GEL) 
 [![TRY](../ChartMarkers/TRY.svg)](#TRY) 
 [![HR](../ChartMarkers/HR.svg)](#HR) 
@@ -651,6 +658,7 @@ Green&nbsp; +&nbsp; red or brown or orange:
 [![AED](../ChartMarkers/AED.svg)](#AED) 
 [![LBP](../ChartMarkers/LBP.svg)](#LBP) 
 [![MMK](../ChartMarkers/MMK.svg)](#MMK) 
+[![CM](../ChartMarkers/CM.svg)](#CM) 
 [![MAD](../ChartMarkers/MAD.svg)](#MAD) 
 [![SYP](../ChartMarkers/SYP.svg)](#SYP)
 [![ZAR](../ChartMarkers/ZAR.svg)](#ZAR) 
@@ -704,6 +712,7 @@ Asia:
 [![CNY](../ChartLines/CNY_line.svg)](#CNY) 
 [![VND](../ChartLines/VND_line.svg)](#VND) 
 [![THB](../ChartLines/THB_line.svg)](#THB) 
+[![NPR](../ChartLines/NPR_line.svg)](#NPR) 
 [![BDT](../ChartLines/BDT_line.svg)](#BDT) 
 [![KPW](../ChartLines/KPW_line.svg)](#KPW) 
 [![KRW](../ChartLines/KRW_line.svg)](#KRW) 
@@ -764,6 +773,7 @@ Africa:
 [![ZAR](../ChartLines/ZAR_line.svg)](#ZAR) 
 [![CI](../ChartLines/CI_line.svg)](#CI) 
 [![AOA](../ChartLines/AOA_line.svg)](#AOA) 
+[![CM](../ChartLines/CM_line.svg)](#CM) 
 [![UGX](../ChartLines/UGX_line.svg)](#UGX) 
 [![KYS](../ChartLines/KYS_line.svg)](#KYS) 
 [![GA](../ChartLines/GA_line.svg)](#GA) 
