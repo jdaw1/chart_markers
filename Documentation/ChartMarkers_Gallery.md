@@ -1,7 +1,7 @@
 # <a name="top"></a>Currency and Issuer Chart Markers #
 
-**This page of the documentation contains over a thousand images. 
-Sometimes GitHub seems to be reluctant to serve so many images. 
+**This page of the documentation contains almost 500 different images. 
+Sometimes GitHub seems to be reluctant to serve so many images ([bug](https://github.com/orgs/community/discussions/106686) [reports](https://github.com/jdaw1/chart_markers/issues/15)). 
 When that happens, readers might prefer an [HTML translation of this page](http://www.jdawiseman.com/papers/Chart_Markers/ChartMarkers_Gallery.html). 
 Of course, the HTML version might lag the markdown version.**
 
