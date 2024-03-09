@@ -60,7 +60,11 @@ Sub RangeNames_DeDuplicate()
 	Dim nm As Name, nms As Variant, exists As Variant, i As Integer, j As Integer, str As String, ans As Integer
 	Set nms = ActiveWorkbook.Names
 	For Each nm In ActiveWorkbook.Names
-		If Left(nm.RefersTo, 6) = "=#REF!" Or Right(nm.RefersTo, 6) = "!#REF!" Then nm.Delete
+		If Left( nm.RefersTo, 6) = "=#REF!" _
+		Or Right(nm.RefersTo, 6) = "!#REF!" _
+		Or Right(nm.RefersTo, 7) = "!#REF!#" Then 
+			nm.Delete
+		End If  ' #REF!
 	Next nm
 
 	ReDim nms(1 To ActiveWorkbook.Names.Count) As Name, exists(1 To ActiveWorkbook.Names.Count) As Boolean
