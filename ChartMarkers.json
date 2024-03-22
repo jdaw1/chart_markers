@@ -1,0 +1,2366 @@
+{
+	"Meta":{
+		"Version":"2024-03-22T21:55Z",
+		"URL":"https://github.com/jdaw1/chart_markers/",
+		"Authors":"Julian D. A. Wiseman",
+		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
+		"Encoding":"US-ASCII"
+	},
+
+
+	"Markers":{
+
+		"_AIIB":{
+			"ID":"_AIIB",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-6 -6 12 12' id='_AIIB' xmlns='http://www.w3.org/2000/svg'><circle fill='#860C14' r='6'/><circle fill='#FFF' r='5'/><path fill='#860C14' d='M1 5.4L2 5.1 2 -5.1 1 -5.4Z M-1 5.4L-2 5.1 -2 -5.1 -1 -5.4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#860C14", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From [logo](http://www.aiib.org/_common/base/img/logo-aiib.svg) of [Asian Infrastructure Investment Bank](http://www.aiib.org/en/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>AIIB&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_CoEDB":{
+			"ID":"_CoEDB",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-8 -8 16 16' id='_CoEDB' xmlns='http://www.w3.org/2000/svg'><circle fill='#092251' r='8'/><circle fill='#FFF' r='7'/><path fill='#092251' d='M.8551 -2.3492L4.4995 -5.3623 2.1651 -1.25l4.7286 .0345L2.462 .4341 6.0622 3.5 1.607 1.9151l.7871 4.6627L0 2.5 -2.3941 6.5778 -1.607 1.9151 -6.0622 3.5 -2.462 .4341 -6.8937 -1.2155 -2.1651 -1.25 -4.4995 -5.3623l3.6444 3.0131L0 -7Z'/><circle fill='#FFF' r='2.5'/></svg>",
+			"LineFormattings":[
+				{"Color":"#092251", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From logo of the [Council of Europe Development Bank](http://coebank.org/en/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>COE&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_EBRD":{
+			"ID":"_EBRD",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-12 -12 24 24' id='_EBRD' xmlns='http://www.w3.org/2000/svg'><path d='M0 10.3923A8 12 0 1 0 0 -10.3923 8 12 0 1 0 0 10.3923Z' fill='#0A6AAA'/><path d='M0 10.3923A8 12 0 0 0 0 -10.3923 8 12 0 0 0 0 10.3923Z' fill='#FFF'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0A6AAA", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified [logo](http://www.ebrd.com/images/ebrd-sprite.png) of [European Bank for Reconstruction and Development](http://www.ebrd.com/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>EBRD&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_IADB":{
+			"ID":"_IADB",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-72 -72 144 144' id='_IADB' xmlns='http://www.w3.org/2000/svg'><circle fill='#005073' r='72'/><circle fill='#FFF' r='60'/><path fill='#005073' d='M34.778 17.493Q43.759 6.516 30 3.077L17.693 0C0 -4.423 0 -4.423 0 -22.7V-60L-34.778 -17.493Q-43.759 -6.516 -30 -3.077C0 4.423 0 4.423 0 22.7V60Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#005073", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Rearranged [logo](http://pbs.twimg.com/profile_images/1226897864263118848/a6Q8-_nS_200x200.png) of the [Inter-American Development Bank](http://www.iadb.org/en). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>IADB&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_IBRD":{
+			"ID":"_IBRD",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-400 -400 800 800' id='_IBRD' xmlns='http://www.w3.org/2000/svg'><circle r='400'/><circle fill='#FFF' r='358'/><path d='M-21 -378H21V378H-21Z M-378 -21H378V21H-378Z'/><path d='M309.027 219.416A530 530 0 0 0 -309.027 219.416L-282.813 252.305A488 488 0 0 1 282.813 252.305Z M309.027 -219.416A530 530 0 0 1 -309.027 -219.416L-282.813 -252.305A488 488 0 0 0 282.813 -252.305Z'/><path d='M-57.805 374.566A518 518 0 0 1 -57.805 -374.566L11.775 -378.817A476 476 0 0 0 11.775 378.817Z M57.805 374.566A518 518 0 0 0 57.805 -374.566L-11.775 -378.817A476 476 0 0 1 -11.775 378.817Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[World Bank](http://www.worldbank.org/) = [International Bank for Reconstruction and Development](http://www.worldbank.org/en/who-we-are/ibrd) = IBRD, [&le;2014&nbsp;logo](http://openknowledge.worldbank.org/bitstream/handle/10986/18237/9781464801631.pdf). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>IBRD&nbsp;Corp</kbd>",
+				"Design":"From &le;2014 logo as newer logo not symmetrical."
+			}
+		},
+
+		"_IsDB":{
+			"ID":"_IsDB",
+			"Width":11.08512,
+			"Height":9.6,
+			"Svg":"<svg width='11.08512' height='9.6' viewBox='-6.9282 -6 13.8564 12' id='_IsDB' xmlns='http://www.w3.org/2000/svg'><path fill='#039355' d='M6.9282 0L3.4641 6H-3.4641L-6.9282 0l3.4641 -6H3.4641Z'/><circle fill='#FFF' r='4'/></svg>",
+			"LineFormattings":[
+				{"Color":"#039355", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From [logo](http://en.wikipedia.org/wiki/Islamic_Development_Bank#/media/File:Islamic_Development_Bank_logo.svg) of the [Islamic Development Bank](http://www.isdb.org/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>ISDB&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_NDB":{
+			"ID":"_NDB",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-74.686 -74.686 149.372 149.372' id='_NDB' xmlns='http://www.w3.org/2000/svg'><path fill='#056839' d='M-11.046 74.686A90 90 0 0 0 -74.686 11.046L-59.157 -46.909A90 90 0 0 0 27.777 -70.203L70.203 -27.777A90 90 0 0 0 46.909 59.157Z'/><path fill='#BED62F' d='M-2.061 57.784A104 104 0 0 0 -57.784 2.061L-49.012 -30.677A104 104 0 0 0 27.107 -51.073L51.073 -27.107A104 104 0 0 0 30.677 49.012Z'/><path fill='#056839' d='M8.873 33.114A125 125 0 0 0 -33.114 -8.873 125 125 0 0 0 24.241 -24.241 125 125 0 0 0 8.873 33.114Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#056839", "Width":3.6},
+				{"Color":"#BED62F", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified [logo](http://www.ndb.int/wp-content/uploads/2017/02/logo-2.png) of the [BRICS](http://en.wikipedia.org/wiki/BRICS)&rsquo; [New Development Bank](http://www.ndb.int/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>NEWDEV&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_NIB":{
+			"ID":"_NIB",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-9 -9 18 18' id='_NIB' xmlns='http://www.w3.org/2000/svg'><path fill='#165788' d='M9 9H3L-3 1V9H-9V-9h6l6 8V-9H9Z'/><path fill='#C3DCF4' d='M8 8H3.5L-4 -2V8H-8V-8h4.5L4 2V-8H8Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#165788", "Width":3.6},
+				{"Color":"#C3DCF4", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"&lsquo;N&rsquo; from the [logo](http://www.nib.int/icons/nib-logo.svg) of the [Nordic Investment Bank](http://www.nib.int/), slightly simplified; dark blue from logo, pale blue from website. Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>NIB&nbsp;Corp</kbd>"
+			}
+		},
+
+		"AED":{
+			"ID":"AED",
+			"Width":13.16362,
+			"Height":15.2,
+			"Svg":"<svg width='13.16362' height='15.2' viewBox='-126.44 -146 252.88 292' id='AED' xmlns='http://www.w3.org/2000/svg'><path fill='#009639' d='M-26 -124L-39.837 -23l-80.55 62.483L-126.44 73l32.053 11.517L0 46 94.387 84.517 126.44 73 120.387 39.483 39.837 -23 26 -124 0 -146Z'/><path fill='#EF3340' d='M-10.981 -115.749L-24.871 -14.36l-80.861 62.725 -2.556 14.155 13.537 4.864L0 28.719 94.751 67.384 108.288 62.52 105.732 48.365 24.871 -14.36 10.981 -115.749 0 -125.041Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#009639", "Width":3.6},
+				{"Color":"#EF3340", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"*Burj Khalifa*, tier 0 [floor plan](http://en.wikipedia.org/wiki/Burj_Khalifa#Architecture_and_design); colours from the [flag of the United Arab Emirates](http://en.wikipedia.org/wiki/Flag_of_United_Arab_Emirates)."
+			}
+		},
+
+		"AMD":{
+			"ID":"AMD",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-1.41421 -1.41421 2.82842 2.82842' id='AMD' xmlns='http://www.w3.org/2000/svg'><defs><path id='AMD-o' d='M0 -1.41421Q.41421 -1 1 -1 1 -.41421 1.41421 0 1 .41421 1 1 .41421 1 0 1.41421 -.41421 1 -1 1 -1 .41421 -1.41421 0 -1 -.41421 -1 -1 -.41421 -1 0 -1.41421'/></defs><use href='#AMD-o' fill='#D90012'/><use href='#AMD-o' fill='#0033A0' transform='scale(.7)'/><use href='#AMD-o' fill='#F2A800' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0033A0", "Width":3.6},
+				{"Color":"#F2A800", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Eight-pointed rosette taken from the [flag of the President of Armenia](http://en.wikipedia.org/wiki/Flag_of_Armenia#/media/File:Flag_of_the_President_of_Armenia.svg)."
+			}
+		},
+
+		"AUD":{
+			"ID":"AUD",
+			"Width":13.06406,
+			"Height":13.4,
+			"Svg":"<svg width='13.06406' height='13.4' viewBox='-0.97493 -1 1.94986 2' id='AUD' xmlns='http://www.w3.org/2000/svg'><defs><path id='AUD-s' d='M0 -1l-.19284 .59957L-.78183 -.62349 -.4333 -.0989 -.97493 .22252l.62745 .05459 -.0864 .62386L0 .44444 .43388 .90097 .34748 .27711 .97493 .22252 .4333 -.0989 .78183 -.62349 .19284 -.40043Z'/></defs><use href='#AUD-s' fill='#00843D'/><use href='#AUD-s' fill='#FFCD00' transform='scale(.65)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#00843D", "Width":3.6},
+				{"Color":"#FFCD00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"A seven pointed star with inner radius =&nbsp;4&frasl;9, from the Australian [flag](http://en.wikipedia.org/wiki/Flag_of_Australia#Construction), in the green and gold [national colours of Australia](http://en.wikipedia.org/wiki/National_colours_of_Australia)."
+			}
+		},
+
+		"AZN":{
+			"ID":"AZN",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-60 -60 120 120' id='AZN' xmlns='http://www.w3.org/2000/svg'><circle fill='#0098C3' r='60'/><circle fill='#EF3340' r='47'/><path fill='#FFF' d='M0 -54l10.3325 29.0553L38.1838 -38.1838 24.9447 -10.3325 54 0 24.9447 10.3325 38.1838 38.1838 10.3325 24.9447 0 54 -10.3325 24.9447 -38.1838 38.1838 -24.9447 10.3325 -54 0l29.0553 -10.3325L-38.1838 -38.1838l27.8513 13.2391Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0098C3", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [National emblem of Azerbaijan](http://en.wikipedia.org/wiki/National_emblem_of_Azerbaijan)."
+			}
+		},
+
+		"BE_2":{
+			"ID":"BE_2",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='BE_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#663319' r='10'/><circle fill='#FC3' r='9'/><path stroke-width='1' stroke-linecap='butt' stroke='#663319' d='M3.67 8.86L-3.67 -8.86M8.86 3.67L-8.86 -3.67M8.86 -3.67L-8.86 3.67M3.67 -8.86L-3.67 8.86'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FFCC33", "Width":3.6},
+				{"Color":"#663319", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `BE` marker; the colours switched.",
+				"UseFor":"Belgium&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"BE":{
+			"ID":"BE",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='BE' xmlns='http://www.w3.org/2000/svg'><circle fill='#FC3' r='10'/><circle fill='#663319' r='9'/><path stroke-width='1' stroke-linecap='butt' stroke='#FC3' d='M3.67 8.86L-3.67 -8.86M8.86 3.67L-8.86 -3.67M8.86 -3.67L-8.86 3.67M3.67 -8.86L-3.67 8.86'/></svg>",
+			"LineFormattings":[
+				{"Color":"#663319", "Width":3.6},
+				{"Color":"#FFCC33", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From above, simplified, dome of [Palais de Justice](http://www.youtube.com/watch?v=YuFCixRYD7c) in Brussels, Belgium.",
+				"UseFor":"Belgium has an alternate marker, `BE_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"BHD":{
+			"ID":"BHD",
+			"Width":10.03958,
+			"Height":7.9,
+			"Svg":"<svg width='10.03958' height='7.9' viewBox='-61 -48 122 96' id='BHD' xmlns='http://www.w3.org/2000/svg'><path fill='#DA291C' d='M61 48V-48H-61V48Z'/><path fill='#FFF' d='M-48 35h13L0 21 -35 7 0 -7 -35 -21 0 -35H-48ZM48 -35H35L0 -21 35 -7 0 7 35 21 0 35H48Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#DA291C", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Bahrain](http://en.wikipedia.org/wiki/Flag_of_Bahrain)."
+			}
+		},
+
+		"BOB":{
+			"ID":"BOB",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-5 -5 10 10' id='BOB' xmlns='http://www.w3.org/2000/svg'><path fill='#FFF' d='M4 0L5 1V3L3 5H1L0 4 -1 5H-3L-5 3V1L-4 0 -5 -1V-3l2 -2h2l1 1L1 -5H3l2 2v2Z'/><path d='M5 5V3H-5V5h2V-5H-5v2H5V-5H3V5Z M5 1V-1H-5V1Z M-1 5H1V-5H-1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Wiphala](http://en.wikipedia.org/wiki/Flag_of_Bolivia#/media/File:Banner_of_the_Qulla_Suyu.svg), dual flag of Bolivia, simplified from 7&times;7 to 5&times;5."
+			}
+		},
+
+		"CAD_2":{
+			"ID":"CAD_2",
+			"Width":13.42497,
+			"Height":13,
+			"Svg":"<svg width='13.42497' height='13' viewBox='-1.03269 -1 2.06538 2' id='CAD_2' xmlns='http://www.w3.org/2000/svg'><path fill='red' d='M1.03269 -.21132L.69936 -.40377V-.78868L0 -.3849 -.69936 -.78868v.38491l-.33333 .19245 .69936 .40377V1L0 .80755 .33333 1V.19245Z'/><path fill='#666' d='M.73322 -.21132l-.1836 -.106v-.212L0 -.212 -.54962 -.52932v.212l-.1836 .106L-.1836 .106V.74065L0 .63465l.1836 .106V.106Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF0000", "Width":3.6},
+				{"Color":"#666666", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `CAD` marker; black replacing white.",
+				"UseFor":"Canada&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"CAD":{
+			"ID":"CAD",
+			"Width":13.42497,
+			"Height":13,
+			"Svg":"<svg width='13.42497' height='13' viewBox='-1.03269 -1 2.06538 2' id='CAD' xmlns='http://www.w3.org/2000/svg'><path fill='red' d='M1.03269 -.21132L.69936 -.40377V-.78868L0 -.3849 -.69936 -.78868v.38491l-.33333 .19245 .69936 .40377V1L0 .80755 .33333 1V.19245Z'/><path fill='#FFF' d='M.73322 -.21132l-.1836 -.106v-.212L0 -.212 -.54962 -.52932v.212l-.1836 .106L-.1836 .106V.74065L0 .63465l.1836 .106V.106Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF0000", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Three-lobed [Canada maple leaf](http://commons.wikimedia.org/wiki/File:Flag_of_Canada_(construction_sheet_-_leaf_geometry).svg), vigorously symmetrified, in the red and white [national colours of Canada](http://en.wikipedia.org/wiki/National_colours_of_Canada). The line colours are red and black, taken from the colours of the [Canadian National Men&rsquo;s Hockey Team](http://en.wikipedia.org/wiki/Canada_men's_national_ice_hockey_team).",
+				"UseFor":"Canada has an alternate marker, `CAD_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"JPY":{
+			"ID":"JPY",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-3 -3 6 6' id='JPY' xmlns='http://www.w3.org/2000/svg'><circle fill='#EF3340' r='3'/><circle fill='#FFF' r='2'/></svg>",
+			"LineFormattings":[
+				{"Color":"#EF3340", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Japan](http://en.wikipedia.org/wiki/Flag_of_Japan#Design)."
+			}
+		},
+
+		"DKK":{
+			"ID":"DKK",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-5 -5 10 10' id='DKK' xmlns='http://www.w3.org/2000/svg'><circle fill='#DA291C' r='5'/><path fill='#FFF' d='M4 1H1V4H-1V1H-4V-1h3V-4H1v3H4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#DA291C", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From flags of [Denmark](http://en.wikipedia.org/wiki/Flag_of_Denmark) and [Greenland](http://en.wikipedia.org/wiki/Flag_of_Greenland)."
+			}
+		},
+
+		"BDT":{
+			"ID":"BDT",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-3 -3 6 6' id='BDT' xmlns='http://www.w3.org/2000/svg'><circle fill='#006A4E' r='3'/><circle fill='#F42A41' r='2'/></svg>",
+			"LineFormattings":[
+				{"Color":"#006A4E", "Width":3.6},
+				{"Color":"#F42A41", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Bangladesh](http://en.wikipedia.org/wiki/Flag_of_Bangladesh)."
+			}
+		},
+
+		"ALL":{
+			"ID":"ALL",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-6 -6 12 12' id='ALL' xmlns='http://www.w3.org/2000/svg'><circle r='6'/><path fill='#DA291C' d='M5 0L0 5 -5 0 0 -5'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#DA291C", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Eagle on [flag of Albania](http://en.wikipedia.org/wiki/Flag_of_Albania#/media/File:Flag_of_Albania.svg): circle from claws, diamond from tail."
+			}
+		},
+
+		"GA":{
+			"ID":"GA",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-27 -27 54 54' id='GA' xmlns='http://www.w3.org/2000/svg'><circle fill='#009639' r='27'/><circle fill='#FFD100' r='19'/><circle fill='#003DA5' r='10'/></svg>",
+			"LineFormattings":[
+				{"Color":"#003DA5", "Width":3.6},
+				{"Color":"#009639", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Three circles from the [coat of arms of Gabon](http://en.wikipedia.org/wiki/Gabon#/media/File:Coat_of_arms_of_Gabon.svg), in [flag](http://en.wikipedia.org/wiki/Flag_of_Gabon) green-yellow-blue."
+			}
+		},
+
+		"CI":{
+			"ID":"CI",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-27 -27 54 54' id='CI' xmlns='http://www.w3.org/2000/svg'><circle fill='#009A44' r='27'/><circle fill='#FFF' r='19'/><circle fill='#EA7600' r='10'/></svg>",
+			"LineFormattings":[
+				{"Color":"#EA7600", "Width":3.6},
+				{"Color":"#009A44", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Circle for sun in [coat of arms of C&ocirc;te d&rsquo;Ivoire (Ivory Coast)](http://en.wikipedia.org/wiki/Coat_of_arms_of_Ivory_Coast), in [flag](http://en.wikipedia.org/wiki/Flag_of_Ivory_Coast) orange-white-green."
+			}
+		},
+
+		"UGX":{
+			"ID":"UGX",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-27 -27 54 54' id='UGX' xmlns='http://www.w3.org/2000/svg'><circle r='27'/><circle fill='#FCDC04' r='19'/><circle fill='#D90000' r='10'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#D90000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Uganda](http://en.wikipedia.org/wiki/Flag_of_Uganda)."
+			}
+		},
+
+		"COP":{
+			"ID":"COP",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-4 -4 8 8' id='COP' xmlns='http://www.w3.org/2000/svg'><circle fill='#C8102E' r='4'/><circle fill='#003087' r='3'/><circle fill='#FFCD00' r='2'/></svg>",
+			"LineFormattings":[
+				{"Color":"#003087", "Width":3.6},
+				{"Color":"#FFCD00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Banded circle from logo of [*Banco de la Rep&uacute;blica de Colombia*](http://www.banrep.gov.co/en/); [flag](http://en.wikipedia.org/wiki/Flag_of_Colombia) colours."
+			}
+		},
+
+		"PEN":{
+			"ID":"PEN",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-27 -27 54 54' id='PEN' xmlns='http://www.w3.org/2000/svg'><circle fill='#C8102E' r='27'/><circle fill='#FFF' r='19'/><circle fill='#C8102E' r='10'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C8102E", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Circle for sun in [early Peruvian flag](http://en.wikipedia.org/wiki/Flag_of_Peru#Flag_of_March_1822), in modern red and white."
+			}
+		},
+
+		"PT":{
+			"ID":"PT",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-3 -3 6 6' id='PT' xmlns='http://www.w3.org/2000/svg'><circle fill='#DA291C' r='3'/><circle fill='#046A38' r='2'/></svg>",
+			"LineFormattings":[
+				{"Color":"#DA291C", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"[National Cockade of Portugal](http://en.wikipedia.org/wiki/National_symbols_of_Portugal#Vexillology), simplified.",
+				"UseFor":"Portugal has an alternate marker, `PT_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"PT_2":{
+			"ID":"PT_2",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-3 -3 6 6' id='PT_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#DA291C' r='3'/><circle fill='#0F0' r='2'/></svg>",
+			"LineFormattings":[
+				{"Color":"#DA291C", "Width":3.6},
+				{"Color":"#00FF00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `PT` marker; bright green replacing dark green.",
+				"UseFor":"Portugal&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"EE":{
+			"ID":"EE",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-27 -27 54 54' id='EE' xmlns='http://www.w3.org/2000/svg'><circle fill='#0072CE' r='27'/><circle r='19'/><circle fill='#FFF' r='10'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0072CE", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Colours from the [flag of Estonia](http://en.wikipedia.org/wiki/Flag_of_Estonia); round for the towers in the [Walls of Tallinn](http://en.wikipedia.org/wiki/Walls_of_Tallinn)."
+			}
+		},
+
+		"ME":{
+			"ID":"ME",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-5 -5 10 10' id='ME' xmlns='http://www.w3.org/2000/svg'><circle fill='#215F8F' r='5'/><path fill='#D3AE45' transform='rotate(15)' d='M4 1H1V4H-1V1H-4V-1h3V-4H1v3H4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#215F8F", "Width":3.6},
+				{"Color":"#D3AE45", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"*Globus crucifer azure crossed Or*, from the [coat of arms of Montenegro](http://en.wikipedia.org/wiki/Coat_of_arms_of_Montenegro#/media/File:Coat_of_arms_of_Montenegro.svg)."
+			}
+		},
+
+		"MDL":{
+			"ID":"MDL",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-5 -5 10 10' id='MDL' xmlns='http://www.w3.org/2000/svg'><circle fill='#0046AE' r='5'/><circle fill='#FFD200' r='4'/><path fill='#CC092F' d='M2 1A1 1 0 0 0 2 -1H-2A1 1 0 0 0 -2 1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FFD200", "Width":3.6},
+				{"Color":"#CC092F", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Inspired by the top and side views of the [Romanita Collective Housing Tower](http://socialistmodernism.com/the-romanita-collective-housing-tower-building-chisinau/), [Chi&#537;in&abreve;u](http://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u), in the colours of the [flag of Moldova](http://en.wikipedia.org/wiki/Flag_of_Moldova)."
+			}
+		},
+
+		"_CADES":{
+			"ID":"_CADES",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='_CADES' xmlns='http://www.w3.org/2000/svg'><circle fill='#273375' r='10'/><circle fill='#FFF' r='7'/><circle fill='#E20613' r='5'/></svg>",
+			"LineFormattings":[
+				{"Color":"#273375", "Width":3.6},
+				{"Color":"#E20613", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the &lsquo;C&rsquo; of the [logo](http://www.cades.fr/templates/shaper_helixultimate-2021/images/presets/preset2/logo-en.svg) of the [*Caisse d&rsquo;Amortissement de la Dette Sociale*](http://www.cades.fr/en/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>CADES&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_ADB":{
+			"ID":"_ADB",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-1 -1 2 2' id='_ADB' xmlns='http://www.w3.org/2000/svg'><circle fill='#1C3060' r='1'/><path fill='#FFF' d='M.70711 .70711V-.70711H-.70711V.70711Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#1C3060", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"[Unity logo of annual meetings](http://lnadbg6.adb.org/sec0084p.nsf/Content/2016/topics/chapter_3._branding,_logo,_and_visual_identity_guidelines?openDocument) of the [Asian Development Bank](http://www.adb.org/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>ASIA&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_AfDB":{
+			"ID":"_AfDB",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-27 -27 54 54' id='_AfDB' xmlns='http://www.w3.org/2000/svg'><circle r='27'/><circle fill='#FFF' r='19'/><circle fill='#039355' r='10'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#039355", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From [logo](http://www.afdb.org/sites/default/files/afdb_logo_en_1.jpg) of the [African Development Bank](http://www.afdb.org/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>AFDB&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_CDB":{
+			"ID":"_CDB",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='_CDB' xmlns='http://www.w3.org/2000/svg'><circle fill='#EFBE20' r='10'/><circle fill='#FFF' r='7'/><circle fill='#0B5CAE' r='5'/></svg>",
+			"LineFormattings":[
+				{"Color":"#EFBE20", "Width":3.6},
+				{"Color":"#0B5CAE", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From [logo](http://www.caribank.org/themes/custom/cdb/logo.svg) of the [Caribbean Development Bank](http://www.caribank.org/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>CARDEV&nbsp;Corp</kbd>"
+			}
+		},
+
+		"CY":{
+			"ID":"CY",
+			"Width":9.59407,
+			"Height":8.8,
+			"Svg":"<svg width='9.59407' height='8.8' viewBox='-882 -809 1764 1618' id='CY' xmlns='http://www.w3.org/2000/svg'><path fill='#D57800' d='M882 809V-809H-882V809Z'/><path fill='#4E5B31' d='M-720 0C-44 0 640 -285 720 -600 440 -765 -244 -480 -720 0Z M720 0C44 0 -640 285 -720 600 -440 765 244 480 720 0Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#D57800", "Width":3.6},
+				{"Color":"#4E5B31", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Two symmetrified olive leaves from the [flag of Cyprus](http://en.wikipedia.org/wiki/Flag_of_Cyprus), in flag &lsquo;copper&rsquo; and green."
+			}
+		},
+
+		"EC":{
+			"ID":"EC",
+			"Width":8.54737,
+			"Height":11.6,
+			"Svg":"<svg width='8.54737' height='11.6' viewBox='-378 -513 756 1026' id='EC' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#EF3340' rx='378' ry='513' /><ellipse fill='#0072CE' rx='266' ry='401' /><ellipse fill='#FFD100' rx='140' ry='275' /></svg>",
+			"LineFormattings":[
+				{"Color":"#0072CE", "Width":3.6},
+				{"Color":"#FFD100", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Oval from the [coat of arms of Ecuador](http://en.wikipedia.org/wiki/Flag_of_Ecuador#/media/File:Coat_of_arms_of_Ecuador.svg); in [flag](http://en.wikipedia.org/wiki/Flag_of_Ecuador) yellow-blue-red."
+			}
+		},
+
+		"EGP":{
+			"ID":"EGP",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-5.77 -5.77 11.54 11.54' id='EGP' xmlns='http://www.w3.org/2000/svg'><path d='M5.77 5.77H-5.77V-5.77H5.77Z'/><path fill='#FFF' d='M.816 0l3.8 3.8V-3.8Z M0 .816l3.8 3.8H-3.8Z M-.816 0l-3.8 -3.8V3.8Z M0 -.816l-3.8 -3.8H3.8Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Square-based pyramid in [Egyptian-flag](http://en.wikipedia.org/wiki/Flag_of_Egypt) black and white."
+			}
+		},
+
+		"CHF":{
+			"ID":"CHF",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-5 -5 10 10' id='CHF' xmlns='http://www.w3.org/2000/svg'><path fill='red' d='M2 2H5V-2H2V-5H-2v3H-5V2h3V5H2Z'/><path fill='#FFF' d='M1 1H4V-1H1V-4H-1v3H-4V1h3V4H1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF0000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Switzerland](http://en.wikipedia.org/wiki/Flag_of_Switzerland#Design).",
+				"UseFor":"Switzerland has an alternate marker, `CHF_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"CHF_2":{
+			"ID":"CHF_2",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-5 -5 10 10' id='CHF_2' xmlns='http://www.w3.org/2000/svg'><path fill='red' d='M2 2H5V-2H2V-5H-2v3H-5V2h3V5H2Z'/><path d='M1 1H4V-1H1V-4H-1v3H-4V1h3V4H1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF0000", "Width":3.6},
+				{"Color":"#66CC66", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `CHF` marker; black replacing white.",
+				"UseFor":"Switzerland&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"SEK":{
+			"ID":"SEK",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-5 -5 10 10' id='SEK' xmlns='http://www.w3.org/2000/svg'><path fill='#004B87' d='M2 2H5V-2H2V-5H-2v3H-5V2h3V5H2Z'/><path fill='#FFD100' d='M1 1H4V-1H1V-4H-1v3H-4V1h3V4H1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#004B87", "Width":3.6},
+				{"Color":"#FFD100", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Sweden](http://en.wikipedia.org/wiki/Flag_of_Sweden)."
+			}
+		},
+
+		"LV":{
+			"ID":"LV",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-5 -5 10 10' id='LV' xmlns='http://www.w3.org/2000/svg'><path fill='#9D2235' d='M2 2H5V-2H2V-5H-2v3H-5V2h3V5H2Z'/><path fill='#FFF' d='M1 1H4V-1H1V-4H-1v3H-4V1h3V4H1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#9D2235", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [naval jack of Latvia](http://www.mil.lv/vienibas/juras-speki/juras-speku-stabs)."
+			}
+		},
+
+		"NOK":{
+			"ID":"NOK",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-25 -25 50 50' id='NOK' xmlns='http://www.w3.org/2000/svg'><path fill='#BA0C2F' d='M10 10H25V-10H10V-25H-10v15H-25V10h15V25H10Z'/><path fill='#FFF' d='M6 6H21V-6H6V-21H-6V-6H-21V6H-6V21H6Z'/><path fill='#00205B' d='M2 2H17V-2H2V-17H-2V-2H-17V2H-2V17H2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#BA0C2F", "Width":3.6},
+				{"Color":"#00205B", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Norway](http://en.wikipedia.org/wiki/Flag_of_Norway)."
+			}
+		},
+
+		"ISK":{
+			"ID":"ISK",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-25 -25 50 50' id='ISK' xmlns='http://www.w3.org/2000/svg'><path fill='#02529C' d='M10 10H25V-10H10V-25H-10v15H-25V10h15V25H10Z'/><path fill='#FFF' d='M6 6H21V-6H6V-21H-6V-6H-21V6H-6V21H6Z'/><path fill='#DC1E35' d='M2 2H17V-2H2V-17H-2V-2H-17V2H-2V17H2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#02529C", "Width":3.6},
+				{"Color":"#DC1E35", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Iceland](http://en.wikipedia.org/wiki/Flag_of_Iceland)."
+			}
+		},
+
+		"FI":{
+			"ID":"FI",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-25 -25 50 50' id='FI' xmlns='http://www.w3.org/2000/svg'><path fill='#002F6C' d='M10 10H25V-10H10V-25H-10v15H-25V10h15V25H10Z'/><path fill='#FFF' d='M4 4H19V-4H4V-19H-4V-4H-19V4H-4V19H4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#002F6C", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Finland](http://en.wikipedia.org/wiki/Flag_of_Finland).",
+				"UseFor":"Finland has an alternate marker, `FI_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"FI_2":{
+			"ID":"FI_2",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-25 -25 50 50' id='FI_2' xmlns='http://www.w3.org/2000/svg'><path fill='#002F6C' d='M10 10H25V-10H10V-25H-10v15H-25V10h15V25H10Z'/><path fill='#6C6' d='M4 4H19V-4H4V-19H-4V-4H-19V4H-4V19H4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#002F6C", "Width":3.6},
+				{"Color":"#66CC66", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `FI` marker; green replacing white.",
+				"UseFor":"Finland&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"FR_2":{
+			"ID":"FR_2",
+			"Width":9.61288,
+			"Height":11.1,
+			"Svg":"<svg width='9.61288' height='11.1' viewBox='-3.4641 -4 6.9282 8' id='FR_2' xmlns='http://www.w3.org/2000/svg'><defs><path id='FR-h' d='M0 4L3.4641 2V-2L0 -4l-3.4641 2V2Z'/></defs><use href='#FR-h' fill='#0055A4'/><use href='#FR-h' fill='#EF4135' transform='scale(.7)'/><use href='#FR-h' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0055A4", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `FR` marker; colours re-ordereed and black replacing white.",
+				"UseFor":"France&rsquo;s alternate marker, for green bonds, or for [OATi](http://www.aft.gouv.fr/en/encours-detaille-oati) linked to French inflation, or for other purposes."
+			}
+		},
+
+		"FR":{
+			"ID":"FR",
+			"Width":9.61288,
+			"Height":11.1,
+			"Svg":"<svg width='9.61288' height='11.1' viewBox='-3.4641 -4 6.9282 8' id='FR' xmlns='http://www.w3.org/2000/svg'><defs><path id='FR-h' d='M0 4L3.4641 2V-2L0 -4l-3.4641 2V2Z'/></defs><use href='#FR-h' fill='#0055A4'/><use href='#FR-h' fill='#FFF' transform='scale(.7)'/><use href='#FR-h' fill='#EF4135' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0055A4", "Width":3.6},
+				{"Color":"#EF4135", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Hexagonal shape of France](http://en.wikipedia.org/wiki/Outline_of_France); in blue-white-red of [flag](http://en.wikipedia.org/wiki/Flag_of_France).",
+				"UseFor":"France has an alternate marker, `FR_2`. It can be used for green bonds or for [OATi](http://www.aft.gouv.fr/en/encours-detaille-oati) linked to French inflation (e.g. [0.55% Mar&nbsp;2039](http://www.aft.gouv.fr/en/titre/fr001400ikw5)), with the usual marker, `FR`, being used for non-green or for [OAT&euro;i](http://www.aft.gouv.fr/en/encours-detaille-oatei) linked to European inflation (e.g. [0.1% July&nbsp;2053](http://www.aft.gouv.fr/en/titre/fr0014008181)). Of course, the alternate marker can be used for other purposes."
+			}
+		},
+
+		"GBP":{
+			"ID":"GBP",
+			"Width":14.4,
+			"Height":7.2,
+			"Svg":"<svg width='14.4' height='7.2' viewBox='-30 -15 60 30' id='GBP' xmlns='http://www.w3.org/2000/svg'><path fill='#012169' d='M30 15V9.4098L11.1803 0 30 -9.4098V-15H18.8197L0 -5.5902 -18.8197 -15H-30v5.5902L-11.1803 0 -30 9.4098V15h11.1803L0 5.5902 18.8197 15Z'/><path fill='#C8102E' d='M28 10.6459L6.7082 0 28 -10.6459V-13H19.2918L0 -3.3541 -19.2918 -13H-28v2.3541L-6.7082 0 -28 10.6459V13h8.7082L0 3.3541 19.2918 13H28Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#012169", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"Only large currency with prominent diagonal cross in [flag](http://www.jdawiseman.com/papers/union-jack/union-jack.html), though the diagonal has been thickened. In [flag](http://en.wikipedia.org/wiki/Union_Jack) red and blue.",
+				"UseFor":"Some data is reported for England and/or Scotland, rather than for the UK as a whole, and some sports are organised at the same level. So there are same-shape markers for the UK&rsquo;s immediately sub-national divisions: England&nbsp;=&nbsp;`GB_ENG`; Scotland&nbsp;=&nbsp;`GB_SCT`; Wales&nbsp;=&nbsp;`GB_WLS`; Northern&nbsp;Ireland&nbsp;=&nbsp;`GB_NIR`; and the jurisdiction England & Wales&nbsp;=&nbsp;`GB_EAW` (the last of these being standard for green bonds and for [old&#8209;style 8&#8209;month ILGs](http://www.jdawiseman.com/papers/finmkts/gilt_statics_non-conventionals.html#ILG_8M))."
+			}
+		},
+
+		"GB_SCT":{
+			"ID":"GB_SCT",
+			"Width":14.4,
+			"Height":7.2,
+			"Svg":"<svg width='14.4' height='7.2' viewBox='-30 -15 60 30' id='GB_SCT' xmlns='http://www.w3.org/2000/svg'><path fill='#012169' d='M30 15V9.4098L11.1803 0 30 -9.4098V-15H18.8197L0 -5.5902 -18.8197 -15H-30v5.5902L-11.1803 0 -30 9.4098V15h11.1803L0 5.5902 18.8197 15Z'/><path fill='#FFF' d='M28 10.6459L6.7082 0 28 -10.6459V-13H19.2918L0 -3.3541 -19.2918 -13H-28v2.3541L-6.7082 0 -28 10.6459V13h8.7082L0 3.3541 19.2918 13H28Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#012169", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `GBP` marker; colours from the [flag of Scotland](https://en.wikipedia.org/wiki/Flag_of_Scotland)."
+			}
+		},
+
+		"GB_NIR":{
+			"ID":"GB_NIR",
+			"Width":14.4,
+			"Height":7.2,
+			"Svg":"<svg width='14.4' height='7.2' viewBox='-30 -15 60 30' id='GB_NIR' xmlns='http://www.w3.org/2000/svg'><path fill='#DA291C' d='M30 15V9.4098L11.1803 0 30 -9.4098V-15H18.8197L0 -5.5902 -18.8197 -15H-30v5.5902L-11.1803 0 -30 9.4098V15h11.1803L0 5.5902 18.8197 15Z'/><path fill='#FFC72C' d='M28 10.6459L6.7082 0 28 -10.6459V-13H19.2918L0 -3.3541 -19.2918 -13H-28v2.3541L-6.7082 0 -28 10.6459V13h8.7082L0 3.3541 19.2918 13H28Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#DA291C", "Width":3.6},
+				{"Color":"#FFC72C", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `GBP` marker; red and gold colours from the [flag of Ulster](https://en.wikipedia.org/wiki/Flag_of_Ulster)."
+			}
+		},
+
+		"GB_ENG":{
+			"ID":"GB_ENG",
+			"Width":14.4,
+			"Height":7.2,
+			"Svg":"<svg width='14.4' height='7.2' viewBox='-30 -15 60 30' id='GB_ENG' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M30 15V9.4098L11.1803 0 30 -9.4098V-15H18.8197L0 -5.5902 -18.8197 -15H-30v5.5902L-11.1803 0 -30 9.4098V15h11.1803L0 5.5902 18.8197 15Z'/><path fill='#FFF' d='M28 10.6459L6.7082 0 28 -10.6459V-13H19.2918L0 -3.3541 -19.2918 -13H-28v2.3541L-6.7082 0 -28 10.6459V13h8.7082L0 3.3541 19.2918 13H28Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C8102E", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `GBP` marker; colours from the [flag of England](https://en.wikipedia.org/wiki/Flag_of_England)."
+			}
+		},
+
+		"GB_WLS":{
+			"ID":"GB_WLS",
+			"Width":14.4,
+			"Height":7.2,
+			"Svg":"<svg width='14.4' height='7.2' viewBox='-30 -15 60 30' id='GB_WLS' xmlns='http://www.w3.org/2000/svg'><path fill='#00B140' d='M30 15V9.4098L11.1803 0 30 -9.4098V-15H18.8197L0 -5.5902 -18.8197 -15H-30v5.5902L-11.1803 0 -30 9.4098V15h11.1803L0 5.5902 18.8197 15Z'/><path fill='#C8102E' d='M28 10.6459L6.7082 0 28 -10.6459V-13H19.2918L0 -3.3541 -19.2918 -13H-28v2.3541L-6.7082 0 -28 10.6459V13h8.7082L0 3.3541 19.2918 13H28Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#00B140", "Width":3.6},
+				{"Color":"#C8102E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `GBP` marker; green and red colours from the [flag of Wales](https://en.wikipedia.org/wiki/Flag_of_Wales)."
+			}
+		},
+
+		"GB_EAW":{
+			"ID":"GB_EAW",
+			"Width":14.4,
+			"Height":7.2,
+			"Svg":"<svg width='14.4' height='7.2' viewBox='-30 -15 60 30' id='GB_EAW' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M30 15V9.4098L11.1803 0 30 -9.4098V-15H18.8197L0 -5.5902 -18.8197 -15H-30v5.5902L-11.1803 0 -30 9.4098V15h11.1803L0 5.5902 18.8197 15Z'/><path fill='#00B140' d='M28 10.6459L6.7082 0 28 -10.6459V-13H19.2918L0 -3.3541 -19.2918 -13H-28v2.3541L-6.7082 0 -28 10.6459V13h8.7082L0 3.3541 19.2918 13H28Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C8102E", "Width":3.6},
+				{"Color":"#00B140", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `GBP` marker; red from the [flag of England](https://en.wikipedia.org/wiki/Flag_of_England), green from the [flag of Wales](https://en.wikipedia.org/wiki/Flag_of_Wales).",
+				"UseFor":"Used for the jurisdiction England and Wales, and also for green gilts, and for [old&#8209;style 8&#8209;month ILGs](http://www.jdawiseman.com/papers/finmkts/gilt_statics_non-conventionals.html#ILG_8M))."
+			}
+		},
+
+		"GEL":{
+			"ID":"GEL",
+			"Width":12.5,
+			"Height":12.5,
+			"Svg":"<svg width='12.5' height='12.5' viewBox='-20.45987 -20.45987 40.91974 40.91974' id='GEL' xmlns='http://www.w3.org/2000/svg'><path id='GEL-c' fill='red' d='M20.4599 -7.0324A104 104 0 0 1 -20.4599 -7.0324L-20.4599 7.0324A104 104 0 0 1 20.4599 7.0324Z'/><use href='#GEL-c' transform='rotate(90)'/><path id='GEL-b' fill='#FFF' d='M18.1869 -4.5719A106 106 0 0 1 -18.1869 -4.5719L-18.1869 4.5719A106 106 0 0 1 18.1869 4.5719Z'/><use href='#GEL-b' transform='rotate(90)'/><path id='GEL-a' fill='red' d='M16.0417 -2.198A108 108 0 0 1 -16.0417 -2.198L-16.0417 2.198A108 108 0 0 1 16.0417 2.198Z'/><use href='#GEL-a' transform='rotate(90)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF0000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Crosses from the [flag of Georgia](http://en.wikipedia.org/wiki/Flag_of_Georgia_(country)).",
+				"Design":"At the likely size of a marker, the curve in the short sides would cause an indentation of less than a pixel, so those sides have been made straight."
+			}
+		},
+
+		"GR_2":{
+			"ID":"GR_2",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-6 -6 12 12' id='GR_2' xmlns='http://www.w3.org/2000/svg'><path fill='#004C98' d='M6 6V-6H-6V6Z'/><path fill='#0F0' d='M5 1H1V5H-1V1H-5V-1h4V-5H1v4H5Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#004C98", "Width":3.6},
+				{"Color":"#00FF00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `GR` marker; green replacing white.",
+				"UseFor":"Greece&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"GR":{
+			"ID":"GR",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-6 -6 12 12' id='GR' xmlns='http://www.w3.org/2000/svg'><path fill='#004C98' d='M6 6V-6H-6V6Z'/><path fill='#FFF' d='M5 1H1V5H-1V1H-5V-1h4V-5H1v4H5Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#004C98", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Greece](http://en.wikipedia.org/wiki/Flag_of_Greece).",
+				"UseFor":"Greece has an alternate marker, `GR_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"HKD":{
+			"ID":"HKD",
+			"Width":10.93719,
+			"Height":11.5,
+			"Svg":"<svg width='10.93719' height='11.5' viewBox='-0.95106 -1 1.90212 2' id='HKD' xmlns='http://www.w3.org/2000/svg'><defs><path id='HKD-p' d='M0 -1l.95106 .69098L.58779 .80902H-.58779L-.95106 -.30902'/></defs><use href='#HKD-p' fill='red'/><use href='#HKD-p' fill='#FFF' transform='scale(.84)'/><use href='#HKD-p' fill='red' transform='scale(.5)'/><use href='#HKD-p' fill='#FFF' transform='scale(.34)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF0000", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"The five-leaf pattern of the [flag of Hong Kong](http://en.wikipedia.org/wiki/Flag_of_Hong_Kong), simplified to a pentagon, double-edged like the logo of the [HKMA](http://www.hkma.gov.hk/eng/) = Hong Kong Monetary Authority."
+			}
+		},
+
+		"IE_2":{
+			"ID":"IE_2",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-109 -109 218 218' id='IE_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#169B62' r='109'/><path id='IE-g' fill='#FF883E' d='M0 0C80 -67 48 -114 0 -90 -48 -114 -80 -67 0 0Z'/><use href='#IE-g' transform='rotate(120)'/><use href='#IE-g' transform='rotate(240)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#169B62", "Width":3.6},
+				{"Color":"#FF883E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `IE` marker; the colours switched.",
+				"UseFor":"Ireland&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"IE":{
+			"ID":"IE",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-109 -109 218 218' id='IE' xmlns='http://www.w3.org/2000/svg'><circle fill='#FF883E' r='109'/><path id='IE-o' fill='#169B62' d='M0 0C80 -67 48 -114 0 -90 -48 -114 -80 -67 0 0Z'/><use href='#IE-o' transform='rotate(120)'/><use href='#IE-o' transform='rotate(240)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF883E", "Width":3.6},
+				{"Color":"#169B62", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Shamrock](http://en.wikipedia.org/wiki/Shamrock), in green and orange from the [flag of Ireland](http://en.wikipedia.org/wiki/Flag_of_Ireland).",
+				"UseFor":"Ireland has an alternate marker, `IE_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"ILS":{
+			"ID":"ILS",
+			"Width":10.39231,
+			"Height":12,
+			"Svg":"<svg width='10.39231' height='12' viewBox='-9 -10.3923 18 20.7846' id='ILS' xmlns='http://www.w3.org/2000/svg'><path fill='#005EB8' d='M0 10.3923L-3 5.1962H-9L-6 0 -9 -5.1962h6l3 -5.1961 3 5.1961H9L6 0 9 5.1962H3Z'/><path fill='#FFF' d='M4 0L2 3.4641H-2L-4 0l2 -3.4641H2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#005EB8", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Star of David, from the [flag of Israel](http://en.wikipedia.org/wiki/Flag_of_Israel).",
+				"Design":"At the likely size of a marker the six white triangles in the six arms would not be visible, so have been omitted."
+			}
+		},
+
+		"INR":{
+			"ID":"INR",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-16 -16 32 32' id='INR' xmlns='http://www.w3.org/2000/svg'><circle fill='#250E62' r='16'/><circle fill='#FFF' r='14'/><path fill='#250E62' d='M0 0L-4.7363 -3.3733l-8.198 -1.9843 7.2 4.3938Z L-.9638 -5.7343l-4.3938 -7.2 1.9843 8.198Z L3.3733 -4.7363l1.9843 -8.198 -4.3938 7.2Z L5.7343 -.9638l7.2 -4.3938 -8.198 1.9843Z L4.7363 3.3733l8.198 1.9843L5.7343 .9638Z L.9638 5.7343l4.3938 7.2L3.3733 4.7363Z L-3.3733 4.7363l-1.9843 8.198 4.3938 -7.2Z L-5.7343 .9638l-7.2 4.3938 8.198 -1.9843Z'/><circle fill='#250E62' r='2.8'/></svg>",
+			"LineFormattings":[
+				{"Color":"#250E62", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Ashoka Chakra](http://en.wikipedia.org/wiki/Ashoka_Chakra) from the [flag of India](http://en.wikipedia.org/wiki/Flag_of_India), simplified, in original navy blue."
+			}
+		},
+
+		"IQD":{
+			"ID":"IQD",
+			"Width":10.6,
+			"Height":10.6,
+			"Svg":"<svg width='10.6' height='10.6' viewBox='-72 -72 144 144' id='IQD' xmlns='http://www.w3.org/2000/svg'><path fill='#201B17' d='M-72 72C0 8 0 8 72 72L72 -72C0 -8 0 -8 -72 -72Z'/><path id='IQD-o' fill='#E3B329' d='M-63 52.011C-56.388 46.21 -50.453 41.117 -45 36.713L-45 -36.713C-50.453 -41.117 -56.388 -46.21 -63 -52.011Z M-36 29.77C-29.576 25.089 -23.702 21.492 -18 19.015L-18 -19.015C-23.702 -21.492 -29.576 -25.089 -36 -29.77Z'/><path fill='#E3B329' d='M-9 16.023C-2.963 14.659 2.963 14.659 9 16.023L9 -16.023C2.963 -14.659 -2.963 -14.659 -9 -16.023Z'/><use href='#IQD-o' transform='rotate(180)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#E3B329", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Wings of eagle in the [coat of arms of Iraq](http://en.wikipedia.org/wiki/Coat_of_arms_of_Iraq)."
+			}
+		},
+
+		"IT_2":{
+			"ID":"IT_2",
+			"Width":10.97353,
+			"Height":9.1,
+			"Svg":"<svg width='10.97353' height='9.1' viewBox='-82 -68 164 136' id='IT_2' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#008C45' rx='82' ry='68' /><ellipse rx='65' ry='51' /><ellipse fill='#CD212A' rx='48' ry='34' /><ellipse fill='#F4F5F0' rx='31' ry='17' /></svg>",
+			"LineFormattings":[
+				{"Color":"#008C45", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `IT` marker; black replacing white.",
+				"UseFor":"Italy&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"IT":{
+			"ID":"IT",
+			"Width":10.97353,
+			"Height":9.1,
+			"Svg":"<svg width='10.97353' height='9.1' viewBox='-82 -68 164 136' id='IT' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#008C45' rx='82' ry='68' /><ellipse fill='#F4F5F0' rx='65' ry='51' /><ellipse fill='#CD212A' rx='48' ry='34' /><ellipse fill='#F4F5F0' rx='31' ry='17' /></svg>",
+			"LineFormattings":[
+				{"Color":"#008C45", "Width":3.6},
+				{"Color":"#CD212A", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Rome&rsquo;s [Colosseum](http://en.wikipedia.org/wiki/Colosseum), in the colours of the [flag of Italy](http://en.wikipedia.org/wiki/Flag_of_Italy).",
+				"UseFor":"Italy has an alternate marker, `IT_2`, which can be used for green bonds, or for southern Italy when that is being distinguished, or for other purposes."
+			}
+		},
+
+		"JOD":{
+			"ID":"JOD",
+			"Width":13.06406,
+			"Height":13.4,
+			"Svg":"<svg width='13.06406' height='13.4' viewBox='-0.97493 -1 1.94986 2' id='JOD' xmlns='http://www.w3.org/2000/svg'><defs><path id='JOD-s' d='M0 -1l-.19284 .54952L-.78183 -.62349l.34853 .51223L-.97493 .22252l.62745 .08922 -.0864 .58923L0 .5 .43388 .90097 .34748 .31174 .97493 .22252 .4333 -.11126 .78183 -.62349 .19284 -.45048Z'/></defs><use href='#JOD-s' fill='#CE1126'/><use href='#JOD-s' fill='#FFF' transform='scale(.65)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#CE1126", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Jordan](http://en.wikipedia.org/wiki/Flag_of_Jordan)."
+			}
+		},
+
+		"KRW":{
+			"ID":"KRW",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-1 -1 2 2' id='KRW' xmlns='http://www.w3.org/2000/svg'><path fill='#CD2E3A' d='M-.83205 -.5547A1 1 0 0 1 .83205 .5547Z'/><path fill='#0047A0' d='M.83205 .5547A1 1 0 0 1 -.83205 -.5547Z'/><circle fill='#CD2E3A' cx='-0.416025' cy='-0.27735' r='0.5'/><circle fill='#0047A0' cx='0.416025' cy='0.27735' r='0.5'/></svg>",
+			"LineFormattings":[
+				{"Color":"#CD2E3A", "Width":3.6},
+				{"Color":"#0047A0", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of South Korea](http://en.wikipedia.org/wiki/Flag_of_South_Korea).",
+				"Design":"The shape, but not the colour, has the desired rotational symmetry."
+			}
+		},
+
+		"KWD":{
+			"ID":"KWD",
+			"Width":10.3,
+			"Height":10.3,
+			"Svg":"<svg width='10.3' height='10.3' viewBox='-9 -9 18 18' id='KWD' xmlns='http://www.w3.org/2000/svg'><path d='M0 -9l9 6V3L0 9 -9 3V-3Z'/><path fill='#CE1126' d='M0 -6.7543L7.1315 -2V2L0 6.7543 -7.1315 2V-2Z'/><path fill='#FFF' d='M0 -4.5086L5.263 -1V1L0 4.5086 -5.263 1V-1Z'/><path fill='#007A3D' d='M0 -2.263L3.3944 0 0 2.263 -3.3944 0Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#CE1126", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Black isosceles trapezium in hoist of [flag of Kuwait](http://en.wikipedia.org/wiki/Flag_of_Kuwait), for symmetry duplicated back-to-back, in flag colours."
+			}
+		},
+
+		"KZT":{
+			"ID":"KZT",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-1 -1 2 2' id='KZT' xmlns='http://www.w3.org/2000/svg'><circle fill='#00AEC7' r='1'/><path id='KZT-a' fill='#F6E500' d='M.70711 .70711L.50683 .22361A.21677 .21677 0 1 0 .22361 .50683Z'/><use href='#KZT-a' transform='scale(-1,1)'/><use href='#KZT-a' transform='scale(1,-1)'/><use href='#KZT-a' transform='scale(-1,-1)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#00AEC7", "Width":3.6},
+				{"Color":"#F6E500", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Flag of Kazakhstan](http://en.wikipedia.org/wiki/Flag_of_Kazakhstan), simplified and rearranged."
+			}
+		},
+
+		"MKD":{
+			"ID":"MKD",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-7 -7 14 14' id='MKD' xmlns='http://www.w3.org/2000/svg'><path fill='#CE2028' d='M7 5.25L5.25 7H1L0 6 -1 7H-5.25L-7 5.25V1L-6 0 -7 -1V-5.25L-5.25 -7H-1l1 1L1 -7H5.25L7 -5.25V-1L6 0 7 1Z'/><g fill='#F9D616'><path d='M1 7H-1L1 -7H-1Z M7 1V-1L-7 1V-1Z M5.25 7H7V5.25L-7 -5.25V-7h1.75Z M-5.25 7H-7V5.25L7 -5.25V-7H5.25Z'/><circle r='2'/></g></svg>",
+			"LineFormattings":[
+				{"Color":"#CE2028", "Width":3.6},
+				{"Color":"#F9D616", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of North Macedonia](http://en.wikipedia.org/wiki/Flag_of_North_Macedonia#/media/File:Construction_sheet_of_the_flag_of_North_Macedonia.svg)."
+			}
+		},
+
+		"MT":{
+			"ID":"MT",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-1 -1 2 2' id='MT' xmlns='http://www.w3.org/2000/svg'><path fill='#CF142B' d='M1 1V-1H-1V1Z'/><path fill='#FFF' d='M0 0L-1 -.41421 -.58579 0 -1 .41421 1 -.41421 .58579 0 1 .41421 0 0 -.41421 -1 0 -.58579 .41421 -1 -.41421 1 0 .58579 .41421 1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#CF142B", "Width":3.6},
+				{"Color":"#C0C0C0", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Cross of Malta, from its [&lsquo;Variant&rsquo; flag](http://en.wikipedia.org/wiki/Flag_of_Malta#/media/File:Civil_Ensign_of_Malta.svg)."
+			}
+		},
+
+		"MXN":{
+			"ID":"MXN",
+			"Width":11.7,
+			"Height":11.7,
+			"Svg":"<svg width='11.7' height='11.7' viewBox='-1 -1 2 2' id='MXN' xmlns='http://www.w3.org/2000/svg'><defs><path id='MXN-o' d='M0 1L.20711 .5l.5 .20711L.5 .20711 1 0 .5 -.20711l.20711 -.5L.20711 -.5 0 -1l-.20711 .5 -.5 -.20711 .20711 .5L-1 0l.5 .20711 -.20711 .5L-.20711 .5Z'/></defs><use href='#MXN-o' fill='#006341'/><use href='#MXN-o' fill='#FFF' transform='scale(.7)'/><use href='#MXN-o' fill='#C8102E' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#006341", "Width":3.6},
+				{"Color":"#C8102E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Eight-pointed star from [Mexican naval jack](http://en.wikipedia.org/wiki/Mexican_Navy); [flag](http://en.wikipedia.org/wiki/Flag_of_Mexico) colours."
+			}
+		},
+
+		"MYR":{
+			"ID":"MYR",
+			"Width":9.06685,
+			"Height":9.3,
+			"Svg":"<svg width='9.06685' height='9.3' viewBox='-0.97493 -1 1.94986 2' id='MYR' xmlns='http://www.w3.org/2000/svg'><path fill='#00326A' d='M1 1V-1H-1V1Z'/><path fill='#DECE05' d='M0 -1l-.17355 .63961 -.60828 -.2631 .39186 .53448L-.97493 .22252l.6622 .02688L-.43388 .90097 0 .4 .43388 .90097 .31273 .2494 .97493 .22252 .38997 -.08901 .78183 -.62349l-.60828 .2631Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#DECE05", "Width":3.6},
+				{"Color":"#00326A", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Star from the [flag of Malaysia](http://web.archive.org/web/20120318034534/http://pmr.penerangan.gov.my/index.php/maklumat-kenegaraan/194-bendera-malaysia.html), simplified from 14 outer points to 14 vertices (i.e., 7 outer points).",
+				"Design":"The rectangle has rotational symmetry of order 2, the star of order 7, with the same centres, but the whole does not have rotational symmetry."
+			}
+		},
+
+		"NL_2":{
+			"ID":"NL_2",
+			"Width":11.14286,
+			"Height":7.8,
+			"Svg":"<svg width='11.14286' height='7.8' viewBox='-10 -7 20 14' id='NL_2' xmlns='http://www.w3.org/2000/svg'><path fill='#AD1D25' d='M4.6098 0L10 1.1978V7H2.382L0 2.2361 -2.382 7H-10V1.1978L-4.6098 0 -10 -1.1978V-7h7.618L0 -2.2361 2.382 -7H10v5.8022Z'/><path fill='#FA9B1E' d='M9 2v4H3L-3 -6h-6v4Z M-9 2v4H-3L3 -6h6v4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#AD1D25", "Width":3.6},
+				{"Color":"#FA9B1E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `NL` marker; the colours switched.",
+				"UseFor":"The Netherlands&rsquo; alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"NL":{
+			"ID":"NL",
+			"Width":11.14286,
+			"Height":7.8,
+			"Svg":"<svg width='11.14286' height='7.8' viewBox='-10 -7 20 14' id='NL' xmlns='http://www.w3.org/2000/svg'><path fill='#003DA5' d='M4.6098 0L10 1.1978V7H2.382L0 2.2361 -2.382 7H-10V1.1978L-4.6098 0 -10 -1.1978V-7h7.618L0 -2.2361 2.382 -7H10v5.8022Z'/><path fill='#FA9B1E' d='M9 2v4H3L-3 -6h-6v4Z M-9 2v4H-3L3 -6h6v4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#003DA5", "Width":3.6},
+				{"Color":"#FA9B1E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Netherlands naval jack](http://en.wikipedia.org/wiki/Flag_of_the_Netherlands), in Dutch orange.",
+				"UseFor":"The Netherlands has an alternate marker, `NL_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"NPR":{
+			"ID":"NPR",
+			"Width":16.125,
+			"Height":8.6,
+			"Svg":"<svg width='16.125' height='8.6' viewBox='-750 -400 1500 800' id='NPR' xmlns='http://www.w3.org/2000/svg'><path fill='#DC143C' d='M0 400L750 0 0 -400 -750 0Z'/><path fill='#FFF' d='M495 0L60 -232V232Z M-495 0L-60 232V-232Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#DC143C", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Two triangles, back to back, from the shape of the [flag of Nepal](http://en.wikipedia.org/wiki/Flag_of_Nepal), and inside two white triangles, from the rays of the sun and moon."
+			}
+		},
+
+		"OMR":{
+			"ID":"OMR",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-6 -6 12 12' id='OMR' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M6 6V-6H-6V6Z'/><path fill='gold' d='M0 1L-4 5 -5 4 -1 0 -5 -4l1 -1 4 4L4 -5l1 1L1 0 5 4 4 5Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C8102E", "Width":3.6},
+				{"Color":"#FFD700", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the badge of the Albusaidi Dynasty in the hoist of the [flag of Oman](http://en.wikipedia.org/wiki/Flag_of_Oman), with the crossed swords, but without the ornate horsebit, and without the asymmetry of the curved dagger."
+			}
+		},
+
+		"PHP":{
+			"ID":"PHP",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-1.41421 -1.41421 2.82842 2.82842' id='PHP' xmlns='http://www.w3.org/2000/svg'><path fill='#0038A8' d='M0 0L1.17958 -.23463 1.41421 0 1.17958 .23463 0 0 -1.17958 .23463 -1.41421 0l.23463 -.23463L0 0 -.23463 1.17958 0 1.41421 .23463 1.17958 0 0 .23463 -1.17958 0 -1.41421l-.23463 .23463L0 0 .66818 1H1V.66818L0 0 -.66818 -1H-1v.33182L0 0 .66818 -1H1v.33182L0 0 -.66818 1H-1V.66818Z'/><circle fill='#FCD116' r='0.66989'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0038A8", "Width":3.6},
+				{"Color":"#FCD116", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Big star from the [flag of the Philippines](http://en.wikipedia.org/wiki/Flag_of_the_Philippines#Construction), simplified, in flag gold and blue."
+			}
+		},
+
+		"PLN":{
+			"ID":"PLN",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-18 -18 36 36' id='PLN' xmlns='http://www.w3.org/2000/svg'><path fill='#D22630' d='M0 0L18 -9V9L0 0 9 18H-9L0 0 -18 9V-9L0 0 -9 -18H9Z'/><path fill='#FFF' d='M16 -5.7639V5.7639L4.4721 0ZM5.7639 16H-5.7639L0 4.4721ZM-16 5.7639V-5.7639L-4.4721 0ZM-5.7639 -16H5.7639L0 -4.4721Z'/><circle fill='#D22630' r='9'/></svg>",
+			"LineFormattings":[
+				{"Color":"#D22630", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"From [naval jack of Poland](http://en.wikipedia.org/wiki/List_of_Polish_naval_and_maritime_flags#/media/File:Naval_Jack_of_Poland.svg); colours from [flag](http://en.wikipedia.org/wiki/Flag_of_Poland)."
+			}
+		},
+
+		"QAR":{
+			"ID":"QAR",
+			"Width":8.9,
+			"Height":8.9,
+			"Svg":"<svg width='8.9' height='8.9' viewBox='-121 -121 242 242' id='QAR' xmlns='http://www.w3.org/2000/svg'><path fill='#6C1D45' d='M121 121V-121H-121V121Z'/><path fill='#FFF' d='M-99 -99h27L0 -77l-72 22L0 -33l-72 22L0 11 -72 33 0 55 -72 77 0 99H-99ZM99 -99H0l72 22L0 -55l72 22L0 -11 72 11 0 33 72 55 0 77 72 99H99Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#6C1D45", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Qatar](http://www.vexilla-mundi.com/qatar_flag.html)."
+			}
+		},
+
+		"RON":{
+			"ID":"RON",
+			"Width":9.6,
+			"Height":10.8,
+			"Svg":"<svg width='9.6' height='10.8' viewBox='-8 -9 16 18' id='RON' xmlns='http://www.w3.org/2000/svg'><path fill='#002B7F' d='M8 9H6V8H-6V9H-8V7h1V-7H-8V-9h2v1H6V-9H8v2H7V7H8Z'/><path fill='#FCD116' d='M5 6V-6H-5V6Z'/><path fill='#CE1126' d='M3 4V-4H-3V4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#002B7F", "Width":3.6},
+				{"Color":"#FCD116", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Palace of Parliament](http://goo.gl/maps/RQzKYRL8b2pud8Bk8), Bucharest, in [Romanian-flag](http://en.wikipedia.org/wiki/Flag_of_Romania) blue-yellow-red."
+			}
+		},
+
+		"RUB":{
+			"ID":"RUB",
+			"Width":12.17357,
+			"Height":12.8,
+			"Svg":"<svg width='12.17357' height='12.8' viewBox='-0.95106 -1 1.90212 2' id='RUB' xmlns='http://www.w3.org/2000/svg'><defs><path id='RUB-h' d='M0 -1l.30976 .57365 .6413 .11733L.50121 .16285 .58779 .80902 0 .527 -.58779 .80902 -.50121 .16285 -.95106 -.30902l.6413 -.11733Z'/></defs><use href='#RUB-h' fill='#6A571B'/><use href='#RUB-h' fill='#D4AF37' transform='scale(.8)'/><path stroke='#6A571B' stroke-width='0.09503' d='M0 0L-0.285 -.39227M0 0L-0.46166 .15M0 0L0 .49M0 0L0.46166 .15M0 0L0.285 -.39227'/></svg>",
+			"LineFormattings":[
+				{"Color":"#6A571B", "Width":3.6},
+				{"Color":"#D4AF37", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the medal [Hero of the Russian Federation](http://en.wikipedia.org/wiki/Hero_of_the_Russian_Federation).",
+				"Design":"Measurements from the [wikipedia image](http://upload.wikimedia.org/wikipedia/commons/c/cb/RIAN_archive_470774_Gold_Star_medal_%28cropped%29.jpg) being consistent with an inner radius of 0.527. For a full-symmetry five-pointed star, area&nbsp;=&nbsp;outer&#8239;&middot;&#8239;inner&#8239;&middot;&#8239;&radic;(10&#8239;&minus;&#8239;2&radic;5)&#8239;&middot;&#8239;5/4, the constant being &asymp;&#8239;2.939. For a regular 5&frasl;2 star the inner radius is &frac12;&#8239;(3&#8239;&minus;&#8239;&radic;5) &asymp;&nbsp;0.382 &DoubleLongRightArrow;&nbsp;with same outer radius this RUB star would have an area &asymp;&nbsp;0.527&#8239;/&#8239;0.382 &asymp;&nbsp;1.38&nbsp;times bigger. Hence it is slighty smaller than the other five-pointed stars."
+			}
+		},
+
+		"SDG":{
+			"ID":"SDG",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-5 -5 10 10' id='SDG' xmlns='http://www.w3.org/2000/svg'><path d='M5 5V-5H-5V5Z'/><path fill='#FFF' d='M4 -3v2L-1 4H-3Z M4 1V3L3 4H1Z M-4 3V1L1 -4H3Z M-4 -1V-3l1 -1h2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Inspired by the wings of the [Secretary bird](http://en.wikipedia.org/wiki/Secretary_bird) in the [emblem of Sudan](http://en.wikipedia.org/wiki/Emblem_of_Sudan)."
+			}
+		},
+
+		"SI":{
+			"ID":"SI",
+			"Width":9.87269,
+			"Height":11.4,
+			"Svg":"<svg width='9.87269' height='11.4' viewBox='-6.9282 -8 13.8564 16' id='SI' xmlns='http://www.w3.org/2000/svg'><defs><path id='SI-s' d='M0 8L2 3.4641 6.9282 4 4 0 6.9282 -4 2 -3.4641 0 -8l-2 4.5359L-6.9282 -4 -4 0 -6.9282 4 -2 3.4641Z'/></defs><use href='#SI-s' fill='#005CE6'/><use href='#SI-s' fill='#FFE600' transform='scale(.7)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0060FF", "Width":3.6},
+				{"Color":"#FFE600", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Star from Slovenia&rsquo;s [flag](http://en.wikipedia.org/wiki/Flag_of_Slovenia)&rsquo;s [coat of arms](http://en.wikipedia.org/wiki/Slovenia#/media/File:Coat_of_arms_of_Slovenia.svg).",
+				"Design":"There does not seem to be an official specification of the inner radius of the star; the [wikimedia](http://upload.wikimedia.org/wikipedia/commons/8/8f/Coat_of_arms_of_Slovenia.svg) version uses an inner radius of &frac12;, also used here."
+			}
+		},
+
+		"EUR":{
+			"ID":"EUR",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='EUR' xmlns='http://www.w3.org/2000/svg'><circle fill='#F3F' r='10'/><circle fill='#FFF' r='8'/><path fill='#F3F' d='M9 1V-1H-9V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF33FF", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"[Currency symbol](http://en.wikipedia.org/wiki/File:Euro_Construction.svg) =&nbsp;&euro;, with the circle completed; the two lines across simplified to one, placed between the original two. Pink not in any of member flags, so is a neutral choice, and is helpfully distinctive."
+			}
+		},
+
+		"_ECB":{
+			"ID":"_ECB",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='_ECB' xmlns='http://www.w3.org/2000/svg'><circle fill='#F3F' r='10'/><circle fill='#FFF' r='8'/><path fill='#F3F' d='M9 1V3H-9V1Z M9 -1V-3H-9V-1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FF33FF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"As for `EUR`&nbsp;=&nbsp;&euro;, except with two horizontal lines."
+			}
+		},
+
+		"BGN":{
+			"ID":"BGN",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-8 -8 16 16' id='BGN' xmlns='http://www.w3.org/2000/svg'><path fill='#00AF66' d='M4 -4A4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4Z'/><circle fill='#FFF' r='4'/></svg>",
+			"LineFormattings":[
+				{"Color":"#00AF66", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Cathedral Saint Aleksandar Nevski](http://goo.gl/maps/31A83q7KSnGaavy59), in [Bulgarian-flag](http://en.wikipedia.org/wiki/Flag_of_Bulgaria) green."
+			}
+		},
+
+		"MNT":{
+			"ID":"MNT",
+			"Width":8.87857,
+			"Height":11.3,
+			"Svg":"<svg width='8.87857' height='11.3' viewBox='-11 -14 22 28' id='MNT' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#C4272F' ry='14' rx='11'/><circle fill='#F9CF02' r='8'/><circle fill='#C4272F' r='5'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0066B3", "Width":3.6},
+				{"Color":"#DA2032", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"A symmetrified part of the [Soyombo symbol](http://en.wikipedia.org/wiki/Soyombo_symbol) in the [flag of Mongolia](http://en.wikipedia.org/wiki/Flag_of_Mongolia). The line uses blue from the flag, as red-yellow combinations taken by `CNY` and `VND`."
+			}
+		},
+
+		"RSD":{
+			"ID":"RSD",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-8 -8 16 16' id='RSD' xmlns='http://www.w3.org/2000/svg'><path fill='#C7363D' d='M4 -4A4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4Z'/><circle fill='#0C4077' r='4'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C7363D", "Width":3.6},
+				{"Color":"#0C4077", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Temple of Saint Sava](http://goo.gl/maps/iPTF3w1RwiyL1Ecc8), Belgrade, in [Serbian-flag](http://en.wikipedia.org/wiki/Flag_of_Serbia) blue and red."
+			}
+		},
+
+		"BYN":{
+			"ID":"BYN",
+			"Width":8.82,
+			"Height":14.7,
+			"Svg":"<svg width='8.82' height='14.7' viewBox='-27 -45 54 90' id='BYN' xmlns='http://www.w3.org/2000/svg'><path fill='#CF101A' d='M27 -5h-6v -10h-6v -10h-6v -10h-6v -10h-6v10h-6v10h-6v10h-6v10h-6v10h6v10h6v10h6v10h6v10h6v -10h6v -10h6v -10h6v -10h6v -10Z'/><path fill='#FFF' d='M15 -5h-6v -10h-6v -10h-6v10h-6v10h-6v10h6v10h6v10h6v -10h6v -10h6v -10Z'/><path fill='#CF101A' d='M3 5V-5H-3V5Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#CF101A", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From pattern in the [flag of Belarus](http://en.wikipedia.org/wiki/Flag_of_Belarus)."
+			}
+		},
+
+		"SAR":{
+			"ID":"SAR",
+			"Width":10.08,
+			"Height":8.4,
+			"Svg":"<svg width='10.08' height='8.4' viewBox='-6 -5 12 10' id='SAR' xmlns='http://www.w3.org/2000/svg'><path fill='#009639' d='M6 5V-5H-6V5Z'/><path fill='#FFF' d='M-4 -3H4v2H-4Z M-4 1H4v2H-4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#009639", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified [flag of Saudi Arabia](http://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia)."
+			}
+		},
+
+		"IRR":{
+			"ID":"IRR",
+			"Width":10.05,
+			"Height":12,
+			"Svg":"<svg width='10.05' height='12' viewBox='-67 -80 134 160' id='IRR' xmlns='http://www.w3.org/2000/svg'><defs><path id='IRR-m' d='M56 -47L-67 -80 -56 47 67 80Z'/></defs><use href='#IRR-m' fill='#239F40'/><use href='#IRR-m' fill='#FFF' transform='scale(.7)'/><use href='#IRR-m' fill='#DA0000' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#239F40", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified and symmetrified map of [Iran](http://en.wikipedia.org/wiki/Iran#Administrative_divisions), in [flag](http://en.wikipedia.org/wiki/Flag_of_Iran) colours."
+			}
+		},
+
+		"AOA":{
+			"ID":"AOA",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-8 -8 16 16' id='AOA' xmlns='http://www.w3.org/2000/svg'><circle fill='#C8102E' r='7'/><path fill='#FFCD00' transform='rotate(36)' d='M7 1V-1H-7V1Z'/><path d='M0 -8A8 8 0 0 0 0 8 8 8 0 0 0 0 -8ZM0 -6A6 6 0 0 1 0 6 6 6 0 0 1 0 -6Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C8102E", "Width":3.6},
+				{"Color":"#FFCD00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Flag of Angola](http://en.wikipedia.org/wiki/Flag_of_Angola): circle for the gear wheel; 36&deg; diagonal for the machete."
+			}
+		},
+
+		"BRL":{
+			"ID":"BRL",
+			"Width":14.72075,
+			"Height":9.4,
+			"Svg":"<svg width='14.72075' height='9.4' viewBox='-830 -530 1660 1060' id='BRL' xmlns='http://www.w3.org/2000/svg'><path fill='#009639' d='M830 0L0 530 -830 0 0 -530Z'/><path fill='#FEDD00' d='M581 0L0 371 -581 0 0 -371Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#009639", "Width":3.6},
+				{"Color":"#FEDD00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Lozenge from the [flag of Brazil](http://en.wikipedia.org/wiki/Flag_of_Brazil#Design), so in ratio 83&ratio;53 &DoubleLongRightArrow;&nbsp;sharp angle &asymp;&#8239;65.12&deg;."
+			}
+		},
+
+		"BSD":{
+			"ID":"BSD",
+			"Width":15.41607,
+			"Height":8.9,
+			"Svg":"<svg width='15.41607' height='8.9' viewBox='-97 -56 194 112' id='BSD' xmlns='http://www.w3.org/2000/svg'><defs><path id='SGD-h' d='M97 0L0 56 -97 0 0 -56Z'/></defs><use href='#SGD-h' fill='#00778B'/><use href='#SGD-h' fill='#FFC72C' transform='scale(.7)'/><use href='#SGD-h' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FFC72C", "Width":3.6},
+				{"Color":"#00778B", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Triangle from the hoist of the [flag of the Bahamas](http://en.wikipedia.org/wiki/Flag_of_the_Bahamas), for symmetry duplicated back-to-back, in flag colours."
+			}
+		},
+
+		"NGN":{
+			"ID":"NGN",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-6 -6 12 12' id='NGN' xmlns='http://www.w3.org/2000/svg'><path fill='#009639' d='M6 6V-6H-6V6Z'/><path fill='#FFF' d='M2 5V-5H-2V5Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#009639", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Nigeria](http://en.wikipedia.org/wiki/Flag_of_Nigeria#Design)."
+			}
+		},
+
+		"DOP":{
+			"ID":"DOP",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-1 -1 2 2' id='DOP' xmlns='http://www.w3.org/2000/svg'><path fill='#002D62' d='M1 0V1H0L-1 0V-1H0Z'/><path fill='#CE1126' d='M1 0V-1H0V1H-1V0Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#002D62", "Width":3.6},
+				{"Color":"#CE1126", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of the Dominican Republic](http://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic)."
+			}
+		},
+
+		"TTD":{
+			"ID":"TTD",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-2 -2 4 4' id='TTD' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M1 2H-2V-2L2 2V-2H-1 -2Z'/><path d='M-2 -2H-1L2 2H1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C8102E", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Trinidad and Tobago](http://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago)."
+			}
+		},
+
+		"JMD":{
+			"ID":"JMD",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-8 -8 16 16' id='JMD' xmlns='http://www.w3.org/2000/svg'><path fill='#009639' d='M1 0L8 8H-8L-1 0 -8 -8H8Z'/><path d='M8 8V-8L-8 8V-8Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#009639", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Jamaica](http://en.wikipedia.org/wiki/Flag_of_Jamaica)."
+			}
+		},
+
+		"KYS":{
+			"ID":"KYS",
+			"Width":7.05,
+			"Height":14.1,
+			"Svg":"<svg width='7.05' height='14.1' viewBox='-216 -432 432 864' id='KYS' xmlns='http://www.w3.org/2000/svg'><path fill='#B00' d='M144 274C105 346 42 432 0 432S-105 346 -144 274V-274C-105 -346 -42 -432 0 -432S105 -346 144 -274Z'/><path id='KYS-m' d='M144 274C183 202 216 94 216 0S183 -202 144 -274C105 -202 72 -94 72 0S105 202 144 274Z'/><use href='#KYS-m' transform='translate(-288,0)'/><ellipse fill='#FFF' rx='48' ry='72'/></svg>",
+			"LineFormattings":[
+				{"Color":"#BB0000", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified shield from the [flag of Kenya](http://en.wikipedia.org/wiki/Flag_of_Kenya)."
+			}
+		},
+
+		"TZS":{
+			"ID":"TZS",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-4 -4 8 8' id='TZS' xmlns='http://www.w3.org/2000/svg'><path fill='#FCD116' d='M4 4V-4H-4V4Z'/><path d='M1 -3H3V-1L-1 3H-3V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FCD116", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Tanzania](http://en.wikipedia.org/wiki/Flag_of_Tanzania), simplified."
+			}
+		},
+
+		"CDF":{
+			"ID":"CDF",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-4 -4 8 8' id='CDF' xmlns='http://www.w3.org/2000/svg'><path fill='#007FFF' d='M4 4V-4H-4V4Z'/><path fill='#F7D618' d='M3 -3V-1L-3 3V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#007FFF", "Width":3.6},
+				{"Color":"#F7D618", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of the Democratic Republic of the Congo](http://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo)."
+			}
+		},
+
+		"DE":{
+			"ID":"DE",
+			"Width":11.6875,
+			"Height":8.5,
+			"Svg":"<svg width='11.6875' height='8.5' viewBox='-11 -8 22 16' id='DE' xmlns='http://www.w3.org/2000/svg'><path d='M11 8V-8H-11V8Z'/><path fill='#FFF' d='M-9 -7h4v14h-4Z M5 -7h4v14h-4Z M-3 -7h6v14h-6Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified from six to four columns, the [Brandenburg Gate](http://en.wikipedia.org/wiki/Brandenburg_Gate), in Berlin, Germany.",
+				"UseFor":"Germany has an alternate marker, `DE_2`, which can be used for green bonds, for the (now former) East Germany, or for other purposes."
+			}
+		},
+
+		"DE_2":{
+			"ID":"DE_2",
+			"Width":11.6875,
+			"Height":8.5,
+			"Svg":"<svg width='11.6875' height='8.5' viewBox='-11 -8 22 16' id='DE_2' xmlns='http://www.w3.org/2000/svg'><path d='M11 8V-8H-11V8Z'/><path fill='#F00' d='M-9 -7h4v14h-4Z M5 -7h4v14h-4Z M-3 -7h6v14h-6Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FF0000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `DE` marker; red replacing white.",
+				"UseFor":"Germany&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"AT":{
+			"ID":"AT",
+			"Width":11.4,
+			"Height":7.6,
+			"Svg":"<svg width='11.4' height='7.6' viewBox='-9 -6 18 12' id='AT' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M9 6V-6H-9V6Z'/><path fill='#FFF' d='M7 2V-2H-7V2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C8102E", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Austria](http://en.wikipedia.org/wiki/Flag_of_Austria).",
+				"UseFor":"Austria has an alternate marker, `AT_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"AT_2":{
+			"ID":"AT_2",
+			"Width":11.4,
+			"Height":7.6,
+			"Svg":"<svg width='11.4' height='7.6' viewBox='-9 -6 18 12' id='AT_2' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M9 6V-6H-9V6Z'/><path d='M7 2V-2H-7V2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C8102E", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `AT` marker; black replacing white.",
+				"UseFor":"Austria&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"LU":{
+			"ID":"LU",
+			"Width":16.6,
+			"Height":8.3,
+			"Svg":"<svg width='16.6' height='8.3' viewBox='-54 -27 108 54' id='LU' xmlns='http://www.w3.org/2000/svg'><path fill='#EF3340' d='M54 0L0 27 -54 0 0 -27Z'/><path fill='#FFF' d='M38 0L0 19 -38 0 0 -19Z'/><path fill='#00A3E0' d='M20 0L0 10 -20 0 0 -10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#00A3E0", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the pediments of the ground floor of [Luxembourg City Hall](http://en.wikipedia.org/wiki/Luxembourg_City_Hall); in [flag](http://en.wikipedia.org/wiki/Flag_of_Luxembourg) colours.",
+				"Design":"The [wikipedia picture](http://en.wikipedia.org/wiki/Luxembourg_City_Hall#/media/File:Luxemb_City_Hotel_de_ville_01.jpg) suggested an aspect ratio of 4&ratio;9, [trimmed](https://github.com/jdaw1/chart_markers/blob/main/Documentation/ChartMarkers_Description.md#aspect) to 1&ratio;2."
+			}
+		},
+
+		"HR":{
+			"ID":"HR",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-3 -3 6 6' id='HR' xmlns='http://www.w3.org/2000/svg'><path fill='#FFF' d='M1 3H-1L-3 1V-1L-1 -3H1L3 -1V1Z'/><path fill='red' d='M3 1V3H1V-3H3v2H-3V-3h2V3H-3V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"From the coat of arms on the [flag of Croatia](http://en.wikipedia.org/wiki/Flag_of_Croatia), simplified. A similiar pattern appears on the kit of [Croatia&rsquo;s football team](http://en.wikipedia.org/wiki/Croatia_at_the_FIFA_World_Cup#/media/File:Croatia_WC2018_final.jpg)."
+			}
+		},
+
+		"CZK":{
+			"ID":"CZK",
+			"Width":14.4,
+			"Height":9.6,
+			"Svg":"<svg width='14.4' height='9.6' viewBox='-81 -54 162 108' id='CZK' xmlns='http://www.w3.org/2000/svg'><path fill='#11457E' d='M81 0L0 54 -81 0 0 -54Z'/><path fill='#D7141A' d='M57 0L0 38 -57 0 0 -38Z'/><path fill='#FFF' d='M30 0L0 20 -30 0 0 -20Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#D7141A", "Width":3.6},
+				{"Color":"#11457E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Triangle from the hoist of the [Czech flag](http://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic), for symmetry duplicated back-to-back, in flag colours."
+			}
+		},
+
+		"PS":{
+			"ID":"PS",
+			"Width":13.6,
+			"Height":10.2,
+			"Svg":"<svg width='13.6' height='10.2' viewBox='-360 -270 720 540' id='PS' xmlns='http://www.w3.org/2000/svg'><path fill='#009736' d='M360 0L0 270 -360 0 0 -270Z'/><path fill='#FFF' d='M276 0L0 207 -276 0 0 -207Z'/><path d='M188 0L0 141 -188 0 0 -141Z'/><path fill='#EE2A35' d='M96 0L0 72 -96 0 0 -72Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#009736", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Triangle from the hoist of the [flag of Palestine](http://en.wikipedia.org/wiki/Flag_of_Palestine), for symmetry duplicated back-to-back, in flag colours."
+			}
+		},
+
+		"_ESM":{
+			"ID":"_ESM",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-5 -5 10 10' id='_ESM' xmlns='http://www.w3.org/2000/svg'><rect fill='#004494' x='-5' y='-5' width='10' height='10' rx='2'/><path fill='#FFF' d='M3 1V3H-3V1L3 -1V-3H-3v2Z'/><path fill='#FFD500' d='M3 1V-1H-3V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FFD500", "Width":3.6},
+				{"Color":"#004494", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Logo](http://www.esm.europa.eu/themes/custom/esm_wop_theme/logo.svg) of the [European Stability Mechanism](http://www.esm.europa.eu/), simplified and symmetrified. Bloomberg&nbsp;ticker&nbsp;=&nbsp;<kbd>ESM&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_EFSF":{
+			"ID":"_EFSF",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-5 -5 10 10' id='_EFSF' xmlns='http://www.w3.org/2000/svg'><rect fill='#00A3E0' x='-5' y='-5' width='10' height='10' rx='2'/><path fill='#FFF' d='M3 1V3H-3V1L3 -1V-3H-3v2Z'/><path fill='#EF3340' d='M3 1V-1H-3V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#00A3E0", "Width":3.6},
+				{"Color":"#EF3340", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"The marker of the [European Financial Stability Facility](http://en.wikipedia.org/wiki/European_Financial_Stability_Facility) has the same shape as that of the `_ESM`, as the two share staff and premises. The EFSF is a Luxembourg company, from the flag of which come the colours (whereas the ESM is an intergovernmental institution). They are different entities with different credit ratings, so must have different markers. EFSF&rsquo;s Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>EFSF&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_KfW":{
+			"ID":"_KfW",
+			"Width":10.20574,
+			"Height":13.5,
+			"Svg":"<svg width='10.20574' height='13.5' viewBox='-158 -209 316 418' id='_KfW' xmlns='http://www.w3.org/2000/svg'><path fill='#FFF' d='M0 -187L136 0 0 187 -136 0Z'/><path stroke-width='44' stroke-linejoin='round' stroke='#1B618C' fill='none' d='M0 -187L136 0 0 187 -136 0 0 -187V187'/></svg>",
+			"LineFormattings":[
+				{"Color":"#1B618C", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the &lsquo;K&rsquo; of the [logo](http://www.kfw.de/Technische-Medien/Logos/kfw_logo_320-2x.svg) of the [Kreditanstalt f&uuml;r Wiederaufbau](http://www.kfw.de/kfw.de-2.html) (&lsquo;Credit Institute for Reconstruction&rsquo;). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>KFW&nbsp;Corp</kbd>"
+			}
+		},
+
+		"_BCIE":{
+			"ID":"_BCIE",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-8 -8 16 16' id='_BCIE' xmlns='http://www.w3.org/2000/svg'><path fill='#2BCE75' d='M8 8V-8H-8V8Z'/><circle fill='#FFF' r='7'/><circle fill='#0046C2' r='5'/><path transform='rotate(45)' fill='#FFF' d='M1 6V-6L3 -5V5Z M-1 -6V6L-3 5V-5Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#2BCE75", "Width":3.6},
+				{"Color":"#0046C2", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From [logo](http://bcie.org/typo3conf/ext/bcie_package/Resources/Public/Images/logo-bcie-2021.png) of [Banco Centroamericano de Integraci&oacute;n Econ&oacute;mica](http://bcie.org/) = Central American Bank for Economic Integration. Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>CABEI&nbsp;Corp</kbd>"
+			}
+		},
+
+		"XK":{
+			"ID":"XK",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-5 -5 10 10' id='XK' xmlns='http://www.w3.org/2000/svg'><path fill='#244AA5' d='M5 5V-5H-5V5Z'/><path fill='#D0A650' d='M4 1L-1 4 -4 -1 1 -4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#D0A650", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified [flag of Kosovo](http://en.wikipedia.org/wiki/Flag_of_Kosovo).",
+				"Design":"The [XK](http://en.wikipedia.org/wiki/XK_(user_assigned_code)) identifier isn&rsquo;t official [ISO&nbsp;3166&#8209;1](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), but is (or has been) used in that style by the [UK](http://www.gov.uk/government/publications/uk-trade-tariff-country-and-currency-codes/uk-trade-tariff-country-and-currency-codes), [Canada](http://www.cbsa-asfc.gc.ca/prog/cers-scde/ch25/eccrdcers-deccescde-20-eng.html), the [US&nbsp;Department of State](http://xk.usembassy.gov/), [Switzerland](http://www.bazg.admin.ch/bazg/de/home/information-firmen/befreiungen--verguenstigungen--zollpraeferenzen-und-ausfuhrbeitr/einfuhr-in-die-schweiz/entwicklungslaender-aps-gsp--generalized-system-of-preferences-/visumsstellen-fuer-form-a/europa.html), the [European Commission](http://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Country_codes), the [Deutsche Bundesbank](http://www.bundesbank.de/resource/blob/825312/daf1dfd5cba969a651eed5c410a4fe43/mL/2020-04-codes-data.pdf), [Ireland](http://www.revenue.ie/en/customs/documents/electronic/aep-trader-guide-appendix-4.pdf), [France](http://www.douane.gouv.fr/fiche/liste-des-accords-et-preferences-unilaterales-de-lunion-europeenne#Balkans), [Malta](http://customs.gov.mt/docs/default-source/business-library-(authorised-economic-operators)/country-codes-new.pdf), the [People&rsquo;s Republic of China](http://www.mof.gov.cy/mof/customs/customs.nsf/All/5AF08F6CEE8A4408422577B20041642A/$file/1%20ICS%20Country%20codes.pdf), and others. (Contrariwise, [US&nbsp;Customs](http://www.cbp.gov/sites/default/files/assets/documents/2021-Jan/ACE%20AESTIR%20Appendix%20C%20_01142021_508C.pdf) uses &lsquo;KV&rsquo;.)"
+			}
+		},
+
+		"XPT":{
+			"ID":"XPT",
+			"Width":6.58228,
+			"Height":13,
+			"Svg":"<svg width='6.58228' height='13' viewBox='-20 -39.5 40 79' id='XPT' xmlns='http://www.w3.org/2000/svg'><rect fill='#D95B14' x='-20' y='-39.5' width='40' height='79' rx='6'/><rect fill='#C7C7C7' x='-16' y='-35.5' width='32' height='71' rx='2'/></svg>",
+			"LineFormattings":[
+				{"Color":"#D95B14", "Width":3.6},
+				{"Color":"#C7C7C7", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"In the proportions of a [Royal Mint Refinery 1kg platinum bar](https://web.archive.org/web/20210515224532/https://www.royalmint.com/invest/bullion/bullion-bars/platinum-bars/1-kg-platinum-bar-minted/), edged with the [colour](http://goldrefiningforum.com/threads/colours-of-pt-and-pd-compounds.31666/) of H&#8322;PtCl&#8326; = [hexachloroplatinic acid](http://en.wikipedia.org/wiki/Chloroplatinic_acid)."
+			}
+		},
+
+		"_EIB":{
+			"ID":"_EIB",
+			"Width":11.125,
+			"Height":8.9,
+			"Svg":"<svg width='11.125' height='8.9' viewBox='-40 -32 80 64' id='_EIB' xmlns='http://www.w3.org/2000/svg'><ellipse rx='40' ry='32' fill='#039'/><path id='_EIB-a' fill='#9D9D9C' d='M35.9073 2C34.5565 16.5521 18.8814 28 0 28S-34.5565 16.5521 -35.9073 2Z'/><use href='#_EIB-a' transform='rotate(180)'/><path fill='#039' d='M31 17H-31L-34 13H34Z M-31 -17H31L34 -13H-34Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#003399", "Width":3.6},
+				{"Color":"#9D9D9C", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"The [logo of the European Investment Bank](https://www.eib.org/en/stories/eib-new-logo) includes an arch, referring to the building, which seems to be about a third of a 5&ratio;4 ellipse. The marker is the whole ellipse, with horizonal lines to further echo the logo, in logo colours."
+			}
+		},
+
+		"_AfExIm":{
+			"ID":"_AfExIm",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-4 -4 8 8' id='_AfExIm' xmlns='http://www.w3.org/2000/svg'><path fill='#198D66' d='M-4 0A4 4 0 0 1 0 -4L4 0A4 4 0 0 1 0 4Z'/><path fill='#FCB90E' d='M0 -4A4 4 0 0 1 4 0L-4 0A4 4 0 0 0 0 4Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#198D66", "Width":3.6},
+				{"Color":"#FCB90E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From [logo](http://www.afreximbank.com/wp-content/themes/afrexim/assets/favicons/coast-228x228.png) of [Afreximbank](http://www.afreximbank.com/) = Africa Export-Import Bank. Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>AFEXI&nbsp;Corp</kbd>"
+			}
+		},
+
+		"GYD":{
+			"ID":"GYD",
+			"Width":14.2,
+			"Height":7.1,
+			"Svg":"<svg width='14.2' height='7.1' viewBox='-2 -1 4 2' id='GYD' xmlns='http://www.w3.org/2000/svg'><ellipse rx='2' ry='1' fill='#2A936A'/><path fill='#FFC20E' d='M0 1L2 0 0 -1 -2 0Z'/><path fill='#BE1E2D' d='M0 1L1 0 0 -1 -1 0Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#2A936A", "Width":3.6},
+				{"Color":"#BE1E2D", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Arrowhead and colours from the [flag of Guyana](http://en.wikipedia.org/wiki/Flag_of_Guyana)."
+			}
+		},
+
+		"HUF":{
+			"ID":"HUF",
+			"Width":8.21429,
+			"Height":11.5,
+			"Svg":"<svg width='8.21429' height='11.5' viewBox='-5 -7 10 14' id='HUF' xmlns='http://www.w3.org/2000/svg'><path fill='#00843D' d='M2 7V5H5V1H2V-1H5V-5H2V-7H-2v2H-5v4h3V1H-5V5h3V7Z'/><path fill='#CE2939' d='M1 6V4H4V2H1V-2H4V-4H1V-6H-1v2H-4v2h3V2H-4V4h3V6Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#00843D", "Width":3.6},
+				{"Color":"#CE2939", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Cross from [Hungarian coat of arms](http://en.wikipedia.org/wiki/National_symbols_of_Hungary#Flags_and_heraldry), symmetrified and simplified, in green and red from the [flag of Hungary](http://en.wikipedia.org/wiki/Flag_of_Hungary)."
+			}
+		},
+
+		"SK":{
+			"ID":"SK",
+			"Width":8.21429,
+			"Height":11.5,
+			"Svg":"<svg width='8.21429' height='11.5' viewBox='-5 -7 10 14' id='SK' xmlns='http://www.w3.org/2000/svg'><path fill='#EF3340' d='M2 7V5H5V1H2V-1H5V-5H2V-7H-2v2H-5v4h3V1H-5V5h3V7Z'/><path fill='#034DA3' d='M1 6V4H4V2H1V-2H4V-4H1V-6H-1v2H-4v2h3V2H-4V4h3V6Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#EF3340", "Width":3.6},
+				{"Color":"#034DA3", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Cross from the [flag of Slovakia](http://en.wikipedia.org/wiki/Flag_of_Slovakia), symmetrified and simplified.",
+				"UseFor":"Slovakia has an alternate marker, `SK_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"SK_2":{
+			"ID":"SK_2",
+			"Width":8.21429,
+			"Height":11.5,
+			"Svg":"<svg width='8.21429' height='11.5' viewBox='-5 -7 10 14' id='SK_2' xmlns='http://www.w3.org/2000/svg'><path fill='#034DA3' d='M2 7V5H5V1H2V-1H5V-5H2V-7H-2v2H-5v4h3V1H-5V5h3V7Z'/><path fill='#EF3340' d='M1 6V4H4V2H1V-2H4V-4H1V-6H-1v2H-4v2h3V2H-4V4h3V6Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#034DA3", "Width":3.6},
+				{"Color":"#EF3340", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `SK` marker; the colours switched.",
+				"UseFor":"Slovakia&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"LT":{
+			"ID":"LT",
+			"Width":8.21429,
+			"Height":11.5,
+			"Svg":"<svg width='8.21429' height='11.5' viewBox='-5 -7 10 14' id='LT' xmlns='http://www.w3.org/2000/svg'><path fill='#006A44' d='M2 7V5H5V1H2V-1H5V-5H2V-7H-2v2H-5v4h3V1H-5V5h3V7Z'/><path fill='#FDB913' d='M1 6V4H4V2H1V-2H4V-4H1V-6H-1v2H-4v2h3V2H-4V4h3V6Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#006A44", "Width":3.6},
+				{"Color":"#FDB913", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Cross from [State Flag of Lithuania](http://en.wikipedia.org/wiki/Flag_of_Lithuania#/media/File:Flag_of_Lithuania_(state).svg), in colours of [flag of Lithuania](http://en.wikipedia.org/wiki/Flag_of_Lithuania)."
+			}
+		},
+
+		"TWD":{
+			"ID":"TWD",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-3 -3 6 6' id='TWD' xmlns='http://www.w3.org/2000/svg'><path fill='#0029CC' d='M3 3V-3H-3V3Z'/><circle fill='#FFF' r='2'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0029CC", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Taiwan = Republic of China](http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China). Alas a twelve-pointed star is a blur when shown as small as a chart marker."
+			}
+		},
+
+		"IDR":{
+			"ID":"IDR",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-3 -3 6 6' id='IDR' xmlns='http://www.w3.org/2000/svg'><path fill='red' d='M3 3V-3H-3V3Z'/><path fill='#FFF' d='M2 2V-2H-2V2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF0000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Indonesia](http://en.wikipedia.org/wiki/Flag_of_Indonesia)."
+			}
+		},
+
+		"THB":{
+			"ID":"THB",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='THB' xmlns='http://www.w3.org/2000/svg'><path fill='#FE0000' d='M27 27V-27H-27V27Z'/><path fill='#FFF' d='M19 19V-19H-19V19Z'/><path fill='#010080' d='M10 10V-10H-10V10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FE0000", "Width":3.6},
+				{"Color":"#010080", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Thailand](http://en.wikipedia.org/wiki/Flag_of_Thailand)."
+			}
+		},
+
+		"CRC":{
+			"ID":"CRC",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='CRC' xmlns='http://www.w3.org/2000/svg'><path fill='#001489' d='M27 27V-27H-27V27Z'/><path fill='#FFF' d='M19 19V-19H-19V19Z'/><path fill='#DA291C' d='M10 10V-10H-10V10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#DA291C", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Costa Rica](http://en.wikipedia.org/wiki/Flag_of_Costa_Rica)."
+			}
+		},
+
+		"LKR":{
+			"ID":"LKR",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-3 -3 6 6' id='LKR' xmlns='http://www.w3.org/2000/svg'><path fill='#FDB221' d='M3 3V-3H-3V3Z'/><path fill='#79052C' d='M2 2V-2H-2V2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#79052C", "Width":3.6},
+				{"Color":"#FDB221", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Flag of Sri Lanka](http://en.wikipedia.org/wiki/Flag_of_Sri_Lanka), much simplified."
+			}
+		},
+
+		"UAH":{
+			"ID":"UAH",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-3 -3 6 6' id='UAH' xmlns='http://www.w3.org/2000/svg'><path fill='#0057B7' d='M3 3V-3H-3V3Z'/><path fill='gold' d='M2 2V-2H-2V2Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0057B7", "Width":3.6},
+				{"Color":"#FFD700", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Ukraine](http://en.wikipedia.org/wiki/Flag_of_Ukraine)."
+			}
+		},
+
+		"LBP":{
+			"ID":"LBP",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-9 -9 18 18' id='LBP' xmlns='http://www.w3.org/2000/svg'><path fill='#EF3340' d='M9 9V-9H-9V9Z'/><path fill='#FFF' d='M6 6V-6H-6V6Z'/><path fill='#009639' d='M5 0L0 5 -5 0 0 -5'/></svg>",
+			"LineFormattings":[
+				{"Color":"#EF3340", "Width":3.6},
+				{"Color":"#009639", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Flag of Lebanon](http://en.wikipedia.org/wiki/Flag_of_Lebanon), symmetrified."
+			}
+		},
+
+		"ARS":{
+			"ID":"ARS",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-9 -9 18 18' id='ARS' xmlns='http://www.w3.org/2000/svg'><path fill='#6CACE4' d='M9 9V-9H-9V9Z'/><path fill='#FFF' d='M6 6V-6H-6V6Z'/><circle fill='#F6B40E' r='4'/></svg>",
+			"LineFormattings":[
+				{"Color":"#6CACE4", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Argentina](http://en.wikipedia.org/wiki/Flag_of_Argentina)."
+			}
+		},
+
+		"SV":{
+			"ID":"SV",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='SV' xmlns='http://www.w3.org/2000/svg'><path fill='#005EB8' d='M27 27V-27H-27V27Z'/><path fill='#FFF' d='M19 19V-19H-19V19Z'/><path fill='#005EB8' d='M10 10V-10H-10V10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#005EB8", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of El Salvador](http://en.wikipedia.org/wiki/Flag_of_El_Salvador)."
+			}
+		},
+
+		"GTQ":{
+			"ID":"GTQ",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='GTQ' xmlns='http://www.w3.org/2000/svg'><path fill='#4997D0' d='M27 27V-27H-27V27Z'/><path fill='#FFF' d='M19 19V-19H-19V19Z'/><path fill='#4997D0' d='M10 10V-10H-10V10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#4997D0", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Guatemala](http://en.wikipedia.org/wiki/Flag_of_Guatemala)."
+			}
+		},
+
+		"ES":{
+			"ID":"ES",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='ES' xmlns='http://www.w3.org/2000/svg'><path fill='#AD1519' d='M27 27V-27H-27V27Z'/><path fill='#FABD00' d='M19 19V-19H-19V19Z'/><path fill='#AD1519' d='M10 10V-10H-10V10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#AD1519", "Width":3.6},
+				{"Color":"#FABD00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Spain](http://en.wikipedia.org/wiki/Flag_of_Spain).",
+				"UseFor":"Spain has an alternate marker, `ES_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"ES_2":{
+			"ID":"ES_2",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='ES_2' xmlns='http://www.w3.org/2000/svg'><path fill='#AD1519' d='M27 27V-27H-27V27Z'/><path fill='#6C6' d='M19 19V-19H-19V19Z'/><path fill='#AD1519' d='M10 10V-10H-10V10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#AD1519", "Width":3.6},
+				{"Color":"#66CC66", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `ES` marker; green replacing gold.",
+				"UseFor":"Spain&rsquo;s alternate marker, for green bonds or for other purposes."
+			}
+		},
+
+		"BZD":{
+			"ID":"BZD",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-50 -50 100 100' id='BZD' xmlns='http://www.w3.org/2000/svg'><path fill='#C8102E' d='M50 50V-50H-50V50Z'/><path fill='#1D428A' d='M36 36V-36H-36V36Z'/><circle fill='#FFF' r='21'/></svg>",
+			"LineFormattings":[
+				{"Color":"#1D428A", "Width":3.6},
+				{"Color":"#C8102E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Belize](http://en.wikipedia.org/wiki/Flag_of_Belize)."
+			}
+		},
+
+		"MMK":{
+			"ID":"MMK",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='MMK' xmlns='http://www.w3.org/2000/svg'><path fill='#EA2839' d='M27 27V-27H-27V27Z'/><path fill='#34B233' d='M19 19V-19H-19V19Z'/><path fill='#FECB00' d='M10 10V-10H-10V10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#34B233", "Width":3.6},
+				{"Color":"#FECB00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Myanmar](http://en.wikipedia.org/wiki/Flag_of_Myanmar)."
+			}
+		},
+
+		"CM":{
+			"ID":"CM",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-27 -27 54 54' id='CM' xmlns='http://www.w3.org/2000/svg'><path fill='#007A5E' d='M27 27V-27H-27V27Z'/><path fill='#CE1126' d='M19 19V-19H-19V19Z'/><path fill='#FCD116' d='M10 10V-10H-10V10Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FCD116", "Width":3.6},
+				{"Color":"#CE1126", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Cameroon](http://en.wikipedia.org/wiki/Flag_of_Cameroon)."
+			}
+		},
+
+		"USD":{
+			"ID":"USD",
+			"Width":14.64632,
+			"Height":15.4,
+			"Svg":"<svg width='14.64632' height='15.4' viewBox='-9.5106 -10 19.0212 20' id='USD' xmlns='http://www.w3.org/2000/svg'><defs><path id='USD-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/></defs><use href='#USD-s' /><use href='#USD-s' fill='#FFF' transform='scale(.6)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6}
+			],
+			"Notes":{
+				"Mnemonic":"Star from [flag](http://en.wikipedia.org/wiki/Flag_of_the_United_States); thick black edge so that most important currency has maximum contrast.",
+				"Design":"Slightly larger than other markers, as USD is the most important currency."
+			}
+		},
+
+		"EU":{
+			"ID":"EU",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='EU' xmlns='http://www.w3.org/2000/svg'><circle fill='#F3F' r='10'/><circle fill='#FFF' r='8'/><path fill='#F3F' d='M0 -7l-1.5716 4.8369H-6.6574L-2.5429 .8262 -4.1145 5.6631 0 2.6738 4.1145 5.6631 2.5429 .8262 6.6574 -2.1631H1.5716Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF33FF", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"As for `EUR`&nbsp;=&nbsp;&euro;, except the horizontal line replaced by a star from the [flag of Europe](http://en.wikipedia.org/wiki/Flag_of_Europe), which is used as the flag of the European Union."
+			}
+		},
+
+		"NZD":{
+			"ID":"NZD",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-5 -5 10 10' id='NZD' xmlns='http://www.w3.org/2000/svg'><circle fill='#012169' r='5'/><defs><path id='NZD-s' d='M0 -5l-1.1226 3.4549H-4.7553L-1.8164 .5902 -2.9389 4.0451 0 1.9098 2.9389 4.0451 1.8164 .5902 4.7553 -1.5451H1.1226Z'/></defs><use href='#NZD-s' fill='#FFF'/><use href='#NZD-s' fill='#C8102E' transform='scale(.6)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#012169", "Width":3.6},
+				{"Color":"#C8102E", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Five-pointed star from the [flag of New Zealand](http://en.wikipedia.org/wiki/Flag_of_New_Zealand#Specifications)."
+			}
+		},
+
+		"CNY":{
+			"ID":"CNY",
+			"Width":12.76123,
+			"Height":12.7,
+			"Svg":"<svg width='12.76123' height='12.7' viewBox='-9.8995 -9.852 19.799 19.704' id='CNY' xmlns='http://www.w3.org/2000/svg'><defs><path id='CNY-s' d='M-9.8995 1.4142l7.1579 1.2454L-1.7141 9.852 1.6822 3.4293 8.8401 4.6747 3.7813 -.5402 7.1776 -6.9629 .6547 -3.7631 -4.4041 -8.978l1.0275 7.1924Z'/></defs><use href='#CNY-s' fill='#DE2910'/><use href='#CNY-s' fill='#FFDE00' transform='scale(.7)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#DE2910", "Width":3.6},
+				{"Color":"#FFDE00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"The five-pointed star on the [flag of the People&rsquo;s Republic of China](http://en.wikipedia.org/wiki/Flag_of_China#Construction_details,_sizes_and_colors) that has the least vertical orientation: second down of smalls, rotation =&nbsp;ArcTan[&minus;7/&minus;1] &asymp;&#8239;98.13&deg;."
+			}
+		},
+
+		"SGD":{
+			"ID":"SGD",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-1 -1 2 2' id='SGD' xmlns='http://www.w3.org/2000/svg'><circle fill='#A78337' r='1'/><path fill='#FFF' d='M0 -1l-.2245 .691H-.9511l.5878 .427L-.5878 .809 0 .382 .5878 .809 .3633 .118 .9511 -.309H.2245Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#A78337", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"White star from the [flag of Singapore](http://en.wikipedia.org/wiki/Flag_of_Singapore); circle and colour from logo of [MAS](http://www.mas.gov.sg/) = Monetary Authority of Singapore."
+			}
+		},
+
+		"PKR":{
+			"ID":"PKR",
+			"Width":12.83696,
+			"Height":12.6,
+			"Svg":"<svg width='12.83696' height='12.6' viewBox='-9.9517 -9.768 19.9034 19.536' id='PKR' xmlns='http://www.w3.org/2000/svg'><defs><path id='PKR-s' d='M7.4741 -6.6436L.818 -3.731 -4.0089 -9.1613l.7133 7.2304L-9.9517 .9817l7.0969 1.5559 .7132 7.2304L1.5312 3.4993l7.0969 1.556L3.8012 -.375Z'/></defs><use href='#PKR-s' fill='#01411C'/><use href='#PKR-s' fill='#FFF' transform='scale(.7)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#01411C", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Pakistan](http://en.wikipedia.org/wiki/Flag_of_Pakistan), five-pointed star rotated by ArcTan[9/8] &asymp;&nbsp;48.366&deg;."
+			}
+		},
+
+		"TRY":{
+			"ID":"TRY",
+			"Width":13.03808,
+			"Height":12.4,
+			"Svg":"<svg width='13.03808' height='12.4' viewBox='-10 -9.5106 20 19.0212' id='TRY' xmlns='http://www.w3.org/2000/svg'><defs><path id='TRY-s' d='M-10 0l6.9098 2.2451V9.5106L1.1803 3.6327 8.0902 5.8779 3.8197 0 8.0902 -5.8779 1.1803 -3.6327 -3.0902 -9.5106v7.2655Z'/></defs><use href='#TRY-s' fill='#E30A17'/><use href='#TRY-s' fill='#FFF' transform='scale(.7)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#E30A17", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of T&uuml;rkiye](http://en.wikipedia.org/wiki/Flag_of_Turkey#Dimensions)."
+			}
+		},
+
+		"ETB":{
+			"ID":"ETB",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-4 -4 8 8' id='ETB' xmlns='http://www.w3.org/2000/svg'><circle fill='#0F47AF' r='4'/><defs><path id='ETB-s' d='M0 -4l-.8981 2.7639H-3.8042L-1.4531 .4721l-.898 2.764L0 1.5279 2.3511 3.2361 1.4531 .4721 3.8042 -1.2361H.8981Z'/></defs><use href='#ETB-s' fill='#FCDD09'/><use href='#ETB-s' fill='#0F47AF' transform='scale(.5)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#0F47AF", "Width":3.6},
+				{"Color":"#FCDD09", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the 2009 [flag of Ethiopia](http://en.wikipedia.org/wiki/Flag_of_Ethiopia)."
+			}
+		},
+
+		"TND":{
+			"ID":"TND",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-16 -16 32 32' id='TND' xmlns='http://www.w3.org/2000/svg'><circle fill='#E70013' r='16'/><circle fill='#FFF' r='14'/><path fill='#E70013' d='M-13 0l8.9828 2.9187v9.445L1.5344 4.7225l8.9828 2.9187L4.9656 0l5.5516 -7.6412L1.5344 -4.7225l-5.5516 -7.6412v9.445Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#E70013", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Star from the [flag of Tunisia](http://en.wikipedia.org/wiki/Flag_of_Tunisia)."
+			}
+		},
+
+		"MAD":{
+			"ID":"MAD",
+			"Width":12.36378,
+			"Height":13,
+			"Svg":"<svg width='12.36378' height='13' viewBox='-0.95106 -1 1.90212 2' id='MAD' xmlns='http://www.w3.org/2000/svg'><path fill='#006233' d='M0 -1l-.2245 .691H-.9511l.5878 .427L-.5878 .809 0 .382 .5878 .809 .3633 .118 .9511 -.309H.2245Z'/><path fill='#FB0F0C' d='M0 .2644L.2515 .0817 .1554 -.2139H-.1554L-.2515 .0817Z M0 -.6922L-.1245 -.309h.249Z M-.6584 -.2139l.326 .2368 .077 -.2368Z M.6584 -.2139H.2554l.077 .2368Z M-.4069 .56l.326 -.2368L-.2824 .1768Z M.4069 .56L.2824 .1768 .0809 .3232Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#006233", "Width":3.6},
+				{"Color":"#FB0F0C", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Star from the [flag of Morocco](http://en.wikipedia.org/wiki/Flag_of_Morocco), the bright red being taken from the [coat of arms](http://en.wikipedia.org/wiki/Coat_of_arms_of_Morocco)."
+			}
+		},
+
+		"DZD":{
+			"ID":"DZD",
+			"Width":8.6687,
+			"Height":9.9,
+			"Svg":"<svg width='8.6687' height='9.9' viewBox='-6 -6.85224 12 13.70448' id='DZD' xmlns='http://www.w3.org/2000/svg'><path fill='#063' d='M6 6.85224H-6V-6.85224H6Z'/><path fill='#FFF' d='M4.8541 5.70634H-4.8541V-5.70634H4.8541Z'/><path fill='#D21034' d='M6 0L1.8541 -1.3471V-5.7063L-.7082 -2.1796 -4.8541 -3.5267 -2.2918 0 -4.8541 3.5267 -.7082 2.1796 1.8541 5.7063V1.3471Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#006633", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"All the points of the red star touch the boundary of the green (four inside, one outside), a property of two of the points of the star in the [flag of Algeria](http://en.wikipedia.org/wiki/Flag_of_Algeria) = Dzair.",
+				"Design":"The rectangles have rotational symmetry of order 2, the star of order 5, all with the same centres, but the whole does not have rotational symmetry."
+			}
+		},
+
+		"GHS":{
+			"ID":"GHS",
+			"Width":12.36372,
+			"Height":13,
+			"Svg":"<svg width='12.36372' height='13' viewBox='-25.6785 -27 51.357 54' id='GHS' xmlns='http://www.w3.org/2000/svg'><defs><path id='GHS-s' d='M0 -27L-6.0619 -8.3435H-25.6785L-9.8083 3.1869l-6.0619 18.6566L0 10.3131 15.8702 21.8435 9.8083 3.1869 25.6785 -8.3435H6.0619Z'/></defs><use href='#GHS-s' /><use href='#GHS-s' fill='#FFD100' transform='scale(.7)'/><use href='#GHS-s' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FFD100", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [coat of arms of Ghana](http://en.wikipedia.org/wiki/Ghana#/media/File:Coat_of_arms_of_Ghana.svg)."
+			}
+		},
+
+		"SN":{
+			"ID":"SN",
+			"Width":12.36378,
+			"Height":13,
+			"Svg":"<svg width='12.36378' height='13' viewBox='-9.5106 -10 19.0212 20' id='SN' xmlns='http://www.w3.org/2000/svg'><defs><path id='SN-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/></defs><use href='#SN-s' fill='#1D6233'/><use href='#SN-s' fill='#FDEF42' transform='scale(.7)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FDEF42", "Width":3.6},
+				{"Color":"#1D6233", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Senegal](http://en.wikipedia.org/wiki/Flag_of_Senegal)."
+			}
+		},
+
+		"CLP":{
+			"ID":"CLP",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-8 -8 16 16' id='CLP' xmlns='http://www.w3.org/2000/svg'><path fill='#D52B1E' d='M8 8V-8H-8V8Z'/><path fill='#FFF' d='M7 7V-7H-7V7Z'/><path fill='#0033A0' d='M0 -7l-1.5716 4.8369H-6.6574L-2.5429 .8262 -4.1145 5.6631 0 2.6738 4.1145 5.6631 2.5429 .8262 6.6574 -2.1631H1.5716Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#D52B1E", "Width":3.6},
+				{"Color":"#0033A0", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Chile](http://en.wikipedia.org/wiki/Flag_of_Chile#Construction).",
+				"Design":"The square has rotational symmetry of order 4, the star of order 5, with the same centres, but the whole does not have rotational symmetry."
+			}
+		},
+
+		"PAB":{
+			"ID":"PAB",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-1 -1 2 2' id='PAB' xmlns='http://www.w3.org/2000/svg'><path fill='#072357' d='M1 1V-1H-1V1Z'/><path fill='#DA121A' d='M0 -1l-.2245 .691H-.9511l.5878 .427L-.5878 .809 0 .382 .5878 .809 .3633 .118 .9511 -.309H.2245Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#072357", "Width":3.6},
+				{"Color":"#DA121A", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Panama](http://en.wikipedia.org/wiki/Flag_of_Panama).",
+				"Design":"The square has rotational symmetry of order 4, the star of order 5, with the same centres, but the whole does not have rotational symmetry."
+			}
+		},
+
+		"VED":{
+			"ID":"VED",
+			"Width":12.36372,
+			"Height":13,
+			"Svg":"<svg width='12.36372' height='13' viewBox='-25.6785 -27 51.357 54' id='VED' xmlns='http://www.w3.org/2000/svg'><defs><path id='VED-s' d='M0 -27L-6.0619 -8.3435H-25.6785L-9.8083 3.1869l-6.0619 18.6566L0 10.3131 15.8702 21.8435 9.8083 3.1869 25.6785 -8.3435H6.0619Z'/></defs><use href='#VED-s' fill='#EF3340'/><use href='#VED-s' fill='#003DA5' transform='scale(.7)'/><use href='#VED-s' fill='#FCE300' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FCE300", "Width":3.6},
+				{"Color":"#003DA5", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Star and colours from the [flag of Venezuela](http://en.wikipedia.org/wiki/Flag_of_Venezuela)."
+			}
+		},
+
+		"KPW":{
+			"ID":"KPW",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-40 -40 80 80' id='KPW' xmlns='http://www.w3.org/2000/svg'><circle fill='#024FA2' r='40'/><circle fill='#ED1C27' r='32'/><path fill='#FFF' d='M0 -31L-6.9599 -9.5795H-29.4828L-11.2614 3.6591l-6.9599 21.4204L0 11.8409 18.2213 25.0795 11.2614 3.6591 29.4828 -9.5795H6.9599Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#ED1C27", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of North Korea](http://en.wikipedia.org/wiki/Flag_of_North_Korea). The line uses black instead of white, as allowed {white, red, blue} combinations taken by countries with higher GDP."
+			}
+		},
+
+		"SYP":{
+			"ID":"SYP",
+			"Width":12.36372,
+			"Height":13,
+			"Svg":"<svg width='12.36372' height='13' viewBox='-25.6785 -27 51.357 54' id='SYP' xmlns='http://www.w3.org/2000/svg'><defs><path id='SYP-s' d='M0 -27L-6.0619 -8.3435H-25.6785L-9.8083 3.1869l-6.0619 18.6566L0 10.3131 15.8702 21.8435 9.8083 3.1869 25.6785 -8.3435H6.0619Z'/></defs><use href='#SYP-s' fill='#007A3D'/><use href='#SYP-s' fill='#FFF' transform='scale(.7)'/><use href='#SYP-s' fill='#CE1126' transform='scale(.37)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#007A3D", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Two stars from the [flag of Syria](http://en.wikipedia.org/wiki/Flag_of_Syria), in flag colours."
+			}
+		},
+
+		"UZS":{
+			"ID":"UZS",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-3 -3 6 6' id='UZS' xmlns='http://www.w3.org/2000/svg'><circle r='3' fill='#1EB53A'/><ellipse rx='2' ry='3' fill='#FFF'/><path fill='#0099B5' d='M0 -2.0553L-.4614 -.6351H-1.9547L-.7466 .2426 -1.208 1.6627 0 .785l1.208 .8777L.7466 .2426 1.9547 -.6351H.4614Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#1EB53A", "Width":3.6},
+				{"Color":"#0099B5", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Colours and pieces from the [flag of Uzbekistan](http://en.wikipedia.org/wiki/Flag_of_Uzbekistan): crescent moon duplicated for symmetry, and a star."
+			}
+		},
+
+		"TMT":{
+			"ID":"TMT",
+			"Width":11.6,
+			"Height":11.6,
+			"Svg":"<svg width='11.6' height='11.6' viewBox='-3.41421 -3.41421 6.82842 6.82842' id='TMT' xmlns='http://www.w3.org/2000/svg'><defs><path id='TMT-e' d='M0 -3.41421l1 1H2.41421V-1l1 1 -1 1V2.41421H1l-1 1 -1 -1H-2.41421V1l-1 -1 1 -1V-2.41421H-1Z'/></defs><use href='#TMT-e' fill='#FFC72C'/><use href='#TMT-e' fill='#00853A' transform='scale(.84)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FFC72C", "Width":3.6},
+				{"Color":"#00853A", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [emblem of Turkmenistan](http://en.wikipedia.org/wiki/Emblem_of_Turkmenistan)."
+			}
+		},
+
+		"UYU":{
+			"ID":"UYU",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-34 -34 68 68' id='UYU' xmlns='http://www.w3.org/2000/svg'><path fill='#001489' d='M21 13H34v8H21V34H13V21H-13V34h-8V21H-34V13h13V-13H-34v-8h13V-34h8v13H13V-34h8v13H34v8H21Z'/><path fill='#FFF' d='M13 13V-13H-13V13Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#7B3F00", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Flag of Uruguay](http://en.wikipedia.org/wiki/Flag_of_Uruguay) has four blue stripes, two of which have ratio 17&ratio;2."
+			}
+		},
+
+		"VND":{
+			"ID":"VND",
+			"Width":11.952,
+			"Height":8.3,
+			"Svg":"<svg width='11.952' height='8.3' viewBox='-36 -25 72 50' id='VND' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#DA251D' rx='36' ry='25'/><ellipse fill='#FF0' rx='28' ry='17'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FFFF00", "Width":3.6},
+				{"Color":"#DA251D", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Banded oval from logo of [State Bank of Vietnam](http://www.sbv.gov.vn/webcenter/portal/en/); colours from [flag](http://en.wikipedia.org/wiki/Flag_of_Vietnam)."
+			}
+		},
+
+		"XAG":{
+			"ID":"XAG",
+			"Width":8.2875,
+			"Height":10.2,
+			"Svg":"<svg width='8.2875' height='10.2' viewBox='-221 -272 442 544' id='XAG' xmlns='http://www.w3.org/2000/svg'><path fill='#5C5C5C' d='M173 0l48 272H-221L-173 0l-48 -272H221Z'/><path fill='silver' d='M144.475 34h-288.95l-36 204h360.95Z M-144.475 -34h288.95l36 -204h-360.95Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#5C5C5C", "Width":3.6},
+				{"Color":"#C0C0C0", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Two silver bars, width&ratio;height at 13&ratio;8, undercut &asymp;&#8239;10&deg;, these from the centres of allowed ranges in the [Good Delivery rules](http://www.lbma.org.uk/publications/good-delivery-rules/technical-specifications); stacked as for `XAU`."
+			}
+		},
+
+		"XAU":{
+			"ID":"XAU",
+			"Width":9.2,
+			"Height":9.2,
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-56 -56 112 112' id='XAU' xmlns='http://www.w3.org/2000/svg'><path fill='#996515' d='M41 0L56 -56H-56L-41 0 -56 56H56Z'/><path fill='#D4AF37' d='M35.6282 7H-35.6282l-11.25 42H46.8782Z M-35.6282 -7H35.6282l11.25 -42H-46.8782Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#996515", "Width":3.6},
+				{"Color":"#D4AF37", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Two gold bars, width&ratio;height at 2&ratio;1, undercut &asymp;&#8239;15&deg;, these from the centres of allowed ranges in the [Good Delivery rules](http://www.lbma.org.uk/publications/good-delivery-rules/technical-specifications). Stacked as pictured by the BBC in [Bank of England gold: Rare look inside the vaults](http://www.bbc.co.uk/news/av/uk-51416500), 10&nbsp;Feb&nbsp;2020. Also, this stacking hints at the shape of an &lsquo;X&rsquo;, as in XAU."
+			}
+		},
+
+		"XDR":{
+			"ID":"XDR",
+			"Width":8.65714,
+			"Height":10.1,
+			"Svg":"<svg width='8.65714' height='10.1' viewBox='-12 -14 24 28' id='XDR' xmlns='http://www.w3.org/2000/svg'><path fill='#004C97' d='M12 14V4H6V-4h6V-14H-12V-4h6V4h-6V14Z'/><path fill='#FFF' d='M10 12V6H4V-6h6v-6H-10v6h6V6h-6v6Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#004C97", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"Inspired by the &lsquo;I&rsquo; in the [logo](http://www.imf.org/-/media/Images/IMF/Data/imf-seal-shadow-sep2019-update-svg.ashx) of the [International Monetary Fund](http://www.imf.org/en/), which issues XDR = [Special drawing rights](http://en.wikipedia.org/wiki/Special_drawing_rights). ",
+				"UseFor":"Can be used as a marker for the IMF itself."
+			}
+		},
+
+		"YER":{
+			"ID":"YER",
+			"Width":8.4,
+			"Height":12.6,
+			"Svg":"<svg width='8.4' height='12.6' viewBox='-20 -30 40 60' id='YER' xmlns='http://www.w3.org/2000/svg'><path fill='#C49C5B' d='M-20 10c12 0 8 20 20 20 12 0 8 -20 20 -20V-10c-12 0 -8 -20 -20 -20 -12 0 -8 20 -20 20Z'/><path d='M3 -9H-3V-25H3Z M-7 8V-8h-6V8Z M7 -8h6V8H7Z M3 25H-3V9H3Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C49C5B", "Width":3.6},
+				{"Color":"#000000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Outer shape inspired by a motif from the Marib Dam in the [emblem of Yemen](http://en.wikipedia.org/wiki/Emblem_of_Yemen), plus extra &lsquo;stones&rsquo; echoing their placement in the [actual Marib Dam](http://en.wikipedia.org/wiki/Marib_Dam)."
+			}
+		},
+
+		"ZAR":{
+			"ID":"ZAR",
+			"Width":15.24197,
+			"Height":13.2,
+			"Svg":"<svg width='15.24197' height='13.2' viewBox='-1 -.86603 2 1.73206' id='ZAR' xmlns='http://www.w3.org/2000/svg'><path fill='#007749' d='M.14434 -.25H.75L1 0 .75 .25H.14434L-.15849 .77452 -.5 .86603 -.59151 .52452 -.28868 0 -.59151 -.52452 -.5 -.86603l.34151 .09151Z'/><path fill='orange' d='M.07506 -.13H.70029l.13 .13 -.13 .13H.07506L-.23756 .67147 -.41515 .71906 -.46273 .54147 -.15011 0 -.46273 -.54147l.04758 -.17759 .17759 .04759Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#007749", "Width":3.6},
+				{"Color":"#FFA500", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Symmetrified [flag](http://en.wikipedia.org/wiki/Flag_of_South_Africa); orange as distinctive South African colour."
+			}
+		}
+
+	}
+}

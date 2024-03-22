@@ -13,19 +13,16 @@ Many files are available.
 
 ## <a name="The_SVGs"></a>The SVGs ##
 
-The SVGs are available individually, in  
-* [github.com/jdaw1/chart_markers/tree/main/ChartMarkers/](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers/)  
 
-Alas GitHub&rsquo;s web interface doesn&rsquo;t allow downloading a single directory, so they are also in  
-* [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers.zip)
+* All the relevant data is available from a single [JSON data asset](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers.json). 
+This includes `Svg` painting code, its `Width` and `Height`, an array of `LineFormattings`, and markdown-formatted `Notes` for human consumption. 
+For human readability the JSON includes much white space.
 
-Excel needs slightly different SVGs, because otherwise it mangles the sizes. A directory of these is at 
-* [github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel/)  
+* The SVGs are available individually, in [github.com/jdaw1/chart_markers/tree/main/ChartMarkers/](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers/).
 
-and an easy-download compressed set in  
-* [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip)
+* Alas GitHub&rsquo;s web interface doesn&rsquo;t allow downloading a single directory, so they are also in [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers.zip).
 
-* It might be useful to have the [entire&nbsp;set in a single&nbsp;.svg&nbsp;file](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers_every.svg), perhaps for use by the likes of [D3.js = Data-Driven Documents](https://d3js.org/). As I&rsquo;m only starting to explore the requirements of such software, the format of this .svg might yet be improved.
+* Excel needs slightly different SVGs, because otherwise it mangles the sizes. A directory of these is at [github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel/), of which an easy-download compressed set is in [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip)
 
 
 ## PNGs ##
