@@ -8,9 +8,11 @@ There is technical comment about the SVG
 [code](Documentation/ChartMarkers_Code.md), 
 and an explanation of the available 
 [files](Documentation/ChartMarkers_Files.md). 
-Finally, a page about how to 
+Also, a page about how to 
 [grumble](Documentation/ChartMarkers_Grumbles.md) 
 about a marker&rsquo;s design, and how not to grumble.
+
+To embed these in markers in your systems use the [JSON data asset](ChartMarkers.json) ([raw](https://raw.githubusercontent.com/jdaw1/chart_markers/main/ChartMarkers.json)).
 
 ---
 
