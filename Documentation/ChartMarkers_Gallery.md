@@ -11,7 +11,8 @@ Documentation links:
 &#9654;&#xFE0E;&nbsp;[Description](ChartMarkers_Description.md)
 &#9654;&#xFE0E;&nbsp;[Code](ChartMarkers_Code.md)
 &#9654;&#xFE0E;&nbsp;[Grumbles](ChartMarkers_Grumbles.md)
-&#9654;&#xFE0E;&nbsp;[Files](ChartMarkers_Files.md)
+&#9654;&#xFE0E;&nbsp;[Files](ChartMarkers_Files.md) incl. [JSON data asset](../ChartMarkers.json) ([raw](https://raw.githubusercontent.com/jdaw1/chart_markers/main/ChartMarkers.json))
+
 
 --- 
 
