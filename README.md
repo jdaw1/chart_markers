@@ -12,7 +12,7 @@ Also, a page about how to
 [grumble](Documentation/ChartMarkers_Grumbles.md) 
 about a marker&rsquo;s design, and how not to grumble.
 
-To embed these markers in your systems use the [JSON data asset](ChartMarkers.json) ([raw](https://raw.githubusercontent.com/jdaw1/chart_markers/main/ChartMarkers.json)).
+To load these markers into a system use the [JSON data asset](ChartMarkers.json) ([raw](https://raw.githubusercontent.com/jdaw1/chart_markers/main/ChartMarkers.json)).
 
 ---
 
