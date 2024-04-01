@@ -36,6 +36,7 @@ Alas, many flags have details that are too small (e.g.,
 [MD](http://en.wikipedia.org/wiki/Flag_of_Moldova)), 
 or are asymmetrical so the centre = the datapoint isn&rsquo;t both obvious and unique 
 ([Nordics](http://en.wikipedia.org/wiki/Nordic_cross_flag), 
+[CA](http://en.wikipedia.org/wiki/Flag_of_Canada), 
 [TW](http://en.wikipedia.org/wiki/Flag_of_Taiwan), 
 [MY](http://en.wikipedia.org/wiki/Flag_of_Malaysia), 
 [ZA](http://en.wikipedia.org/wiki/Flag_of_South_Africa), 
