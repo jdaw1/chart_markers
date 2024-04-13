@@ -287,7 +287,7 @@ While this project has few users, its creator feels at liberty to make changes g
 </div>
 
 It has not been possible to make line patterns satisfying all the markers&rsquo; constraints. 
-Without the optical space afforded by shape, colour alone is insufficient to make 167 lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
+Without the optical space afforded by shape, colour alone is insufficient to make 166 lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
 So the distinctness standard has been weakened: lines within a &lsquo;group&rsquo; are different.
 
 But lines from different groups might be similar or identical. 
