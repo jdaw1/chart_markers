@@ -1681,7 +1681,7 @@
 				{"Color":"#9D9D9C", "Width":1.2}
 			],
 			"Notes":{
-				"Mnemonic":"The [logo of the European Investment Bank](https://www.eib.org/en/stories/eib-new-logo) includes an arch, referring to the building, which seems to be about a third of a 5&ratio;4 ellipse. The marker is the whole ellipse, with horizonal lines to further echo the logo, in logo colours."
+				"Mnemonic":"The [logo of the European Investment Bank](https://www.eib.org/en/stories/eib-new-logo) includes an arch, referring to the building, which seems to be about a third of a 5&ratio;4 ellipse. The marker is the whole ellipse, with horizonal lines to further echo the logo, in logo colours. Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>EIB&nbsp;Corp</kbd>"
 			}
 		},
 
@@ -1695,7 +1695,7 @@
 				{"Color":"#FCB90E", "Width":1.2}
 			],
 			"Notes":{
-				"Mnemonic":"From [logo](http://www.afreximbank.com/wp-content/themes/afrexim/assets/favicons/coast-228x228.png) of [Afreximbank](http://www.afreximbank.com/) = Africa Export-Import Bank. Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>AFREXI&nbsp;Corp</kbd>"
+				"Mnemonic":"From [logo](http://www.afreximbank.com/wp-content/themes/afrexim/assets/favicons/coast-228x228.png) of [Afreximbank](http://www.afreximbank.com/) = Africa Export-Import Bank. Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>AFEXI&nbsp;Corp</kbd>"
 			}
 		},
 
