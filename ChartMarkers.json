@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2024-04-13T20:20Z",
+		"Version":"2025-03-28T00:00Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -843,7 +843,7 @@
 				{"Color":"#FF0000", "Width":2.4}
 			],
 			"Notes":{
-				"Mnemonic":"The five-leaf pattern of the [flag of Hong Kong](http://en.wikipedia.org/wiki/Flag_of_Hong_Kong), simplified to a pentagon, double-edged like the logo of the [HKMA](http://www.hkma.gov.hk/eng/) = Hong Kong Monetary Authority."
+				"Mnemonic":"The five-leaf pattern of the [flag of Hong Kong](http://en.wikipedia.org/wiki/Flag_of_Hong_Kong), simplified to a pentagon, double-edged like the [logo](https://www.hkma.gov.hk/statics/assets/img/logo.jpg) of the [HKMA](http://www.hkma.gov.hk/eng/) = Hong Kong Monetary Authority."
 			}
 		},
 
@@ -1364,7 +1364,7 @@
 			"ID":"BSD",
 			"Width":15.41607,
 			"Height":8.9,
-			"Svg":"<svg width='15.41607' height='8.9' viewBox='-97 -56 194 112' id='BSD' xmlns='http://www.w3.org/2000/svg'><defs><path id='SGD-h' d='M97 0L0 56 -97 0 0 -56Z'/></defs><use href='#SGD-h' fill='#00778B'/><use href='#SGD-h' fill='#FFC72C' transform='scale(.7)'/><use href='#SGD-h' transform='scale(.37)'/></svg>",
+			"Svg":"<svg width='15.41607' height='8.9' viewBox='-97 -56 194 112' id='BSD' xmlns='http://www.w3.org/2000/svg'><defs><path id='EU_2-h' d='M97 0L0 56 -97 0 0 -56Z'/></defs><use href='#EU_2-h' fill='#00778B'/><use href='#EU_2-h' fill='#FFC72C' transform='scale(.7)'/><use href='#EU_2-h' transform='scale(.37)'/></svg>",
 			"LineFormattings":[
 				{"Color":"#FFC72C", "Width":3.6},
 				{"Color":"#00778B", "Width":1.2}
@@ -1420,7 +1420,7 @@
 			"ID":"JMD",
 			"Width":9.2,
 			"Height":9.2,
-			"Svg":"<svg width='9.2' height='9.2' viewBox='-8 -8 16 16' id='JMD' xmlns='http://www.w3.org/2000/svg'><path fill='#009639' d='M1 0L8 8H-8L-1 0 -8 -8H8Z'/><path d='M8 8V-8L-8 8V-8Z'/></svg>",
+			"Svg":"<svg width='9.2' height='9.2' viewBox='-2 -2 4 4' id='JMD' xmlns='http://www.w3.org/2000/svg'><path fill='#009639' d='M1 0L2 2H-2L-1 0 -2 -2H2Z'/><path d='M2 2V-2L-2 2V-2Z'/></svg>",
 			"LineFormattings":[
 				{"Color":"#009639", "Width":3.6},
 				{"Color":"#000000", "Width":1.2}
@@ -1997,6 +1997,36 @@
 			}
 		},
 
+		"USD_2":{
+			"ID":"USD_2",
+			"Width":14.64632,
+			"Height":15.4,
+			"Svg":"<svg width='14.64632' height='15.4' viewBox='-9.5106 -10 19.0212 20' id='USD_2' xmlns='http://www.w3.org/2000/svg'><defs><path id='USD_2-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/></defs><use href='#USD_2-s'/><use href='#USD_2-s' fill='#C3C' transform='scale(.6)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#CC33CC", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `USD` marker; pink-purple replacing white.",
+				"UseFor":"When showing S&#7451;&#640;&#618;&#7448;s separately, the **p**ink-**p**urple variant should be **p**rincipals."
+			}
+		},
+
+		"USD_3":{
+			"ID":"USD_3",
+			"Width":14.64632,
+			"Height":15.4,
+			"Svg":"<svg width='14.64632' height='15.4' viewBox='-9.5106 -10 19.0212 20' id='USD_3' xmlns='http://www.w3.org/2000/svg'><defs><path id='USD_3-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/></defs><use href='#USD_3-s'/><use href='#USD_3-s' fill='#0CF' transform='scale(.6)'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#00CCFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `USD` marker; cyan replacing white.",
+				"UseFor":"When showing S&#7451;&#640;&#618;&#7448;s separately, the **c**yan variant should be **c**oupons."
+			}
+		},
+
 		"EU":{
 			"ID":"EU",
 			"Width":10,
@@ -2007,7 +2037,53 @@
 				{"Color":"#FFFFFF", "Width":1.2}
 			],
 			"Notes":{
-				"Mnemonic":"As for `EUR`&nbsp;=&nbsp;&euro;, except the horizontal line replaced by a star from the [flag of Europe](http://en.wikipedia.org/wiki/Flag_of_Europe), which is used as the flag of the European Union."
+				"Mnemonic":"As for `EUR`&nbsp;=&nbsp;&euro;, except the horizontal line replaced by a star from the [flag of Europe](http://en.wikipedia.org/wiki/Flag_of_Europe), which is used as the flag of the European Union.",
+				"UseFor":"If distinguishing the various EU bond programs, the `EU` marker should be used for the [NGEU](https://en.wikipedia.org/wiki/Next_Generation_EU) bonds."
+			}
+		},
+
+		"EU_2":{
+			"ID":"EU_2",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='EU_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#F3F' r='10'/><circle fill='#FFF' r='8'/><path fill='#0F0' d='M0 -7l-1.5716 4.8369H-6.6574L-2.5429 .8262 -4.1145 5.6631 0 2.6738 4.1145 5.6631 2.5429 .8262 6.6574 -2.1631H1.5716Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF33FF", "Width":3.6},
+				{"Color":"#00FF00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `EU` marker; with green.",
+				"UseFor":"The EU has an alternate marker, `EU_2`, which can be used for green bonds, or for other purposes."
+			}
+		},
+
+		"EU_3":{
+			"ID":"EU_3",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='EU_3' xmlns='http://www.w3.org/2000/svg'><circle fill='#F3F' r='10'/><circle fill='#039' r='8'/><path fill='#FDCB0B' d='M0 -7l-1.5716 4.8369H-6.6574L-2.5429 .8262 -4.1145 5.6631 0 2.6738 4.1145 5.6631 2.5429 .8262 6.6574 -2.1631H1.5716Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF33FF", "Width":3.6},
+				{"Color":"#FDCB0B", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `EU` marker; with blue and yellow from the [flag of Europe](http://en.wikipedia.org/wiki/Flag_of_Europe).",
+				"UseFor":"The EU has an alternate marker, `EU_3`, which can be used for SURE bonds, or for other purposes."
+			}
+		},
+
+		"EU_4":{
+			"ID":"EU_4",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='EU_4' xmlns='http://www.w3.org/2000/svg'><circle fill='#F3F' r='10'/><circle fill='#FFF' r='8'/><path fill='#039' d='M0 -7l-1.5716 4.8369H-6.6574L-2.5429 .8262 -4.1145 5.6631 0 2.6738 4.1145 5.6631 2.5429 .8262 6.6574 -2.1631H1.5716Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF33FF", "Width":3.6},
+				{"Color":"#003399", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Shape from `EU` marker; with blue from the [flag of Europe](http://en.wikipedia.org/wiki/Flag_of_Europe).",
+				"UseFor":"The EU has an alternate marker, `EU_4`, which can be used for EMTN bonds, or for other purposes."
 			}
 		},
 
