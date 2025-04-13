@@ -32,6 +32,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 
 ## <a name="markers"></a>Markers ##
 
+<span style="font-size: smaller;">[Main Developed Currencies](#main_developed_currencies)</span> 
 [![USD](../ChartMarkers/USD.svg)](#USD) 
 [![EUR](../ChartMarkers/EUR.svg)](#EUR) 
 [![GBP](../ChartMarkers/GBP.svg)](#GBP) 
@@ -42,6 +43,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![NZD](../ChartMarkers/NZD.svg)](#NZD) 
 [![SEK](../ChartMarkers/SEK.svg)](#SEK) 
 [![NOK](../ChartMarkers/NOK.svg)](#NOK)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Asia](#asia)</span> 
 [![CNY](../ChartMarkers/CNY.svg)](#CNY) 
 [![HKD](../ChartMarkers/HKD.svg)](#HKD) 
 [![TWD](../ChartMarkers/TWD.svg)](#TWD) 
@@ -63,6 +65,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![TMT](../ChartMarkers/TMT.svg)](#TMT)
 [![MNT](../ChartMarkers/MNT.svg)](#MNT)
 [![KPW](../ChartMarkers/KPW.svg)](#KPW)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Western and Central Europe, non&#8209;&euro;](#western_central_europe)</span> 
 [![DKK](../ChartMarkers/DKK.svg)](#DKK) 
 [![ISK](../ChartMarkers/ISK.svg)](#ISK) 
 [![PLN](../ChartMarkers/PLN.svg)](#PLN) 
@@ -70,6 +73,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![HUF](../ChartMarkers/HUF.svg)](#HUF) 
 [![RON](../ChartMarkers/RON.svg)](#RON) 
 [![BGN](../ChartMarkers/BGN.svg)](#BGN)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Balkans, Caucasus, Eastern Europe](#balkans_caucasus_eastern_europe)</span> 
 [![RSD](../ChartMarkers/RSD.svg)](#RSD) 
 [![ALL](../ChartMarkers/ALL.svg)](#ALL) 
 [![MKD](../ChartMarkers/MKD.svg)](#MKD) 
@@ -80,6 +84,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![AMD](../ChartMarkers/AMD.svg)](#AMD) 
 [![BYN](../ChartMarkers/BYN.svg)](#BYN) 
 [![RUB](../ChartMarkers/RUB.svg)](#RUB)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Middle East and North Africa](#middle_east_north_africa)</span> 
 [![TRY](../ChartMarkers/TRY.svg)](#TRY) 
 [![SAR](../ChartMarkers/SAR.svg)](#SAR) 
 [![AED](../ChartMarkers/AED.svg)](#AED) 
@@ -98,6 +103,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![IRR](../ChartMarkers/IRR.svg)](#IRR) 
 [![IQD](../ChartMarkers/IQD.svg)](#IQD) 
 [![ILS](../ChartMarkers/ILS.svg)](#ILS)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Africa](#africa)</span> 
 [![ZAR](../ChartMarkers/ZAR.svg)](#ZAR) 
 [![NGN](../ChartMarkers/NGN.svg)](#NGN) 
 [![DZD](../ChartMarkers/DZD.svg)](#DZD) 
@@ -113,6 +119,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![CI](../ChartMarkers/CI.svg)](#CI)
 [![CM](../ChartMarkers/CM.svg)](#CM)
 [![AOA](../ChartMarkers/AOA.svg)](#AOA)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Americas](#americas)</span> 
 [![MXN](../ChartMarkers/MXN.svg)](#MXN) 
 [![BRL](../ChartMarkers/BRL.svg)](#BRL) 
 [![CLP](../ChartMarkers/CLP.svg)](#CLP) 
@@ -133,6 +140,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![TTD](../ChartMarkers/TTD.svg)](#TTD) 
 [![JMD](../ChartMarkers/JMD.svg)](#JMD) 
 [![BSD](../ChartMarkers/BSD.svg)](#BSD)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Euro Zone](#euro_zone)</span> 
 [![EU](../ChartMarkers/EU.svg)](#EU) 
 [![\_ECB](../ChartMarkers/\_ECB.svg)](#\_ECB) 
 [![DE](../ChartMarkers/DE.svg)](#DE) 
@@ -159,6 +167,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![ME](../ChartMarkers/ME.svg)](#ME) 
 [![\_ESM](../ChartMarkers/\_ESM.svg)](#\_ESM) 
 [![\_EFSF](../ChartMarkers/\_EFSF.svg)](#\_EFSF)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Development Banks](#development_banks)</span> 
 [![\_EIB](../ChartMarkers/\_EIB.svg)](#\_EIB) 
 [![\_EBRD](../ChartMarkers/\_EBRD.svg)](#\_EBRD) 
 [![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB) 
@@ -176,6 +185,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![\_NDB](../ChartMarkers/\_NDB.svg)](#\_NDB) 
 [![\_IBRD](../ChartMarkers/\_IBRD.svg)](#\_IBRD) 
 [![XDR](../ChartMarkers/XDR.svg)](#XDR)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Precious Metals](#precious_metals)</span> 
 [![XAU](../ChartMarkers/XAU.svg)](#XAU) 
 [![XAG](../ChartMarkers/XAG.svg)](#XAG) 
 [![XPT](../ChartMarkers/XPT.svg)](#XPT)
