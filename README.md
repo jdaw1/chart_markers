@@ -55,7 +55,7 @@ or have much white at the edge
 [SI](http://en.wikipedia.org/wiki/Flag_of_Slovenia), 
 [CY](http://en.wikipedia.org/wiki/Flag_of_Cyprus)).
 
-**So a set of markers has been made, showcased in the [gallery](Documentation/ChartMarkers_Gallery.md)** ([HTML translation](https://www.jdawiseman.com/papers/Chart_Markers/ChartMarkers_Gallery.html)). E.g.: 
+**So a set of markers has been made, showcased in the [gallery](Documentation/ChartMarkers_Gallery.md)**. E.g.: 
 <nobr><span class="markerID">USD</span>&nbsp;=&nbsp;![USD](Documentation/USD_baseline.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">EUR</span>&nbsp;=&nbsp;![EUR](ChartMarkers/EUR.svg)</nobr>&nbsp;&nbsp; 
 <nobr><span class="markerID">GBP</span>&nbsp;=&nbsp;![GBP](ChartMarkers/GBP.svg)</nobr>&nbsp;&nbsp; 
