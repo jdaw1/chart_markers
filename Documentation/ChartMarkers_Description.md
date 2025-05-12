@@ -24,13 +24,13 @@ Many have details that are too small (e.g.,
 [BR](http://en.wikipedia.org/wiki/Flag_of_Brazil), 
 [EU](http://en.wikipedia.org/wiki/Flag_of_Europe)), 
 or are not sufficiently different 
-([IE](http://en.wikipedia.org/wiki/Flag_of_Ireland) &asymp; 
-[IT](http://en.wikipedia.org/wiki/Flag_of_Italy) &asymp; 
-[MX](http://en.wikipedia.org/wiki/Flag_of_Mexico) &asymp; 
-[FR](http://en.wikipedia.org/wiki/Flag_of_France) &asymp; 
-[RO](http://en.wikipedia.org/wiki/Flag_of_Romania) &asymp; 
-[BE](http://en.wikipedia.org/wiki/Flag_of_Belgium) &asymp; 
-[MD](http://en.wikipedia.org/wiki/Flag_of_Moldova)), 
+([IE](http://en.wikipedia.org/wiki/Flag_of_Ireland) 
+&asymp;&nbsp;[IT](http://en.wikipedia.org/wiki/Flag_of_Italy) 
+&asymp;&nbsp;[MX](http://en.wikipedia.org/wiki/Flag_of_Mexico) 
+&asymp;&nbsp;[FR](http://en.wikipedia.org/wiki/Flag_of_France) 
+&asymp;&nbsp;[RO](http://en.wikipedia.org/wiki/Flag_of_Romania) 
+&asymp;&nbsp;[MD](http://en.wikipedia.org/wiki/Flag_of_Moldova) 
+&asymp;&nbsp;[BE](http://en.wikipedia.org/wiki/Flag_of_Belgium)), 
 or are asymmetrical so the centre = the datapoint isn&rsquo;t both obvious and unique 
 ([Nordics](http://en.wikipedia.org/wiki/Nordic_cross_flag), 
 [TW](http://en.wikipedia.org/wiki/Flag_of_Taiwan), 
@@ -254,7 +254,7 @@ While this project has few users, its creator feels at liberty to make changes g
 
 * After the userbase becomes substantial, changes would need to be preceded by explanation in an issue, and weight given to arguments posted therein.
 
-* If a territory&rsquo;s currency should be replaced (e.g., <nobr>[ARL](http://en.wikipedia.org/wiki/Argentine_peso#Peso_ley,_1970%E2%80%931983)&#10141;ARP&#10141;ARA&#10141;<span class="markerID">ARS</span>),</nobr> then the same marker will apply to the new currency. The marker would be updated to reflect its new ID: updated ID in documentation; updated filename; within the SVG updated <nobr>`id='...'`.</nobr> 
+* If a territory&rsquo;s currency should be replaced (e.g., <nobr>[ARL](http://en.wikipedia.org/wiki/Argentine_peso#Peso_ley,_1970%E2%80%931983)&#10141;ARP&#10141;ARA&#10141;<span class="markerID">ARS</span>),</nobr> then the same marker will apply to the new currency. The marker would be updated to reflect its new ID: updated ID in documentation; updated filename; within the SVG updated <nobr><code>id='&hellip;'</code>.</nobr> 
 
 * If a country&rsquo;s 3166 code should change because of a country rename (e.g., [ZR](http://en.wikipedia.org/wiki/Zaire)&#10141;[CD](http://en.wikipedia.org/wiki/ISO_3166-2:CD)), then the same marker will apply, with the small updates in the previous bullet.
 

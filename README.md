@@ -1,8 +1,7 @@
 # Chart Markers #
  
 Start by marvelling at the 
-[gallery](Documentation/ChartMarkers_Gallery.md) 
-(the [off-GitHub HTML version being more reliable](https://www.jdawiseman.com/papers/Chart_Markers/ChartMarkers_Gallery.html)), then read the 
+[gallery](Documentation/ChartMarkers_Gallery.md), then read the 
 [description](Documentation/ChartMarkers_Description.md). 
 There is technical comment about the SVG 
 [code](Documentation/ChartMarkers_Code.md), 
@@ -27,13 +26,13 @@ Alas, many flags have details that are too small (e.g.,
 [MX](http://en.wikipedia.org/wiki/Flag_of_Mexico), 
 [BR](http://en.wikipedia.org/wiki/Flag_of_Brazil), 
 [EU](http://en.wikipedia.org/wiki/Flag_of_Europe)), or are not sufficiently different 
-([IE](http://en.wikipedia.org/wiki/Flag_of_Ireland) &asymp; 
-[IT](http://en.wikipedia.org/wiki/Flag_of_Italy) &asymp; 
-[MX](http://en.wikipedia.org/wiki/Flag_of_Mexico) &asymp; 
-[FR](http://en.wikipedia.org/wiki/Flag_of_France) &asymp; 
-[RO](http://en.wikipedia.org/wiki/Flag_of_Romania) &asymp; 
-[BE](http://en.wikipedia.org/wiki/Flag_of_Belgium) &asymp; 
-[MD](http://en.wikipedia.org/wiki/Flag_of_Moldova)), 
+([IE](http://en.wikipedia.org/wiki/Flag_of_Ireland) 
+&asymp;&nbsp;[IT](http://en.wikipedia.org/wiki/Flag_of_Italy) 
+&asymp;&nbsp;[MX](http://en.wikipedia.org/wiki/Flag_of_Mexico) 
+&asymp;&nbsp;[FR](http://en.wikipedia.org/wiki/Flag_of_France) 
+&asymp;&nbsp;[RO](http://en.wikipedia.org/wiki/Flag_of_Romania) 
+&asymp;&nbsp;[MD](http://en.wikipedia.org/wiki/Flag_of_Moldova) 
+&asymp;&nbsp;[BE](http://en.wikipedia.org/wiki/Flag_of_Belgium)), 
 or are asymmetrical so the centre = the datapoint isn&rsquo;t both obvious and unique 
 ([Nordics](http://en.wikipedia.org/wiki/Nordic_cross_flag), 
 [CA](http://en.wikipedia.org/wiki/Flag_of_Canada), 
