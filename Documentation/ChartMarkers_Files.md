@@ -91,7 +91,7 @@ For each series in the chart, it looks for the name of the series in the `Series
 If not there, that series ignored. 
 If there, the relevant marker is that from the same row in the `SeriesFormatAlias.ID` range. 
 This indirection allows series to have names such as Deutschland | Frankreich | Italien | Spanien, these being mapped to <span class="markerID">DE</span> | <span class="markerID">FR</span> | <span class="markerID">IT</span> | <span class="markerID">ES</span>. 
-Having found the correct ID, and hence the correct rows of the ChartLines.&hellip; table, those ChartLines rows are then applied. 
+Having found the correct ID, and hence the correct rows of the <code>ChartLines.&hellip;</code> table, those ChartLines rows are then applied. 
 
 Markers come from outside the spreadsheet. 
 Your corporate build should include a standard place for the SVGs (read access being sufficient), that location being stored in the range `ChartMarkers.Directory`. 
@@ -143,10 +143,10 @@ Even without these markers, it is a very useful function.
 
 4\. Boolean: True is primary axis, False is secondary axis. Almost always you want True.
 
-5&ndash;8\. Numerics: <var>Min</var>, <var>Max</var>, <var>MajorStep</var>, <var>MinorStep</var>. If <var>Min</var>&nbsp;&ge;&nbsp;<var>Max</var> then their &hellip;`IsAuto` are set to `True`. 
+5&ndash;8\. Numerics: <var>Min</var>, <var>Max</var>, <var>MajorStep</var>, <var>MinorStep</var>. If <var>Min</var>&nbsp;&ge;&nbsp;<var>Max</var> then their <code>&hellip;IsAuto</code> are set to `True`. 
 Likewise if <var>MinorStep</var>&nbsp;&gt;&nbsp;<var>MajorStep</var>, and also if either &le;&nbsp;0. 
 To set all to automatic values set these four numerics all = &minus;1, or all = 0. 
-Typically the <var>Min</var> is computed with a function that does the equivalent of `Floor(MinIfs(...), Major)`, and the Max by `Ceiling(MaxIfs(...), Minor)`, but this work is entirely for the user.
+Typically the <var>Min</var> is computed with a function that does the equivalent of <code>Floor(MinIfs(&hellip;), Major)</code>, and the Max by <code>Ceiling(MaxIfs(&hellip;), Minor)</code>, but this work is entirely for the user.
 
 For any given axis on any chart, `Axis_Scale()` should be called at most once. If called more times, perhaps from multiple cells, the result would depend on the timing of the invocations &mdash; which in theory could even overlap. 
 
