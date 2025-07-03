@@ -1,15 +1,15 @@
-<svg width='161.6802' height='170' viewBox='-9.5106 -10 19.0212 20'  id='%thisID%' xmlns='http://www.w3.org/2000/svg'>
+<svg width='149.31642' height='157' viewBox='-9.5106 -10 19.0212 20'  id='USD' xmlns='http://www.w3.org/2000/svg'>
 <rect fill='#CC9933' x='-9.5106' width='19.0212' y='8.0902' height='1.9098'/> 
 <path fill='none' stroke='#0000FF' stroke-width='0.44' d='M-9.5106 -10H9.5106M9.5106 -10V10M-9.5106 -10V10'/>
-<defs><path id='s' d='M0 -10 l-2.2451 6.9098 H-9.5106 l5.8779 4.2705 L-5.8779 8.0902 L0 3.8197 L5.8779 8.0902 L3.6327 1.1803 L9.5106 -3.0902 H2.2451Z'/></defs>
-<use href='#s' fill='black'/>
-<use href='#s' fill='white' transform='scale(0.6)'/>
+<defs><path id='USD-s' d='M0 -10 l-2.2451 6.9098 H-9.5106 l5.8779 4.2705 L-5.8779 8.0902 L0 3.8197 L5.8779 8.0902 L3.6327 1.1803 L9.5106 -3.0902 H2.2451Z'/></defs>
+<use href='#USD-s' fill='black'/>
+<use href='#USD-s' fill='#FFF' transform='scale(0.6)'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='10'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='6'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='3.8197'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='2.2918'/>
 <path opacity='60%' stroke='#00FF00' stroke-width='0.22' d='M 0 -10 L 0 3.8197 M -2.2451 -3.0902 L 5.8779 8.0902 M -9.5106 -3.0902 L 3.6327 1.1803 M -3.6327 1.1803 L 9.5106 -3.0902 M -5.8779 8.0902 L 2.2451 -3.0902'/>
 <path fill='none' stroke='#0000FF' stroke-width='0.22' d='M 9.5106 10 L -9.5106 -10 M 9.5106 -10 L -9.5106 10'/>
-<circle fill='white' r='0.11'/>
-<text x='3.3287' y='-7.2' fill='black' text-anchor='middle' dominant-baseline='middle' font-family='Consolas, monospace' font-size='1.6471' font-weight='800'>USD</text>
+<circle fill='#FFF' r='0.11'/>
+<text x='1.9021' y='-6.88' fill='black' dominant-baseline='middle' font-family='Consolas, monospace' font-size='1.8436' font-weight='800'>USD</text>
 </svg>

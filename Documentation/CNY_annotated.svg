@@ -1,15 +1,15 @@
-<svg width='165.79552' height='165' viewBox='-9.8995 -9.852 19.799 19.704'  id='%thisID%' xmlns='http://www.w3.org/2000/svg'>
+<svg width='152.73285' height='152' viewBox='-9.8995 -9.852 19.799 19.704'  id='CNY' xmlns='http://www.w3.org/2000/svg'>
 <rect fill='#CC9933' x='-9.8995' width='19.799' y='-9.852' height='0.874'/> <rect fill='#CC9933' y='-9.852' height='19.704' x='8.8401' width='1.0594'/> 
 <path fill='none' stroke='#0000FF' stroke-width='0.44' d='M-9.8995 9.852H9.8995M-9.8995 -9.852V9.852'/>
-<defs><path id='s' d='M-9.8995 1.4142 l7.1579 1.2454 L-1.7141 9.852 L1.6822 3.4293 L8.8401 4.6747 L3.7813 -.5402 L7.1776 -6.9629 L.6547 -3.7631 L-4.4041 -8.978 l1.0275 7.1924Z'/></defs>
-<use href='#s' fill='#DE2910'/>
-<use href='#s' fill='#FFDE00' transform='scale(0.7)'/>
+<defs><path id='CNY-s' d='M-9.8995 1.4142 l7.1579 1.2454 L-1.7141 9.852 L1.6822 3.4293 L8.8401 4.6747 L3.7813 -.5402 L7.1776 -6.9629 L.6547 -3.7631 L-4.4041 -8.978 l1.0275 7.1924Z'/></defs>
+<use href='#CNY-s' fill='#DE2910'/>
+<use href='#CNY-s' fill='#FFDE00' transform='scale(0.7)'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='10'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='7'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='3.8197'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='2.6738'/>
 <path opacity='60%' stroke='#00FF00' stroke-width='0.22' d='M -9.8995 1.4142 L 3.7813 -0.5402 M -2.7416 2.6596 L 7.1776 -6.9629 M -1.7141 9.852 L 0.6547 -3.7631 M 1.6822 3.4293 L -4.4041 -8.978 M 8.8401 4.6747 L -3.3766 -1.7856'/>
 <path fill='none' stroke='#0000FF' stroke-width='0.22' d='M 9.8995 9.852 L -9.8995 -9.852 M 9.8995 -9.852 L -9.8995 9.852'/>
-<circle fill='white' r='0.11'/>
-<text x='0' y='8.43' fill='black' dominant-baseline='middle' font-family='Consolas, monospace' font-size='1.6719' font-weight='800'>CNY</text>
+<circle fill='#FFF' r='0.11'/>
+<text x='0' y='8.37' fill='black' dominant-baseline='middle' font-family='Consolas, monospace' font-size='1.9821' font-weight='800'>CNY</text>
 </svg>

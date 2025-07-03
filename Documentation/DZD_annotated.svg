@@ -1,11 +1,11 @@
-<svg width='154.98581' height='177' viewBox='-6 -6.85224 12 13.70448'  id='%thisID%' xmlns='http://www.w3.org/2000/svg'>
-<path fill='#006633' d='M6 6.85224H-6V-6.85224H6Z'/>
-<path fill='white' d='M4.8541 5.70634H-4.8541V-5.70634H4.8541Z'/>
-<path fill='#D21034' d='M6 0 L1.8541 -1.3471 V-5.7063 L-.7082 -2.1796 L-4.8541 -3.5267 L-2.2918 0 L-4.8541 3.5267 L-.7082 2.1796 L1.8541 5.7063 V1.3471Z'/>
+<svg width='161.1152' height='184' viewBox='-6 -6.85224 12 13.70448'  id='DZD' xmlns='http://www.w3.org/2000/svg'>
+	<path fill='#006633' d='M6 6.85224H-6V-6.85224H6Z'/>
+<path fill='#FFF' d='M4.8541 5.70634H-4.8541V-5.70634H4.8541Z'/>
+<path fill='#D21034' d='M6 0 L1.8541 -1.34708 V-5.70634 L-.7082 -2.17963 L-4.8541 -3.52671 L-2.2918 0 L-4.8541 3.52671 L-.7082 2.17963 L1.8541 5.70634 V1.34708Z'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='6'/>
 <circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='2.2918'/>
 <path opacity='60%' stroke='#00FF00' stroke-width='0.22' d='M 6 0 L -2.2918 0 M 1.8541 -1.34708 L -4.8541 3.52671 M 1.8541 -5.70634 L -0.7082 2.17963 M -0.7082 -2.17963 L 1.8541 5.70634 M -4.8541 -3.52671 L 1.8541 1.34708'/>
 <path fill='none' stroke='#0000FF' stroke-width='0.22' d='M 6 6.85224 L -6 -6.85224 M 6 -6.85224 L -6 6.85224'/>
-<circle fill='white' r='0.11'/>
-<text x='-2.4' y='-4.11134' fill='black' dominant-baseline='middle' font-family='Consolas, monospace' font-size='1.08397' font-weight='800'>DZD</text>
+<circle fill='#FFF' r='0.11'/>
+<text x='-2.4' y='4.454' fill='black' dominant-baseline='middle' font-family='Consolas, monospace' font-size='1.17707' font-weight='800'>DZD</text>
 </svg>
