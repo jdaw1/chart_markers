@@ -26,6 +26,7 @@ The validator warns about the absence of a character encoding, but an encoding w
 | JPY | ![JPY](../ChartMarkers/JPY.svg) | 156 |
 | |  |  &numsp;&vellip;&numsp; |
 | RUB | ![RUB](../ChartMarkers/RUB.svg) | 507 |
+| MAD | ![MAD](../ChartMarkers/MAD.svg) | 558 |
 | INR | ![INR](../ChartMarkers/INR.svg) | 563 |
 | \_NDB | ![\_NDB](../ChartMarkers/\_NDB.svg) | 564 |
 | IQD | ![IQD](../ChartMarkers/IQD.svg) | 604 |
@@ -36,8 +37,8 @@ The validator warns about the absence of a character encoding, but an encoding w
 
 In coding these markers, priority has been given to compactness and execution efficiency, often at the expense of legiblity of the SVG code to humans. 
 
-So the markers&rsquo; SVG files are concise, ranging from 156 bytes (<span class="markerID">JPY</span>), to a median of 262 bytes, to a mean &asymp;&#8239;291.6 bytes, to a maximum of 638 bytes (<span class="markerID">GEL</span>). 
-Of the 166 markers, for only six &asymp;&#8239;3.6% does the SVG exceed 500 bytes (these are included in the nearby table); 24 are in the range 400&ndash;499 bytes; 37 are 300&ndash;399 bytes; 66 are 200&ndash;299 bytes; and 34 are 156&ndash;199 bytes.
+So the markers&rsquo; SVG files are concise, ranging from 156 bytes (<span class="markerID">JPY</span>), to a median of 270 bytes, to a mean &asymp;&#8239;292.6 bytes, to a maximum of 638 bytes (<span class="markerID">GEL</span>). 
+Of the 171 markers, for only seven &asymp;&#8239;4.1% does the SVG exceed 500 bytes (these are included in the nearby table); 21 are in the range 400&ndash;499 bytes; 42 are 300&ndash;399 bytes; 67 are 200&ndash;299 bytes; and 34 are 156&ndash;199 bytes.
 
 From the [SVG standard](http://svgwg.org/svg2-draft/single-page.html): &ldquo;*Superfluous white space &hellip; may be eliminated &hellip; Thus, in the string "M&nbsp;100&#8209;200", the first coordinate for the "moveto" consumes the characters "100" and stops upon encountering the minus sign because the minus sign cannot follow a digit in the production of a "coordinate". The result is that the first coordinate will be "100" and the second coordinate will be "-200".*&rdquo;
 
@@ -99,7 +100,7 @@ seems to sit above the line by the height of its brown rectangle &asymp;&nbsp;0.
 
 ## <a name="precision"></a>Precision ##
 
-For many points, full precision must be algabraic. 
+For many points, full precision must be [algabraic](https://en.wikipedia.org/wiki/Algebraic_number). 
 E.g., for one point in a [vertical unit 5&frasl;2 star](http://www.jdawiseman.com/papers/easymath/surds_star_inner_radius.html#star_5_2_image), <nobr>*x*&nbsp;=&nbsp;&frac14;&#8239;&radic;(50&#8239;&minus;&#8239;22&radic;5)</nobr> <nobr>&asymp;&nbsp;0.22451398828979268622.</nobr> 
 Unlike PostScript, SVG cannot accept formulae: it needs numbers written in base&nbsp;10. 
 For these numbers, how much numerical precision is needed? 
