@@ -63,7 +63,7 @@ E.g.,
 
 This is a set of standard markers for this purpose, all of which are shown in the [Gallery](ChartMarkers_Gallery.md).
 
-This set of markers is &copy;&nbsp;[J.&#8239;D.&#8239;A.&#8239;Wiseman](http://www.jdawiseman.com/author.html) 1998&ndash;2024, he having created and re-worked and improved and added to them since 1998. 
+This set of markers is &copy;&nbsp;[J.&#8239;D.&#8239;A.&#8239;Wiseman](http://www.jdawiseman.com/author.html) 1998&ndash;2025, he having created and re-worked and improved and added to them since 1998. 
 It is available from [GitHub](http://github.com/jdaw1/), under the [Boost Software Licence, Version&nbsp;1.0](https://opensource.org/license/bsl-1-0/). 
 (If your lawyers have a genuine need for a different [licence](https://github.com/jdaw1/chart_markers/blob/main/LICENSE)&mdash;not lawyers not bothering to read, actual genuine need&mdash;explain and it might be done.)
 
@@ -287,7 +287,7 @@ While this project has few users, its creator feels at liberty to make changes g
 </div>
 
 It has not been possible to make line patterns satisfying all the markers&rsquo; constraints. 
-Without the optical space afforded by shape, colour alone is insufficient to make 166 lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
+Without the optical space afforded by shape, colour alone is insufficient to make many lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
 So the distinctness standard has been weakened: lines within a &lsquo;group&rsquo; are different.
 
 But lines from different groups might be similar or identical. 

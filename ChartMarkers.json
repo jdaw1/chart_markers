@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2025-07-26T17:00Z",
+		"Version":"2025-08-11T22:50Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -1252,13 +1252,27 @@
 			"ID":"BGN",
 			"Width":11.2,
 			"Height":11.2,
-			"Svg":"<svg width='11.2' height='11.2' viewBox='-8 -8 16 16' id='BGN' xmlns='http://www.w3.org/2000/svg'><path fill='#00AF66' d='M4 -4A4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4Z'/><circle fill='#FFF' r='4'/></svg>",
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-4 -4 8 8' id='BGN' xmlns='http://www.w3.org/2000/svg'><path fill='#00AF66' d='M2 -2A2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2Z'/><circle fill='#FFF' r='2'/></svg>",
 			"LineFormattings":[
 				{"Color":"#00AF66", "Width":3.6},
 				{"Color":"#FFFFFF", "Width":1.2}
 			],
 			"Notes":{
 				"Mnemonic":"[Cathedral Saint Aleksandar Nevski](http://goo.gl/maps/31A83q7KSnGaavy59), in [Bulgarian-flag](http://en.wikipedia.org/wiki/Flag_of_Bulgaria) green."
+			}
+		},
+
+		"RSD":{
+			"ID":"RSD",
+			"Width":11.2,
+			"Height":11.2,
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-4 -4 8 8' id='RSD' xmlns='http://www.w3.org/2000/svg'><path fill='#C7363D' d='M2 -2A2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2Z'/><circle fill='#0C4077' r='2'/></svg>",
+			"LineFormattings":[
+				{"Color":"#C7363D", "Width":3.6},
+				{"Color":"#0C4077", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"[Temple of Saint Sava](http://goo.gl/maps/iPTF3w1RwiyL1Ecc8), Belgrade, in [Serbian-flag](http://en.wikipedia.org/wiki/Flag_of_Serbia) blue and red."
 			}
 		},
 
@@ -1273,20 +1287,6 @@
 			],
 			"Notes":{
 				"Mnemonic":"A symmetrified part of the [Soyombo symbol](http://en.wikipedia.org/wiki/Soyombo_symbol) in the [flag of Mongolia](http://en.wikipedia.org/wiki/Flag_of_Mongolia). The line uses blue from the flag, as red-yellow combinations taken by `CNY` and `VND`."
-			}
-		},
-
-		"RSD":{
-			"ID":"RSD",
-			"Width":11.2,
-			"Height":11.2,
-			"Svg":"<svg width='11.2' height='11.2' viewBox='-8 -8 16 16' id='RSD' xmlns='http://www.w3.org/2000/svg'><path fill='#C7363D' d='M4 -4A4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4Z'/><circle fill='#0C4077' r='4'/></svg>",
-			"LineFormattings":[
-				{"Color":"#C7363D", "Width":3.6},
-				{"Color":"#0C4077", "Width":1.2}
-			],
-			"Notes":{
-				"Mnemonic":"[Temple of Saint Sava](http://goo.gl/maps/iPTF3w1RwiyL1Ecc8), Belgrade, in [Serbian-flag](http://en.wikipedia.org/wiki/Flag_of_Serbia) blue and red."
 			}
 		},
 
@@ -2001,7 +2001,7 @@
 			"ID":"USD_2",
 			"Width":14.64632,
 			"Height":15.4,
-			"Svg":"<svg width='14.64632' height='15.4' viewBox='-9.5106 -10 19.0212 20' id='USD_2' xmlns='http://www.w3.org/2000/svg'><path id='USD-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/><use href='#USD_2-s' fill='#C3C' transform='scale(.6)'/></svg>",
+			"Svg":"<svg width='14.64632' height='15.4' viewBox='-9.5106 -10 19.0212 20' id='USD_2' xmlns='http://www.w3.org/2000/svg'><path id='USD_2-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/><use href='#USD_2-s' fill='#C3C' transform='scale(.6)'/></svg>",
 			"LineFormattings":[
 				{"Color":"#000000", "Width":3.6},
 				{"Color":"#CC33CC", "Width":1.2}
@@ -2016,7 +2016,7 @@
 			"ID":"USD_3",
 			"Width":14.64632,
 			"Height":15.4,
-			"Svg":"<svg width='14.64632' height='15.4' viewBox='-9.5106 -10 19.0212 20' id='USD_3' xmlns='http://www.w3.org/2000/svg'><path id='USD-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/><use href='#USD_3-s' fill='#0CF' transform='scale(.6)'/></svg>",
+			"Svg":"<svg width='14.64632' height='15.4' viewBox='-9.5106 -10 19.0212 20' id='USD_3' xmlns='http://www.w3.org/2000/svg'><path id='USD_3-s' d='M0 -10l-2.2451 6.9098H-9.5106l5.8779 4.2705L-5.8779 8.0902 0 3.8197 5.8779 8.0902 3.6327 1.1803 9.5106 -3.0902H2.2451Z'/><use href='#USD_3-s' fill='#0CF' transform='scale(.6)'/></svg>",
 			"LineFormattings":[
 				{"Color":"#000000", "Width":3.6},
 				{"Color":"#00CCFF", "Width":1.2}
