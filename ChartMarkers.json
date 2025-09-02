@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2025-08-11T22:50Z",
+		"Version":"2025-09-02T20:30Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -1230,7 +1230,23 @@
 				{"Color":"#FF33FF", "Width":2.4}
 			],
 			"Notes":{
-				"Mnemonic":"[Currency symbol](http://en.wikipedia.org/wiki/File:Euro_Construction.svg) =&nbsp;&euro;, with the circle completed; the two lines across simplified to one, placed between the original two. Pink not in any of member flags, so is a neutral choice, and is helpfully distinctive."
+				"Mnemonic":"[Currency symbol](http://en.wikipedia.org/wiki/File:Euro_Construction.svg) =&nbsp;&euro;, with the circle completed; the two lines across simplified to one, placed between the original two. Pink not in any of member flags, so is a neutral choice, and is helpfully distinctive.",
+				"UseFor":"EUR has an alternate marker, `EUR_2`, which can be used as a variant."
+			}
+		},
+
+		"EUR_2":{
+			"ID":"EUR_2",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-10 -10 20 20' id='EUR_2' xmlns='http://www.w3.org/2000/svg'><circle fill='#039' r='10'/><circle fill='#FFF' r='8'/><path fill='#039' d='M9 1V-1H-9V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#FF33FF", "Width":3.6},
+				{"Color":"#003399", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"As EUR, in Reflex Blue from the flag used by the EU.",
+				"UseFor":"Variant EUR marker."
 			}
 		},
 
