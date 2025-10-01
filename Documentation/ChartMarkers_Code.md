@@ -37,8 +37,12 @@ The validator warns about the absence of a character encoding, but an encoding w
 
 In coding these markers, priority has been given to compactness and execution efficiency, often at the expense of legiblity of the SVG code to humans. 
 
-So the markers&rsquo; SVG files are concise, ranging from 156 bytes (<span class="markerID">JPY</span>), to a median of 270 bytes, to a mean &asymp;&#8239;292.6 bytes, to a maximum of 638 bytes (<span class="markerID">GEL</span>). 
+So the markers&rsquo; SVG files are concise, ranging from 156 bytes <nobr>(<span class="markerID">JPY</span>&nbsp;![JPY](../ChartMarkers/JPY.svg))</nobr>, to a median of 270 bytes, to a mean &asymp;&#8239;292.6 bytes, to a maximum of 638 bytes <nobr>(<span class="markerID">GEL</span>&nbsp;![GEL](../ChartMarkers/GEL.svg))</nobr>. 
 Of the 171 markers, for only seven &asymp;&#8239;4.1% does the SVG exceed 500 bytes (these are included in the nearby table); 21 are in the range 400&ndash;499 bytes; 42 are 300&ndash;399 bytes; 67 are 200&ndash;299 bytes; and 34 are 156&ndash;199 bytes.
+
+All markers are internally zero-centred. 
+For some markers not doing this could remove some minus signs, and hence could remove a few bytes. 
+E.g., <nobr><span class="markerID">HR</span>&nbsp;![HR](../ChartMarkers/HR.svg)</nobr> could be 12 bytes shorter without this zero-centring, with 0&#8239;&le;&#8239;<i>x</i>&#8239;&le;&#8239;6 and 0&#8239;&le;&#8239;<i>y</i>&#8239;&le;&#8239;6.
 
 From the [SVG standard](http://svgwg.org/svg2-draft/single-page.html): &ldquo;*Superfluous white space &hellip; may be eliminated &hellip; Thus, in the string "M&nbsp;100&#8209;200", the first coordinate for the "moveto" consumes the characters "100" and stops upon encountering the minus sign because the minus sign cannot follow a digit in the production of a "coordinate". The result is that the first coordinate will be "100" and the second coordinate will be "-200".*&rdquo;
 
@@ -64,9 +68,9 @@ Any one marker might be used many times, perhaps thousands of times, on one char
 As things should not be slow to paint on screen, clipping is not used.
 
 For some markers (incl. 
-<nobr><span class="markerID">\_NDB</span> ![_NDB](../ChartMarkers/_NDB.svg),</nobr> 
-<nobr><span class="markerID">IQD</span> ![IQD](../ChartMarkers/IQD.svg),</nobr> 
-<nobr><span class="markerID">GEL</span> ![GEL](../ChartMarkers/GEL.svg))</nobr> 
+<nobr><span class="markerID">\_NDB</span>&nbsp;![_NDB](../ChartMarkers/_NDB.svg),</nobr> 
+<nobr><span class="markerID">IQD</span>&nbsp;![IQD](../ChartMarkers/IQD.svg),</nobr> 
+<nobr><span class="markerID">GEL</span>&nbsp;![GEL](../ChartMarkers/GEL.svg))</nobr> 
 the natural PostScript painting would have resembled `[make path] closepath gsave [set colour] fill grestore clipsave clip [set colour and double line width] 1 setlinejoin stroke cliprestore`. 
 Instead, the boundaries of the inner regions have been explicitly pre&#8209;computed, paths filled from outer to inner.
 
@@ -77,7 +81,7 @@ Four stars follow, with workings shown.
 * In dark blue are the diagonals of SVG&rsquo;s bounding box, and a subset of the bounding box itself.  
 * In bright green are the diagonals of the star.  
 * In cyan are circles going through the outer and inner points of the star(s).  
-* In brown is the part of the SVG&rsquo;s bounding box that is not in the star&rsquo;s bounding box (except <span class="markerID">DZD</span>, for which it is most of the green part of the marker).
+* In brown is the part of the SVG&rsquo;s bounding box that is not in the star&rsquo;s bounding box (except <nobr><span class="markerID">DZD</span>&nbsp;![DZD](../ChartMarkers/DZD.svg)</nobr>, for which it is most of the green part of the marker).
 
 <div align="center">
 
@@ -91,11 +95,11 @@ Charting software should not look &lsquo;deep inside&rsquo; the SVG: the `svg`&r
 
 But this means that some markers do not position well as text items. 
 E.g., the 
-<nobr><span class="markerID">USD</span> star ![USD](../ChartMarkers/USD.svg)</nobr>
+<nobr><span class="markerID">USD</span> star&nbsp;![USD](../ChartMarkers/USD.svg)</nobr>
 seems to sit above the line by the height of its brown rectangle &asymp;&nbsp;0.1&#8239;&times;&#8239;its width, whereas 
-<nobr><span class="markerID">CNY</span> ![CNY](../ChartMarkers/CNY.svg),</nobr> 
-<nobr><span class="markerID">PKR</span> ![PKR](../ChartMarkers/PKR.svg),</nobr> and 
-<nobr><span class="markerID">DZD</span> ![DZD](../ChartMarkers/DZD.svg)</nobr> sit neatly on the line.
+<nobr><span class="markerID">CNY</span>&nbsp;![CNY](../ChartMarkers/CNY.svg),</nobr> 
+<nobr><span class="markerID">PKR</span>&nbsp;![PKR](../ChartMarkers/PKR.svg),</nobr> and 
+<nobr><span class="markerID">DZD</span>&nbsp;![DZD](../ChartMarkers/DZD.svg)</nobr> sit neatly on the line.
 
 
 ## <a name="precision"></a>Precision ##
@@ -108,16 +112,16 @@ The wanted standard is &lsquo;*too&nbsp;much, but not excessively too&nbsp;much*
 
 Of course, if these are used only as tiny chart markers, then little precision is needed. 
 But for some purpose they might be shown large. 
-Let&rsquo;s test five decimal places for an SVG drawn on a `viewBox` of size 2, which is typical. 
+Let&rsquo;s test five decimal places for an SVG drawn on a typical `viewBox` which spans &minus;1 to +1, so is of size&nbsp;2. 
 At 1&times; scaling each point would be correct to within <nobr>&plusmn;&#8239;&frac12;&#8239;&middot;&#8239;10&#8315;&#8309;pt.</nobr> 
-At 2000&times; scaling the worst error would become &plusmn;&#8239;0.01pt which is &plusmn;&#8239;half a pixel on a 3600d.p.i. printer; and the size would be 4000pt &asymp;&nbsp;4&prime;8&Prime; &asymp;&nbsp;1.4&nbsp;metres. 
+At 2000&times; scaling the worst error would become &plusmn;&#8239;0.01pt which is &plusmn;&#8239;half a pixel on a 3600&#8239;d.p.i. printer; and the size would be 4000pt &asymp;&nbsp;4&prime;8&Prime; &asymp;&nbsp;1.4&nbsp;metres. 
 So if such an SVG were enlarged to fill any plausible paper type, it would still be pixel-perfect on a quality printer.
 
-If rounded to one fewer decimal places, it might cease to be pixel-perfect if &#10886;&#8239;400pt &asymp;&nbsp;141mm &asymp;&nbsp;5.6&Prime;. 
-Hence: three decimal places (size&#8239;&#10885;&#8239;14mm&#8239;&asymp;&#8239;0.6&Prime;) might and might not be too few; four would be enough; so, wanting a standard of &lsquo;*too&nbsp;much*&rsquo;, five it is. 
+If rounded to one fewer decimal places, the pixel-perfect boundary would be &asymp;&nbsp;400pt&#8239;=&#8239;5&NoBreak;5&frasl;9&Prime;&#8239;&asymp;&#8239;141mm. 
+Hence: three decimal places (40pt&#8239;=&#8239;5&frasl;9&Prime;&#8239;&asymp;&#8239;14mm) might and might not be too few; four would be enough; so, wanting a standard of &lsquo;*too&nbsp;much*&rsquo;, five it is. 
 Some shapes are drawn on a canvas significantly larger than 2 across (e.g. 
-<nobr><span class="markerID">XAG</span> ![XAG](../ChartMarkers/XAG.svg)</nobr> on 442&times;544, 
-<nobr><span class="markerID">IE</span> ![IE](../ChartMarkers/IE.svg)</nobr> on 218&times;218), 
+<nobr><span class="markerID">XAG</span>&nbsp;![XAG](../ChartMarkers/XAG.svg)</nobr> on 442&times;544, 
+<nobr><span class="markerID">IE</span>&nbsp;![IE](../ChartMarkers/IE.svg)</nobr> on 218&times;218), 
 for which the number of decimal places has been commensurately lessened.
 
 For those markers with many values &in;&#8239;&Qopf;&smallsetminus;&Zopf;, the `viewBox` has been enlarged by a factor of the [LCM](http://en.wikipedia.org/wiki/Least_common_multiple) of the denominators, making those values integer &DoubleLongRightArrow; fewer bytes yet more precision.
@@ -126,9 +130,11 @@ So the dominant numerical errors will come from elsewhere.
 E.g., in [PostScript](http://en.wikipedia.org/wiki/PostScript), and in [PDF which inherited the PostScript graphics model](http://en.wikipedia.org/wiki/PDF#PostScript_language), a [90&deg; arc of a circle is rendered as a single B&eacute;zier cubic](http://groups.google.com/g/comp.lang.postscript/c/B23RW2QpIjU). 
 If distilled with [Adobe Distiller](http://en.wikipedia.org/wiki/Adobe_Distiller) then the absolute error of the radius averages &asymp;&#8239;116 parts per million; at 90&deg;&times;<i>n</i>&nbsp;&plusmn;&nbsp;18&deg; the error being near-maximal at just over 211ppm (if with [GhostScript](http://en.wikipedia.org/wiki/Ghostscript), &plusmn;&#8239;18&deg;&nbsp;&DoubleLongRightArrow;&nbsp;&asymp;&#8239;270ppm). 
 The error at &plusmn;&#8239;18&deg; could cause a slight misfit, no worse than radius&#8239;&divide;&#8239;3704, between a vertical 5&frasl;2 star and its bounding circle, perhaps relevant for 
-<nobr><span class="markerID">NZD</span> ![NZD](../ChartMarkers/NZD.svg),</nobr> 
-<nobr><span class="markerID">SGD</span> ![SGD](../ChartMarkers/SGD.svg),</nobr> 
-<nobr><span class="markerID">ETB</span> ![ETB](../ChartMarkers/ETB.svg).</nobr> 
+<nobr><span class="markerID">NZD</span>&nbsp;![NZD](../ChartMarkers/NZD.svg),</nobr> 
+<nobr><span class="markerID">SGD</span>&nbsp;![SGD](../ChartMarkers/SGD.svg),</nobr> 
+<nobr><span class="markerID">ETB</span>&nbsp;![ETB](../ChartMarkers/ETB.svg),</nobr> 
+<nobr><span class="markerID">UZS</span>&nbsp;![UZS](../ChartMarkers/UZS.svg),</nobr> 
+<nobr><span class="markerID">\_CoEDB</span>&nbsp;![\_CoEDB](../ChartMarkers/\_CoEDB.svg).</nobr> 
 So Adobe&rsquo;s B&eacute;zier circle is materially worse than precision truncation, by a factor fairly describable as 42&times;. 
 Note that a B&eacute;zier cubic itself is rendered only to within an accuracy no worse than the `setflat` value, which defaults to 1.0 output device pixels, and which is bounded in the range 0.2&ndash;100 ([PLRM3](http://www.adobe.com/jp/print/postscript/pdfs/PLRM.pdf), p669). 
 Further, printers are physical machines with physical inaccuracies, likely to be significantly larger than these digital errors.
