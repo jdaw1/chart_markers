@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2025-09-02T20:30Z",
+		"Version":"2025-10-18T01:45Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -28,7 +28,7 @@
 			"ID":"_CoEDB",
 			"Width":10,
 			"Height":10,
-			"Svg":"<svg width='10' height='10' viewBox='-8 -8 16 16' id='_CoEDB' xmlns='http://www.w3.org/2000/svg'><circle fill='#092251' r='8'/><circle fill='#FFF' r='7'/><path fill='#092251' d='M.8551 -2.3492L4.4995 -5.3623 2.1651 -1.25l4.7286 .0345L2.462 .4341 6.0622 3.5 1.607 1.9151l.7871 4.6627L0 2.5 -2.3941 6.5778 -1.607 1.9151 -6.0622 3.5 -2.462 .4341 -6.8937 -1.2155 -2.1651 -1.25 -4.4995 -5.3623l3.6444 3.0131L0 -7Z'/><circle fill='#FFF' r='2.5'/></svg>",
+			"Svg":"<svg width='10' height='10' viewBox='-64 -64 128 128' id='_CoEDB' xmlns='http://www.w3.org/2000/svg'><circle fill='#092251' r='64'/><circle fill='#FFF' r='56'/><path fill='#092251' d='M6.84 -18.794L35.996 -42.898 17.321 -10l37.828 .276L19.696 3.473 48.497 28 12.856 15.321l6.297 37.302L0 20 -19.153 52.623l6.297 -37.302L-48.497 28 -19.696 3.473 -55.149 -9.724 -17.321 -10 -35.996 -42.898 -6.84 -18.794 0 -56Z'/><circle fill='#FFF' r='20'/></svg>",
 			"LineFormattings":[
 				{"Color":"#092251", "Width":3.6},
 				{"Color":"#FFFFFF", "Width":1.2}
@@ -360,6 +360,19 @@
 			],
 			"Notes":{
 				"Mnemonic":"From the [flag of Uganda](http://en.wikipedia.org/wiki/Flag_of_Uganda)."
+			}
+		},
+
+		"NE":{
+			"ID":"NE",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-27 -27 54 54' id='NE' xmlns='http://www.w3.org/2000/svg'><circle fill='#E05206' r='27'/><circle fill='#0DB02B' r='19'/><circle fill='#E05206' r='10'/></svg>",
+			"LineFormattings":[
+				{"Color":"#E05206", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Niger](http://en.wikipedia.org/wiki/Flag_of_Niger)."
 			}
 		},
 
@@ -1334,6 +1347,34 @@
 			}
 		},
 
+		"AFN":{
+			"ID":"AFN",
+			"Width":11.83333,
+			"Height":7.1,
+			"Svg":"<svg width='11.83333' height='7.1' viewBox='-5 -3 10 6' id='AFN' xmlns='http://www.w3.org/2000/svg'><path d='M5 3V-3H-5V3Z'/><path fill='#FFF' d='M3 1V-1H-3V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified [flag of Afghanistan](http://en.wikipedia.org/wiki/Flag_of_Afghanistan), with switched black and white."
+			}
+		},
+
+		"MGA":{
+			"ID":"MGA",
+			"Width":10.66667,
+			"Height":8,
+			"Svg":"<svg width='10.66667' height='8' viewBox='-4 -3 8 6' id='MGA' xmlns='http://www.w3.org/2000/svg'><path fill='#00843D' d='M4 3V-3H-4V3Z'/><path fill='#F9423A' d='M3 2V-2H-3V2Z'/><path fill='#FFF' d='M2 1V-1H-2V1Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#00843D", "Width":3.6},
+				{"Color":"#F9423A", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the [flag of Madagascar](http://en.wikipedia.org/wiki/Flag_of_Madagascar).",
+				"Design":"Innermost rectangle is 2&ratio;1, as are flag&rsquo;s rectangular pieces; middle rectangle is is 3&ratio;2, as is flag. Colours ordered per presidential sash [on&nbsp;17&nbsp;Oct&nbsp;2025](https://www.bbc.co.uk/news/articles/cr7mn1n53jno)."
+			}
+		},
+
 		"IRR":{
 			"ID":"IRR",
 			"Width":10.05,
@@ -1380,7 +1421,7 @@
 			"ID":"BSD",
 			"Width":15.41607,
 			"Height":8.9,
-			"Svg":"<svg width='15.41607' height='8.9' viewBox='-97 -56 194 112' id='BSD' xmlns='http://www.w3.org/2000/svg'><defs><path id='EU_2-h' d='M97 0L0 56 -97 0 0 -56Z'/></defs><use href='#EU_2-h' fill='#00778B'/><use href='#EU_2-h' fill='#FFC72C' transform='scale(.7)'/><use href='#EU_2-h' transform='scale(.37)'/></svg>",
+			"Svg":"<svg width='15.41607' height='8.9' viewBox='-97 -56 194 112' id='BSD' xmlns='http://www.w3.org/2000/svg'><defs><path id='BSD-h' d='M97 0L0 56 -97 0 0 -56Z'/></defs><use href='#BSD-h' fill='#00778B'/><use href='#BSD-h' fill='#FFC72C' transform='scale(.7)'/><use href='#BSD-h' transform='scale(.37)'/></svg>",
 			"LineFormattings":[
 				{"Color":"#FFC72C", "Width":3.6},
 				{"Color":"#00778B", "Width":1.2}

@@ -113,7 +113,9 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![GA](../ChartMarkers/GA.svg)](#GA) 
 [![CI](../ChartMarkers/CI.svg)](#CI)
 [![CM](../ChartMarkers/CM.svg)](#CM)
-[![AOA](../ChartMarkers/AOA.svg)](#AOA)&nbsp;&nbsp;&nbsp; 
+[![NE](../ChartMarkers/NE.svg)](#NE)
+[![AOA](../ChartMarkers/AOA.svg)](#AOA)
+[![MGA](../ChartMarkers/MGA.svg)](#MGA)&nbsp;&nbsp;&nbsp; 
 <span style="font-size: smaller;">[Americas](#americas)</span> 
 [![MXN](../ChartMarkers/MXN.svg)](#MXN) 
 [![BRL](../ChartMarkers/BRL.svg)](#BRL) 
@@ -238,6 +240,7 @@ Internal links:
 | UZS | ![UZS](../ChartMarkers/UZS.svg) | <a name="UZS">![UZS](../ChartMarkers_enlarged/UZS_enlarged.svg)</a> | Colours and pieces from the [flag of Uzbekistan](http://en.wikipedia.org/wiki/Flag_of_Uzbekistan): crescent moon duplicated for symmetry, and a star. | ![UZS](../ChartLines/UZS_line.svg)<br/>1EB53A<br/>0099B5 |
 | TMT | ![TMT](../ChartMarkers/TMT.svg) | <a name="TMT">![TMT](../ChartMarkers_enlarged/TMT_enlarged.svg)</a> | From the [emblem of Turkmenistan](http://en.wikipedia.org/wiki/Emblem_of_Turkmenistan). | ![TMT](../ChartLines/TMT_line.svg)<br/>FFC72C<br/>00853A |
 | MNT | ![MNT](../ChartMarkers/MNT.svg) | <a name="MNT">![MNT](../ChartMarkers_enlarged/MNT_enlarged.svg)</a> | A symmetrified part of the [Soyombo symbol](http://en.wikipedia.org/wiki/Soyombo_symbol) in the [flag of Mongolia](http://en.wikipedia.org/wiki/Flag_of_Mongolia). The line uses blue from the flag, as red-yellow combinations taken by <span class="markerID">[CNY](#CNY)</span> and <span class="markerID">[VND](#VND)</span>. | ![MNT](../ChartLines/MNT_line.svg)<br/>0066B3<br/>DA2032 |
+| AFN | ![AFN](../ChartMarkers/AFN.svg) | <a name="AFN">![AFN](../ChartMarkers_enlarged/AFN_enlarged.svg)</a> | Simplified [flag of Afghanistan](http://en.wikipedia.org/wiki/Flag_of_Afghanistan), with switched black and white. | ![AFN](../ChartLines/AFN_line.svg)<br/>000000 |
 | KPW | ![KPW](../ChartMarkers/KPW.svg) | <a name="KPW">![KPW](../ChartMarkers_enlarged/KPW_enlarged.svg)</a> | From the [flag of North Korea](http://en.wikipedia.org/wiki/Flag_of_North_Korea). The line uses black instead of white, as allowed {white, red, blue} combinations taken by countries with higher GDP. | ![KPW](../ChartLines/KPW_line.svg)<br/>000000<br/>ED1C27 |
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#asia)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#balkans_caucasus_eastern_europe)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="western_central_europe">Western and Central Europe, non&#x2011;&euro;</a></h2> | |
 | DKK | ![DKK](../ChartMarkers/DKK.svg) | <a name="DKK">![DKK](../ChartMarkers_enlarged/DKK_enlarged.svg)</a> | From flags of [Denmark](http://en.wikipedia.org/wiki/Flag_of_Denmark) and [Greenland](http://en.wikipedia.org/wiki/Flag_of_Greenland). | ![DKK](../ChartLines/DKK_line.svg)<br/>DA291C<br/>FFFFFF |
@@ -292,7 +295,9 @@ Internal links:
 | GA | ![GA](../ChartMarkers/GA.svg) | <a name="GA">![GA](../ChartMarkers_enlarged/GA_enlarged.svg)</a> | Three circles from the [coat of arms of Gabon](http://en.wikipedia.org/wiki/Gabon#/media/File:Coat_of_arms_of_Gabon.svg), in [flag](http://en.wikipedia.org/wiki/Flag_of_Gabon) green-yellow-blue. | ![GA](../ChartLines/GA_line.svg)<br/>003DA5<br/>009639 |
 | CI | ![CI](../ChartMarkers/CI.svg) | <a name="CI">![CI](../ChartMarkers_enlarged/CI_enlarged.svg)</a> | Circle for sun in [coat of arms of C&ocirc;te d&rsquo;Ivoire (Ivory Coast)](http://en.wikipedia.org/wiki/Coat_of_arms_of_Ivory_Coast), in [flag](http://en.wikipedia.org/wiki/Flag_of_Ivory_Coast) orange-white-green. | ![CI](../ChartLines/CI_line.svg)<br/>EA7600<br/>009A44 |
 | CM | ![CM](../ChartMarkers/CM.svg) | <a name="CM">![CM](../ChartMarkers_enlarged/CM_enlarged.svg)</a> | From the [flag of Cameroon](http://en.wikipedia.org/wiki/Flag_of_Cameroon). | ![CM](../ChartLines/CM_line.svg)<br/>FCD116<br/>CE1126 |
+| NE | ![NE](../ChartMarkers/NE.svg) | <a name="NE">![NE](../ChartMarkers_enlarged/NE_enlarged.svg)</a> | From the [flag of Niger](http://en.wikipedia.org/wiki/Flag_of_Niger). | ![NE](../ChartLines/NE_line.svg)<br/>E05206 |
 | AOA | ![AOA](../ChartMarkers/AOA.svg) | <a name="AOA">![AOA](../ChartMarkers_enlarged/AOA_enlarged.svg)</a> | [Flag of Angola](http://en.wikipedia.org/wiki/Flag_of_Angola): circle for the gear wheel; 36&deg; diagonal for the machete. | ![AOA](../ChartLines/AOA_line.svg)<br/>C8102E<br/>FFCD00 |
+| MGA | ![MGA](../ChartMarkers/MGA.svg) | <a name="MGA">![MGA](../ChartMarkers_enlarged/MGA_enlarged.svg)</a> | <p>From the [flag of Madagascar](http://en.wikipedia.org/wiki/Flag_of_Madagascar).</p><p>Innermost rectangle is 2&ratio;1, as are flag&rsquo;s rectangular pieces; middle rectangle is is 3&ratio;2, as is flag. Colours ordered per presidential sash [on&nbsp;17&nbsp;Oct&nbsp;2025](https://www.bbc.co.uk/news/articles/cr7mn1n53jno).</p> | ![MGA](../ChartLines/MGA_line.svg)<br/>00843D<br/>F9423A |
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#africa)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#euro_zone)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="americas">Americas</a></h2> | |
 | MXN | ![MXN](../ChartMarkers/MXN.svg) | <a name="MXN">![MXN](../ChartMarkers_enlarged/MXN_enlarged.svg)</a> | Eight-pointed star from [Mexican naval jack](http://en.wikipedia.org/wiki/Mexican_Navy); [flag](http://en.wikipedia.org/wiki/Flag_of_Mexico) colours. | ![MXN](../ChartLines/MXN_line.svg)<br/>006341<br/>C8102E |
 | BRL | ![BRL](../ChartMarkers/BRL.svg) | <a name="BRL">![BRL](../ChartMarkers_enlarged/BRL_enlarged.svg)</a> | Lozenge from the [flag of Brazil](http://en.wikipedia.org/wiki/Flag_of_Brazil#Design), so in ratio 83&ratio;53 &DoubleLongRightArrow;&nbsp;sharp angle &asymp;&#8239;65.12&deg;. | ![BRL](../ChartLines/BRL_line.svg)<br/>009639<br/>FEDD00 |
@@ -377,6 +382,7 @@ Rectangle, &asymp;:
 [![SDG](../ChartMarkers/SDG.svg)](#SDG) 
 [![BOB](../ChartMarkers/BOB.svg)](#BOB) 
 [![DE](../ChartMarkers/DE.svg)](#DE) 
+[![AFN](../ChartMarkers/AFN.svg)](#AFN) 
 [![SV](../ChartMarkers/SV.svg)](#SV) 
 [![GTQ](../ChartMarkers/GTQ.svg)](#GTQ) 
 [![GR](../ChartMarkers/GR.svg)](#GR) 
@@ -412,6 +418,7 @@ Rectangle, &asymp;:
 [![BHD](../ChartMarkers/BHD.svg)](#BHD) 
 [![DZD](../ChartMarkers/DZD.svg)](#DZD) 
 [![LBP](../ChartMarkers/LBP.svg)](#LBP) 
+[![MGA](../ChartMarkers/MGA.svg)](#MGA) 
 [![SAR](../ChartMarkers/SAR.svg)](#SAR) 
 [![CM](../ChartMarkers/CM.svg)](#CM) 
 [![MMK](../ChartMarkers/MMK.svg)](#MMK) 
@@ -471,6 +478,7 @@ Circle, &asymp;:
 [![BDT](../ChartMarkers/BDT.svg)](#BDT) 
 [![GA](../ChartMarkers/GA.svg)](#GA) 
 [![CI](../ChartMarkers/CI.svg)](#CI) 
+[![NE](../ChartMarkers/NE.svg)](#NE) 
 [![\_AfDB](../ChartMarkers/\_AfDB.svg)](#\_AfDB) 
 [![IE](../ChartMarkers/IE.svg)](#IE) 
 [![\_AfExIm](../ChartMarkers/\_AfExIm.svg)](#\_AfExIm) 
@@ -539,6 +547,7 @@ Black:
 [![SDG](../ChartMarkers/SDG.svg)](#SDG) 
 [![BOB](../ChartMarkers/BOB.svg)](#BOB) 
 [![DE](../ChartMarkers/DE.svg)](#DE) 
+[![AFN](../ChartMarkers/AFN.svg)](#AFN) 
 [![\_IBRD](../ChartMarkers/\_IBRD.svg)](#\_IBRD) 
 [![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB)&nbsp;&nbsp; 
 Metal: 
@@ -667,10 +676,12 @@ Green&nbsp; +&nbsp; red or brown or orange:
 [![CM](../ChartMarkers/CM.svg)](#CM) 
 [![MAD](../ChartMarkers/MAD.svg)](#MAD) 
 [![SYP](../ChartMarkers/SYP.svg)](#SYP)
+[![MGA](../ChartMarkers/MGA.svg)](#MGA) 
 [![ZAR](../ChartMarkers/ZAR.svg)](#ZAR) 
 [![DZD](../ChartMarkers/DZD.svg)](#DZD) 
 [![MXN](../ChartMarkers/MXN.svg)](#MXN) 
 [![CI](../ChartMarkers/CI.svg)](#CI) 
+[![NE](../ChartMarkers/NE.svg)](#NE) 
 [![IT](../ChartMarkers/IT.svg)](#IT) 
 [![PT](../ChartMarkers/PT.svg)](#PT) 
 [![GYD](../ChartMarkers/GYD.svg)](#GYD) 
@@ -726,6 +737,7 @@ Asia:
 [![LKR](../ChartLines/LKR_line.svg)](#LKR) 
 [![SGD](../ChartLines/SGD_line.svg)](#SGD) 
 [![INR](../ChartLines/INR_line.svg)](#INR) 
+[![AFN](../ChartLines/AFN_line.svg)](#AFN) 
 [![TWD](../ChartLines/TWD_line.svg)](#TWD) 
 [![PKR](../ChartLines/PKR_line.svg)](#PKR) 
 [![MYR](../ChartLines/MYR_line.svg)](#MYR) 
@@ -779,9 +791,11 @@ Africa:
 [![ZAR](../ChartLines/ZAR_line.svg)](#ZAR) 
 [![CI](../ChartLines/CI_line.svg)](#CI) 
 [![AOA](../ChartLines/AOA_line.svg)](#AOA) 
+[![NE](../ChartLines/NE_line.svg)](#NE)
 [![CM](../ChartLines/CM_line.svg)](#CM) 
 [![UGX](../ChartLines/UGX_line.svg)](#UGX) 
 [![KYS](../ChartLines/KYS_line.svg)](#KYS) 
+[![MGA](../ChartLines/MGA_line.svg)](#MGA) 
 [![GA](../ChartLines/GA_line.svg)](#GA) 
 [![SDG](../ChartLines/SDG_line.svg)](#SDG) 
 [![ETB](../ChartLines/ETB_line.svg)](#ETB) 
