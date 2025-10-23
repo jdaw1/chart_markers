@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2025-10-18T01:45Z",
+		"Version":"2025-10-23T22:35Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -527,6 +527,33 @@
 			],
 			"Notes":{
 				"Mnemonic":"From [logo](http://www.caribank.org/themes/custom/cdb/logo.svg) of the [Caribbean Development Bank](http://www.caribank.org/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>CARDEV&nbsp;Corp</kbd>"
+			}
+		},
+
+		"XAF":{
+			"ID":"XAF",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-24 -24 48 48' id='XAF' xmlns='http://www.w3.org/2000/svg'><circle fill='#937A36' r='24'/><circle fill='#FFF' r='20'/><path fill='#937A36' d='M22 2V-2H-22V2Z M5 21H9V6H5Z M-5 21H-9V6H-5Z M5 -21H9V-6H5Z M-5 -21H-9V-6H-5Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#937A36", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"From the [logo](https://www.beac.int/wp-content/themes/WPBlank-master/img/beac-logo.png) of the [Bank of Central African States](https://www.beac.int/), the issuer of the [Central African CFA franc](https://en.wikipedia.org/wiki/Central_African_CFA_franc) = `XAF`."
+			}
+		},
+
+		"XCD":{
+			"ID":"XCD",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-27 -27 54 54' id='XCD' xmlns='http://www.w3.org/2000/svg'><circle fill='#002096' r='27'/><circle fill='#009008' r='19'/><circle fill='#F3DD00' r='10'/></svg>",
+			"LineFormattings":[
+				{"Color":"#002096", "Width":3.6},
+				{"Color":"#009008", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Simplified [logo](https://ict-pulse.com/2019/07/roundup-week-28-july-2019/eastern-caribbean-central-bank-logo-wikimedia/) of the [Eastern Caribbean Central Bank](https://www.eccb-centralbank.org/), the issuer of the [Eastern Caribbean dollar](https://en.wikipedia.org/wiki/Eastern_Caribbean_dollar)."
 			}
 		},
 
@@ -1349,9 +1376,9 @@
 
 		"AFN":{
 			"ID":"AFN",
-			"Width":11.83333,
-			"Height":7.1,
-			"Svg":"<svg width='11.83333' height='7.1' viewBox='-5 -3 10 6' id='AFN' xmlns='http://www.w3.org/2000/svg'><path d='M5 3V-3H-5V3Z'/><path fill='#FFF' d='M3 1V-1H-3V1Z'/></svg>",
+			"Width":10.92,
+			"Height":7.8,
+			"Svg":"<svg width='10.92' height='7.8' viewBox='-7 -5 14 10' id='AFN' xmlns='http://www.w3.org/2000/svg'><path d='M7 5V-5H-7V5Z'/><path fill='#FFF' d='M4 2V-2H-4V2Z'/></svg>",
 			"LineFormattings":[
 				{"Color":"#000000", "Width":2.4}
 			],
@@ -1767,6 +1794,20 @@
 			],
 			"Notes":{
 				"Mnemonic":"Arrowhead and colours from the [flag of Guyana](http://en.wikipedia.org/wiki/Flag_of_Guyana)."
+			}
+		},
+
+		"XOF":{
+			"ID":"XOF",
+			"Width":8.13333,
+			"Height":12.2,
+			"Svg":"<svg width='8.13333' height='12.2' viewBox='-10 -15 20 30' id='XOF' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#572600' rx='10' ry='15'/><g fill='#FDB813'><ellipse ry='15' rx='2'/><ellipse ry='2' rx='4' cx='6'/><ellipse ry='2' rx='4' cx='-6'/></g></svg>",
+			"LineFormattings":[
+				{"Color":"#572600", "Width":3.6},
+				{"Color":"#FDB813", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the part of the [logo](https://www.bceao.int/themes/medianet/image/png/logo_fr.png) of the [Central Bank of West African States](https://www.bceao.int/), the issuer of the [West African CFA franc](https://en.wikipedia.org/wiki/West_African_CFA_franc) = `XOF`."
 			}
 		},
 
@@ -2464,6 +2505,20 @@
 			"Notes":{
 				"Mnemonic":"Inspired by the &lsquo;I&rsquo; in the [logo](http://www.imf.org/-/media/Images/IMF/Data/imf-seal-shadow-sep2019-update-svg.ashx) of the [International Monetary Fund](http://www.imf.org/en/), which issues XDR = [Special drawing rights](http://en.wikipedia.org/wiki/Special_drawing_rights). ",
 				"UseFor":"Can be used as a marker for the IMF itself."
+			}
+		},
+
+		"XPF":{
+			"ID":"XPF",
+			"Width":10,
+			"Height":10,
+			"Svg":"<svg width='10' height='10' viewBox='-35 -35 70 70' id='XPF' xmlns='http://www.w3.org/2000/svg'><circle fill='#FFF' r='31.5'/><path fill='#B5163D' d='M9.8 29L0 13.25 -9.8 29l-7 -2L16.8 -27l-7 -2L0 -13.25 -9.8 -29l-7 2L16.8 27Z'/><path fill='#1E2C52' d='M35 0A35 35 0 1 0 -35 0 35 35 0 1 0 35 0Z M28 0A28 28 0 1 1 -28 0 28 28 0 1 1 28 0Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#1E2C52", "Width":3.6},
+				{"Color":"#B5163D", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"From the &lsquo;O&rsquo; and &lsquo;M&rsquo; of the [logo](https://www.ieom.fr/squelettes/img/logo_IEOM_seul.svg) of [*L&rsquo;Institut d&rsquo;&eacute;mission d&rsquo;Outre-Mer*](https://www.ieom.fr/) = *Banque centrale du franc Pacifique*, the issuer of the [CFP franc](https://en.wikipedia.org/wiki/CFP_franc) = `XPF`."
 			}
 		},
 

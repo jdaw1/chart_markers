@@ -56,10 +56,12 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![LKR](../ChartMarkers/LKR.svg)](#LKR) 
 [![NPR](../ChartMarkers/NPR.svg)](#NPR) 
 [![KZT](../ChartMarkers/KZT.svg)](#KZT) 
-[![UZS](../ChartMarkers/UZS.svg)](#UZS)
-[![TMT](../ChartMarkers/TMT.svg)](#TMT)
-[![MNT](../ChartMarkers/MNT.svg)](#MNT)
-[![KPW](../ChartMarkers/KPW.svg)](#KPW)&nbsp;&nbsp;&nbsp; 
+[![UZS](../ChartMarkers/UZS.svg)](#UZS) 
+[![TMT](../ChartMarkers/TMT.svg)](#TMT) 
+[![MNT](../ChartMarkers/MNT.svg)](#MNT) 
+[![AFN](../ChartMarkers/AFN.svg)](#AFN) 
+[![KPW](../ChartMarkers/KPW.svg)](#KPW) 
+[![XPF](../ChartMarkers/XPF.svg)](#XPF)&nbsp;&nbsp;&nbsp; 
 <span style="font-size: smaller;">[Western and Central Europe, non&#8209;&euro;](#western_central_europe)</span> 
 [![DKK](../ChartMarkers/DKK.svg)](#DKK) 
 [![ISK](../ChartMarkers/ISK.svg)](#ISK) 
@@ -111,11 +113,13 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![GHS](../ChartMarkers/GHS.svg)](#GHS) 
 [![SN](../ChartMarkers/SN.svg)](#SN) 
 [![GA](../ChartMarkers/GA.svg)](#GA) 
-[![CI](../ChartMarkers/CI.svg)](#CI)
-[![CM](../ChartMarkers/CM.svg)](#CM)
-[![NE](../ChartMarkers/NE.svg)](#NE)
-[![AOA](../ChartMarkers/AOA.svg)](#AOA)
-[![MGA](../ChartMarkers/MGA.svg)](#MGA)&nbsp;&nbsp;&nbsp; 
+[![CI](../ChartMarkers/CI.svg)](#CI) 
+[![CM](../ChartMarkers/CM.svg)](#CM) 
+[![NE](../ChartMarkers/NE.svg)](#NE) 
+[![AOA](../ChartMarkers/AOA.svg)](#AOA) 
+[![MGA](../ChartMarkers/MGA.svg)](#MGA) 
+[![XOF](../ChartMarkers/XOF.svg)](#XOF) 
+[![XAF](../ChartMarkers/XAF.svg)](#XAF)&nbsp;&nbsp;&nbsp; 
 <span style="font-size: smaller;">[Americas](#americas)</span> 
 [![MXN](../ChartMarkers/MXN.svg)](#MXN) 
 [![BRL](../ChartMarkers/BRL.svg)](#BRL) 
@@ -136,7 +140,8 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![DOP](../ChartMarkers/DOP.svg)](#DOP) 
 [![TTD](../ChartMarkers/TTD.svg)](#TTD) 
 [![JMD](../ChartMarkers/JMD.svg)](#JMD) 
-[![BSD](../ChartMarkers/BSD.svg)](#BSD)&nbsp;&nbsp;&nbsp; 
+[![BSD](../ChartMarkers/BSD.svg)](#BSD) 
+[![XCD](../ChartMarkers/XCD.svg)](#XCD)&nbsp;&nbsp;&nbsp; 
 <span style="font-size: smaller;">[Euro Zone](#euro_zone)</span> 
 [![EU](../ChartMarkers/EU.svg)](#EU) 
 [![\_ECB](../ChartMarkers/\_ECB.svg)](#\_ECB) 
@@ -242,6 +247,7 @@ Internal links:
 | MNT | ![MNT](../ChartMarkers/MNT.svg) | <a name="MNT">![MNT](../ChartMarkers_enlarged/MNT_enlarged.svg)</a> | A symmetrified part of the [Soyombo symbol](http://en.wikipedia.org/wiki/Soyombo_symbol) in the [flag of Mongolia](http://en.wikipedia.org/wiki/Flag_of_Mongolia). The line uses blue from the flag, as red-yellow combinations taken by <span class="markerID">[CNY](#CNY)</span> and <span class="markerID">[VND](#VND)</span>. | ![MNT](../ChartLines/MNT_line.svg)<br/>0066B3<br/>DA2032 |
 | AFN | ![AFN](../ChartMarkers/AFN.svg) | <a name="AFN">![AFN](../ChartMarkers_enlarged/AFN_enlarged.svg)</a> | Simplified [flag of Afghanistan](http://en.wikipedia.org/wiki/Flag_of_Afghanistan), with switched black and white. | ![AFN](../ChartLines/AFN_line.svg)<br/>000000 |
 | KPW | ![KPW](../ChartMarkers/KPW.svg) | <a name="KPW">![KPW](../ChartMarkers_enlarged/KPW_enlarged.svg)</a> | From the [flag of North Korea](http://en.wikipedia.org/wiki/Flag_of_North_Korea). The line uses black instead of white, as allowed {white, red, blue} combinations taken by countries with higher GDP. | ![KPW](../ChartLines/KPW_line.svg)<br/>000000<br/>ED1C27 |
+| XPF | ![XPF](../ChartMarkers/XPF.svg) | <a name="XPF">![XPF](../ChartMarkers_enlarged/XPF_enlarged.svg)</a> | From the &lsquo;O&rsquo; and &lsquo;M&rsquo; of the [logo](https://www.ieom.fr/squelettes/img/logo_IEOM_seul.svg) of [*L&rsquo;Institut d&rsquo;&eacute;mission d&rsquo;Outre-Mer*](https://www.ieom.fr/) = *Banque centrale du franc Pacifique*, the issuer of the [CFP franc](https://en.wikipedia.org/wiki/CFP_franc). | ![XPF](../ChartLines/XPF_line.svg)<br/>1E2C52<br/>B5163D |
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#asia)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#balkans_caucasus_eastern_europe)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="western_central_europe">Western and Central Europe, non&#x2011;&euro;</a></h2> | |
 | DKK | ![DKK](../ChartMarkers/DKK.svg) | <a name="DKK">![DKK](../ChartMarkers_enlarged/DKK_enlarged.svg)</a> | From flags of [Denmark](http://en.wikipedia.org/wiki/Flag_of_Denmark) and [Greenland](http://en.wikipedia.org/wiki/Flag_of_Greenland). | ![DKK](../ChartLines/DKK_line.svg)<br/>DA291C<br/>FFFFFF |
 | ISK | ![ISK](../ChartMarkers/ISK.svg) | <a name="ISK">![ISK](../ChartMarkers_enlarged/ISK_enlarged.svg)</a> | From the [flag of Iceland](http://en.wikipedia.org/wiki/Flag_of_Iceland). | ![ISK](../ChartLines/ISK_line.svg)<br/>02529C<br/>DC1E35 |
@@ -298,6 +304,8 @@ Internal links:
 | NE | ![NE](../ChartMarkers/NE.svg) | <a name="NE">![NE](../ChartMarkers_enlarged/NE_enlarged.svg)</a> | From the [flag of Niger](http://en.wikipedia.org/wiki/Flag_of_Niger). | ![NE](../ChartLines/NE_line.svg)<br/>E05206 |
 | AOA | ![AOA](../ChartMarkers/AOA.svg) | <a name="AOA">![AOA](../ChartMarkers_enlarged/AOA_enlarged.svg)</a> | [Flag of Angola](http://en.wikipedia.org/wiki/Flag_of_Angola): circle for the gear wheel; 36&deg; diagonal for the machete. | ![AOA](../ChartLines/AOA_line.svg)<br/>C8102E<br/>FFCD00 |
 | MGA | ![MGA](../ChartMarkers/MGA.svg) | <a name="MGA">![MGA](../ChartMarkers_enlarged/MGA_enlarged.svg)</a> | <p>From the [flag of Madagascar](http://en.wikipedia.org/wiki/Flag_of_Madagascar).</p><p>Innermost rectangle is 2&ratio;1, as are flag&rsquo;s rectangular pieces; middle rectangle is is 3&ratio;2, as is flag. Colours ordered per presidential sash [on&nbsp;17&nbsp;Oct&nbsp;2025](https://www.bbc.co.uk/news/articles/cr7mn1n53jno).</p> | ![MGA](../ChartLines/MGA_line.svg)<br/>00843D<br/>F9423A |
+| XOF | ![XOF](../ChartMarkers/XOF.svg) | <a name="XOF">![XOF](../ChartMarkers_enlarged/XOF_enlarged.svg)</a> | From the [logo](https://www.bceao.int/themes/medianet/image/png/logo_fr.png) of the [Central Bank of West African States](https://www.bceao.int/), the issuer of the [West African CFA franc](https://en.wikipedia.org/wiki/West_African_CFA_franc). | ![XOF](../ChartLines/XOF_line.svg)<br/>572600<br/>FDB813 |
+| XAF | ![XAF](../ChartMarkers/XAF.svg) | <a name="XAF">![XAF](../ChartMarkers_enlarged/XAF_enlarged.svg)</a> | From the [logo](https://www.beac.int/wp-content/themes/WPBlank-master/img/beac-logo.png) of the [Bank of Central African States](https://www.beac.int/), the issuer of the [Central African CFA franc](https://en.wikipedia.org/wiki/Central_African_CFA_franc). | ![XAF](../ChartLines/XAF_line.svg)<br/>937A36 |
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#africa)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#euro_zone)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="americas">Americas</a></h2> | |
 | MXN | ![MXN](../ChartMarkers/MXN.svg) | <a name="MXN">![MXN](../ChartMarkers_enlarged/MXN_enlarged.svg)</a> | Eight-pointed star from [Mexican naval jack](http://en.wikipedia.org/wiki/Mexican_Navy); [flag](http://en.wikipedia.org/wiki/Flag_of_Mexico) colours. | ![MXN](../ChartLines/MXN_line.svg)<br/>006341<br/>C8102E |
 | BRL | ![BRL](../ChartMarkers/BRL.svg) | <a name="BRL">![BRL](../ChartMarkers_enlarged/BRL_enlarged.svg)</a> | Lozenge from the [flag of Brazil](http://en.wikipedia.org/wiki/Flag_of_Brazil#Design), so in ratio 83&ratio;53 &DoubleLongRightArrow;&nbsp;sharp angle &asymp;&#8239;65.12&deg;. | ![BRL](../ChartLines/BRL_line.svg)<br/>009639<br/>FEDD00 |
@@ -319,6 +327,7 @@ Internal links:
 | TTD | ![TTD](../ChartMarkers/TTD.svg) | <a name="TTD">![TTD](../ChartMarkers_enlarged/TTD_enlarged.svg)</a> | From the [flag of Trinidad and Tobago](http://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago). | ![TTD](../ChartLines/TTD_line.svg)<br/>C8102E<br/>000000 |
 | JMD | ![JMD](../ChartMarkers/JMD.svg) | <a name="JMD">![JMD](../ChartMarkers_enlarged/JMD_enlarged.svg)</a> | From the [flag of Jamaica](http://en.wikipedia.org/wiki/Flag_of_Jamaica). | ![JMD](../ChartLines/JMD_line.svg)<br/>009639<br/>000000 |
 | BSD | ![BSD](../ChartMarkers/BSD.svg) | <a name="BSD">![BSD](../ChartMarkers_enlarged/BSD_enlarged.svg)</a> | Triangle from the hoist of the [flag of the Bahamas](http://en.wikipedia.org/wiki/Flag_of_the_Bahamas), for symmetry duplicated back-to-back, in flag colours. | ![BSD](../ChartLines/BSD_line.svg)<br/>FFC72C<br/>00778B |
+| XCD | ![XCD](../ChartMarkers/XCD.svg) | <a name="XCD">![XCD](../ChartMarkers_enlarged/XCD_enlarged.svg)</a> | Simplified [logo](https://ict-pulse.com/2019/07/roundup-week-28-july-2019/eastern-caribbean-central-bank-logo-wikimedia/) of the [Eastern Caribbean Central Bank](https://www.eccb-centralbank.org/), the issuer of the [Eastern Caribbean dollar](https://en.wikipedia.org/wiki/Eastern_Caribbean_dollar). | ![XCD](../ChartLines/XCD_line.svg)<br/>002096<br/>009008 |
 |  |  |  | <h2 style="margin-bottom: 0;  padding-bottom: 0;">[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#americas)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#development_banks)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="euro_zone">Euro Zone</a></h2><p style="font-size: smaller;  margin-top: 0;  padding-top: 0;"><span style="font-size: smaller;">For official members ordered by [&ge;&nbsp;2024 capital key](http://www.ecb.europa.eu/press/pr/date/2023/html/ecb.pr231221~173a7ba501.en.html); then unofficial unilateral adopters ordered by GDP.</span></p> | |
 | EU | ![EU](../ChartMarkers/EU.svg) | <a name="EU">![EU](../ChartMarkers_enlarged/EU_enlarged.svg)</a> | <p>As for <span class="markerID">[EUR](#EUR)</span>&nbsp;=&nbsp;&euro;, except the horizontal line replaced by a star from the [flag of Europe](http://en.wikipedia.org/wiki/Flag_of_Europe), which is used as the flag of the European Union.</p><p>The EU has three alternate markers ([issue&nbsp;17](https://github.com/jdaw1/chart_markers/issues/17)), <nobr>![EU_2](../ChartMarkers/EU_2.svg)&nbsp;=&nbsp;<span class="markerID">EU_2</span></nobr>, <nobr>![EU_3](../ChartMarkers/EU_3.svg)&nbsp;=&nbsp;<span class="markerID">EU_3</span></nobr>, and <nobr>![EU_4](../ChartMarkers/EU_4.svg)&nbsp;=&nbsp;<span class="markerID">EU_4</span></nobr>. If distinguishing the various EU bond programs, the `EU` marker should be used for the [NGEU](https://en.wikipedia.org/wiki/Next_Generation_EU) bonds; `EU_2` for green bonds; `EU_3` for SURE bonds; and `EU_4` for EMTNs.</p> | ![EU](../ChartLines/EU_line.svg)<br/>FF33FF<br/>FFFFFF |
 | \_ECB | ![\_ECB](../ChartMarkers/_ECB.svg) | <a name="_ECB">![_ECB](../ChartMarkers_enlarged/_ECB_enlarged.svg)</a> | As for <span class="markerID">[EUR](#EUR)</span>&nbsp;=&nbsp;&euro;, except with two horizontal lines. | ![\_ECB](../ChartLines/_ECB_line.svg)<br/>000000<br/>FF33FF |
@@ -454,12 +463,14 @@ Circle, &asymp;:
 [![DKK](../ChartMarkers/DKK.svg)](#DKK) 
 [![TND](../ChartMarkers/TND.svg)](#TND) 
 [![KPW](../ChartMarkers/KPW.svg)](#KPW) 
+[![XPF](../ChartMarkers/XPF.svg)](#XPF) 
 [![\_AIIB](../ChartMarkers/\_AIIB.svg)](#\_AIIB) 
 [![BE](../ChartMarkers/BE.svg)](#BE) 
 [![INR](../ChartMarkers/INR.svg)](#INR) 
 [![EE](../ChartMarkers/EE.svg)](#EE) 
 [![ME](../ChartMarkers/ME.svg)](#ME) 
 [![SGD](../ChartMarkers/SGD.svg)](#SGD) 
+[![XAF](../ChartMarkers/XAF.svg)](#XAF) 
 [![NZD](../ChartMarkers/NZD.svg)](#NZD) 
 [![KRW](../ChartMarkers/KRW.svg)](#KRW) 
 [![\_CADES](../ChartMarkers/\_CADES.svg)](#\_CADES) 
@@ -477,6 +488,7 @@ Circle, &asymp;:
 [![PT](../ChartMarkers/PT.svg)](#PT) 
 [![BDT](../ChartMarkers/BDT.svg)](#BDT) 
 [![GA](../ChartMarkers/GA.svg)](#GA) 
+[![XCD](../ChartMarkers/XCD.svg)](#XCD) 
 [![CI](../ChartMarkers/CI.svg)](#CI) 
 [![NE](../ChartMarkers/NE.svg)](#NE) 
 [![\_AfDB](../ChartMarkers/\_AfDB.svg)](#\_AfDB) 
@@ -488,6 +500,7 @@ Circle, &asymp;:
 [![GYD](../ChartMarkers/GYD.svg)](#GYD) 
 [![MNT](../ChartMarkers/MNT.svg)](#MNT) 
 [![EC](../ChartMarkers/EC.svg)](#EC) 
+[![XOF](../ChartMarkers/XOF.svg)](#XOF) 
 [![AMD](../ChartMarkers/AMD.svg)](#AMD) 
 [![FR](../ChartMarkers/FR.svg)](#FR) 
 [![\_IsDB](../ChartMarkers/_IsDB.svg)](#_IsDB) 
@@ -552,6 +565,7 @@ Black:
 [![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB)&nbsp;&nbsp; 
 Metal: 
 [![SGD](../ChartMarkers/SGD.svg)](#SGD) 
+[![XAF](../ChartMarkers/XAF.svg)](#XAF) 
 [![XAU](../ChartMarkers/XAU.svg)](#XAU) 
 [![XAG](../ChartMarkers/XAG.svg)](#XAG) 
 [![XPT](../ChartMarkers/XPT.svg)](#XPT)&nbsp;&nbsp; 
@@ -582,6 +596,7 @@ Blue + red:
 [![NZD](../ChartMarkers/NZD.svg)](#NZD) 
 [![NOK](../ChartMarkers/NOK.svg)](#NOK) 
 [![KRW](../ChartMarkers/KRW.svg)](#KRW) 
+[![XPF](../ChartMarkers/XPF.svg)](#XPF) 
 [![THB](../ChartMarkers/THB.svg)](#THB) 
 [![CRC](../ChartMarkers/CRC.svg)](#CRC) 
 [![ISK](../ChartMarkers/ISK.svg)](#ISK) 
@@ -639,7 +654,8 @@ Yellow&nbsp; +&nbsp; red or brown or orange:
 [![ES](../ChartMarkers/ES.svg)](#ES) 
 [![MKD](../ChartMarkers/MKD.svg)](#MKD) 
 [![OMR](../ChartMarkers/OMR.svg)](#OMR) 
-[![MNT](../ChartMarkers/MNT.svg)](#MNT)&nbsp;&nbsp;  
+[![MNT](../ChartMarkers/MNT.svg)](#MNT) 
+[![XOF](../ChartMarkers/XOF.svg)](#XOF)&nbsp;&nbsp;  
 Red or brown&nbsp; +&nbsp; white: 
 [![CHF](../ChartMarkers/CHF.svg)](#CHF) 
 [![CAD](../ChartMarkers/CAD.svg)](#CAD) 
@@ -692,6 +708,7 @@ Green&nbsp; +&nbsp; yellow or orange:
 [![TMT](../ChartMarkers/TMT.svg)](#TMT) 
 [![\_AfExIm](../ChartMarkers/\_AfExIm.svg)](#\_AfExIm) 
 [![IE](../ChartMarkers/IE.svg)](#IE) 
+[![XCD](../ChartMarkers/XCD.svg)](#XCD) 
 [![CY](../ChartMarkers/CY.svg)](#CY) 
 [![GA](../ChartMarkers/GA.svg)](#GA) 
 [![BSD](../ChartMarkers/BSD.svg)](#BSD)&nbsp;&nbsp; 
@@ -734,6 +751,7 @@ Asia:
 [![KPW](../ChartLines/KPW_line.svg)](#KPW) 
 [![KRW](../ChartLines/KRW_line.svg)](#KRW) 
 [![MNT](../ChartLines/MNT_line.svg)](#MNT) 
+[![XPF](../ChartLines/XPF_line.svg)](#XPF)
 [![LKR](../ChartLines/LKR_line.svg)](#LKR) 
 [![SGD](../ChartLines/SGD_line.svg)](#SGD) 
 [![INR](../ChartLines/INR_line.svg)](#INR) 
@@ -804,7 +822,9 @@ Africa:
 [![CDF](../ChartLines/CDF_line.svg)](#CDF) 
 [![NGN](../ChartLines/NGN_line.svg)](#NGN) 
 [![GHS](../ChartLines/GHS_line.svg)](#GHS) 
+[![XOF](../ChartLines/XOF_line.svg)](#XOF)
 [![TZS](../ChartLines/TZS_line.svg)](#TZS)
+[![XAF](../ChartLines/XAF_line.svg)](#XAF)
 
 Americas: 
 [![ARS](../ChartLines/ARS_line.svg)](#ARS) 
@@ -819,6 +839,7 @@ Americas:
 [![DOP](../ChartLines/DOP_line.svg)](#DOP) 
 [![PAB](../ChartLines/PAB_line.svg)](#PAB) 
 [![GYD](../ChartLines/GYD_line.svg)](#GYD) 
+[![XCD](../ChartLines/XCD_line.svg)](#XCD) 
 [![CLP](../ChartLines/CLP_line.svg)](#CLP) 
 [![TTD](../ChartLines/TTD_line.svg)](#TTD) 
 [![COP](../ChartLines/COP_line.svg)](#COP) 
