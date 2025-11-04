@@ -60,6 +60,10 @@ The SVG is robust to (at least some) imperfections in rasterisation.
 
 These concerns are not idle: in multiple applications, both Mac and PC, there can be problems with lower stacked colours leaking around a shared clip boundary (e.g.&nbsp;[pdf](http://www.jdawiseman.com/2018/20180508_Sixties.pdf#Circle_00_00_04)&#10141;[png](http://www.jdawiseman.com/2018/20180508_Sixties_F63_3.png)).
 
+Separately, everything is 100% opaque. 
+There is no transparency.
+
+
 ## <a name="speed"></a>Execution speed ##
 
 Some printers, some rasterisation engines, seem to struggle with clipping &mdash; it can be very slow. 
