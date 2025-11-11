@@ -37,8 +37,8 @@ The validator warns about the absence of a character encoding, but an encoding w
 
 In coding these markers, priority has been given to compactness and execution efficiency, often at the expense of legiblity of the SVG code to humans. 
 
-So the markers&rsquo; SVG files are concise, ranging from 156 bytes <nobr>(<span class="markerID">JPY</span>&nbsp;![JPY](../ChartMarkers/JPY.svg))</nobr>, to a median of 270 bytes, to a mean &asymp;&#8239;292.6 bytes, to a maximum of 638 bytes <nobr>(<span class="markerID">GEL</span>&nbsp;![GEL](../ChartMarkers/GEL.svg))</nobr>. 
-Of the 171 markers, for only seven &asymp;&#8239;4.1% does the SVG exceed 500 bytes (these are included in the nearby table); 21 are in the range 400&ndash;499 bytes; 42 are 300&ndash;399 bytes; 67 are 200&ndash;299 bytes; and 34 are 156&ndash;199 bytes.
+So the markers&rsquo; SVG files are concise, ranging from 156 bytes <nobr>(<span class="markerID">JPY</span>&nbsp;![JPY](../ChartMarkers/JPY.svg))</nobr>, to a median of 270 bytes, to a mean &asymp;&#8239;290 bytes, to a maximum of 638 bytes <nobr>(<span class="markerID">GEL</span>&nbsp;![GEL](../ChartMarkers/GEL.svg))</nobr>. 
+Of the 179 markers, for only seven &asymp;&#8239;3.9% does the SVG exceed 500 bytes (these are included in the nearby table); 21 are in the range 400&ndash;499 bytes; 42 are 300&ndash;399 bytes; 71 are 200&ndash;299 bytes; and 38 are 156&ndash;199 bytes.
 
 All markers are internally zero-centred. 
 For some markers not doing this could remove some minus signs, and hence could remove a few bytes. 
