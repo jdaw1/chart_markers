@@ -91,7 +91,7 @@ Many flags have features that are small relative to the whole flag.
 Yes, those features may well inspire passion in patriotic citizens of such countries, but nonetheless, there isn&rsquo;t space. 
 E.g.,&nbsp;the US Stars &amp; Stripes has fifty stars, here simplified to just 
 <nobr>one&nbsp;![USD](USD_baseline.svg).</nobr> 
-E.g.,&nbsp;Germany&rsquo;s Brandeburg Gate actually has six columns, here simplified to 
+E.g.,&nbsp;Germany&rsquo;s Brandenburg Gate actually has six columns, here simplified to 
 <nobr>four&nbsp;![DE](../ChartMarkers/DE.svg).</nobr> 
 E.g.,&nbsp;the stars in the flag of China are small relative to the flag, and would be imperceptible at the required 
 <nobr>size&nbsp;![CNY](../ChartMarkers/CNY.svg).</nobr> 

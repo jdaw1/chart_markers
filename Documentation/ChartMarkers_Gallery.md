@@ -68,8 +68,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![PLN](../ChartMarkers/PLN.svg)](#PLN) 
 [![CZK](../ChartMarkers/CZK.svg)](#CZK) 
 [![HUF](../ChartMarkers/HUF.svg)](#HUF) 
-[![RON](../ChartMarkers/RON.svg)](#RON) 
-[![BGN](../ChartMarkers/BGN.svg)](#BGN)&nbsp;&nbsp;&nbsp; 
+[![RON](../ChartMarkers/RON.svg)](#RON)&nbsp;&nbsp;&nbsp; 
 <span style="font-size: smaller;">[Balkans, Caucasus, Eastern Europe](#balkans_caucasus_eastern_europe)</span> 
 [![RSD](../ChartMarkers/RSD.svg)](#RSD) 
 [![ALL](../ChartMarkers/ALL.svg)](#ALL) 
@@ -156,6 +155,7 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![GR](../ChartMarkers/GR.svg)](#GR) 
 [![IE](../ChartMarkers/IE.svg)](#IE) 
 [![FI](../ChartMarkers/FI.svg)](#FI) 
+[![BG](../ChartMarkers/BG.svg)](#BG) 
 [![SK](../ChartMarkers/SK.svg)](#SK) 
 [![HR](../ChartMarkers/HR.svg)](#HR) 
 [![LT](../ChartMarkers/LT.svg)](#LT) 
@@ -255,7 +255,6 @@ Internal links:
 | [<span class="markerID">CZK</span>](#CZK) | ![CZK](../ChartMarkers/CZK.svg) | <a name="CZK">![CZK](../ChartMarkers_enlarged/CZK_enlarged.svg)</a> | Triangle from the hoist of the [Czech flag](http://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic), for symmetry duplicated back-to-back, in flag colours. | ![CZK](../ChartLines/CZK_line.svg)<br/>D7141A<br/>11457E |
 | [<span class="markerID">HUF</span>](#HUF) | ![HUF](../ChartMarkers/HUF.svg) | <a name="HUF">![HUF](../ChartMarkers_enlarged/HUF_enlarged.svg)</a> | Cross from [Hungarian coat of arms](http://en.wikipedia.org/wiki/National_symbols_of_Hungary#Flags_and_heraldry), symmetrified and simplified, in green and red from the [flag of Hungary](http://en.wikipedia.org/wiki/Flag_of_Hungary).  | ![HUF](../ChartLines/HUF_line.svg)<br/>00843D<br/>CE2939 |
 | [<span class="markerID">RON</span>](#RON) | ![RON](../ChartMarkers/RON.svg) | <a name="RON">![RON](../ChartMarkers_enlarged/RON_enlarged.svg)</a> | [Palace of Parliament](http://goo.gl/maps/RQzKYRL8b2pud8Bk8), Bucharest, in [Romanian-flag](http://en.wikipedia.org/wiki/Flag_of_Romania) blue-yellow-red. | ![RON](../ChartLines/RON_line.svg)<br/>002B7F<br/>FCD116 |
-| [<span class="markerID">BGN</span>](#BGN) | ![BGN](../ChartMarkers/BGN.svg) | <a name="BGN">![BGN](../ChartMarkers_enlarged/BGN_enlarged.svg)</a> | [Cathedral Saint Aleksandar Nevski](http://goo.gl/maps/31A83q7KSnGaavy59), in [Bulgarian-flag](http://en.wikipedia.org/wiki/Flag_of_Bulgaria) green. | ![BGN](../ChartLines/BGN_line.svg)<br/>00AF66<br/>FFFFFF |
 |  |  |  | <h2>[![ArrowDoubleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#western_central_europe)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#middle_east_north_africa)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="balkans_caucasus_eastern_europe" href="#balkans_caucasus_eastern_europe">Balkans, Caucasus, Eastern Europe</a></h2> | |
 | [<span class="markerID">RSD</span>](#RSD) | ![RSD](../ChartMarkers/RSD.svg) | <a name="RSD">![RSD](../ChartMarkers_enlarged/RSD_enlarged.svg)</a> | [Temple of Saint Sava](http://goo.gl/maps/iPTF3w1RwiyL1Ecc8), Belgrade, in [Serbian-flag](http://en.wikipedia.org/wiki/Flag_of_Serbia) blue and red. | ![RSD](../ChartLines/RSD_line.svg)<br/>C7363D<br/>0C4077 |
 | [<span class="markerID">ALL</span>](#ALL) | ![ALL](../ChartMarkers/ALL.svg) | <a name="ALL">![ALL](../ChartMarkers_enlarged/ALL_enlarged.svg)</a> | Eagle on [flag of Albania](http://en.wikipedia.org/wiki/Flag_of_Albania#/media/File:Flag_of_Albania.svg): circle from claws, diamond from tail. | ![ALL](../ChartLines/ALL_line.svg)<br/>000000<br/>DA291C |
@@ -342,6 +341,7 @@ Internal links:
 | [<span class="markerID">GR</span>](#GR) | ![GR](../ChartMarkers/GR.svg) | <a name="GR">![GR](../ChartMarkers_enlarged/GR_enlarged.svg)</a> | <p>From the [flag of Greece](http://en.wikipedia.org/wiki/Flag_of_Greece).</p><p>Greece has an alternate marker, <nobr>![GR_2](../ChartMarkers/GR_2.svg)&nbsp;=&nbsp;<span class="markerID">GR_2</span>,</nobr> which can be used for green bonds, or for other purposes.</p> | ![GR](../ChartLines/GR_line.svg)<br/>004C98<br/>FFFFFF |
 | [<span class="markerID">IE</span>](#IE) | ![IE](../ChartMarkers/IE.svg) | <a name="IE">![IE](../ChartMarkers_enlarged/IE_enlarged.svg)</a> | <p>[Shamrock](http://en.wikipedia.org/wiki/Shamrock), in green and orange from the [flag of Ireland](http://en.wikipedia.org/wiki/Flag_of_Ireland).</p><p>Ireland has an alternate marker, <nobr>![IE_2](../ChartMarkers/IE_2.svg)&nbsp;=&nbsp;<span class="markerID">IE_2</span>,</nobr> which can be used for green bonds, or for other purposes.</p> | ![IE](../ChartLines/IE_line.svg)<br/>FF883E<br/>169B62 |
 | [<span class="markerID">FI</span>](#FI) | ![FI](../ChartMarkers/FI.svg) | <a name="FI">![FI](../ChartMarkers_enlarged/FI_enlarged.svg)</a> | <p>From the [flag of Finland](http://en.wikipedia.org/wiki/Flag_of_Finland).</p><p>Finland has an alternate marker, <nobr>![FI_2](../ChartMarkers/FI_2.svg)&nbsp;=&nbsp;<span class="markerID">FI_2</span>,</nobr> which can be used for green bonds, or for other purposes.</p> | ![FI](../ChartLines/FI_line.svg)<br/>002F6C |
+| [<span class="markerID">BG</span>](#BG) | ![BG](../ChartMarkers/BG.svg) | <a name="BG">![BG](../ChartMarkers_enlarged/BG_enlarged.svg)</a> | [Cathedral Saint Aleksandar Nevski](http://goo.gl/maps/31A83q7KSnGaavy59), in [Bulgarian-flag](http://en.wikipedia.org/wiki/Flag_of_Bulgaria) green. | ![BG](../ChartLines/BG_line.svg)<br/>00AF66<br/>FFFFFF |
 | [<span class="markerID">SK</span>](#SK) | ![SK](../ChartMarkers/SK.svg) | <a name="SK">![SK](../ChartMarkers_enlarged/SK_enlarged.svg)</a> | <p>Cross from the [flag of Slovakia](http://en.wikipedia.org/wiki/Flag_of_Slovakia), symmetrified and simplified.</p><p>Slovakia has an alternate marker, <nobr>![SK_2](../ChartMarkers/SK_2.svg)&nbsp;=&nbsp;<span class="markerID">SK_2</span>,</nobr> which can be used for green bonds, or for other purposes.</p> | ![SK](../ChartLines/SK_line.svg)<br/>EF3340<br/>034DA3 |
 | [<span class="markerID">HR</span>](#HR) | ![HR](../ChartMarkers/HR.svg) | <a name="HR">![HR](../ChartMarkers_enlarged/HR_enlarged.svg)</a> | From the coat of arms on the [flag of Croatia](http://en.wikipedia.org/wiki/Flag_of_Croatia), simplified. A similiar pattern appears on the kit of [Croatia&rsquo;s football team](http://en.wikipedia.org/wiki/Croatia_at_the_FIFA_World_Cup#/media/File:Croatia_WC2018_final.jpg). | ![HR](../ChartLines/HR_line.svg)<br/>FF0000<br/>000000 |
 | [<span class="markerID">LT</span>](#LT) | ![LT](../ChartMarkers/LT.svg) | <a name="LT">![LT](../ChartMarkers_enlarged/LT_enlarged.svg)</a> | Cross from [State Flag of Lithuania](http://en.wikipedia.org/wiki/Flag_of_Lithuania#/media/File:Flag_of_Lithuania_(state).svg), in colours of [flag of Lithuania](http://en.wikipedia.org/wiki/Flag_of_Lithuania). | ![LT](../ChartLines/LT_line.svg)<br/>006A44<br/>FDB913 |
@@ -505,7 +505,7 @@ Circle, &asymp;:
 [![FR](../ChartMarkers/FR.svg)](#FR) 
 [![\_IsDB](../ChartMarkers/_IsDB.svg)](#_IsDB) 
 [![HKD](../ChartMarkers/HKD.svg)](#HKD) 
-[![BGN](../ChartMarkers/BGN.svg)](#BGN) 
+[![BG](../ChartMarkers/BG.svg)](#BG) 
 [![RSD](../ChartMarkers/RSD.svg)](#RSD) 
 [![KWD](../ChartMarkers/KWD.svg)](#KWD) 
 [![KYS](../ChartMarkers/KYS.svg)](#KYS)
@@ -713,7 +713,7 @@ Green&nbsp; +&nbsp; yellow or orange:
 [![GA](../ChartMarkers/GA.svg)](#GA) 
 [![BSD](../ChartMarkers/BSD.svg)](#BSD)&nbsp;&nbsp; 
 Green:
-[![BGN](../ChartMarkers/BGN.svg)](#BGN) 
+[![BG](../ChartMarkers/BG.svg)](#BG) 
 [![\_IsDB](../ChartMarkers/_IsDB.svg)](#_IsDB) 
 [![SAR](../ChartMarkers/SAR.svg)](#SAR) 
 [![NGN](../ChartMarkers/NGN.svg)](#NGN) 
@@ -726,7 +726,7 @@ Green:
 [![\_AfDB](../ChartMarkers/\_AfDB.svg)](#\_AfDB)&nbsp;&nbsp; 
 
 
-## <a name="lines_by_shape"></a>Lines, by section, then by colour ##
+## <a name="lines_by_section_then_colour"></a>Lines, by section, then by colour ##
 
 Main Developed Currencies: 
 [![USD](../ChartLines/USD_line.svg)](#USD) 
@@ -772,7 +772,6 @@ Western and Central Europe, non&#x2011;&euro;:
 [![ISK](../ChartLines/ISK_line.svg)](#ISK) 
 [![CZK](../ChartLines/CZK_line.svg)](#CZK) 
 [![HUF](../ChartLines/HUF_line.svg)](#HUF) 
-[![BGN](../ChartLines/BGN_line.svg)](#BGN)
 
 Balkans, Caucasus, Eastern Europe: 
 [![GEL](../ChartLines/GEL_line.svg)](#GEL) 
@@ -857,6 +856,7 @@ Americas:
 [![SI](../ChartLines/SI_line.svg)](#SI) 
 [![DE](../ChartLines/DE_line.svg)](#DE) 
 [![GR](../ChartLines/GR_line.svg)](#GR) 
+[![BG](../ChartLines/BG_line.svg)](#BG)
 [![\_EFSF](../ChartLines/\_EFSF_line.svg)](#\_EFSF) 
 [![IT](../ChartLines/IT_line.svg)](#IT) 
 [![FR](../ChartLines/FR_line.svg)](#FR) 

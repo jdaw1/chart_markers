@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2025-10-29T22:15Z",
+		"Version":"2025-12-12T23:15Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -1304,11 +1304,11 @@
 			}
 		},
 
-		"BGN":{
-			"ID":"BGN",
+		"BG":{
+			"ID":"BG",
 			"Width":11.2,
 			"Height":11.2,
-			"Svg":"<svg width='11.2' height='11.2' viewBox='-4 -4 8 8' id='BGN' xmlns='http://www.w3.org/2000/svg'><path fill='#00AF66' d='M2 -2A2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2Z'/><circle fill='#FFF' r='2'/></svg>",
+			"Svg":"<svg width='11.2' height='11.2' viewBox='-4 -4 8 8' id='BG' xmlns='http://www.w3.org/2000/svg'><path fill='#00AF66' d='M2 -2A2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2Z'/><circle fill='#FFF' r='2'/></svg>",
 			"LineFormattings":[
 				{"Color":"#00AF66", "Width":3.6},
 				{"Color":"#FFFFFF", "Width":1.2}
