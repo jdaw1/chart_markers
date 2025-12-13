@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2025-12-12T23:15Z",
+		"Version":"2025-12-13T00:40Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -2222,7 +2222,7 @@
 				{"Color":"#A78337", "Width":2.4}
 			],
 			"Notes":{
-				"Mnemonic":"White star from the [flag of Singapore](http://en.wikipedia.org/wiki/Flag_of_Singapore); circle and colour from logo of [MAS](http://www.mas.gov.sg/) = Monetary Authority of Singapore."
+				"Mnemonic":"White star from the [flag of Singapore](http://en.wikipedia.org/wiki/Flag_of_Singapore); circle and colour from [logo](https://www.mas.gov.sg/html/site/img/_/vendor/images/mas-logo.svg) of [MAS](http://www.mas.gov.sg/) = Monetary Authority of Singapore."
 			}
 		},
 
