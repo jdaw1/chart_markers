@@ -103,7 +103,9 @@ E.g., the
 seems to sit above the line by the height of its brown rectangle &asymp;&nbsp;0.1&#8239;&times;&#8239;its width, whereas 
 <nobr><span class="markerID">CNY</span>&nbsp;![CNY](../ChartMarkers/CNY.svg),</nobr> 
 <nobr><span class="markerID">PKR</span>&nbsp;![PKR](../ChartMarkers/PKR.svg),</nobr> and 
-<nobr><span class="markerID">DZD</span>&nbsp;![DZD](../ChartMarkers/DZD.svg)</nobr> sit neatly on the line.
+<nobr><span class="markerID">DZD</span>&nbsp;![DZD](../ChartMarkers/DZD.svg)</nobr> sit neatly on the line. 
+To help with this, for the relevant markers only, the JSON has an item `viewBoxTight`. 
+Obviously this &lsquo;`viewBox`&rsquo; should not be used for the chart markers as chart markers, instead only for when a tight box is required, as might be true if these are being used as text-like items, _&agrave;&nbsp;la_ CSS <code>display:&nbsp;inline-block;</code>.
 
 
 ## <a name="precision"></a>Precision ##
