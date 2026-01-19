@@ -1,11 +1,13 @@
-<svg width='161.1152' height='184' viewBox='-6 -6.85224 12 13.70448'  id='DZD' xmlns='http://www.w3.org/2000/svg'>
-	<path fill='#006633' d='M6 6.85224H-6V-6.85224H6Z'/>
-<path fill='#FFF' d='M4.8541 5.70634H-4.8541V-5.70634H4.8541Z'/>
-<path fill='#D21034' d='M6 0 L1.8541 -1.34708 V-5.70634 L-.7082 -2.17963 L-4.8541 -3.52671 L-2.2918 0 L-4.8541 3.52671 L-.7082 2.17963 L1.8541 5.70634 V1.34708Z'/>
-<circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='6'/>
-<circle fill='none' opacity='60%' stroke='#00AACC' stroke-width='0.22' r='2.2918'/>
-<path opacity='60%' stroke='#00FF00' stroke-width='0.22' d='M 6 0 L -2.2918 0 M 1.8541 -1.34708 L -4.8541 3.52671 M 1.8541 -5.70634 L -0.7082 2.17963 M -0.7082 -2.17963 L 1.8541 5.70634 M -4.8541 -3.52671 L 1.8541 1.34708'/>
-<path fill='none' stroke='#0000FF' stroke-width='0.22' d='M 6 6.85224 L -6 -6.85224 M 6 -6.85224 L -6 6.85224'/>
-<circle fill='#FFF' r='0.11'/>
-<text x='-2.4' y='4.454' fill='black' dominant-baseline='middle' font-family='Consolas, monospace' font-size='1.17707' font-weight='800'>DZD</text>
+<svg width='144' height="164.45376" viewBox="-6 -6.85224 12 13.70448" xmlns="http://www.w3.org/2000/svg">
+<path d="m6 6.85224h-12v-13.70448h12z" fill="#063"/>
+<path d="m4.8541 5.70634h-9.7082v-11.41268h9.7082z" fill="#fff"/>
+<path d="m6 0-4.1459-1.34708v-4.35926l-2.5623 3.52671-4.1459-1.34708 2.5623 3.52671-2.5623 3.52671 4.1459-1.34708 2.5623 3.52671v-4.35926z" fill="#d21034"/>
+<g stroke-width=".22">
+	<circle fill="none" r="6" stroke="#0ac"/>
+	<circle fill="none" r="2.2918" stroke="#0ac"/>
+	<path d="m6 0h-8.2918m4.1459-1.34708-6.7082 4.87379m6.7082-9.23305-2.5623 7.88597m0-4.35926 2.5623 7.88597m-6.7082-9.23305 6.7082 4.87379" stroke="#0f0"/>
+	<path d="m6 6.85224-12-13.70448m12 0-12 13.70448" fill="none" stroke="#00f"/>
+</g>
+<circle fill="#fff" r=".11"/>
+<text dominant-baseline="middle" font-family="Consolas, monospace" font-size="1.17707" font-weight="800" x="-2.4" y="4.454">DZD</text>
 </svg>

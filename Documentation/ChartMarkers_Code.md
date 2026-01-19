@@ -104,8 +104,9 @@ seems to sit above the line by the height of its brown rectangle &asymp;&nbsp;0.
 <nobr><span class="markerID">CNY</span>&nbsp;![CNY](../ChartMarkers/CNY.svg),</nobr> 
 <nobr><span class="markerID">PKR</span>&nbsp;![PKR](../ChartMarkers/PKR.svg),</nobr> and 
 <nobr><span class="markerID">DZD</span>&nbsp;![DZD](../ChartMarkers/DZD.svg)</nobr> sit neatly on the line. 
-To help with this, for the relevant markers only, the JSON has an item `viewBoxTight`. 
-Obviously this &lsquo;`viewBox`&rsquo; should not be used for the chart markers as chart markers, instead only for when a tight box is required, as might be true if these are being used as text-like items, _&agrave;&nbsp;la_ CSS <code>display:&nbsp;inline-block;</code>.
+To help with this, for the relevant markers only, the [JSON](../ChartMarkers.json) has an item `viewBoxTight`. 
+Obviously this &lsquo;`viewBox`&rsquo; variant should not be used for the chart markers as chart markers. 
+Instead it is for when these are being used as text-like items, _&agrave;&nbsp;la_ CSS <code style="white-space: nowrap;">display:&nbsp;inline-block;</code>, for which an optical-centre-ignoring tight box might be appropriate.
 
 
 ## <a name="precision"></a>Precision ##
@@ -114,7 +115,7 @@ For many points, full precision must be [algabraic](https://en.wikipedia.org/wik
 E.g., for one point in a [vertical unit 5&frasl;2 star](http://www.jdawiseman.com/papers/easymath/surds_star_inner_radius.html#star_5_2_image), <nobr>*x*&nbsp;=&nbsp;&frac14;&#8239;&radic;(50&#8239;&minus;&#8239;22&radic;5)</nobr> <nobr>&asymp;&nbsp;0.22451398828979268622.</nobr> 
 Unlike PostScript, SVG cannot accept formulae: it needs numbers written in base&nbsp;10. 
 For these numbers, how much numerical precision is needed? 
-The wanted standard is &lsquo;*too&nbsp;much, but not excessively too&nbsp;much*&rsquo;.
+The wanted standard is &lsquo;*slightly&nbsp;too&nbsp;much*&rsquo;.
 
 Of course, if these are used only as tiny chart markers, then little precision is needed. 
 But for some purpose they might be shown large. 
@@ -123,8 +124,8 @@ At 1&times; scaling each point would be correct to within <nobr>&plusmn;&#8239;&
 At 2000&times; scaling the worst error would become &plusmn;&#8239;0.01pt which is &plusmn;&#8239;half a pixel on a 3600&#8239;d.p.i. printer; and the size would be 4000pt &asymp;&nbsp;4&prime;8&Prime; &asymp;&nbsp;1.4&nbsp;metres. 
 So if such an SVG were enlarged to fill any plausible paper type, it would still be pixel-perfect on a quality printer.
 
-If rounded to one fewer decimal places, the pixel-perfect boundary would be &asymp;&nbsp;400pt&#8239;=&#8239;5&NoBreak;5&frasl;9&Prime;&#8239;&asymp;&#8239;141mm. 
-Hence: three decimal places (40pt&#8239;=&#8239;5&frasl;9&Prime;&#8239;&asymp;&#8239;14mm) might and might not be too few; four would be enough; so, wanting a standard of &lsquo;*too&nbsp;much*&rsquo;, five it is. 
+If rounded to one fewer decimal places, the pixel-perfect boundary would be &asymp;&nbsp;400pt&#8239;&asymp;&#8239;5.6&Prime;&#8239;&asymp;&#8239;141mm. 
+Hence: three decimal places (40pt&#8239;=&#8239;5&frasl;9&Prime;&#8239;&asymp;&#8239;14mm) might and might not be too few; four would be enough; so, wanting a standard of &lsquo;*slightly&nbsp;too&nbsp;much*&rsquo;, five it is. 
 Some shapes are drawn on a canvas significantly larger than 2 across (e.g. 
 <nobr><span class="markerID">XAG</span>&nbsp;![XAG](../ChartMarkers/XAG.svg)</nobr> on 442&times;544, 
 <nobr><span class="markerID">IE</span>&nbsp;![IE](../ChartMarkers/IE.svg)</nobr> on 218&times;218), 
