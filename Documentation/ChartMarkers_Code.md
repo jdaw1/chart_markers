@@ -75,7 +75,7 @@ For some markers (incl.
 <nobr><span class="markerID">\_NDB</span>&nbsp;![_NDB](../ChartMarkers/_NDB.svg),</nobr> 
 <nobr><span class="markerID">IQD</span>&nbsp;![IQD](../ChartMarkers/IQD.svg),</nobr> 
 <nobr><span class="markerID">GEL</span>&nbsp;![GEL](../ChartMarkers/GEL.svg))</nobr> 
-the natural PostScript painting would have resembled `[make path] closepath gsave [set colour] fill grestore clipsave clip [set colour and double line width] 1 setlinejoin stroke cliprestore`. 
+the natural PostScript painting would have resembled <code><i>[make path]</i> closepath gsave <i>[set colour]</i> fill grestore clipsave clip <i>[set colour and double line width]</i> 1 setlinejoin stroke cliprestore</code>. 
 Instead, the boundaries of the inner regions have been explicitly pre&#8209;computed, paths filled from outer to inner.
 
 
