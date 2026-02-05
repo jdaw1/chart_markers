@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2026-01-18T18:15Z",
+		"Version":"2026-02-05T21:55Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -580,7 +580,7 @@
 			"ID":"EC",
 			"Width":8.54737,
 			"Height":11.6,
-			"Svg":"<svg width='8.54737' height='11.6' viewBox='-378 -513 756 1026' id='EC' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#EF3340' rx='378' ry='513'/><ellipse fill='#0072CE' rx='266' ry='401'/><ellipse fill='#FFD100' rx='140' ry='275'/></svg>",
+			"Svg":"<svg width='8.54737' height='11.6' viewBox='-378 -513 756 1026' id='EC' xmlns='http://www.w3.org/2000/svg'><ellipse rx='140' ry='275' stroke='#EF3340' stroke-width='476'/><ellipse rx='140' ry='275' stroke='#0072CE' stroke-width='252' paint-order='stroke' fill='#FFD100'/></svg>",
 			"LineFormattings":[
 				{"Color":"#0072CE", "Width":3.6},
 				{"Color":"#FFD100", "Width":1.2}
@@ -970,7 +970,7 @@
 			"ID":"IT_2",
 			"Width":10.97353,
 			"Height":9.1,
-			"Svg":"<svg width='10.97353' height='9.1' viewBox='-82 -68 164 136' id='IT_2' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#008C45' rx='82' ry='68'/><ellipse rx='65' ry='51'/><ellipse fill='#CD212A' rx='48' ry='34'/><ellipse fill='#F4F5F0' rx='31' ry='17'/></svg>",
+			"Svg":"<svg width='10.97353' height='9.1' viewBox='-82 -68 164 136' id='IT_2' xmlns='http://www.w3.org/2000/svg'><ellipse rx='31' ry='17' stroke='#008C45' stroke-width='102'/><ellipse rx='31' ry='17' stroke='#000' stroke-width='68'/><ellipse rx='31' ry='17' stroke='#CD212A' stroke-width='34' paint-order='stroke' fill='#F4F5F0'/></svg>",
 			"LineFormattings":[
 				{"Color":"#008C45", "Width":3.6},
 				{"Color":"#000000", "Width":1.2}
@@ -985,7 +985,7 @@
 			"ID":"IT",
 			"Width":10.97353,
 			"Height":9.1,
-			"Svg":"<svg width='10.97353' height='9.1' viewBox='-82 -68 164 136' id='IT' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#008C45' rx='82' ry='68'/><ellipse fill='#F4F5F0' rx='65' ry='51'/><ellipse fill='#CD212A' rx='48' ry='34'/><ellipse fill='#F4F5F0' rx='31' ry='17'/></svg>",
+			"Svg":"<svg width='10.97353' height='9.1' viewBox='-82 -68 164 136' id='IT' xmlns='http://www.w3.org/2000/svg'><ellipse rx='31' ry='17' stroke='#008C45' stroke-width='102'/><ellipse rx='31' ry='17' stroke='#F4F5F0' stroke-width='68'/><ellipse rx='31' ry='17' stroke='#CD212A' stroke-width='34' paint-order='stroke' fill='#F4F5F0'/></svg>",
 			"LineFormattings":[
 				{"Color":"#008C45", "Width":3.6},
 				{"Color":"#CD212A", "Width":1.2}
@@ -2475,7 +2475,7 @@
 			"ID":"VND",
 			"Width":11.952,
 			"Height":8.3,
-			"Svg":"<svg width='11.952' height='8.3' viewBox='-36 -25 72 50' id='VND' xmlns='http://www.w3.org/2000/svg'><ellipse fill='#DA251D' rx='36' ry='25'/><ellipse fill='#FF0' rx='28' ry='17'/></svg>",
+			"Svg":"<svg width='11.952' height='8.3' viewBox='-36 -25 72 50' id='VND' xmlns='http://www.w3.org/2000/svg'><ellipse rx='28' ry='17' stroke='#DA251D' stroke-width='16' paint-order='stroke' fill='#FF0'/></svg>",
 			"LineFormattings":[
 				{"Color":"#FFFF00", "Width":3.6},
 				{"Color":"#DA251D", "Width":1.2}
