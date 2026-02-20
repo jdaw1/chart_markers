@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2026-02-05T21:55Z",
+		"Version":"2026-02-20T23:20Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -755,7 +755,7 @@
 			"Height":7.2,
 			"Svg":"<svg width='14.4' height='7.2' viewBox='-30 -15 60 30' id='GBP' xmlns='http://www.w3.org/2000/svg'><path fill='#012169' d='M30 15V9.4098L11.1803 0 30 -9.4098V-15H18.8197L0 -5.5902 -18.8197 -15H-30v5.5902L-11.1803 0 -30 9.4098V15h11.1803L0 5.5902 18.8197 15Z'/><path fill='#C8102E' d='M28 10.6459L6.7082 0 28 -10.6459V-13H19.2918L0 -3.3541 -19.2918 -13H-28v2.3541L-6.7082 0 -28 10.6459V13h8.7082L0 3.3541 19.2918 13H28Z'/></svg>",
 			"LineFormattings":[
-				{"Color":"#012169", "Width":2.4}
+				{"Color":"#F0B000", "Width":2.4}
 			],
 			"Notes":{
 				"Mnemonic":"Only large currency with prominent diagonal cross in [flag](http://www.jdawiseman.com/papers/union-jack/union-jack.html), though the diagonal has been thickened. In [flag](http://en.wikipedia.org/wiki/Union_Jack) red and blue.",
@@ -830,7 +830,7 @@
 			],
 			"Notes":{
 				"Mnemonic":"Shape from `GBP` marker; red from the [flag of England](https://en.wikipedia.org/wiki/Flag_of_England), green from the [flag of Wales](https://en.wikipedia.org/wiki/Flag_of_Wales).",
-				"UseFor":"Used for the jurisdiction England and Wales, and also for green gilts, and for [old&#8209;style 8&#8209;month ILGs](http://www.jdawiseman.com/papers/finmkts/gilt_statics_non-conventionals.html#ILG_8M))."
+				"UseFor":"Used for the jurisdiction England and Wales, and also for green gilts, and for [old&#8209;style 8&#8209;month ILGs](http://www.jdawiseman.com/papers/finmkts/gilt_statics_non-conventionals.html#ILG_8M)."
 			}
 		},
 
