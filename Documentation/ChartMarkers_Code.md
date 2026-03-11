@@ -104,9 +104,28 @@ seems to sit above the line by the height of its brown rectangle &asymp;&nbsp;0.
 <nobr><span class="markerID">CNY</span>&nbsp;![CNY](../ChartMarkers/CNY.svg),</nobr> 
 <nobr><span class="markerID">PKR</span>&nbsp;![PKR](../ChartMarkers/PKR.svg),</nobr> and 
 <nobr><span class="markerID">DZD</span>&nbsp;![DZD](../ChartMarkers/DZD.svg)</nobr> sit neatly on the line. 
-To help with this, for the relevant markers only, the [JSON](../ChartMarkers.json) has an item `viewBoxTight`. 
-Obviously this &lsquo;`viewBox`&rsquo; variant should not be used for the chart markers as chart markers. 
-Instead it is for when these are being used as text-like items, _&agrave;&nbsp;la_ CSS <code style="white-space: nowrap;">display:&nbsp;inline-block;</code>, for which an optical-centre-ignoring tight box might be appropriate.
+
+Hence there is a separate set of markers in the folder [ChartMarkers_characters](../ChartMarkers_characters/), that have tight bounding boxes, but are otherwise identical to those in the folder [ChartMarkers](../ChartMarkers/). 
+E.g., 
+![USD](../ChartMarkers_characters/USD_character.svg) 
+![CAD](../ChartMarkers_characters/CAD_character.svg) 
+![AUD](../ChartMarkers_characters/AUD_character.svg) 
+![CNY](../ChartMarkers_characters/CNY_character.svg) 
+![HKD](../ChartMarkers_characters/HKD_character.svg) 
+![TRY](../ChartMarkers_characters/TRY_character.svg) 
+![ZAR](../ChartMarkers_characters/ZAR_character.svg) 
+![AED](../ChartMarkers_characters/AED_character.svg) 
+![JOD](../ChartMarkers_characters/JOD_character.svg) 
+![SYP](../ChartMarkers_characters/SYP_character.svg) 
+![MAD](../ChartMarkers_characters/MAD_character.svg) 
+![GHS](../ChartMarkers_characters/GHS_character.svg) 
+![VED](../ChartMarkers_characters/VED_character.svg) 
+![SN](../ChartMarkers_characters/SN_character.svg) 
+![PKR](../ChartMarkers_characters/PKR_character.svg) 
+![RUB](../ChartMarkers_characters/RUB_character.svg) 
+![_NDB](../ChartMarkers_characters/_NDB_character.svg).
+The relevant information is also in the [JSON](../ChartMarkers.json), some markers having an item `"Tight"`, being a dictionary of three items, numeric `"Width"` and `"Height"` to replace the `width` and `height` in the SVG, and a string `"ViewBox"` to replace the SVG&rsquo;s `"viewBox"`. 
+Obviously this tight variant should not be used for the chart markers as chart markers., only for the chart markers as text in text paragraphs in which the text should sit on a baseline.
 
 
 ## <a name="precision"></a>Precision ##
