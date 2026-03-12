@@ -24,6 +24,18 @@ For human readability the JSON includes much white space.
 
 * Excel needs slightly different SVGs, because otherwise it mangles the sizes. A directory of these is at [github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel](http://github.com/jdaw1/chart_markers/tree/main/ChartMarkers_Excel/), of which an easy-download compressed set is in [github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/SVG_ChartMarkers_Excel.zip)
 
+* Markers might be used in text, especially if referring to a particular series of data. 
+Those markers with a boundary with rotational symmetry of odd order have a non-tight bounding box. 
+Some of these, if used in text, sit awkwardly above the line. 
+Hence each has an `_character` variant, with a tight bounding box. 
+The tight-box variant is mis-positioned if used as a chart marker, but is better as a text object. 
+Compare the two versions of 
+<nobr><span class="markerID">USD</span>&nbsp;![USD](../ChartMarkers/USD.svg)&nbsp;![USD](../ChartMarkers_characters/USD_character.svg),</nobr> or of 
+<nobr><span class="markerID">AUD</span>&nbsp;![AUD](../ChartMarkers/AUD.svg)&nbsp;![AUD](../ChartMarkers_characters/AUD_character.svg),</nobr> or of 
+<nobr><span class="markerID">HKD</span>&nbsp;![HKD](../ChartMarkers/HKD.svg)&nbsp;![HKD](../ChartMarkers_characters/HKD_character.svg),</nobr> or of 
+<nobr><span class="markerID">AED</span>&nbsp;![AED](../ChartMarkers/AED.svg)&nbsp;![AED](../ChartMarkers_characters/AED_character.svg).</nobr> 
+These `_character` variants are in the folder [ChartMarkers_characters](../ChartMarkers_characters/).
+
 
 ## PNGs ##
 
@@ -41,7 +53,7 @@ There are
 [8&times;](http://github.com/jdaw1/chart_markers/tree/main/PNGs/PNGs_08/), and 
 [16&times;](http://github.com/jdaw1/chart_markers/tree/main/PNGs/PNGs_16/) the natural 72d.p.i. resolution. 
 For ease of download there is also a single [.zip](http://github.com/jdaw1/chart_markers/tree/main/CompressedDownloads/PNGs.zip) containing them all. 
-These were made with [GraphicConverter](https://www.lemkesoft.de/en/products/graphicconverter/) builds 5711&ndash;6136, using the SVG&nbsp;SDK library because the WebKit library fails to process <code>\<defs\>&hellip;\</defs\>&hellip;\<use '&hellip;'/\></code>; after which crushed by [ImageOptim](https://imageoptim.com/mac).
+These were made with [GraphicConverter](https://www.lemkesoft.de/en/products/graphicconverter/) builds &ge;&#8239;5711, using the SVG&nbsp;SDK library because the WebKit library fails to process <code>\<defs\>&hellip;\</defs\>&hellip;\<use '&hellip;'/\></code>; after which crushed by [ImageOptim](https://imageoptim.com/mac).
 
 Please don&rsquo;t use the PNGs.
 
