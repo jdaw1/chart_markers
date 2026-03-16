@@ -125,8 +125,8 @@ E.g.,
 ![RUB](../ChartMarkers_characters/RUB_character.svg) 
 ![_NDB](../ChartMarkers_characters/_NDB_character.svg).
 The relevant information is also in the [JSON](../ChartMarkers.json), some markers having an item `"Tight"`, being a dictionary of three items, numeric `"Width"` and `"Height"` to replace the `width` and `height` in the SVG, and a string `"ViewBox"` to replace the SVG&rsquo;s `"viewBox"`. 
-Obviously this tight variant should not be used for the chart markers as chart markers., only for the chart markers as text in text paragraphs in which the text should sit on a baseline.
-
+Obviously this tight variant should not be used for the chart markers as chart markers., only for the chart markers as text in text paragraphs in which the text should sit on a baseline. 
+(It would be better if the SVG standard allowed control of position wrt the baseline, as suggested in its [issue&nbsp;1075](https://github.com/w3c/svgwg/issues/1075) = &lsquo;`baseline-y`&nbsp;in&nbsp;SVG&rsquo;, 16<small><sup>th</sup></small>&nbsp;March 2026.)
 
 ## <a name="precision"></a>Precision ##
 
