@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2026-03-11T23:30Z",
+		"Version":"2026-03-25T22:05Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -1411,6 +1411,20 @@
 			],
 			"Notes":{
 				"Mnemonic":"Simplified [flag of Saudi Arabia](http://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia)."
+			}
+		},
+
+		"CUP":{
+			"ID":"CUP",
+			"Width":9.86,
+			"Height":8.7,
+			"Svg":"<svg width='9.86' height='8.7' viewBox='-17 -15 34 30' id='CUP' xmlns='http://www.w3.org/2000/svg'><path fill='#002590' d='M17 15V-15H-17V15Z'/><path fill='#FFF' d='M-11 -9H11v6H-11Z M-11 3H11v6H-11Z'/></svg>",
+			"LineFormattings":[
+				{"Color":"#002590", "Width":2.4}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the fly of the [flag of Cuba](https://en.wikipedia.org/wiki/Flag_of_Cuba).",
+				"Design":"In the [flag of Cuba](https://en.wikipedia.org/wiki/Flag_of_Cuba#Specifications), from the right of the red triangle to the edge of the fly has the ratio (30&minus;7&frac12;&radic;3)&ratio;15, &asymp;&nbsp;17.0096&ratio;15, here rounded to 17&ratio;15.</p> | ![CUP](../ChartLines/CUP_line.svg)<br/>002590 |&nbsp;17.0096&ratio;15, here rounded to 17&ratio;15."
 			}
 		},
 

@@ -162,5 +162,5 @@ The error at &plusmn;&#8239;18&deg; could cause a slight misfit, no worse than r
 <nobr><span class="markerID">UZS</span>&nbsp;![UZS](../ChartMarkers/UZS.svg),</nobr> 
 <nobr><span class="markerID">\_CoEDB</span>&nbsp;![\_CoEDB](../ChartMarkers/\_CoEDB.svg).</nobr> 
 So Adobe&rsquo;s B&eacute;zier circle is materially worse than precision truncation, by a factor fairly describable as 42&times;. 
-Note that a B&eacute;zier cubic itself is rendered only to within an accuracy no worse than the `setflat` value, which defaults to 1.0 output device pixels, and which is bounded in the range 0.2&ndash;100 ([PLRM3](http://www.adobe.com/jp/print/postscript/pdfs/PLRM.pdf), p669). 
+Note that a B&eacute;zier cubic itself is rendered only to within an accuracy no worse than the `setflat` value, which defaults to 1.0 output device pixels, and which is bounded in the range 0.2&ndash;100 ([PLRM3](http://www.adobe.com/jp/print/postscript/pdfs/PLRM.pdf#page=683), p669). 
 Further, printers are physical machines with physical inaccuracies, likely to be significantly larger than these digital errors.
