@@ -191,7 +191,24 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 <span style="font-size: smaller;">[Precious Metals](#precious_metals)</span> 
 [![XAU](../ChartMarkers/XAU.svg)](#XAU) 
 [![XAG](../ChartMarkers/XAG.svg)](#XAG) 
-[![XPT](../ChartMarkers/XPT.svg)](#XPT)
+[![XPT](../ChartMarkers/XPT.svg)](#XPT)&nbsp;&nbsp;&nbsp; 
+<span style="font-size: smaller;">[Generics](#generics)</span> 
+[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF) 
+[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0) 
+[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00) 
+[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F) 
+[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F) 
+[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF) 
+[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0) 
+[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF) 
+[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0) 
+[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00) 
+[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F) 
+[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F) 
+[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF) 
+[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0) 
+
+
 
 
 ## Gallery ##
@@ -375,14 +392,43 @@ Internal links:
 | [<span class="markerID">\_NDB</span>](#\_NDB) | ![\_NDB](../ChartMarkers/_NDB.svg) | <a name="_NDB">![_NDB](../ChartMarkers_enlarged/_NDB_enlarged.svg)</a> | Simplified [logo](http://www.ndb.int/wp-content/uploads/2017/02/logo-2.png) of the [BRICS](http://en.wikipedia.org/wiki/BRICS)&rsquo; [New Development Bank](http://www.ndb.int/). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>NEWDEV&nbsp;Corp</kbd> | ![\_NDB](../ChartLines/_NDB_line.svg)<br/>056839<br/>BED62F |
 | [<span class="markerID">\_IBRD</span>](#\_IBRD) | ![\_IBRD](../ChartMarkers/_IBRD.svg) | <a name="_IBRD">![_IBRD](../ChartMarkers_enlarged/_IBRD_enlarged.svg)</a> | <p>[World Bank](http://www.worldbank.org/) = [International Bank for Reconstruction and Development](http://www.worldbank.org/en/who-we-are/ibrd) = IBRD, [&le;2014&nbsp;logo](http://openknowledge.worldbank.org/bitstream/handle/10986/18237/9781464801631.pdf) (as newer logo not symmetrical). Bbg&nbsp;ticker&nbsp;=&nbsp;<kbd>IBRD&nbsp;Corp</kbd></p><p>A possible simplification of the <span class="markerID">\_IBRD</span> marker is discussed in [issue&nbsp;11](http://github.com/jdaw1/chart_markers/issues/11).</p> | ![\_IBRD](../ChartLines/_IBRD_line.svg)<br/>000000<br/>FFFFFF |
 | [<span class="markerID">XDR</span>](#XDR) | ![XDR](../ChartMarkers/XDR.svg) | <a name="XDR">![XDR](../ChartMarkers_enlarged/XDR_enlarged.svg)</a> | Inspired by the &lsquo;I&rsquo; in the [logo](http://www.imf.org/-/media/Images/IMF/Data/imf-seal-shadow-sep2019-update-svg.ashx) of the [International Monetary Fund](http://www.imf.org/en/), which issues XDR = [Special drawing rights](http://en.wikipedia.org/wiki/Special_drawing_rights). Can be used as a marker for the IMF itself. | ![XDR](../ChartLines/XDR_line.svg)<br/>004C97 |
-|  |  |  | <h2>[![ArrowSingleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#development_banks)&nbsp;![ArrowNone](ArrowNone.svg)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="precious_metals" href="#precious_metals">Precious Metals</a></h2> |
+|  |  |  | <h2>[![ArrowSingleU](ArrowDoubleU.svg)](#top)&nbsp;[![ArrowSingleU](ArrowSingleU.svg)](#development_banks)&nbsp;[![ArrowSingleD](ArrowSingleD.svg)](#generics)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp;&nbsp;<a name="precious_metals" href="#precious_metals">Precious Metals</a></h2> |
 | [<span class="markerID">XAU</span>](#XAU) | ![XAU](../ChartMarkers/XAU.svg) | <a name="XAU">![XAU](../ChartMarkers_enlarged/XAU_enlarged.svg)</a> | Two gold bars, width&ratio;height at 2&ratio;1, undercut &asymp;&#8239;15&deg;, these from the centres of allowed ranges in the [Good Delivery rules](http://www.lbma.org.uk/publications/good-delivery-rules/technical-specifications). Stacked as pictured by the BBC in [Bank of England gold: Rare look inside the vaults](http://www.bbc.co.uk/news/av/uk-51416500), 10&nbsp;Feb&nbsp;2020. Also, this stacking hints at the shape of an &lsquo;X&rsquo;, as in XAU. | ![XAU](../ChartLines/XAU_line.svg)<br/>996515<br/>D4AF37 |
 | [<span class="markerID">XAG</span>](#XAG) | ![XAG](../ChartMarkers/XAG.svg) | <a name="XAG">![XAG](../ChartMarkers_enlarged/XAG_enlarged.svg)</a> | Two silver bars, width&ratio;height at 13&ratio;8, undercut &asymp;&#8239;10&deg;, these from the centres of allowed ranges in the [Good Delivery rules](http://www.lbma.org.uk/publications/good-delivery-rules/technical-specifications); stacked as for <span class="markerID">[XAU](#XAU)</span>. | ![XAG](../ChartLines/XAG_line.svg)<br/>5C5C5C<br/>C0C0C0 |
 | [<span class="markerID">XPT</span>](#XPT) | ![XPT](../ChartMarkers/XPT.svg) | <a name="XPT">![XPT](../ChartMarkers_enlarged/XPT_enlarged.svg)</a> | In the proportions of a [Royal Mint Refinery 1kg platinum bar](https://web.archive.org/web/20210515224532/https://www.royalmint.com/invest/bullion/bullion-bars/platinum-bars/1-kg-platinum-bar-minted/), edged with the [colour](http://goldrefiningforum.com/threads/colours-of-pt-and-pd-compounds.31666/) of H&#8322;PtCl&#8326; = [hexachloroplatinic acid](http://en.wikipedia.org/wiki/Chloroplatinic_acid). | ![XPT](../ChartLines/XPT_line.svg)<br/>D95B14<br/>C7C7C7 |
 
 
+## [![ArrowSingleU](ArrowDoubleU.svg)](#top) [![ArrowSingleU](ArrowSingleU.svg)](#precious_metals) ![ArrowNone](ArrowNone.svg)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp; <a name="generics" href="#generics">Generics</a> ##
 
-<br/><br/> <a name="grouped_by"></a>The next two sections were originally intended to help find visual similarities; and the line section was added later for a similar purpose. 
+These are based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character. 
+ multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. 
+ E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. 
+ But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers. 
+ Discussion in [issue&nbsp;22](https://github.com/jdaw1/chart_markers/issues/22#issuecomment-4946463635).
+
+
+<a name="XXX_0_FFF"></a>[<span class="markerID">XXX_0_FFF</span>](#XXX_0_FFF):&nbsp;&nbsp;![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg),&nbsp; ![XXX_0_FFF](../ChartLines/XXX_0_FFF_line.svg) 000000,&nbsp;FFFFFF&nbsp;;  
+<a name="XXX_0_0F0"></a>[<span class="markerID">XXX_0_0F0</span>](#XXX_0_0F0):&nbsp;&nbsp;![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg),&nbsp; ![XXX_0_0F0](../ChartLines/XXX_0_0F0_line.svg) 000000,&nbsp;00FF00&nbsp;;  
+<a name="XXX_0_F00"></a>[<span class="markerID">XXX_0_F00</span>](#XXX_0_F00):&nbsp;&nbsp;![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg),&nbsp; ![XXX_0_F00](../ChartLines/XXX_0_F00_line.svg) 000000,&nbsp;FF0000&nbsp;;  
+<a name="XXX_0_00F"></a>[<span class="markerID">XXX_0_00F</span>](#XXX_0_00F):&nbsp;&nbsp;![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg),&nbsp; ![XXX_0_00F](../ChartLines/XXX_0_00F_line.svg) 000000,&nbsp;0000FF&nbsp;;  
+<a name="XXX_0_F0F"></a>[<span class="markerID">XXX_0_F0F</span>](#XXX_0_F0F):&nbsp;&nbsp;![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg),&nbsp; ![XXX_0_F0F](../ChartLines/XXX_0_F0F_line.svg) 000000,&nbsp;FF00FF&nbsp;;  
+<a name="XXX_0_0FF"></a>[<span class="markerID">XXX_0_0FF</span>](#XXX_0_0FF):&nbsp;&nbsp;![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg),&nbsp; ![XXX_0_0FF](../ChartLines/XXX_0_0FF_line.svg) 000000,&nbsp;00FFFF&nbsp;;  
+<a name="XXX_0_FF0"></a>[<span class="markerID">XXX_0_FF0</span>](#XXX_0_FF0):&nbsp;&nbsp;![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg),&nbsp; ![XXX_0_FF0](../ChartLines/XXX_0_FF0_line.svg) 000000,&nbsp;FFFF00&nbsp;;  
+<a name="XXX_6_FFF"></a>[<span class="markerID">XXX_6_FFF</span>](#XXX_6_FFF):&nbsp;&nbsp;![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg),&nbsp; ![XXX_6_FFF](../ChartLines/XXX_6_FFF_line.svg) 666666,&nbsp;FFFFFF&nbsp;;  
+<a name="XXX_6_0F0"></a>[<span class="markerID">XXX_6_0F0</span>](#XXX_6_0F0):&nbsp;&nbsp;![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg),&nbsp; ![XXX_6_0F0](../ChartLines/XXX_6_0F0_line.svg) 666666,&nbsp;00FF00&nbsp;;  
+<a name="XXX_6_F00"></a>[<span class="markerID">XXX_6_F00</span>](#XXX_6_F00):&nbsp;&nbsp;![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg),&nbsp; ![XXX_6_F00](../ChartLines/XXX_6_F00_line.svg) 666666,&nbsp;FF0000&nbsp;;  
+<a name="XXX_6_00F"></a>[<span class="markerID">XXX_6_00F</span>](#XXX_6_00F):&nbsp;&nbsp;![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg),&nbsp; ![XXX_6_00F](../ChartLines/XXX_6_00F_line.svg) 666666,&nbsp;0000FF&nbsp;;  
+<a name="XXX_6_F0F"></a>[<span class="markerID">XXX_6_F0F</span>](#XXX_6_F0F):&nbsp;&nbsp;![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg),&nbsp; ![XXX_6_F0F](../ChartLines/XXX_6_F0F_line.svg) 666666,&nbsp;FF00FF&nbsp;;  
+<a name="XXX_6_0FF"></a>[<span class="markerID">XXX_6_0FF</span>](#XXX_6_0FF):&nbsp;&nbsp;![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg),&nbsp; ![XXX_6_0FF](../ChartLines/XXX_6_0FF_line.svg) 666666,&nbsp;00FFFF&nbsp;;  
+<a name="XXX_6_FF0"></a>[<span class="markerID">XXX_6_FF0</span>](#XXX_6_FF0):&nbsp;&nbsp;![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg),&nbsp; ![XXX_6_FF0](../ChartLines/XXX_6_FF0_line.svg) 666666,&nbsp;FFFF00&nbsp;;  
+
+
+
+![XXX_0_FFF](../ChartMarkers_enlarged/XXX_0_FFF_enlarged.svg)  ![XXX_0_0F0](../ChartMarkers_enlarged/XXX_0_0F0_enlarged.svg)  ![XXX_0_F00](../ChartMarkers_enlarged/XXX_0_F00_enlarged.svg)  ![XXX_0_00F](../ChartMarkers_enlarged/XXX_0_00F_enlarged.svg)  ![XXX_0_F0F](../ChartMarkers_enlarged/XXX_0_F0F_enlarged.svg)  ![XXX_0_0FF](../ChartMarkers_enlarged/XXX_0_0FF_enlarged.svg)  ![XXX_0_FF0](../ChartMarkers_enlarged/XXX_0_FF0_enlarged.svg)  
+![XXX_6_FFF](../ChartMarkers_enlarged/XXX_6_FFF_enlarged.svg)  ![XXX_6_0F0](../ChartMarkers_enlarged/XXX_6_0F0_enlarged.svg)  ![XXX_6_F00](../ChartMarkers_enlarged/XXX_6_F00_enlarged.svg)  ![XXX_6_00F](../ChartMarkers_enlarged/XXX_6_00F_enlarged.svg)  ![XXX_6_F0F](../ChartMarkers_enlarged/XXX_6_F0F_enlarged.svg)  ![XXX_6_0FF](../ChartMarkers_enlarged/XXX_6_0FF_enlarged.svg)  ![XXX_6_FF0](../ChartMarkers_enlarged/XXX_6_FF0_enlarged.svg)  
+---
+
+<a name="grouped_by"></a>The next two sections were originally intended to help find visual similarities; and the line section was added later for a similar purpose. 
 The categories and orderings are not well-defined: some rearrangements would have been equally performant. 
 But it doesn&rsquo;t matter: this is merely a presentation of the data, not part of the definition.
 
@@ -549,6 +595,21 @@ Three:
 [![AED](../ChartMarkers/AED.svg)](#AED) 
 [![ZAR](../ChartMarkers/ZAR.svg)](#ZAR) 
 [![\_NDB](../ChartMarkers/\_NDB.svg)](#\_NDB)&nbsp;&nbsp; 
+Scarab: 
+[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF) 
+[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF) 
+[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0) 
+[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0) 
+[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF) 
+[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF) 
+[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F) 
+[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F) 
+[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0) 
+[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0) 
+[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00) 
+[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00) 
+[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F) 
+[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F)&nbsp;&nbsp; 
 Other: 
 [![UYU](../ChartMarkers/UYU.svg)](#UYU) 
 [![XDR](../ChartMarkers/XDR.svg)](#XDR) 
@@ -557,7 +618,7 @@ Other:
 
 ## <a name="by_colour"></a>Grouped by colour ##
 
-Black: 
+Black and grey: 
 [![USD](../ChartMarkers/USD.svg)](#USD) 
 [![EGP](../ChartMarkers/EGP.svg)](#EGP) 
 [![SDG](../ChartMarkers/SDG.svg)](#SDG) 
@@ -565,7 +626,21 @@ Black:
 [![DE](../ChartMarkers/DE.svg)](#DE) 
 [![AFN](../ChartMarkers/AFN.svg)](#AFN) 
 [![\_IBRD](../ChartMarkers/\_IBRD.svg)](#\_IBRD) 
-[![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB)&nbsp;&nbsp; 
+[![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB) 
+[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF) 
+[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF) 
+[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0) 
+[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0) 
+[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF) 
+[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF) 
+[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F) 
+[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F) 
+[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0) 
+[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0) 
+[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00) 
+[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00) 
+[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F) 
+[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F)&nbsp;&nbsp; 
 Metal: 
 [![SGD](../ChartMarkers/SGD.svg)](#SGD) 
 [![XAF](../ChartMarkers/XAF.svg)](#XAF) 
@@ -906,5 +981,20 @@ Precious Metals:
 [![XAU](../ChartLines/XAU_line.svg)](#XAU) 
 [![XAG](../ChartLines/XAG_line.svg)](#XAG)
 
+Generics: 
+[![XXX_0_FFF](../ChartLines/XXX_0_FFF_line.svg)](#XXX_0_FFF) 
+[![XXX_6_FFF](../ChartLines/XXX_6_FFF_line.svg)](#XXX_6_FFF) 
+[![XXX_0_FF0](../ChartLines/XXX_0_FF0_line.svg)](#XXX_0_FF0) 
+[![XXX_6_FF0](../ChartLines/XXX_6_FF0_line.svg)](#XXX_6_FF0) 
+[![XXX_0_0FF](../ChartLines/XXX_0_0FF_line.svg)](#XXX_0_0FF) 
+[![XXX_6_0FF](../ChartLines/XXX_6_0FF_line.svg)](#XXX_6_0FF) 
+[![XXX_0_F0F](../ChartLines/XXX_0_F0F_line.svg)](#XXX_0_F0F) 
+[![XXX_6_F0F](../ChartLines/XXX_6_F0F_line.svg)](#XXX_6_F0F) 
+[![XXX_0_0F0](../ChartLines/XXX_0_0F0_line.svg)](#XXX_0_0F0) 
+[![XXX_6_0F0](../ChartLines/XXX_6_0F0_line.svg)](#XXX_6_0F0) 
+[![XXX_0_F00](../ChartLines/XXX_0_F00_line.svg)](#XXX_0_F00) 
+[![XXX_6_F00](../ChartLines/XXX_6_F00_line.svg)](#XXX_6_F00) 
+[![XXX_0_00F](../ChartLines/XXX_0_00F_line.svg)](#XXX_0_00F) 
+[![XXX_6_00F](../ChartLines/XXX_6_00F_line.svg)](#XXX_6_00F) 
 
 <a name="end"></a>

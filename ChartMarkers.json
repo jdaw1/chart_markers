@@ -1,6 +1,6 @@
 {
 	"Meta":{
-		"Version":"2026-03-25T22:05Z",
+		"Version":"2026-07-12T16:00Z",
 		"URL":"https://github.com/jdaw1/chart_markers/",
 		"Authors":[ {"Name":"Julian D. A. Wiseman", "Contact":"https://www.jdawiseman.com/author.html"} ],
 		"License":"Boost Software License - Version 1.0 - August 17th, 2003",
@@ -1862,6 +1862,216 @@
 			],
 			"Notes":{
 				"Mnemonic":"From the part of the [logo](https://www.bceao.int/themes/medianet/image/png/logo_fr.png) of the [Central Bank of West African States](https://www.bceao.int/), the issuer of the [West African CFA franc](https://en.wikipedia.org/wiki/West_African_CFA_franc) = `XOF`."
+			}
+		},
+
+		"XXX_0_FFF":{
+			"ID":"XXX_0_FFF",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_0_FFF' xmlns='http://www.w3.org/2000/svg'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/><circle fill='#FFF' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_0_0F0":{
+			"ID":"XXX_0_0F0",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_0_0F0' xmlns='http://www.w3.org/2000/svg'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/><circle fill='#0F0' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#00FF00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_0_F00":{
+			"ID":"XXX_0_F00",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_0_F00' xmlns='http://www.w3.org/2000/svg'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/><circle fill='#F00' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FF0000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_0_00F":{
+			"ID":"XXX_0_00F",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_0_00F' xmlns='http://www.w3.org/2000/svg'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/><circle fill='#00F' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#0000FF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_0_F0F":{
+			"ID":"XXX_0_F0F",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_0_F0F' xmlns='http://www.w3.org/2000/svg'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/><circle fill='#F0F' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FF00FF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_0_0FF":{
+			"ID":"XXX_0_0FF",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_0_0FF' xmlns='http://www.w3.org/2000/svg'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/><circle fill='#0FF' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#00FFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_0_FF0":{
+			"ID":"XXX_0_FF0",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_0_FF0' xmlns='http://www.w3.org/2000/svg'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/><circle fill='#FF0' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#000000", "Width":3.6},
+				{"Color":"#FFFF00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_6_FFF":{
+			"ID":"XXX_6_FFF",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_6_FFF' xmlns='http://www.w3.org/2000/svg'><g fill='#666'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/></g><circle fill='#FFF' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#666666", "Width":3.6},
+				{"Color":"#FFFFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_6_0F0":{
+			"ID":"XXX_6_0F0",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_6_0F0' xmlns='http://www.w3.org/2000/svg'><g fill='#666'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/></g><circle fill='#0F0' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#666666", "Width":3.6},
+				{"Color":"#00FF00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_6_F00":{
+			"ID":"XXX_6_F00",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_6_F00' xmlns='http://www.w3.org/2000/svg'><g fill='#666'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/></g><circle fill='#F00' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#666666", "Width":3.6},
+				{"Color":"#FF0000", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_6_00F":{
+			"ID":"XXX_6_00F",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_6_00F' xmlns='http://www.w3.org/2000/svg'><g fill='#666'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/></g><circle fill='#00F' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#666666", "Width":3.6},
+				{"Color":"#0000FF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_6_F0F":{
+			"ID":"XXX_6_F0F",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_6_F0F' xmlns='http://www.w3.org/2000/svg'><g fill='#666'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/></g><circle fill='#F0F' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#666666", "Width":3.6},
+				{"Color":"#FF00FF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_6_0FF":{
+			"ID":"XXX_6_0FF",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_6_0FF' xmlns='http://www.w3.org/2000/svg'><g fill='#666'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/></g><circle fill='#0FF' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#666666", "Width":3.6},
+				{"Color":"#00FFFF", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
+			}
+		},
+
+		"XXX_6_FF0":{
+			"ID":"XXX_6_FF0",
+			"Width":11.8,
+			"Height":11.8,
+			"Svg":"<svg width='11.8' height='11.8' viewBox='-4 -4 8 8' id='XXX_6_FF0' xmlns='http://www.w3.org/2000/svg'><g fill='#666'><path d='M-3 -4l-1 1L3 4 4 3ZM4 -3L3 -4 -4 3l1 1Z'/><circle r='3.18198'/></g><circle fill='#FF0' r='1.76777'/></svg>",
+			"LineFormattings":[
+				{"Color":"#666666", "Width":3.6},
+				{"Color":"#FFFF00", "Width":1.2}
+			],
+			"Notes":{
+				"Mnemonic":"Based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character.",
+				"UseFor":"A multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers."
 			}
 		},
 
