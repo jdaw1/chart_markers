@@ -401,10 +401,11 @@ Internal links:
 ## [![ArrowSingleU](ArrowDoubleU.svg)](#top) [![ArrowSingleU](ArrowSingleU.svg)](#precious_metals) ![ArrowNone](ArrowNone.svg)&nbsp;[![ArrowDoubleD](ArrowDoubleD.svg)](#end)&nbsp; <a name="generics" href="#generics">Generics</a> ##
 
 These are based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, also known as the scarab character. 
- multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. 
- E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. 
- But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers. 
- Discussion in [issue&nbsp;22](https://github.com/jdaw1/chart_markers/issues/22#issuecomment-4946463635).
+Each is a multi-currency or multi-issuer marker, where the meaning of the series does not obviously bind more tightly to just one of the component parts. 
+E.g., consider a chart showing yield or asset-swap differences between various eurozone issuers, and Germany: the BE&minus;DE series is really about Belgium so should use the <kbd>BE</kbd> marker. 
+But an IE&minus;FI series is equally about both, so could use one of the 14 generic markers. 
+Likewise, FX implied volatilities against the USD should use the marker of the non-dollar side, but a cross volatility might use a generic marker. 
+Discussion in [issue&nbsp;22](https://github.com/jdaw1/chart_markers/issues/22#issuecomment-4946463635).
 
 
 <a name="XXX_0_FFF"></a>[<span class="markerID">XXX_0_FFF</span>](#XXX_0_FFF):&nbsp;&nbsp;![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg),&nbsp; ![XXX_0_FFF](../ChartLines/XXX_0_FFF_line.svg) 000000,&nbsp;FFFFFF&nbsp;;  
