@@ -240,6 +240,16 @@ Symbols have been made for several overlapping sets.
 <nobr><span class="markerID">XAG</span>&nbsp;![XAG](../ChartMarkers/XAG.svg),</nobr> and 
 <nobr><span class="markerID">XPT</span>&nbsp;![XPT](../ChartMarkers/XPT.svg).</nobr>
 
+* Generics, for cross-currency or cross-issuer charts: 
+<nobr><span class="markerID">XXX_0_FFF</span>&nbsp;[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF)</nobr>&nbsp;&nbsp;<nobr><span class="markerID">XXX_6_FFF</span>&nbsp;[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF)</nobr>&nbsp; 
+<nobr><span class="markerID">XXX_0_FF0</span>&nbsp;[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0)</nobr>&nbsp;&nbsp;<nobr><span class="markerID">XXX_6_FF0</span>&nbsp;[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0)</nobr>&nbsp; 
+<nobr><span class="markerID">XXX_0_0FF</span>&nbsp;[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF)</nobr>&nbsp;&nbsp;<nobr><span class="markerID">XXX_6_0FF</span>&nbsp;[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF)</nobr>&nbsp; 
+<nobr><span class="markerID">XXX_0_F0F</span>&nbsp;[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F)</nobr>&nbsp;&nbsp;<nobr><span class="markerID">XXX_6_F0F</span>&nbsp;[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F)</nobr>&nbsp; 
+<nobr><span class="markerID">XXX_0_0F0</span>&nbsp;[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0)</nobr>&nbsp;&nbsp;<nobr><span class="markerID">XXX_6_0F0</span>&nbsp;[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0)</nobr>&nbsp; 
+<nobr><span class="markerID">XXX_0_F00</span>&nbsp;[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00)</nobr>&nbsp;&nbsp;<nobr><span class="markerID">XXX_6_F00</span>&nbsp;[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00)</nobr>&nbsp; 
+<nobr><span class="markerID">XXX_0_00F</span>&nbsp;[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F)</nobr>&nbsp;&nbsp;<nobr><span class="markerID">XXX_6_00F</span>&nbsp;[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F)</nobr>.
+
+
 So missing are many tiny currencies and countries, and the quasi-sovereign corporates.
 
 Also missing are the [cryptocurrencies](http://en.wikipedia.org/wiki/Cryptocurrency). 
