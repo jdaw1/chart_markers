@@ -186,9 +186,11 @@ are of length 1&#8239;+&#8239;3&#8239;=&#8239;4 characters; the longest
 <nobr>(<span class="markerID">\_AfExIm</span>&nbsp;![_AfExIm](../ChartMarkers/_AfExIm.svg))</nobr> 
 is of length 1&#8239;+&#8239;6&#8239;=&#8239;7 characters.
 
-* There are also fourteen &lsquo;generic&rsquo; markers, based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;. 
+* There are also fourteen &lsquo;generic&rsquo; markers, based on the [generic currency symbol](https://en.wikipedia.org/wiki/Currency_sign_(generic)), &curren;, such as 
+<nobr>&lsquo;<span class="markerID">XXX_6_FFF</span>&lsquo;&nbsp;![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)</nobr> and 
+<nobr>&lsquo;<span class="markerID">XXX_0_0F0</span>&lsquo;&nbsp;![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)</nobr>. 
 These have names of the form <span class="markerID">XXX\_?\_???</span>, where the central character is <span class="markerID">0</span> or <span class="markerID">6</span> for the outer black or grey, and the last three characters are each <span class="markerID">0</span> or <span class="markerID">F</span> for the inner colour. 
-The beginning <span class="markerID">XXX</span> is because in [ISO&nbsp;4217](https://en.wikipedia.org/wiki/ISO_4217) the code &ldquo;XXX&rdquo; is &ldquo;used to denote a "transaction" involving no currency&rdquo;.
+The beginning <span class="markerID">XXX</span> is because in [ISO&nbsp;4217](https://en.wikipedia.org/wiki/ISO_4217#X_currencies_(funds,_precious_metals,_supranationals,_other)) the code &ldquo;XXX&rdquo; is &ldquo;used to denote a "transaction" involving no currency&rdquo;.
 
 
 

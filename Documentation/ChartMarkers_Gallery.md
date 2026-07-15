@@ -193,20 +193,8 @@ Alas, GitHub&rsquo;s rendering of the markdown seems to shrink some of the wide 
 [![XAG](../ChartMarkers/XAG.svg)](#XAG) 
 [![XPT](../ChartMarkers/XPT.svg)](#XPT)&nbsp;&nbsp;&nbsp; 
 <span style="font-size: smaller;">[Generics](#generics)</span> 
-[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF) 
-[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0) 
-[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00) 
-[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F) 
-[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F) 
-[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF) 
-[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0) 
-[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF) 
-[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0) 
-[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00) 
-[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F) 
-[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F) 
-[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF) 
-[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0) 
+[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF)&nbsp;[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0)&nbsp;[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00)&nbsp;[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F)&nbsp;[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F)&nbsp;[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF)&nbsp;[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0)&nbsp; 
+[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF)&nbsp;[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0)&nbsp;[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00)&nbsp;[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F)&nbsp;[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F)&nbsp;[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF)&nbsp;[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0) 
 
 
 
@@ -223,7 +211,8 @@ Internal links:
 &bull;&#8239;[Americas](#americas); 
 &bull;&#8239;[Euro&nbsp;Zone](#euro_zone); 
 &bull;&#8239;[Development&nbsp;Banks](#development_banks); 
-&bull;&#8239;[Precious&nbsp;Metals](#precious_metals). Also grouped 
+&bull;&#8239;[Precious&nbsp;Metals](#precious_metals); 
+&bull;&#8239;[Generics](#generics). Also grouped 
 &loz;&#8239;[by outer shape](#by_shape); and 
 &loz;&#8239;[by colour](#by_colour).
 
@@ -597,20 +586,13 @@ Three:
 [![ZAR](../ChartMarkers/ZAR.svg)](#ZAR) 
 [![\_NDB](../ChartMarkers/\_NDB.svg)](#\_NDB)&nbsp;&nbsp; 
 Scarab: 
-[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF) 
-[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF) 
-[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0) 
-[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0) 
-[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF) 
-[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF) 
-[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F) 
-[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F) 
-[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0) 
-[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0) 
-[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00) 
-[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00) 
-[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F) 
-[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F)&nbsp;&nbsp; 
+[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF)&nbsp;[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF)&nbsp; 
+[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0)&nbsp;[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0)&nbsp; 
+[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF)&nbsp;[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF)&nbsp; 
+[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F)&nbsp;[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F)&nbsp; 
+[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0)&nbsp;[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0)&nbsp; 
+[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00)&nbsp;[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00)&nbsp; 
+[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F)&nbsp;[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F)&nbsp;&nbsp; 
 Other: 
 [![UYU](../ChartMarkers/UYU.svg)](#UYU) 
 [![XDR](../ChartMarkers/XDR.svg)](#XDR) 
@@ -628,20 +610,13 @@ Black and grey:
 [![AFN](../ChartMarkers/AFN.svg)](#AFN) 
 [![\_IBRD](../ChartMarkers/\_IBRD.svg)](#\_IBRD) 
 [![\_CoEDB](../ChartMarkers/\_CoEDB.svg)](#\_CoEDB) 
-[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF) 
-[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF) 
-[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0) 
-[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0) 
-[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF) 
-[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF) 
-[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F) 
-[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F) 
-[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0) 
-[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0) 
-[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00) 
-[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00) 
-[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F) 
-[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F)&nbsp;&nbsp; 
+[![XXX_0_FFF](../ChartMarkers/XXX_0_FFF.svg)](#XXX_0_FFF)&nbsp;[![XXX_6_FFF](../ChartMarkers/XXX_6_FFF.svg)](#XXX_6_FFF)&nbsp; 
+[![XXX_0_FF0](../ChartMarkers/XXX_0_FF0.svg)](#XXX_0_FF0)&nbsp;[![XXX_6_FF0](../ChartMarkers/XXX_6_FF0.svg)](#XXX_6_FF0)&nbsp; 
+[![XXX_0_0FF](../ChartMarkers/XXX_0_0FF.svg)](#XXX_0_0FF)&nbsp;[![XXX_6_0FF](../ChartMarkers/XXX_6_0FF.svg)](#XXX_6_0FF)&nbsp; 
+[![XXX_0_F0F](../ChartMarkers/XXX_0_F0F.svg)](#XXX_0_F0F)&nbsp;[![XXX_6_F0F](../ChartMarkers/XXX_6_F0F.svg)](#XXX_6_F0F)&nbsp; 
+[![XXX_0_0F0](../ChartMarkers/XXX_0_0F0.svg)](#XXX_0_0F0)&nbsp;[![XXX_6_0F0](../ChartMarkers/XXX_6_0F0.svg)](#XXX_6_0F0)&nbsp; 
+[![XXX_0_F00](../ChartMarkers/XXX_0_F00.svg)](#XXX_0_F00)&nbsp;[![XXX_6_F00](../ChartMarkers/XXX_6_F00.svg)](#XXX_6_F00)&nbsp; 
+[![XXX_0_00F](../ChartMarkers/XXX_0_00F.svg)](#XXX_0_00F)&nbsp;[![XXX_6_00F](../ChartMarkers/XXX_6_00F.svg)](#XXX_6_00F)&nbsp;&nbsp; 
 Metal: 
 [![SGD](../ChartMarkers/SGD.svg)](#SGD) 
 [![XAF](../ChartMarkers/XAF.svg)](#XAF) 
@@ -983,19 +958,12 @@ Precious Metals:
 [![XAG](../ChartLines/XAG_line.svg)](#XAG)
 
 Generics: 
-[![XXX_0_FFF](../ChartLines/XXX_0_FFF_line.svg)](#XXX_0_FFF) 
-[![XXX_6_FFF](../ChartLines/XXX_6_FFF_line.svg)](#XXX_6_FFF) 
-[![XXX_0_FF0](../ChartLines/XXX_0_FF0_line.svg)](#XXX_0_FF0) 
-[![XXX_6_FF0](../ChartLines/XXX_6_FF0_line.svg)](#XXX_6_FF0) 
-[![XXX_0_0FF](../ChartLines/XXX_0_0FF_line.svg)](#XXX_0_0FF) 
-[![XXX_6_0FF](../ChartLines/XXX_6_0FF_line.svg)](#XXX_6_0FF) 
-[![XXX_0_F0F](../ChartLines/XXX_0_F0F_line.svg)](#XXX_0_F0F) 
-[![XXX_6_F0F](../ChartLines/XXX_6_F0F_line.svg)](#XXX_6_F0F) 
-[![XXX_0_0F0](../ChartLines/XXX_0_0F0_line.svg)](#XXX_0_0F0) 
-[![XXX_6_0F0](../ChartLines/XXX_6_0F0_line.svg)](#XXX_6_0F0) 
-[![XXX_0_F00](../ChartLines/XXX_0_F00_line.svg)](#XXX_0_F00) 
-[![XXX_6_F00](../ChartLines/XXX_6_F00_line.svg)](#XXX_6_F00) 
-[![XXX_0_00F](../ChartLines/XXX_0_00F_line.svg)](#XXX_0_00F) 
-[![XXX_6_00F](../ChartLines/XXX_6_00F_line.svg)](#XXX_6_00F) 
+[![XXX_0_FFF](../ChartLines/XXX_0_FFF_line.svg)](#XXX_0_FFF)&nbsp;[![XXX_6_FFF](../ChartLines/XXX_6_FFF_line.svg)](#XXX_6_FFF)&nbsp; 
+[![XXX_0_FF0](../ChartLines/XXX_0_FF0_line.svg)](#XXX_0_FF0)&nbsp;[![XXX_6_FF0](../ChartLines/XXX_6_FF0_line.svg)](#XXX_6_FF0)&nbsp; 
+[![XXX_0_0FF](../ChartLines/XXX_0_0FF_line.svg)](#XXX_0_0FF)&nbsp;[![XXX_6_0FF](../ChartLines/XXX_6_0FF_line.svg)](#XXX_6_0FF)&nbsp; 
+[![XXX_0_F0F](../ChartLines/XXX_0_F0F_line.svg)](#XXX_0_F0F)&nbsp;[![XXX_6_F0F](../ChartLines/XXX_6_F0F_line.svg)](#XXX_6_F0F)&nbsp; 
+[![XXX_0_0F0](../ChartLines/XXX_0_0F0_line.svg)](#XXX_0_0F0)&nbsp;[![XXX_6_0F0](../ChartLines/XXX_6_0F0_line.svg)](#XXX_6_0F0)&nbsp; 
+[![XXX_0_F00](../ChartLines/XXX_0_F00_line.svg)](#XXX_0_F00)&nbsp;[![XXX_6_F00](../ChartLines/XXX_6_F00_line.svg)](#XXX_6_F00)&nbsp; 
+[![XXX_0_00F](../ChartLines/XXX_0_00F_line.svg)](#XXX_0_00F)&nbsp;[![XXX_6_00F](../ChartLines/XXX_6_00F_line.svg)](#XXX_6_00F)
 
 <a name="end"></a>
