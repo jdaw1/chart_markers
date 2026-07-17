@@ -63,7 +63,7 @@ E.g.,
 
 This is a set of standard markers for this purpose, all of which are shown in the [Gallery](ChartMarkers_Gallery.md).
 
-This set of markers is &copy;&nbsp;[J.&#8239;D.&#8239;A.&#8239;Wiseman](http://www.jdawiseman.com/author.html) 1998&ndash;2025, he having created and re-worked and improved and added to them since 1998. 
+This set of markers is &copy;&nbsp;[J.&#8239;D.&#8239;A.&#8239;Wiseman](http://www.jdawiseman.com/author.html) 1998&ndash;2026, he having created and re-worked and improved and added to them since 1998. 
 It is available from [GitHub](http://github.com/jdaw1/), under the [Boost Software Licence, Version&nbsp;1.0](https://opensource.org/license/bsl-1-0/). 
 (If your lawyers have a genuine need for a different [licence](https://github.com/jdaw1/chart_markers/blob/main/LICENSE)&mdash;not lawyers not bothering to read, actual genuine need&mdash;explain and it might be done.)
 
@@ -304,7 +304,44 @@ While this project has few users, its creator feels at liberty to make changes g
 </div>
 
 It has not been possible to make line patterns satisfying all the markers&rsquo; constraints. 
-Without the optical space afforded by shape, colour alone is insufficient to make many lines that are individually memorable and pairwise distinct (many flags have no dominant colours other than red, white, and blue). 
+Without the optical space afforded by shape, colour alone is insufficient to make many lines that are individually memorable and pairwise distinct. 
+Indeed, many flags have no dominant colours other than red, white, and blue, including&nbsp;[US](http://en.wikipedia.org/wiki/Flag_of_the_United_States), 
+[UK](http://en.wikipedia.org/wiki/Union_Jack), 
+[JP](http://en.wikipedia.org/wiki/Flag_of_Japan), 
+[CH](http://en.wikipedia.org/wiki/Flag_of_Switzerland), 
+[CA](http://en.wikipedia.org/wiki/Flag_of_Canada), 
+[AU](http://en.wikipedia.org/wiki/Flag_of_Australia), 
+[NZ](http://en.wikipedia.org/wiki/Flag_of_New_Zealand), 
+[NO](http://en.wikipedia.org/wiki/Flag_of_Norway), 
+[HK](http://en.wikipedia.org/wiki/Flag_of_Hong_Kong), 
+[TW](http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China), 
+[SG](http://en.wikipedia.org/wiki/Flag_of_Singapore), 
+[ID](http://en.wikipedia.org/wiki/Flag_of_Indonesia), 
+[TH](http://en.wikipedia.org/wiki/Flag_of_Thailand), 
+[NP](http://en.wikipedia.org/wiki/Flag_of_Nepal), 
+[KP](http://en.wikipedia.org/wiki/Flag_of_North_Korea), 
+[DK](http://en.wikipedia.org/wiki/Flag_of_Denmark)+[GL](http://en.wikipedia.org/wiki/Flag_of_Greenland), 
+[IS](http://en.wikipedia.org/wiki/Flag_of_Iceland), 
+[PL](http://en.wikipedia.org/wiki/Flag_of_Poland), 
+[CZ](http://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic), 
+[GE](http://en.wikipedia.org/wiki/Flag_of_Georgia_(country)), 
+[RU](http://en.wikipedia.org/wiki/Flag_of_Russia), 
+[TR](http://en.wikipedia.org/wiki/Flag_of_Turkey), 
+[BH](http://en.wikipedia.org/wiki/Flag_of_Bahrain), 
+[TN](http://en.wikipedia.org/wiki/Flag_of_Tunisia), 
+[IL](http://en.wikipedia.org/wiki/Flag_of_Israel), 
+[CL](http://en.wikipedia.org/wiki/Flag_of_Chile), 
+[PE](http://en.wikipedia.org/wiki/Flag_of_Peru), 
+[CR](http://en.wikipedia.org/wiki/Flag_of_Costa_Rica), 
+[PA](http://en.wikipedia.org/wiki/Flag_of_Panama), 
+[CU](https://en.wikipedia.org/wiki/Flag_of_Cuba), 
+[FR](http://en.wikipedia.org/wiki/Flag_of_France), 
+[NL](http://en.wikipedia.org/wiki/Flag_of_the_Netherlands), 
+[AT](http://en.wikipedia.org/wiki/Flag_of_Austria), 
+[GR](http://en.wikipedia.org/wiki/Flag_of_Greece), 
+[FI](http://en.wikipedia.org/wiki/Flag_of_Finland), 
+[SK](http://en.wikipedia.org/wiki/Flag_of_Slovakia), and 
+[LU](http://en.wikipedia.org/wiki/Flag_of_Luxembourg). 
 So the distinctness standard has been weakened: lines within a &lsquo;group&rsquo; are different.
 
 But lines from different groups might be similar or identical. 
